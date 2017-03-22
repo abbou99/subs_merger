@@ -1,0 +1,1454 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+Timer: 100,0000
+Video Aspect Ratio: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,16,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,0
+Style: Top,Arial,16,&H00F9FFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,0
+Style: Mid,Arial,16,&H0000FFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,10,10,10,0
+Style: Bot,Arial,16,&H00F9FFF9,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:42.20,0:00:45.98,Bot,,0000,0000,0000,,En los albores de la Gran Guerra,
+Dialogue: 0,0:00:42.20,0:00:45.98,Top,,0000,0000,0000,,En los albores de la Gran Guerra,
+Dialogue: 0,0:00:46.00,0:00:52.90,Bot,,0000,0000,0000,,el Imperio Ruso gobernaba\Nmás de 100 grupos étnicos.
+Dialogue: 0,0:00:46.00,0:00:52.90,Top,,0000,0000,0000,,el Imperio Ruso gobernaba\Nmás de 100 grupos étnicos.
+Dialogue: 0,0:00:53.00,0:01:01.00,Bot,,0000,0000,0000,,La Región Caucásica abastecía\Nel 50% del petróleo mundial.
+Dialogue: 0,0:00:53.00,0:01:01.00,Top,,0000,0000,0000,,La Región Caucásica abastecía\Nel 50% del petróleo mundial.
+Dialogue: 0,0:01:02.00,0:01:09.90,Bot,,0000,0000,0000,,La tierra donde el Este se\Nencontraba con el Oeste.
+Dialogue: 0,0:01:02.00,0:01:09.90,Top,,0000,0000,0000,,La tierra donde el Este se\Nencontraba con el Oeste.
+Dialogue: 0,0:02:10.93,0:02:13.34,Bot,,0000,0000,0000,,Pero lo hicimos ayer.
+Dialogue: 0,0:02:10.93,0:02:13.34,Top,,0000,0000,0000,,Pero lo hicimos ayer.
+Dialogue: 0,0:02:30.41,0:02:32.51,Bot,,0000,0000,0000,,Dijo que lo amaba.
+Dialogue: 0,0:02:30.41,0:02:32.51,Top,,0000,0000,0000,,Dijo que lo amaba.
+Dialogue: 0,0:02:36.25,0:02:40.16,Bot,,0000,0000,0000,,Estoy contenta de que aplaudiera,\Nporque si no hubiera sido...
+Dialogue: 0,0:02:36.25,0:02:40.16,Top,,0000,0000,0000,,Estoy contenta de que aplaudiera,\Nporque si no hubiera sido...
+Dialogue: 0,0:03:01.31,0:03:03.98,Bot,,0000,0000,0000,,Padre, quiero casarme.
+Dialogue: 0,0:03:01.31,0:03:03.98,Top,,0000,0000,0000,,Padre, quiero casarme.
+Dialogue: 0,0:03:06.88,0:03:09.38,Bot,,0000,0000,0000,,¿Quieres que te busque\Nuna hermosa esposa?
+Dialogue: 0,0:03:06.88,0:03:09.38,Top,,0000,0000,0000,,¿Quieres que te busque\Nuna hermosa esposa?
+Dialogue: 0,0:03:11.72,0:03:13.75,Bot,,0000,0000,0000,,Quiero casarme con Nino Kipiani.
+Dialogue: 0,0:03:11.72,0:03:13.75,Top,,0000,0000,0000,,Quiero casarme con Nino Kipiani.
+Dialogue: 0,0:03:15.59,0:03:18.43,Bot,,0000,0000,0000,,Sus caderas son muy delgadas\Ncomo todas las georgianas.
+Dialogue: 0,0:03:15.59,0:03:18.43,Top,,0000,0000,0000,,Sus caderas son muy delgadas\Ncomo todas las georgianas.
+Dialogue: 0,0:03:18.49,0:03:19.76,Bot,,0000,0000,0000,,¡Padre!
+Dialogue: 0,0:03:18.49,0:03:19.76,Top,,0000,0000,0000,,¡Padre!
+Dialogue: 0,0:03:20.96,0:03:23.81,Bot,,0000,0000,0000,,Las caderas de una mujer son más\Nimportantes que su educación, hijo mío.
+Dialogue: 0,0:03:20.96,0:03:23.81,Top,,0000,0000,0000,,Las caderas de una mujer son más\Nimportantes que su educación, hijo mío.
+Dialogue: 0,0:03:23.87,0:03:25.46,Bot,,0000,0000,0000,,Recuerda eso.
+Dialogue: 0,0:03:23.87,0:03:25.46,Top,,0000,0000,0000,,Recuerda eso.
+Dialogue: 0,0:03:33.74,0:03:36.35,Bot,,0000,0000,0000,,¿Cuándo quieres casarte?
+Dialogue: 0,0:03:33.74,0:03:36.35,Top,,0000,0000,0000,,¿Cuándo quieres casarte?
+Dialogue: 0,0:03:36.41,0:03:37.84,Bot,,0000,0000,0000,,Pronto.
+Dialogue: 0,0:03:36.41,0:03:37.84,Top,,0000,0000,0000,,Pronto.
+Dialogue: 0,0:03:42.48,0:03:45.04,Bot,,0000,0000,0000,,Me gustaría que mi\Nnieto naciera en mayo.
+Dialogue: 0,0:03:42.48,0:03:45.04,Top,,0000,0000,0000,,Me gustaría que mi\Nnieto naciera en mayo.
+Dialogue: 0,0:03:46.52,0:03:47.96,Bot,,0000,0000,0000,,Es un mes de suerte.
+Dialogue: 0,0:03:46.52,0:03:47.96,Top,,0000,0000,0000,,Es un mes de suerte.
+Dialogue: 0,0:03:50.69,0:03:52.33,Bot,,0000,0000,0000,,¿Por qué la elegiste a ella?
+Dialogue: 0,0:03:50.69,0:03:52.33,Top,,0000,0000,0000,,¿Por qué la elegiste a ella?
+Dialogue: 0,0:03:52.39,0:03:53.77,Bot,,0000,0000,0000,,La amo, padre.
+Dialogue: 0,0:03:52.39,0:03:53.77,Top,,0000,0000,0000,,La amo, padre.
+Dialogue: 0,0:03:53.83,0:03:56.98,Bot,,0000,0000,0000,,En términos generales, amar a\Nuna mujer no es una buena idea.
+Dialogue: 0,0:03:53.83,0:03:56.98,Top,,0000,0000,0000,,En términos generales, amar a\Nuna mujer no es una buena idea.
+Dialogue: 0,0:03:57.28,0:03:59.38,Bot,,0000,0000,0000,,Padre.
+Dialogue: 0,0:03:57.28,0:03:59.38,Top,,0000,0000,0000,,Padre.
+Dialogue: 0,0:04:08.68,0:04:12.76,Bot,,0000,0000,0000,,Ali Khan, felicidades\Npor la graduación.
+Dialogue: 0,0:04:08.68,0:04:12.76,Top,,0000,0000,0000,,Ali Khan, felicidades\Npor la graduación.
+Dialogue: 0,0:04:12.82,0:04:16.39,Bot,,0000,0000,0000,,Es una muy merecida\Ncelebración para ti.
+Dialogue: 0,0:04:12.82,0:04:16.39,Top,,0000,0000,0000,,Es una muy merecida\Ncelebración para ti.
+Dialogue: 0,0:04:16.45,0:04:18.39,Bot,,0000,0000,0000,,¿Vas a estudiar en Moscú?
+Dialogue: 0,0:04:16.45,0:04:18.39,Top,,0000,0000,0000,,¿Vas a estudiar en Moscú?
+Dialogue: 0,0:04:18.45,0:04:19.92,Bot,,0000,0000,0000,,Aún no lo he decidido.
+Dialogue: 0,0:04:18.45,0:04:19.92,Top,,0000,0000,0000,,Aún no lo he decidido.
+Dialogue: 0,0:04:23.99,0:04:25.55,Bot,,0000,0000,0000,,¿Puedo pedirte este baile?
+Dialogue: 0,0:04:23.99,0:04:25.55,Top,,0000,0000,0000,,¿Puedo pedirte este baile?
+Dialogue: 0,0:04:27.46,0:04:28.52,Bot,,0000,0000,0000,,¿Padre?
+Dialogue: 0,0:04:27.46,0:04:28.52,Top,,0000,0000,0000,,¿Padre?
+Dialogue: 0,0:04:29.63,0:04:31.10,Bot,,0000,0000,0000,,Claro.
+Dialogue: 0,0:04:29.63,0:04:31.10,Top,,0000,0000,0000,,Claro.
+Dialogue: 0,0:04:42.30,0:04:45.47,Bot,,0000,0000,0000,,Residencia de verano\Nde los Kipiani, Tbilisi.
+Dialogue: 0,0:04:42.30,0:04:45.47,Top,,0000,0000,0000,,Residencia de verano\Nde los Kipiani, Tbilisi.
+Dialogue: 0,0:04:46.48,0:04:48.89,Bot,,0000,0000,0000,,¿Cuánto por la tierra, señor?\N¿Cuán grande es tu dominio?
+Dialogue: 0,0:04:46.48,0:04:48.89,Top,,0000,0000,0000,,¿Cuánto por la tierra, señor?\N¿Cuán grande es tu dominio?
+Dialogue: 0,0:04:49.95,0:04:52.82,Bot,,0000,0000,0000,,Bueno, a veces soy\Nbastante tímida, pero...
+Dialogue: 0,0:04:49.95,0:04:52.82,Top,,0000,0000,0000,,Bueno, a veces soy\Nbastante tímida, pero...
+Dialogue: 0,0:04:54.16,0:04:56.06,Bot,,0000,0000,0000,,No, no.
+Dialogue: 0,0:04:54.16,0:04:56.06,Top,,0000,0000,0000,,No, no.
+Dialogue: 0,0:05:00.76,0:05:02.43,Bot,,0000,0000,0000,,¿Puedo?
+Dialogue: 0,0:05:00.76,0:05:02.43,Top,,0000,0000,0000,,¿Puedo?
+Dialogue: 0,0:05:04.93,0:05:07.13,Bot,,0000,0000,0000,,- Sí, por supuesto.\N- Gracias.
+Dialogue: 0,0:05:04.93,0:05:07.13,Top,,0000,0000,0000,,- Sí, por supuesto.\N- Gracias.
+Dialogue: 0,0:05:12.67,0:05:15.95,Bot,,0000,0000,0000,,- Me llamo Malik Nakhararyan.\N- Nino Kipiani.
+Dialogue: 0,0:05:12.67,0:05:15.95,Top,,0000,0000,0000,,- Me llamo Malik Nakhararyan.\N- Nino Kipiani.
+Dialogue: 0,0:05:16.01,0:05:19.02,Bot,,0000,0000,0000,,- Un placer.\N- Un gusto conocerlo.
+Dialogue: 0,0:05:16.01,0:05:19.02,Top,,0000,0000,0000,,- Un placer.\N- Un gusto conocerlo.
+Dialogue: 0,0:05:19.08,0:05:20.76,Bot,,0000,0000,0000,,Soy muy buen amigo de tu padre.
+Dialogue: 0,0:05:19.08,0:05:20.76,Top,,0000,0000,0000,,Soy muy buen amigo de tu padre.
+Dialogue: 0,0:05:20.82,0:05:22.79,Bot,,0000,0000,0000,,Tenemos negocios juntos.
+Dialogue: 0,0:05:20.82,0:05:22.79,Top,,0000,0000,0000,,Tenemos negocios juntos.
+Dialogue: 0,0:05:38.93,0:05:40.43,Bot,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:05:38.93,0:05:40.43,Top,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:05:49.18,0:05:51.09,Bot,,0000,0000,0000,,Pero tenemos que hacer eso.
+Dialogue: 0,0:05:49.18,0:05:51.09,Top,,0000,0000,0000,,Pero tenemos que hacer eso.
+Dialogue: 0,0:05:51.15,0:05:53.82,Bot,,0000,0000,0000,,Después de todo, es el suministro\Nel que tenemos que controlar.
+Dialogue: 0,0:05:51.15,0:05:53.82,Top,,0000,0000,0000,,Después de todo, es el suministro\Nel que tenemos que controlar.
+Dialogue: 0,0:05:53.88,0:05:56.43,Bot,,0000,0000,0000,,Bueno, al menos lo intentamos.
+Dialogue: 0,0:05:53.88,0:05:56.43,Top,,0000,0000,0000,,Bueno, al menos lo intentamos.
+Dialogue: 0,0:05:56.49,0:05:59.86,Bot,,0000,0000,0000,,Príncipe Ali Khan, es\Nmás que bienvenido.
+Dialogue: 0,0:05:56.49,0:05:59.86,Top,,0000,0000,0000,,Príncipe Ali Khan, es\Nmás que bienvenido.
+Dialogue: 0,0:05:59.92,0:06:02.80,Bot,,0000,0000,0000,,Lo siento mucho,\Nmi tren llegó tarde.
+Dialogue: 0,0:05:59.92,0:06:02.80,Top,,0000,0000,0000,,Lo siento mucho,\Nmi tren llegó tarde.
+Dialogue: 0,0:06:02.86,0:06:04.59,Bot,,0000,0000,0000,,En lo absoluto, acompáñenos.
+Dialogue: 0,0:06:02.86,0:06:04.59,Top,,0000,0000,0000,,En lo absoluto, acompáñenos.
+Dialogue: 0,0:06:06.63,0:06:07.99,Bot,,0000,0000,0000,,- Bienvenido.\N- Gracias.
+Dialogue: 0,0:06:06.63,0:06:07.99,Top,,0000,0000,0000,,- Bienvenido.\N- Gracias.
+Dialogue: 0,0:06:16.07,0:06:18.88,Bot,,0000,0000,0000,,Acabo de enterarme de su\Ntítulo de nobleza, Alteza.
+Dialogue: 0,0:06:16.07,0:06:18.88,Top,,0000,0000,0000,,Acabo de enterarme de su\Ntítulo de nobleza, Alteza.
+Dialogue: 0,0:06:18.94,0:06:20.18,Bot,,0000,0000,0000,,Mis sinceras felicitaciones.
+Dialogue: 0,0:06:18.94,0:06:20.18,Top,,0000,0000,0000,,Mis sinceras felicitaciones.
+Dialogue: 0,0:06:20.24,0:06:21.97,Bot,,0000,0000,0000,,Es muy amable, gracias.
+Dialogue: 0,0:06:20.24,0:06:21.97,Top,,0000,0000,0000,,Es muy amable, gracias.
+Dialogue: 0,0:06:23.51,0:06:25.12,Bot,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:06:23.51,0:06:25.12,Top,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:06:25.18,0:06:26.59,Bot,,0000,0000,0000,,Dios está en nuestro vino.
+Dialogue: 0,0:06:25.18,0:06:26.59,Top,,0000,0000,0000,,Dios está en nuestro vino.
+Dialogue: 0,0:06:26.65,0:06:28.17,Bot,,0000,0000,0000,,No le hará daño.
+Dialogue: 0,0:06:26.65,0:06:28.17,Top,,0000,0000,0000,,No le hará daño.
+Dialogue: 0,0:06:29.12,0:06:32.25,Bot,,0000,0000,0000,,Padre, Ali Khan no bebe alcohol.
+Dialogue: 0,0:06:29.12,0:06:32.25,Top,,0000,0000,0000,,Padre, Ali Khan no bebe alcohol.
+Dialogue: 0,0:06:32.49,0:06:34.65,Bot,,0000,0000,0000,,Va contra su religión.
+Dialogue: 0,0:06:32.49,0:06:34.65,Top,,0000,0000,0000,,Va contra su religión.
+Dialogue: 0,0:06:36.89,0:06:39.17,Bot,,0000,0000,0000,,En esta ocasión, haré\Nuna excepción para
+Dialogue: 0,0:06:36.89,0:06:39.17,Top,,0000,0000,0000,,En esta ocasión, haré\Nuna excepción para
+Dialogue: 0,0:06:39.17,0:06:41.47,Bot,,0000,0000,0000,,poder brindar con\Nel príncipe Kipiani.
+Dialogue: 0,0:06:39.17,0:06:41.47,Top,,0000,0000,0000,,poder brindar con\Nel príncipe Kipiani.
+Dialogue: 0,0:06:41.53,0:06:43.51,Bot,,0000,0000,0000,,Gracias, caballero.
+Dialogue: 0,0:06:41.53,0:06:43.51,Top,,0000,0000,0000,,Gracias, caballero.
+Dialogue: 0,0:06:43.57,0:06:44.87,Bot,,0000,0000,0000,,Por el príncipe Kipiani.
+Dialogue: 0,0:06:43.57,0:06:44.87,Top,,0000,0000,0000,,Por el príncipe Kipiani.
+Dialogue: 0,0:06:44.93,0:06:46.53,Bot,,0000,0000,0000,,Por el príncipe Kipiani.
+Dialogue: 0,0:06:44.93,0:06:46.53,Top,,0000,0000,0000,,Por el príncipe Kipiani.
+Dialogue: 0,0:06:51.91,0:06:54.82,Bot,,0000,0000,0000,,Debe venir a ver nuestros jardines\Ndespués de la cena, Ali Khan.
+Dialogue: 0,0:06:51.91,0:06:54.82,Top,,0000,0000,0000,,Debe venir a ver nuestros jardines\Ndespués de la cena, Ali Khan.
+Dialogue: 0,0:06:54.88,0:06:57.75,Bot,,0000,0000,0000,,Tenemos los más bellos\Nárboles antiguos.
+Dialogue: 0,0:06:54.88,0:06:57.75,Top,,0000,0000,0000,,Tenemos los más bellos\Nárboles antiguos.
+Dialogue: 0,0:06:57.81,0:07:02.06,Bot,,0000,0000,0000,,Gracias, Su Alteza, pero vine a\Nvisitarlo a usted no a lo árboles.
+Dialogue: 0,0:06:57.81,0:07:02.06,Top,,0000,0000,0000,,Gracias, Su Alteza, pero vine a\Nvisitarlo a usted no a lo árboles.
+Dialogue: 0,0:07:02.12,0:07:05.13,Bot,,0000,0000,0000,,¿Qué? ¿Tiene algo en\Ncontra de los árboles?
+Dialogue: 0,0:07:02.12,0:07:05.13,Top,,0000,0000,0000,,¿Qué? ¿Tiene algo en\Ncontra de los árboles?
+Dialogue: 0,0:07:05.19,0:07:07.86,Bot,,0000,0000,0000,,Ali Khan les tiene miedo,\Nseñor Nakhararyan.
+Dialogue: 0,0:07:05.19,0:07:07.86,Top,,0000,0000,0000,,Ali Khan les tiene miedo,\Nseñor Nakhararyan.
+Dialogue: 0,0:07:07.92,0:07:09.73,Bot,,0000,0000,0000,,No exactamente, pero lo\Nque los demás sienten
+Dialogue: 0,0:07:07.92,0:07:09.73,Top,,0000,0000,0000,,No exactamente, pero lo\Nque los demás sienten
+Dialogue: 0,0:07:09.73,0:07:11.53,Bot,,0000,0000,0000,,por los árboles, yo lo\Nsiento por el desierto.
+Dialogue: 0,0:07:09.73,0:07:11.53,Top,,0000,0000,0000,,por los árboles, yo lo\Nsiento por el desierto.
+Dialogue: 0,0:07:11.59,0:07:12.97,Bot,,0000,0000,0000,,¿El desierto?
+Dialogue: 0,0:07:11.59,0:07:12.97,Top,,0000,0000,0000,,¿El desierto?
+Dialogue: 0,0:07:13.03,0:07:15.17,Bot,,0000,0000,0000,,Es sólo matorrales y arena.
+Dialogue: 0,0:07:13.03,0:07:15.17,Top,,0000,0000,0000,,Es sólo matorrales y arena.
+Dialogue: 0,0:07:15.23,0:07:17.14,Bot,,0000,0000,0000,,Eso es lo que me gusta:
+Dialogue: 0,0:07:15.23,0:07:17.14,Top,,0000,0000,0000,,Eso es lo que me gusta:
+Dialogue: 0,0:07:17.20,0:07:19.11,Bot,,0000,0000,0000,,Su simplicidad.
+Dialogue: 0,0:07:17.20,0:07:19.11,Top,,0000,0000,0000,,Su simplicidad.
+Dialogue: 0,0:07:19.17,0:07:21.64,Bot,,0000,0000,0000,,Quizás esa es la diferencia\Nentre el Occidente y el Oriente.
+Dialogue: 0,0:07:19.17,0:07:21.64,Top,,0000,0000,0000,,Quizás esa es la diferencia\Nentre el Occidente y el Oriente.
+Dialogue: 0,0:07:21.70,0:07:25.65,Bot,,0000,0000,0000,,El desierto no pide\Nnada, no promete nada,
+Dialogue: 0,0:07:21.70,0:07:25.65,Top,,0000,0000,0000,,El desierto no pide\Nnada, no promete nada,
+Dialogue: 0,0:07:25.71,0:07:27.78,Bot,,0000,0000,0000,,pero los árboles están\Nllenos de preguntas.
+Dialogue: 0,0:07:25.71,0:07:27.78,Top,,0000,0000,0000,,pero los árboles están\Nllenos de preguntas.
+Dialogue: 0,0:07:27.84,0:07:29.18,Bot,,0000,0000,0000,,- Bueno...\N- Ali Khan.
+Dialogue: 0,0:07:27.84,0:07:29.18,Top,,0000,0000,0000,,- Bueno...\N- Ali Khan.
+Dialogue: 0,0:07:29.24,0:07:31.95,Bot,,0000,0000,0000,,Las águilas vienen\Nde las montañas
+Dialogue: 0,0:07:29.24,0:07:31.95,Top,,0000,0000,0000,,Las águilas vienen\Nde las montañas
+Dialogue: 0,0:07:32.01,0:07:34.59,Bot,,0000,0000,0000,,y los tigres del bosque,
+Dialogue: 0,0:07:32.01,0:07:34.59,Top,,0000,0000,0000,,y los tigres del bosque,
+Dialogue: 0,0:07:34.65,0:07:38.53,Bot,,0000,0000,0000,,pero nada... nada\Nviene del desierto.
+Dialogue: 0,0:07:34.65,0:07:38.53,Top,,0000,0000,0000,,pero nada... nada\Nviene del desierto.
+Dialogue: 0,0:07:38.59,0:07:41.20,Bot,,0000,0000,0000,,Los leones y los guerreros\Nvienen del desierto.
+Dialogue: 0,0:07:38.59,0:07:41.20,Top,,0000,0000,0000,,Los leones y los guerreros\Nvienen del desierto.
+Dialogue: 0,0:07:44.59,0:07:46.87,Bot,,0000,0000,0000,,Leones y guerreros.
+Dialogue: 0,0:07:44.59,0:07:46.87,Top,,0000,0000,0000,,Leones y guerreros.
+Dialogue: 0,0:07:46.93,0:07:50.67,Bot,,0000,0000,0000,,Y no olvidemos la fuente de\Nnuestra riqueza, el petróleo.
+Dialogue: 0,0:07:46.93,0:07:50.67,Top,,0000,0000,0000,,Y no olvidemos la fuente de\Nnuestra riqueza, el petróleo.
+Dialogue: 0,0:07:54.27,0:07:56.21,Bot,,0000,0000,0000,,Ali Khan.
+Dialogue: 0,0:07:54.27,0:07:56.21,Top,,0000,0000,0000,,Ali Khan.
+Dialogue: 0,0:08:29.61,0:08:31.21,Bot,,0000,0000,0000,,Me alegra mucho\Nque hayas venido.
+Dialogue: 0,0:08:29.61,0:08:31.21,Top,,0000,0000,0000,,Me alegra mucho\Nque hayas venido.
+Dialogue: 0,0:08:31.27,0:08:33.15,Bot,,0000,0000,0000,,Lamento llegar tarde.
+Dialogue: 0,0:08:31.27,0:08:33.15,Top,,0000,0000,0000,,Lamento llegar tarde.
+Dialogue: 0,0:08:33.21,0:08:35.07,Bot,,0000,0000,0000,,Me estaba preocupando.
+Dialogue: 0,0:08:33.21,0:08:35.07,Top,,0000,0000,0000,,Me estaba preocupando.
+Dialogue: 0,0:08:38.08,0:08:39.82,Bot,,0000,0000,0000,,¿Quién era ese hombre\Nsentado a tu lado?
+Dialogue: 0,0:08:38.08,0:08:39.82,Top,,0000,0000,0000,,¿Quién era ese hombre\Nsentado a tu lado?
+Dialogue: 0,0:08:39.88,0:08:41.92,Bot,,0000,0000,0000,,¿Malik?
+Dialogue: 0,0:08:39.88,0:08:41.92,Top,,0000,0000,0000,,¿Malik?
+Dialogue: 0,0:08:41.98,0:08:44.69,Bot,,0000,0000,0000,,Es de una familia\Narmenia muy importante.
+Dialogue: 0,0:08:41.98,0:08:44.69,Top,,0000,0000,0000,,Es de una familia\Narmenia muy importante.
+Dialogue: 0,0:08:47.22,0:08:49.30,Bot,,0000,0000,0000,,Tu padre es príncipe ahora.
+Dialogue: 0,0:08:47.22,0:08:49.30,Top,,0000,0000,0000,,Tu padre es príncipe ahora.
+Dialogue: 0,0:08:49.36,0:08:51.97,Bot,,0000,0000,0000,,¿Eso te hace una princesa?
+Dialogue: 0,0:08:49.36,0:08:51.97,Top,,0000,0000,0000,,¿Eso te hace una princesa?
+Dialogue: 0,0:08:52.03,0:08:53.62,Bot,,0000,0000,0000,,Sí.
+Dialogue: 0,0:08:52.03,0:08:53.62,Top,,0000,0000,0000,,Sí.
+Dialogue: 0,0:09:07.11,0:09:09.37,Bot,,0000,0000,0000,,Creo que te amo, Ali Khan.
+Dialogue: 0,0:09:07.11,0:09:09.37,Top,,0000,0000,0000,,Creo que te amo, Ali Khan.
+Dialogue: 0,0:09:10.38,0:09:12.37,Bot,,0000,0000,0000,,Aunque sea una princesa.
+Dialogue: 0,0:09:10.38,0:09:12.37,Top,,0000,0000,0000,,Aunque sea una princesa.
+Dialogue: 0,0:09:14.22,0:09:17.03,Bot,,0000,0000,0000,,Quizás no lo seas\Npor mucho tiempo.
+Dialogue: 0,0:09:14.22,0:09:17.03,Top,,0000,0000,0000,,Quizás no lo seas\Npor mucho tiempo.
+Dialogue: 0,0:09:17.09,0:09:18.68,Bot,,0000,0000,0000,,¿A qué te refieres?
+Dialogue: 0,0:09:17.09,0:09:18.68,Top,,0000,0000,0000,,¿A qué te refieres?
+Dialogue: 0,0:09:20.16,0:09:23.18,Bot,,0000,0000,0000,,¿No pierdes el título\Ncuando te casas?
+Dialogue: 0,0:09:20.16,0:09:23.18,Top,,0000,0000,0000,,¿No pierdes el título\Ncuando te casas?
+Dialogue: 0,0:09:28.96,0:09:31.46,Bot,,0000,0000,0000,,¿Se supone que eso\Nes una propuesta?
+Dialogue: 0,0:09:28.96,0:09:31.46,Top,,0000,0000,0000,,¿Se supone que eso\Nes una propuesta?
+Dialogue: 0,0:09:33.07,0:09:34.70,Bot,,0000,0000,0000,,Sí.
+Dialogue: 0,0:09:33.07,0:09:34.70,Top,,0000,0000,0000,,Sí.
+Dialogue: 0,0:09:37.17,0:09:39.31,Bot,,0000,0000,0000,,¿Siempre me vas\Na amar, Ali Khan?
+Dialogue: 0,0:09:37.17,0:09:39.31,Top,,0000,0000,0000,,¿Siempre me vas\Na amar, Ali Khan?
+Dialogue: 0,0:09:39.37,0:09:40.82,Bot,,0000,0000,0000,,Sí.
+Dialogue: 0,0:09:39.37,0:09:40.82,Top,,0000,0000,0000,,Sí.
+Dialogue: 0,0:09:40.88,0:09:45.38,Bot,,0000,0000,0000,,¿Te quedarás conmigo pase lo que\Npase y no tendrás otra esposa?
+Dialogue: 0,0:09:40.88,0:09:45.38,Top,,0000,0000,0000,,¿Te quedarás conmigo pase lo que\Npase y no tendrás otra esposa?
+Dialogue: 0,0:09:47.82,0:09:50.29,Bot,,0000,0000,0000,,Sí.
+Dialogue: 0,0:09:47.82,0:09:50.29,Top,,0000,0000,0000,,Sí.
+Dialogue: 0,0:09:50.35,0:09:53.68,Bot,,0000,0000,0000,,¿Tu padre va a exigirme que\Nme convierta en musulmana?
+Dialogue: 0,0:09:50.35,0:09:53.68,Top,,0000,0000,0000,,¿Tu padre va a exigirme que\Nme convierta en musulmana?
+Dialogue: 0,0:09:55.19,0:09:56.21,Bot,,0000,0000,0000,,No.
+Dialogue: 0,0:09:55.19,0:09:56.21,Top,,0000,0000,0000,,No.
+Dialogue: 0,0:09:59.13,0:10:01.77,Bot,,0000,0000,0000,,Siempre he querido ir a París,
+Dialogue: 0,0:09:59.13,0:10:01.77,Top,,0000,0000,0000,,Siempre he querido ir a París,
+Dialogue: 0,0:10:01.83,0:10:05.07,Bot,,0000,0000,0000,,más que nada en el mundo.
+Dialogue: 0,0:10:01.83,0:10:05.07,Top,,0000,0000,0000,,más que nada en el mundo.
+Dialogue: 0,0:10:05.13,0:10:08.41,Bot,,0000,0000,0000,,Prometo que te llevaré\Na París de luna de miel.
+Dialogue: 0,0:10:05.13,0:10:08.41,Top,,0000,0000,0000,,Prometo que te llevaré\Na París de luna de miel.
+Dialogue: 0,0:10:13.24,0:10:16.15,Bot,,0000,0000,0000,,Ahora...
+Dialogue: 0,0:10:13.24,0:10:16.15,Top,,0000,0000,0000,,Ahora...
+Dialogue: 0,0:10:16.21,0:10:17.91,Bot,,0000,0000,0000,,¿Te casarás conmigo?
+Dialogue: 0,0:10:16.21,0:10:17.91,Top,,0000,0000,0000,,¿Te casarás conmigo?
+Dialogue: 0,0:10:19.41,0:10:20.97,Bot,,0000,0000,0000,,Sí.
+Dialogue: 0,0:10:19.41,0:10:20.97,Top,,0000,0000,0000,,Sí.
+Dialogue: 0,0:10:22.78,0:10:24.13,Bot,,0000,0000,0000,,Lo haré, Ali.
+Dialogue: 0,0:10:22.78,0:10:24.13,Top,,0000,0000,0000,,Lo haré, Ali.
+Dialogue: 0,0:10:52.01,0:10:53.01,Bot,,0000,0000,0000,,Khan.
+Dialogue: 0,0:10:52.01,0:10:53.01,Top,,0000,0000,0000,,Khan.
+Dialogue: 0,0:10:54.38,0:10:56.32,Bot,,0000,0000,0000,,Khan.
+Dialogue: 0,0:10:54.38,0:10:56.32,Top,,0000,0000,0000,,Khan.
+Dialogue: 0,0:10:56.38,0:10:58.01,Bot,,0000,0000,0000,,Un telegrama para ti.
+Dialogue: 0,0:10:56.38,0:10:58.01,Top,,0000,0000,0000,,Un telegrama para ti.
+Dialogue: 0,0:10:59.11,0:11:04.51,Bot,,0000,0000,0000,,4 de agosto de 1914.
+Dialogue: 0,0:10:59.11,0:11:04.51,Top,,0000,0000,0000,,4 de agosto de 1914.
+Dialogue: 0,0:11:06.26,0:11:09.04,Bot,,0000,0000,0000,,Mi querido hijo, el zar\Nha visto oportuno
+Dialogue: 0,0:11:06.26,0:11:09.04,Top,,0000,0000,0000,,Mi querido hijo, el zar\Nha visto oportuno
+Dialogue: 0,0:11:09.10,0:11:12.27,Bot,,0000,0000,0000,,declarar la guerra a\Nvarios monarcas europeos.
+Dialogue: 0,0:11:09.10,0:11:12.27,Top,,0000,0000,0000,,declarar la guerra a\Nvarios monarcas europeos.
+Dialogue: 0,0:11:12.33,0:11:15.79,Bot,,0000,0000,0000,,Regresa de inmediato a Bakú y\Nprepárate para cumplir con tu deber.
+Dialogue: 0,0:11:12.33,0:11:15.79,Top,,0000,0000,0000,,Regresa de inmediato a Bakú y\Nprepárate para cumplir con tu deber.
+Dialogue: 0,0:11:19.14,0:11:22.92,Bot,,0000,0000,0000,,¿Contra quién es la guerra?
+Dialogue: 0,0:11:19.14,0:11:22.92,Top,,0000,0000,0000,,¿Contra quién es la guerra?
+Dialogue: 0,0:11:22.98,0:11:25.89,Bot,,0000,0000,0000,,Contra el Káiser alemán,\Nel Emperador de Austria,
+Dialogue: 0,0:11:22.98,0:11:25.89,Top,,0000,0000,0000,,Contra el Káiser alemán,\Nel Emperador de Austria,
+Dialogue: 0,0:11:25.95,0:11:30.06,Bot,,0000,0000,0000,,el rey de Baviera, el rey de\NPrusia, el rey de Hungría,
+Dialogue: 0,0:11:25.95,0:11:30.06,Top,,0000,0000,0000,,el rey de Baviera, el rey de\NPrusia, el rey de Hungría,
+Dialogue: 0,0:11:30.12,0:11:31.49,Bot,,0000,0000,0000,,el sultán del Imperio Otomano...
+Dialogue: 0,0:11:30.12,0:11:31.49,Top,,0000,0000,0000,,el sultán del Imperio Otomano...
+Dialogue: 0,0:11:31.55,0:11:33.36,Bot,,0000,0000,0000,,¿Y quiénes son los\Naliados de Rusia?
+Dialogue: 0,0:11:31.55,0:11:33.36,Top,,0000,0000,0000,,¿Y quiénes son los\Naliados de Rusia?
+Dialogue: 0,0:11:33.42,0:11:38.00,Bot,,0000,0000,0000,,El rey de Inglaterra, el rey de\NSerbia, el rey de los belgas,
+Dialogue: 0,0:11:33.42,0:11:38.00,Top,,0000,0000,0000,,El rey de Inglaterra, el rey de\NSerbia, el rey de los belgas,
+Dialogue: 0,0:11:38.06,0:11:42.97,Bot,,0000,0000,0000,,el presidente de la República\NFrancesa y el Emperador de Japón.
+Dialogue: 0,0:11:38.06,0:11:42.97,Top,,0000,0000,0000,,el presidente de la República\NFrancesa y el Emperador de Japón.
+Dialogue: 0,0:12:14.17,0:12:18.87,Bot,,0000,0000,0000,,Palacio Shirvanshir.
+Dialogue: 0,0:12:14.17,0:12:18.87,Top,,0000,0000,0000,,Palacio Shirvanshir.
+Dialogue: 0,0:12:46.53,0:12:48.87,Bot,,0000,0000,0000,,Sé que cuando nuestra\Nfamilia gobernó este país...
+Dialogue: 0,0:12:46.53,0:12:48.87,Top,,0000,0000,0000,,Sé que cuando nuestra\Nfamilia gobernó este país...
+Dialogue: 0,0:12:48.93,0:12:51.96,Bot,,0000,0000,0000,,¿Cuántos de ellos pelearon y\Nmurieron en el campo de batalla?
+Dialogue: 0,0:12:48.93,0:12:51.96,Top,,0000,0000,0000,,¿Cuántos de ellos pelearon y\Nmurieron en el campo de batalla?
+Dialogue: 0,0:12:53.34,0:12:57.25,Bot,,0000,0000,0000,,Tu padre, tu abuelo.
+Dialogue: 0,0:12:53.34,0:12:57.25,Top,,0000,0000,0000,,Tu padre, tu abuelo.
+Dialogue: 0,0:12:57.31,0:13:00.05,Bot,,0000,0000,0000,,Y yo me siento parte de eso.
+Dialogue: 0,0:12:57.31,0:13:00.05,Top,,0000,0000,0000,,Y yo me siento parte de eso.
+Dialogue: 0,0:13:00.11,0:13:04.09,Bot,,0000,0000,0000,,Pero, ¿por qué debería luchar por\Nun monarca cristiano contra otro?
+Dialogue: 0,0:13:00.11,0:13:04.09,Top,,0000,0000,0000,,Pero, ¿por qué debería luchar por\Nun monarca cristiano contra otro?
+Dialogue: 0,0:13:04.15,0:13:07.86,Bot,,0000,0000,0000,,¿Por qué debería luchar por la\Ncausa de Rusia, sea la que sea?
+Dialogue: 0,0:13:04.15,0:13:07.86,Top,,0000,0000,0000,,¿Por qué debería luchar por la\Ncausa de Rusia, sea la que sea?
+Dialogue: 0,0:13:07.92,0:13:10.33,Bot,,0000,0000,0000,,Nos hemos acostumbrado a\Nvernos como parte de Rusia.
+Dialogue: 0,0:13:07.92,0:13:10.33,Top,,0000,0000,0000,,Nos hemos acostumbrado a\Nvernos como parte de Rusia.
+Dialogue: 0,0:13:10.39,0:13:12.36,Bot,,0000,0000,0000,,No lo somos.
+Dialogue: 0,0:13:10.39,0:13:12.36,Top,,0000,0000,0000,,No lo somos.
+Dialogue: 0,0:13:12.42,0:13:16.10,Bot,,0000,0000,0000,,Nos invadieron hace cien años y nos\Nquitaron el poder de nuestra familia.
+Dialogue: 0,0:13:12.42,0:13:16.10,Top,,0000,0000,0000,,Nos invadieron hace cien años y nos\Nquitaron el poder de nuestra familia.
+Dialogue: 0,0:13:16.16,0:13:18.63,Bot,,0000,0000,0000,,Somos un país ocupado.
+Dialogue: 0,0:13:16.16,0:13:18.63,Top,,0000,0000,0000,,Somos un país ocupado.
+Dialogue: 0,0:13:21.16,0:13:25.13,Bot,,0000,0000,0000,,Créeme, padre, estaré orgulloso de\Nmorir en batalla cuando llegue la hora.
+Dialogue: 0,0:13:21.16,0:13:25.13,Top,,0000,0000,0000,,Créeme, padre, estaré orgulloso de\Nmorir en batalla cuando llegue la hora.
+Dialogue: 0,0:13:28.27,0:13:30.57,Bot,,0000,0000,0000,,Pero esta no es nuestra lucha.
+Dialogue: 0,0:13:28.27,0:13:30.57,Top,,0000,0000,0000,,Pero esta no es nuestra lucha.
+Dialogue: 0,0:13:31.91,0:13:33.58,Bot,,0000,0000,0000,,Estás loco.
+Dialogue: 0,0:13:31.91,0:13:33.58,Top,,0000,0000,0000,,Estás loco.
+Dialogue: 0,0:13:33.64,0:13:36.95,Bot,,0000,0000,0000,,¿Quieres decir que dejarás pasar\Nesta maravillosa oportunidad?
+Dialogue: 0,0:13:33.64,0:13:36.95,Top,,0000,0000,0000,,¿Quieres decir que dejarás pasar\Nesta maravillosa oportunidad?
+Dialogue: 0,0:13:37.01,0:13:40.92,Bot,,0000,0000,0000,,Ilyas, estamos aquí.
+Dialogue: 0,0:13:37.01,0:13:40.92,Top,,0000,0000,0000,,Ilyas, estamos aquí.
+Dialogue: 0,0:13:40.98,0:13:43.33,Bot,,0000,0000,0000,,Y la línea del frente\Nestará por aquí.
+Dialogue: 0,0:13:40.98,0:13:43.33,Top,,0000,0000,0000,,Y la línea del frente\Nestará por aquí.
+Dialogue: 0,0:13:43.39,0:13:46.29,Bot,,0000,0000,0000,,A 2 mil millas de\Ndistancia en Bélgica.
+Dialogue: 0,0:13:43.39,0:13:46.29,Top,,0000,0000,0000,,A 2 mil millas de\Ndistancia en Bélgica.
+Dialogue: 0,0:13:46.35,0:13:50.30,Bot,,0000,0000,0000,,Si llegamos a pelear, es muy\Nprobable que sea contra los turcos,
+Dialogue: 0,0:13:46.35,0:13:50.30,Top,,0000,0000,0000,,Si llegamos a pelear, es muy\Nprobable que sea contra los turcos,
+Dialogue: 0,0:13:50.36,0:13:52.53,Bot,,0000,0000,0000,,nuestros primos. ¿Por\Nqué querría hacer eso?
+Dialogue: 0,0:13:50.36,0:13:52.53,Top,,0000,0000,0000,,nuestros primos. ¿Por\Nqué querría hacer eso?
+Dialogue: 0,0:13:52.59,0:13:54.24,Bot,,0000,0000,0000,,Por la gloria.
+Dialogue: 0,0:13:52.59,0:13:54.24,Top,,0000,0000,0000,,Por la gloria.
+Dialogue: 0,0:13:54.30,0:13:56.07,Bot,,0000,0000,0000,,Escucha, ¿te importa\Nquién gane esta guerra?
+Dialogue: 0,0:13:54.30,0:13:56.07,Top,,0000,0000,0000,,Escucha, ¿te importa\Nquién gane esta guerra?
+Dialogue: 0,0:13:56.13,0:13:57.69,Bot,,0000,0000,0000,,No, en lo más mínimo.
+Dialogue: 0,0:13:56.13,0:13:57.69,Top,,0000,0000,0000,,No, en lo más mínimo.
+Dialogue: 0,0:13:57.93,0:14:00.48,Bot,,0000,0000,0000,,Sólo quieres pelear.
+Dialogue: 0,0:13:57.93,0:14:00.48,Top,,0000,0000,0000,,Sólo quieres pelear.
+Dialogue: 0,0:14:00.54,0:14:02.18,Bot,,0000,0000,0000,,Sí, quiero ser un soldado.
+Dialogue: 0,0:14:00.54,0:14:02.18,Top,,0000,0000,0000,,Sí, quiero ser un soldado.
+Dialogue: 0,0:14:02.24,0:14:04.38,Bot,,0000,0000,0000,,Siempre lo he querido.
+Dialogue: 0,0:14:02.24,0:14:04.38,Top,,0000,0000,0000,,Siempre lo he querido.
+Dialogue: 0,0:14:04.44,0:14:06.38,Bot,,0000,0000,0000,,Lo siento, no entiendo.
+Dialogue: 0,0:14:04.44,0:14:06.38,Top,,0000,0000,0000,,Lo siento, no entiendo.
+Dialogue: 0,0:14:06.44,0:14:09.82,Bot,,0000,0000,0000,,Te pondrás celoso cuando me veas\Ncon mi uniforme de oficial, Ali.
+Dialogue: 0,0:14:06.44,0:14:09.82,Top,,0000,0000,0000,,Te pondrás celoso cuando me veas\Ncon mi uniforme de oficial, Ali.
+Dialogue: 0,0:14:11.15,0:14:13.92,Bot,,0000,0000,0000,,Estoy seguro de que ambos serán\Nvalientes oficiales, ¿pero, por qué?
+Dialogue: 0,0:14:11.15,0:14:13.92,Top,,0000,0000,0000,,Estoy seguro de que ambos serán\Nvalientes oficiales, ¿pero, por qué?
+Dialogue: 0,0:14:13.98,0:14:15.59,Bot,,0000,0000,0000,,Será una aventura.
+Dialogue: 0,0:14:13.98,0:14:15.59,Top,,0000,0000,0000,,Será una aventura.
+Dialogue: 0,0:14:15.65,0:14:17.44,Bot,,0000,0000,0000,,Eso es lo importante.
+Dialogue: 0,0:14:15.65,0:14:17.44,Top,,0000,0000,0000,,Eso es lo importante.
+Dialogue: 0,0:14:18.69,0:14:20.35,Bot,,0000,0000,0000,,¿Qué piensas, Seyid?
+Dialogue: 0,0:14:18.69,0:14:20.35,Top,,0000,0000,0000,,¿Qué piensas, Seyid?
+Dialogue: 0,0:14:23.66,0:14:25.49,Bot,,0000,0000,0000,,Estoy contigo.
+Dialogue: 0,0:14:23.66,0:14:25.49,Top,,0000,0000,0000,,Estoy contigo.
+Dialogue: 0,0:14:26.96,0:14:29.83,Bot,,0000,0000,0000,,No creo que esta guerra\Nsea algo que nos incumba.
+Dialogue: 0,0:14:26.96,0:14:29.83,Top,,0000,0000,0000,,No creo que esta guerra\Nsea algo que nos incumba.
+Dialogue: 0,0:14:35.37,0:14:37.65,Bot,,0000,0000,0000,,Al menos no tendré\Nque volver a la escuela.
+Dialogue: 0,0:14:35.37,0:14:37.65,Top,,0000,0000,0000,,Al menos no tendré\Nque volver a la escuela.
+Dialogue: 0,0:14:42.11,0:14:43.34,Bot,,0000,0000,0000,,Hermoso.
+Dialogue: 0,0:14:42.11,0:14:43.34,Top,,0000,0000,0000,,Hermoso.
+Dialogue: 0,0:14:44.65,0:14:47.46,Bot,,0000,0000,0000,,¿Cuándo irás a verlo?
+Dialogue: 0,0:14:44.65,0:14:47.46,Top,,0000,0000,0000,,¿Cuándo irás a verlo?
+Dialogue: 0,0:14:47.52,0:14:49.46,Bot,,0000,0000,0000,,¿A mi padre?
+Dialogue: 0,0:14:47.52,0:14:49.46,Top,,0000,0000,0000,,¿A mi padre?
+Dialogue: 0,0:14:49.52,0:14:50.98,Bot,,0000,0000,0000,,Pronto.
+Dialogue: 0,0:14:49.52,0:14:50.98,Top,,0000,0000,0000,,Pronto.
+Dialogue: 0,0:15:06.00,0:15:08.08,Bot,,0000,0000,0000,,Su Excelencia puede\Nasegurarle al zar que
+Dialogue: 0,0:15:06.00,0:15:08.08,Top,,0000,0000,0000,,Su Excelencia puede\Nasegurarle al zar que
+Dialogue: 0,0:15:08.14,0:15:11.77,Bot,,0000,0000,0000,,no habrá interrupción en el suministro\Nde petróleo de los próximos meses.
+Dialogue: 0,0:15:08.14,0:15:11.77,Top,,0000,0000,0000,,no habrá interrupción en el suministro\Nde petróleo de los próximos meses.
+Dialogue: 0,0:15:12.01,0:15:13.98,Bot,,0000,0000,0000,,Incluso hay margen\Npara un incremento.
+Dialogue: 0,0:15:12.01,0:15:13.98,Top,,0000,0000,0000,,Incluso hay margen\Npara un incremento.
+Dialogue: 0,0:15:17.15,0:15:19.45,Bot,,0000,0000,0000,,Príncipe Ali Khan.
+Dialogue: 0,0:15:17.15,0:15:19.45,Top,,0000,0000,0000,,Príncipe Ali Khan.
+Dialogue: 0,0:15:19.51,0:15:22.22,Bot,,0000,0000,0000,,Me temo que hay que admitir\Nque lamentablemente,
+Dialogue: 0,0:15:19.51,0:15:22.22,Top,,0000,0000,0000,,Me temo que hay que admitir\Nque lamentablemente,
+Dialogue: 0,0:15:22.28,0:15:24.65,Bot,,0000,0000,0000,,la guerra es muy buena\Npara los negocios.
+Dialogue: 0,0:15:22.28,0:15:24.65,Top,,0000,0000,0000,,la guerra es muy buena\Npara los negocios.
+Dialogue: 0,0:15:31.69,0:15:33.94,Bot,,0000,0000,0000,,Como sabe, nuestra familia
+Dialogue: 0,0:15:31.69,0:15:33.94,Top,,0000,0000,0000,,Como sabe, nuestra familia
+Dialogue: 0,0:15:33.94,0:15:36.04,Bot,,0000,0000,0000,,gobernó en esta región\Npor casi 700 años.
+Dialogue: 0,0:15:33.94,0:15:36.04,Top,,0000,0000,0000,,gobernó en esta región\Npor casi 700 años.
+Dialogue: 0,0:15:36.10,0:15:37.61,Bot,,0000,0000,0000,,Sí.
+Dialogue: 0,0:15:36.10,0:15:37.61,Top,,0000,0000,0000,,Sí.
+Dialogue: 0,0:15:37.67,0:15:39.64,Bot,,0000,0000,0000,,Hemos conservado\Nsuficientes propiedades en
+Dialogue: 0,0:15:37.67,0:15:39.64,Top,,0000,0000,0000,,Hemos conservado\Nsuficientes propiedades en
+Dialogue: 0,0:15:39.64,0:15:42.14,Bot,,0000,0000,0000,,la ciudad para estar\Nfinancieramente seguros.
+Dialogue: 0,0:15:39.64,0:15:42.14,Top,,0000,0000,0000,,la ciudad para estar\Nfinancieramente seguros.
+Dialogue: 0,0:15:42.20,0:15:43.69,Bot,,0000,0000,0000,,No lo dudo.
+Dialogue: 0,0:15:42.20,0:15:43.69,Top,,0000,0000,0000,,No lo dudo.
+Dialogue: 0,0:15:44.71,0:15:45.98,Bot,,0000,0000,0000,,Entonces...
+Dialogue: 0,0:15:44.71,0:15:45.98,Top,,0000,0000,0000,,Entonces...
+Dialogue: 0,0:15:46.04,0:15:47.63,Bot,,0000,0000,0000,,¿Sí?
+Dialogue: 0,0:15:46.04,0:15:47.63,Top,,0000,0000,0000,,¿Sí?
+Dialogue: 0,0:15:48.18,0:15:53.24,Bot,,0000,0000,0000,,Me honra pedirle permiso a Su Alteza\Npara casarme con la princesa Nino.
+Dialogue: 0,0:15:48.18,0:15:53.24,Top,,0000,0000,0000,,Me honra pedirle permiso a Su Alteza\Npara casarme con la princesa Nino.
+Dialogue: 0,0:16:06.39,0:16:09.30,Bot,,0000,0000,0000,,Eso es genuinamente\Nun honor, Ali Khan.
+Dialogue: 0,0:16:06.39,0:16:09.30,Top,,0000,0000,0000,,Eso es genuinamente\Nun honor, Ali Khan.
+Dialogue: 0,0:16:09.36,0:16:12.73,Bot,,0000,0000,0000,,No sólo para Nino sino\Npara toda nuestra familia.
+Dialogue: 0,0:16:09.36,0:16:12.73,Top,,0000,0000,0000,,No sólo para Nino sino\Npara toda nuestra familia.
+Dialogue: 0,0:16:14.60,0:16:17.25,Bot,,0000,0000,0000,,Sin embargo...
+Dialogue: 0,0:16:14.60,0:16:17.25,Top,,0000,0000,0000,,Sin embargo...
+Dialogue: 0,0:16:17.31,0:16:20.35,Bot,,0000,0000,0000,,No puedo evitar sentir que ella\Ntodavía es muy joven para casarse,
+Dialogue: 0,0:16:17.31,0:16:20.35,Top,,0000,0000,0000,,No puedo evitar sentir que ella\Ntodavía es muy joven para casarse,
+Dialogue: 0,0:16:20.41,0:16:25.45,Bot,,0000,0000,0000,,por no hablar de las diferencias\Nculturales y de religión.
+Dialogue: 0,0:16:20.41,0:16:25.45,Top,,0000,0000,0000,,por no hablar de las diferencias\Nculturales y de religión.
+Dialogue: 0,0:16:28.21,0:16:30.52,Bot,,0000,0000,0000,,Estoy seguro que también\Neso le preocupa a tu padre.
+Dialogue: 0,0:16:28.21,0:16:30.52,Top,,0000,0000,0000,,Estoy seguro que también\Neso le preocupa a tu padre.
+Dialogue: 0,0:16:31.82,0:16:33.43,Bot,,0000,0000,0000,,No.
+Dialogue: 0,0:16:31.82,0:16:33.43,Top,,0000,0000,0000,,No.
+Dialogue: 0,0:16:33.49,0:16:35.63,Bot,,0000,0000,0000,,Ya lo hablé con él.
+Dialogue: 0,0:16:33.49,0:16:35.63,Top,,0000,0000,0000,,Ya lo hablé con él.
+Dialogue: 0,0:16:35.69,0:16:38.77,Bot,,0000,0000,0000,,Bueno, de todos modos, lo principal\Nes que el mundo se ha embarcado
+Dialogue: 0,0:16:35.69,0:16:38.77,Top,,0000,0000,0000,,Bueno, de todos modos, lo principal\Nes que el mundo se ha embarcado
+Dialogue: 0,0:16:38.83,0:16:42.37,Bot,,0000,0000,0000,,en una guerra terrible\Ne impredecible.
+Dialogue: 0,0:16:38.83,0:16:42.37,Top,,0000,0000,0000,,en una guerra terrible\Ne impredecible.
+Dialogue: 0,0:16:42.43,0:16:45.16,Bot,,0000,0000,0000,,Creo que deberíamos\Nesperar a ver el resultado.
+Dialogue: 0,0:16:42.43,0:16:45.16,Top,,0000,0000,0000,,Creo que deberíamos\Nesperar a ver el resultado.
+Dialogue: 0,0:16:46.27,0:16:47.98,Bot,,0000,0000,0000,,¿Estás de acuerdo?
+Dialogue: 0,0:16:46.27,0:16:47.98,Top,,0000,0000,0000,,¿Estás de acuerdo?
+Dialogue: 0,0:17:06.59,0:17:07.98,Bot,,0000,0000,0000,,Ali Khan.
+Dialogue: 0,0:17:06.59,0:17:07.98,Top,,0000,0000,0000,,Ali Khan.
+Dialogue: 0,0:17:10.89,0:17:12.50,Bot,,0000,0000,0000,,¿Estás bien?
+Dialogue: 0,0:17:10.89,0:17:12.50,Top,,0000,0000,0000,,¿Estás bien?
+Dialogue: 0,0:17:12.56,0:17:14.22,Bot,,0000,0000,0000,,¿Qué sucede?
+Dialogue: 0,0:17:12.56,0:17:14.22,Top,,0000,0000,0000,,¿Qué sucede?
+Dialogue: 0,0:17:15.70,0:17:17.51,Bot,,0000,0000,0000,,¿Cómo se atreve?
+Dialogue: 0,0:17:15.70,0:17:17.51,Top,,0000,0000,0000,,¿Cómo se atreve?
+Dialogue: 0,0:17:17.57,0:17:21.63,Bot,,0000,0000,0000,,Hace cien años, un Kipiani habría\Nbesado mis pies ante tal oportunidad.
+Dialogue: 0,0:17:17.57,0:17:21.63,Top,,0000,0000,0000,,Hace cien años, un Kipiani habría\Nbesado mis pies ante tal oportunidad.
+Dialogue: 0,0:17:22.90,0:17:25.43,Bot,,0000,0000,0000,,Mi padre se reirá de mí.
+Dialogue: 0,0:17:22.90,0:17:25.43,Top,,0000,0000,0000,,Mi padre se reirá de mí.
+Dialogue: 0,0:17:26.71,0:17:29.42,Bot,,0000,0000,0000,,- Realmente no dijo que no.\N- ¿El fin de la guerra?
+Dialogue: 0,0:17:26.71,0:17:29.42,Top,,0000,0000,0000,,- Realmente no dijo que no.\N- ¿El fin de la guerra?
+Dialogue: 0,0:17:29.48,0:17:32.79,Bot,,0000,0000,0000,,Esta guerra puede durar 20 años.
+Dialogue: 0,0:17:29.48,0:17:32.79,Top,,0000,0000,0000,,Esta guerra puede durar 20 años.
+Dialogue: 0,0:17:32.85,0:17:35.41,Bot,,0000,0000,0000,,- ¿Qué harás?\N- Huiremos juntos.
+Dialogue: 0,0:17:32.85,0:17:35.41,Top,,0000,0000,0000,,- ¿Qué harás?\N- Huiremos juntos.
+Dialogue: 0,0:17:37.25,0:17:39.69,Bot,,0000,0000,0000,,¿La vas a secuestrar?
+Dialogue: 0,0:17:37.25,0:17:39.69,Top,,0000,0000,0000,,¿La vas a secuestrar?
+Dialogue: 0,0:17:43.66,0:17:47.77,Bot,,0000,0000,0000,,Bueno, no me opongo a la idea.
+Dialogue: 0,0:17:43.66,0:17:47.77,Top,,0000,0000,0000,,Bueno, no me opongo a la idea.
+Dialogue: 0,0:17:47.83,0:17:51.17,Bot,,0000,0000,0000,,Es la forma tradicional de\Nresolver problemas de este tipo,
+Dialogue: 0,0:17:47.83,0:17:51.17,Top,,0000,0000,0000,,Es la forma tradicional de\Nresolver problemas de este tipo,
+Dialogue: 0,0:17:51.23,0:17:53.50,Bot,,0000,0000,0000,,pero debería ser el\Núltimo recurso, ¿no?
+Dialogue: 0,0:17:51.23,0:17:53.50,Top,,0000,0000,0000,,pero debería ser el\Núltimo recurso, ¿no?
+Dialogue: 0,0:17:55.50,0:18:00.25,Bot,,0000,0000,0000,,Creo... que alguien debería\Nexplicarle al príncipe Kipiani,
+Dialogue: 0,0:17:55.50,0:18:00.25,Top,,0000,0000,0000,,Creo... que alguien debería\Nexplicarle al príncipe Kipiani,
+Dialogue: 0,0:18:00.31,0:18:03.18,Bot,,0000,0000,0000,,el maravilloso\Nmatrimonio que sería
+Dialogue: 0,0:18:00.31,0:18:03.18,Top,,0000,0000,0000,,el maravilloso\Nmatrimonio que sería
+Dialogue: 0,0:18:03.24,0:18:05.71,Bot,,0000,0000,0000,,por todo tipo de razones\Npolíticas y culturales.
+Dialogue: 0,0:18:03.24,0:18:05.71,Top,,0000,0000,0000,,por todo tipo de razones\Npolíticas y culturales.
+Dialogue: 0,0:18:07.65,0:18:09.62,Bot,,0000,0000,0000,,¿Quién va a hacer eso?
+Dialogue: 0,0:18:07.65,0:18:09.62,Top,,0000,0000,0000,,¿Quién va a hacer eso?
+Dialogue: 0,0:18:12.19,0:18:14.78,Bot,,0000,0000,0000,,Yo puedo, déjamelo a mí.
+Dialogue: 0,0:18:12.19,0:18:14.78,Top,,0000,0000,0000,,Yo puedo, déjamelo a mí.
+Dialogue: 0,0:18:19.56,0:18:20.87,Bot,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:18:19.56,0:18:20.87,Top,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:18:20.93,0:18:24.24,Bot,,0000,0000,0000,,¿Por qué dijiste que\Nal finalizar la guerra?
+Dialogue: 0,0:18:20.93,0:18:24.24,Top,,0000,0000,0000,,¿Por qué dijiste que\Nal finalizar la guerra?
+Dialogue: 0,0:18:24.30,0:18:28.84,Bot,,0000,0000,0000,,No creo que haya\Nnecesidad de apresurarse.
+Dialogue: 0,0:18:24.30,0:18:28.84,Top,,0000,0000,0000,,No creo que haya\Nnecesidad de apresurarse.
+Dialogue: 0,0:18:28.90,0:18:31.45,Bot,,0000,0000,0000,,Todo el mundo dice que\Nhabrá terminado en Navidad.
+Dialogue: 0,0:18:28.90,0:18:31.45,Top,,0000,0000,0000,,Todo el mundo dice que\Nhabrá terminado en Navidad.
+Dialogue: 0,0:18:31.51,0:18:32.75,Bot,,0000,0000,0000,,¿Pero cómo lo sabes?
+Dialogue: 0,0:18:31.51,0:18:32.75,Top,,0000,0000,0000,,¿Pero cómo lo sabes?
+Dialogue: 0,0:18:32.81,0:18:35.18,Bot,,0000,0000,0000,,Nadie sabe cuánto durará.
+Dialogue: 0,0:18:32.81,0:18:35.18,Top,,0000,0000,0000,,Nadie sabe cuánto durará.
+Dialogue: 0,0:18:35.24,0:18:37.97,Bot,,0000,0000,0000,,Pensé que sería bueno para ti\Ntener tiempo para pensar.
+Dialogue: 0,0:18:35.24,0:18:37.97,Top,,0000,0000,0000,,Pensé que sería bueno para ti\Ntener tiempo para pensar.
+Dialogue: 0,0:18:38.21,0:18:39.89,Bot,,0000,0000,0000,,¿Por qué necesitaría\Ntiempo para pensar?
+Dialogue: 0,0:18:38.21,0:18:39.89,Top,,0000,0000,0000,,¿Por qué necesitaría\Ntiempo para pensar?
+Dialogue: 0,0:18:39.95,0:18:42.39,Bot,,0000,0000,0000,,¿Prefieres unirte a\Nsu harén sin pensarlo?
+Dialogue: 0,0:18:39.95,0:18:42.39,Top,,0000,0000,0000,,¿Prefieres unirte a\Nsu harén sin pensarlo?
+Dialogue: 0,0:18:42.45,0:18:45.33,Bot,,0000,0000,0000,,Pero él me dijo que no\Ntomaría ninguna otra esposa.
+Dialogue: 0,0:18:42.45,0:18:45.33,Top,,0000,0000,0000,,Pero él me dijo que no\Ntomaría ninguna otra esposa.
+Dialogue: 0,0:18:45.39,0:18:47.26,Bot,,0000,0000,0000,,Nino, no seas tan ingenua.
+Dialogue: 0,0:18:45.39,0:18:47.26,Top,,0000,0000,0000,,Nino, no seas tan ingenua.
+Dialogue: 0,0:18:47.32,0:18:50.43,Bot,,0000,0000,0000,,Una vez que\Nobtienen lo que quieren,
+Dialogue: 0,0:18:47.32,0:18:50.43,Top,,0000,0000,0000,,Una vez que\Nobtienen lo que quieren,
+Dialogue: 0,0:18:50.49,0:18:53.72,Bot,,0000,0000,0000,,los hombres no siempre se\Nacuerdan de sus promesas.
+Dialogue: 0,0:18:50.49,0:18:53.72,Top,,0000,0000,0000,,los hombres no siempre se\Nacuerdan de sus promesas.
+Dialogue: 0,0:19:07.34,0:19:10.39,Bot,,0000,0000,0000,,Un georgiano, un\Nazerbaiyano y un armenio.
+Dialogue: 0,0:19:07.34,0:19:10.39,Top,,0000,0000,0000,,Un georgiano, un\Nazerbaiyano y un armenio.
+Dialogue: 0,0:19:10.45,0:19:12.55,Bot,,0000,0000,0000,,Tres grandes pueblos caucásicos.
+Dialogue: 0,0:19:10.45,0:19:12.55,Top,,0000,0000,0000,,Tres grandes pueblos caucásicos.
+Dialogue: 0,0:19:20.56,0:19:22.83,Bot,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:19:20.56,0:19:22.83,Top,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:19:22.89,0:19:24.90,Bot,,0000,0000,0000,,Mi esposa te dirá\Nuno a cada minuto.
+Dialogue: 0,0:19:22.89,0:19:24.90,Top,,0000,0000,0000,,Mi esposa te dirá\Nuno a cada minuto.
+Dialogue: 0,0:19:24.96,0:19:27.84,Bot,,0000,0000,0000,,- Gregor, eres malo.\N- Díselo, recítale uno ahora.
+Dialogue: 0,0:19:24.96,0:19:27.84,Top,,0000,0000,0000,,- Gregor, eres malo.\N- Díselo, recítale uno ahora.
+Dialogue: 0,0:19:30.93,0:19:33.84,Bot,,0000,0000,0000,,Recítale uno de tus poemas.
+Dialogue: 0,0:19:30.93,0:19:33.84,Top,,0000,0000,0000,,Recítale uno de tus poemas.
+Dialogue: 0,0:19:33.90,0:19:35.98,Bot,,0000,0000,0000,,Tenemos el mismo rostro.
+Dialogue: 0,0:19:33.90,0:19:35.98,Top,,0000,0000,0000,,Tenemos el mismo rostro.
+Dialogue: 0,0:19:36.04,0:19:37.81,Bot,,0000,0000,0000,,¿En serio? No lo creo.
+Dialogue: 0,0:19:36.04,0:19:37.81,Top,,0000,0000,0000,,¿En serio? No lo creo.
+Dialogue: 0,0:19:48.02,0:19:49.99,Bot,,0000,0000,0000,,¿Qué está pasando en la guerra?
+Dialogue: 0,0:19:48.02,0:19:49.99,Top,,0000,0000,0000,,¿Qué está pasando en la guerra?
+Dialogue: 0,0:19:50.05,0:19:51.89,Bot,,0000,0000,0000,,Los alemanes han\Nocupado Polonia.
+Dialogue: 0,0:19:50.05,0:19:51.89,Top,,0000,0000,0000,,Los alemanes han\Nocupado Polonia.
+Dialogue: 0,0:19:51.95,0:19:55.36,Bot,,0000,0000,0000,,Los rusos avanzan en Bagdad.
+Dialogue: 0,0:19:51.95,0:19:55.36,Top,,0000,0000,0000,,Los rusos avanzan en Bagdad.
+Dialogue: 0,0:19:55.42,0:19:56.80,Bot,,0000,0000,0000,,Todo es lo mismo para nosotros.
+Dialogue: 0,0:19:55.42,0:19:56.80,Top,,0000,0000,0000,,Todo es lo mismo para nosotros.
+Dialogue: 0,0:19:56.86,0:20:00.40,Bot,,0000,0000,0000,,Bueno, es mejor que la\Nescuela de todos modos.
+Dialogue: 0,0:19:56.86,0:20:00.40,Top,,0000,0000,0000,,Bueno, es mejor que la\Nescuela de todos modos.
+Dialogue: 0,0:20:00.46,0:20:02.27,Bot,,0000,0000,0000,,Tenemos caballos y armas.
+Dialogue: 0,0:20:00.46,0:20:02.27,Top,,0000,0000,0000,,Tenemos caballos y armas.
+Dialogue: 0,0:20:02.33,0:20:04.17,Bot,,0000,0000,0000,,¿No puedes ser\Nvoluntario para el frente?
+Dialogue: 0,0:20:02.33,0:20:04.17,Top,,0000,0000,0000,,¿No puedes ser\Nvoluntario para el frente?
+Dialogue: 0,0:20:04.23,0:20:06.51,Bot,,0000,0000,0000,,No llevarán oficiales\Nmusulmanes al frente
+Dialogue: 0,0:20:04.23,0:20:06.51,Top,,0000,0000,0000,,No llevarán oficiales\Nmusulmanes al frente
+Dialogue: 0,0:20:06.57,0:20:09.01,Bot,,0000,0000,0000,,en caso de que nos neguemos\Na disparar a otros musulmanes.
+Dialogue: 0,0:20:06.57,0:20:09.01,Top,,0000,0000,0000,,en caso de que nos neguemos\Na disparar a otros musulmanes.
+Dialogue: 0,0:20:11.44,0:20:12.88,Bot,,0000,0000,0000,,Y tienen razón.
+Dialogue: 0,0:20:11.44,0:20:12.88,Top,,0000,0000,0000,,Y tienen razón.
+Dialogue: 0,0:20:12.94,0:20:15.00,Bot,,0000,0000,0000,,No quiero matar a mis\Nhermanos turcos.
+Dialogue: 0,0:20:12.94,0:20:15.00,Top,,0000,0000,0000,,No quiero matar a mis\Nhermanos turcos.
+Dialogue: 0,0:20:15.84,0:20:17.72,Bot,,0000,0000,0000,,Cortesía de los oficiales.
+Dialogue: 0,0:20:15.84,0:20:17.72,Top,,0000,0000,0000,,Cortesía de los oficiales.
+Dialogue: 0,0:20:17.78,0:20:19.79,Bot,,0000,0000,0000,,Chuletas de cerdo\Npara los chicos.
+Dialogue: 0,0:20:17.78,0:20:19.79,Top,,0000,0000,0000,,Chuletas de cerdo\Npara los chicos.
+Dialogue: 0,0:20:26.35,0:20:28.62,Bot,,0000,0000,0000,,¿Ves el tipo de cosas al que\Nnos tenemos que enfrentar?
+Dialogue: 0,0:20:26.35,0:20:28.62,Top,,0000,0000,0000,,¿Ves el tipo de cosas al que\Nnos tenemos que enfrentar?
+Dialogue: 0,0:20:31.39,0:20:33.62,Bot,,0000,0000,0000,,Tenías razón en no unirte.
+Dialogue: 0,0:20:31.39,0:20:33.62,Top,,0000,0000,0000,,Tenías razón en no unirte.
+Dialogue: 0,0:20:55.85,0:20:57.51,Bot,,0000,0000,0000,,¡Hola!
+Dialogue: 0,0:20:55.85,0:20:57.51,Top,,0000,0000,0000,,¡Hola!
+Dialogue: 0,0:20:58.59,0:21:00.43,Bot,,0000,0000,0000,,- Me voy.\N- Está bien.
+Dialogue: 0,0:20:58.59,0:21:00.43,Top,,0000,0000,0000,,- Me voy.\N- Está bien.
+Dialogue: 0,0:21:00.49,0:21:01.51,Bot,,0000,0000,0000,,Adiós.
+Dialogue: 0,0:21:00.49,0:21:01.51,Top,,0000,0000,0000,,Adiós.
+Dialogue: 0,0:21:12.50,0:21:13.99,Bot,,0000,0000,0000,,Paz a ti.
+Dialogue: 0,0:21:12.50,0:21:13.99,Top,,0000,0000,0000,,Paz a ti.
+Dialogue: 0,0:21:21.84,0:21:24.75,Bot,,0000,0000,0000,,¿Malik está haciendo\Nalgún progreso?
+Dialogue: 0,0:21:21.84,0:21:24.75,Top,,0000,0000,0000,,¿Malik está haciendo\Nalgún progreso?
+Dialogue: 0,0:21:24.81,0:21:27.36,Bot,,0000,0000,0000,,Se está esforzando mucho.
+Dialogue: 0,0:21:24.81,0:21:27.36,Top,,0000,0000,0000,,Se está esforzando mucho.
+Dialogue: 0,0:21:27.42,0:21:29.92,Bot,,0000,0000,0000,,Pero mi madre todavía te\Nllama "musulmán salvaje."
+Dialogue: 0,0:21:27.42,0:21:29.92,Top,,0000,0000,0000,,Pero mi madre todavía te\Nllama "musulmán salvaje."
+Dialogue: 0,0:21:31.39,0:21:34.83,Bot,,0000,0000,0000,,No creo que alguien me\Nhaya llamado salvaje antes.
+Dialogue: 0,0:21:31.39,0:21:34.83,Top,,0000,0000,0000,,No creo que alguien me\Nhaya llamado salvaje antes.
+Dialogue: 0,0:21:34.89,0:21:36.96,Bot,,0000,0000,0000,,Me gusta eso.
+Dialogue: 0,0:21:34.89,0:21:36.96,Top,,0000,0000,0000,,Me gusta eso.
+Dialogue: 0,0:21:37.02,0:21:40.07,Bot,,0000,0000,0000,,No creo que lo haya\Ndicho como un cumplido.
+Dialogue: 0,0:21:37.02,0:21:40.07,Top,,0000,0000,0000,,No creo que lo haya\Ndicho como un cumplido.
+Dialogue: 0,0:22:03.15,0:22:06.76,Bot,,0000,0000,0000,,Sé que tus amigos están\Nsirviendo en el ejército, Ali.
+Dialogue: 0,0:22:03.15,0:22:06.76,Top,,0000,0000,0000,,Sé que tus amigos están\Nsirviendo en el ejército, Ali.
+Dialogue: 0,0:22:06.82,0:22:09.66,Bot,,0000,0000,0000,,Pero entre tú y yo,
+Dialogue: 0,0:22:06.82,0:22:09.66,Top,,0000,0000,0000,,Pero entre tú y yo,
+Dialogue: 0,0:22:09.72,0:22:12.63,Bot,,0000,0000,0000,,lamento que a los rusos\Nle esté yendo tan bien.
+Dialogue: 0,0:22:09.72,0:22:12.63,Top,,0000,0000,0000,,lamento que a los rusos\Nle esté yendo tan bien.
+Dialogue: 0,0:22:15.13,0:22:18.57,Bot,,0000,0000,0000,,- ¿Nos incumbe?\N- Sí.
+Dialogue: 0,0:22:15.13,0:22:18.57,Top,,0000,0000,0000,,- ¿Nos incumbe?\N- Sí.
+Dialogue: 0,0:22:18.63,0:22:20.54,Bot,,0000,0000,0000,,Porque a menos que los\Nrusos sean derrotados,
+Dialogue: 0,0:22:18.63,0:22:20.54,Top,,0000,0000,0000,,Porque a menos que los\Nrusos sean derrotados,
+Dialogue: 0,0:22:20.60,0:22:23.75,Bot,,0000,0000,0000,,no tenemos oportunidad de lograr\Nlo que nuestro país más necesita.
+Dialogue: 0,0:22:20.60,0:22:23.75,Top,,0000,0000,0000,,no tenemos oportunidad de lograr\Nlo que nuestro país más necesita.
+Dialogue: 0,0:22:23.81,0:22:25.43,Bot,,0000,0000,0000,,¿Y qué es eso?
+Dialogue: 0,0:22:23.81,0:22:25.43,Top,,0000,0000,0000,,¿Y qué es eso?
+Dialogue: 0,0:22:27.18,0:22:29.11,Bot,,0000,0000,0000,,Nuestra independencia.
+Dialogue: 0,0:22:27.18,0:22:29.11,Top,,0000,0000,0000,,Nuestra independencia.
+Dialogue: 0,0:22:33.18,0:22:36.02,Bot,,0000,0000,0000,,Mi padre piensa que no tenemos\Noportunidad de tener independencia.
+Dialogue: 0,0:22:33.18,0:22:36.02,Top,,0000,0000,0000,,Mi padre piensa que no tenemos\Noportunidad de tener independencia.
+Dialogue: 0,0:22:37.65,0:22:39.88,Bot,,0000,0000,0000,,Creo que está equivocado.
+Dialogue: 0,0:22:37.65,0:22:39.88,Top,,0000,0000,0000,,Creo que está equivocado.
+Dialogue: 0,0:22:42.89,0:22:46.07,Bot,,0000,0000,0000,,¡Izquierda, izquierda!\N¡Uno, dos, tres!
+Dialogue: 0,0:22:42.89,0:22:46.07,Top,,0000,0000,0000,,¡Izquierda, izquierda!\N¡Uno, dos, tres!
+Dialogue: 0,0:22:52.03,0:22:53.44,Bot,,0000,0000,0000,,Ali, soy yo.
+Dialogue: 0,0:22:52.03,0:22:53.44,Top,,0000,0000,0000,,Ali, soy yo.
+Dialogue: 0,0:22:53.50,0:22:54.54,Bot,,0000,0000,0000,,¿Alguna noticia?
+Dialogue: 0,0:22:53.50,0:22:54.54,Top,,0000,0000,0000,,¿Alguna noticia?
+Dialogue: 0,0:22:54.60,0:22:55.91,Bot,,0000,0000,0000,,Malik está aquí.
+Dialogue: 0,0:22:54.60,0:22:55.91,Top,,0000,0000,0000,,Malik está aquí.
+Dialogue: 0,0:22:55.97,0:22:58.45,Bot,,0000,0000,0000,,Les está diciendo\Nque en esta región,
+Dialogue: 0,0:22:55.97,0:22:58.45,Top,,0000,0000,0000,,Les está diciendo\Nque en esta región,
+Dialogue: 0,0:22:58.51,0:23:02.12,Bot,,0000,0000,0000,,cree que los matrimonios mixtos\Nson el único camino a seguir.
+Dialogue: 0,0:22:58.51,0:23:02.12,Top,,0000,0000,0000,,cree que los matrimonios mixtos\Nson el único camino a seguir.
+Dialogue: 0,0:23:02.18,0:23:03.89,Bot,,0000,0000,0000,,- ¿Sí?\N- Sí.
+Dialogue: 0,0:23:02.18,0:23:03.89,Top,,0000,0000,0000,,- ¿Sí?\N- Sí.
+Dialogue: 0,0:23:03.95,0:23:08.52,Bot,,0000,0000,0000,,Y creo que después de la\Nguerra, quizás, es incluso más...
+Dialogue: 0,0:23:03.95,0:23:08.52,Top,,0000,0000,0000,,Y creo que después de la\Nguerra, quizás, es incluso más...
+Dialogue: 0,0:23:08.58,0:23:10.98,Bot,,0000,0000,0000,,Todo bien. Tal vez\Npodamos vernos más tarde.
+Dialogue: 0,0:23:08.58,0:23:10.98,Top,,0000,0000,0000,,Todo bien. Tal vez\Npodamos vernos más tarde.
+Dialogue: 0,0:23:15.62,0:23:17.17,Bot,,0000,0000,0000,,Más...
+Dialogue: 0,0:23:15.62,0:23:17.17,Top,,0000,0000,0000,,Más...
+Dialogue: 0,0:23:17.23,0:23:18.90,Bot,,0000,0000,0000,,Complicado, sí.
+Dialogue: 0,0:23:17.23,0:23:18.90,Top,,0000,0000,0000,,Complicado, sí.
+Dialogue: 0,0:23:21.66,0:23:23.47,Bot,,0000,0000,0000,,Bien, te veré\Ndespués de la ópera.
+Dialogue: 0,0:23:21.66,0:23:23.47,Top,,0000,0000,0000,,Bien, te veré\Ndespués de la ópera.
+Dialogue: 0,0:23:23.53,0:23:25.07,Bot,,0000,0000,0000,,Creo que es hora\Nque nos vayamos.
+Dialogue: 0,0:23:23.53,0:23:25.07,Top,,0000,0000,0000,,Creo que es hora\Nque nos vayamos.
+Dialogue: 0,0:23:25.13,0:23:26.21,Bot,,0000,0000,0000,,Nos vemos luego.
+Dialogue: 0,0:23:25.13,0:23:26.21,Top,,0000,0000,0000,,Nos vemos luego.
+Dialogue: 0,0:23:26.27,0:23:28.70,Bot,,0000,0000,0000,,¿Nino? ¿Vienes?
+Dialogue: 0,0:23:26.27,0:23:28.70,Top,,0000,0000,0000,,¿Nino? ¿Vienes?
+Dialogue: 0,0:23:29.87,0:23:31.03,Bot,,0000,0000,0000,,Adiós.
+Dialogue: 0,0:23:29.87,0:23:31.03,Top,,0000,0000,0000,,Adiós.
+Dialogue: 0,0:24:17.59,0:24:21.86,Bot,,0000,0000,0000,,Si Russia toma Turquía y Persia,\Nel zar dijo que iba a cerrar
+Dialogue: 0,0:24:17.59,0:24:21.86,Top,,0000,0000,0000,,Si Russia toma Turquía y Persia,\Nel zar dijo que iba a cerrar
+Dialogue: 0,0:24:21.92,0:24:25.13,Bot,,0000,0000,0000,,nuestras mezquitas y escuelas\Ny abolir nuestras lenguas.
+Dialogue: 0,0:24:21.92,0:24:25.13,Top,,0000,0000,0000,,nuestras mezquitas y escuelas\Ny abolir nuestras lenguas.
+Dialogue: 0,0:24:25.19,0:24:28.27,Bot,,0000,0000,0000,,Sin embargo, el\Nzar nos pide dinero.
+Dialogue: 0,0:24:25.19,0:24:28.27,Top,,0000,0000,0000,,Sin embargo, el\Nzar nos pide dinero.
+Dialogue: 0,0:24:28.33,0:24:31.64,Bot,,0000,0000,0000,,¿Por qué deberíamos colaborar en\Nla destrucción de nuestra cultura?
+Dialogue: 0,0:24:28.33,0:24:31.64,Top,,0000,0000,0000,,¿Por qué deberíamos colaborar en\Nla destrucción de nuestra cultura?
+Dialogue: 0,0:24:31.70,0:24:33.94,Bot,,0000,0000,0000,,De lo que todos podemos\Nestar seguros es que
+Dialogue: 0,0:24:31.70,0:24:33.94,Top,,0000,0000,0000,,De lo que todos podemos\Nestar seguros es que
+Dialogue: 0,0:24:33.94,0:24:35.94,Bot,,0000,0000,0000,,luego de la guerra todo\Nserá bastante diferente.
+Dialogue: 0,0:24:33.94,0:24:35.94,Top,,0000,0000,0000,,luego de la guerra todo\Nserá bastante diferente.
+Dialogue: 0,0:24:36.00,0:24:39.68,Bot,,0000,0000,0000,,Todas las grandes potencias\Nestarán débiles y agotadas,
+Dialogue: 0,0:24:36.00,0:24:39.68,Top,,0000,0000,0000,,Todas las grandes potencias\Nestarán débiles y agotadas,
+Dialogue: 0,0:24:39.74,0:24:42.18,Bot,,0000,0000,0000,,pero nosotros todavía\Ntendremos nuestra fuerza,
+Dialogue: 0,0:24:39.74,0:24:42.18,Top,,0000,0000,0000,,pero nosotros todavía\Ntendremos nuestra fuerza,
+Dialogue: 0,0:24:42.24,0:24:44.82,Bot,,0000,0000,0000,,nuestro dinero y\Nnuestro petróleo.
+Dialogue: 0,0:24:42.24,0:24:44.82,Top,,0000,0000,0000,,nuestro dinero y\Nnuestro petróleo.
+Dialogue: 0,0:24:44.88,0:24:46.95,Bot,,0000,0000,0000,,¿No sería maravilloso si\Npudiéramos convertirnos
+Dialogue: 0,0:24:44.88,0:24:46.95,Top,,0000,0000,0000,,¿No sería maravilloso si\Npudiéramos convertirnos
+Dialogue: 0,0:24:47.01,0:24:49.88,Bot,,0000,0000,0000,,en la primera nación\Ndemocrática musulmana?
+Dialogue: 0,0:24:47.01,0:24:49.88,Top,,0000,0000,0000,,en la primera nación\Ndemocrática musulmana?
+Dialogue: 0,0:24:53.32,0:24:56.62,Bot,,0000,0000,0000,,No me gusta la forma en que\Nestá tratando de retratar al zar.
+Dialogue: 0,0:24:53.32,0:24:56.62,Top,,0000,0000,0000,,No me gusta la forma en que\Nestá tratando de retratar al zar.
+Dialogue: 0,0:24:59.16,0:25:00.89,Bot,,0000,0000,0000,,Estoy de acuerdo\Ncon Fatali Khan.
+Dialogue: 0,0:24:59.16,0:25:00.89,Top,,0000,0000,0000,,Estoy de acuerdo\Ncon Fatali Khan.
+Dialogue: 0,0:25:02.63,0:25:04.21,Bot,,0000,0000,0000,,Deberíamos liberarnos.
+Dialogue: 0,0:25:02.63,0:25:04.21,Top,,0000,0000,0000,,Deberíamos liberarnos.
+Dialogue: 0,0:25:04.37,0:25:06.41,Bot,,0000,0000,0000,,Y no me refiero a regresar\N100 años al modo en
+Dialogue: 0,0:25:04.37,0:25:06.41,Top,,0000,0000,0000,,Y no me refiero a regresar\N100 años al modo en
+Dialogue: 0,0:25:06.41,0:25:08.11,Bot,,0000,0000,0000,,que era antes de\Nque los rusos vinieran.
+Dialogue: 0,0:25:06.41,0:25:08.11,Top,,0000,0000,0000,,que era antes de\Nque los rusos vinieran.
+Dialogue: 0,0:25:08.37,0:25:10.20,Bot,,0000,0000,0000,,Digo que deberíamos\Ncrear un país moderno y
+Dialogue: 0,0:25:08.37,0:25:10.20,Top,,0000,0000,0000,,Digo que deberíamos\Ncrear un país moderno y
+Dialogue: 0,0:25:10.20,0:25:13.10,Bot,,0000,0000,0000,,progresista, gobernado\Npor nosotros mismos.
+Dialogue: 0,0:25:10.20,0:25:13.10,Top,,0000,0000,0000,,progresista, gobernado\Npor nosotros mismos.
+Dialogue: 0,0:25:19.68,0:25:22.89,Bot,,0000,0000,0000,,Muchas gracias por acceder a\Nacompañarme, señor Nakhararyan.
+Dialogue: 0,0:25:19.68,0:25:22.89,Top,,0000,0000,0000,,Muchas gracias por acceder a\Nacompañarme, señor Nakhararyan.
+Dialogue: 0,0:25:22.95,0:25:24.92,Bot,,0000,0000,0000,,No me lo hubiera perdido\Npor nada del mundo.
+Dialogue: 0,0:25:22.95,0:25:24.92,Top,,0000,0000,0000,,No me lo hubiera perdido\Npor nada del mundo.
+Dialogue: 0,0:25:26.62,0:25:28.20,Bot,,0000,0000,0000,,Es un placer.
+Dialogue: 0,0:25:26.62,0:25:28.20,Top,,0000,0000,0000,,Es un placer.
+Dialogue: 0,0:25:48.08,0:25:51.05,Bot,,0000,0000,0000,,Amir, tienes que hablar\Ncon la gente joven.
+Dialogue: 0,0:25:48.08,0:25:51.05,Top,,0000,0000,0000,,Amir, tienes que hablar\Ncon la gente joven.
+Dialogue: 0,0:25:51.11,0:25:52.89,Bot,,0000,0000,0000,,Ellos te escuchan.
+Dialogue: 0,0:25:51.11,0:25:52.89,Top,,0000,0000,0000,,Ellos te escuchan.
+Dialogue: 0,0:26:20.88,0:26:22.40,Bot,,0000,0000,0000,,Fue una noche maravillosa.
+Dialogue: 0,0:26:20.88,0:26:22.40,Top,,0000,0000,0000,,Fue una noche maravillosa.
+Dialogue: 0,0:26:27.95,0:26:29.85,Bot,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:26:27.95,0:26:29.85,Top,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:26:36.16,0:26:38.13,Bot,,0000,0000,0000,,Espera, espera.
+Dialogue: 0,0:26:36.16,0:26:38.13,Top,,0000,0000,0000,,Espera, espera.
+Dialogue: 0,0:26:41.83,0:26:43.09,Bot,,0000,0000,0000,,Me gustas.
+Dialogue: 0,0:26:41.83,0:26:43.09,Top,,0000,0000,0000,,Me gustas.
+Dialogue: 0,0:26:45.00,0:26:46.47,Bot,,0000,0000,0000,,Realmente me gustas.
+Dialogue: 0,0:26:45.00,0:26:46.47,Top,,0000,0000,0000,,Realmente me gustas.
+Dialogue: 0,0:26:48.80,0:26:50.50,Bot,,0000,0000,0000,,¿Qué haces?
+Dialogue: 0,0:26:48.80,0:26:50.50,Top,,0000,0000,0000,,¿Qué haces?
+Dialogue: 0,0:26:53.04,0:26:54.95,Bot,,0000,0000,0000,,Podemos irnos de\Neste país juntos.
+Dialogue: 0,0:26:53.04,0:26:54.95,Top,,0000,0000,0000,,Podemos irnos de\Neste país juntos.
+Dialogue: 0,0:26:55.01,0:26:57.05,Bot,,0000,0000,0000,,- Nos casaremos en Moscú.\N- No.
+Dialogue: 0,0:26:55.01,0:26:57.05,Top,,0000,0000,0000,,- Nos casaremos en Moscú.\N- No.
+Dialogue: 0,0:26:57.11,0:26:58.99,Bot,,0000,0000,0000,,Sí y luego nos iremos a Londres.
+Dialogue: 0,0:26:57.11,0:26:58.99,Top,,0000,0000,0000,,Sí y luego nos iremos a Londres.
+Dialogue: 0,0:26:59.05,0:27:01.42,Bot,,0000,0000,0000,,No, no, no.\N¿Malik, qué haces?
+Dialogue: 0,0:26:59.05,0:27:01.42,Top,,0000,0000,0000,,No, no, no.\N¿Malik, qué haces?
+Dialogue: 0,0:27:01.48,0:27:04.73,Bot,,0000,0000,0000,,Déjame salir. ¡Detén\Nel auto! ¡Malik!
+Dialogue: 0,0:27:01.48,0:27:04.73,Top,,0000,0000,0000,,Déjame salir. ¡Detén\Nel auto! ¡Malik!
+Dialogue: 0,0:27:04.79,0:27:06.43,Bot,,0000,0000,0000,,¡Déjame salir!
+Dialogue: 0,0:27:04.79,0:27:06.43,Top,,0000,0000,0000,,¡Déjame salir!
+Dialogue: 0,0:27:10.06,0:27:12.13,Bot,,0000,0000,0000,,¡Déjame salir!\N¡Déjame salir!
+Dialogue: 0,0:27:10.06,0:27:12.13,Top,,0000,0000,0000,,¡Déjame salir!\N¡Déjame salir!
+Dialogue: 0,0:27:13.49,0:27:15.94,Bot,,0000,0000,0000,,¡Detén el auto, Malik!
+Dialogue: 0,0:27:13.49,0:27:15.94,Top,,0000,0000,0000,,¡Detén el auto, Malik!
+Dialogue: 0,0:27:16.00,0:27:18.11,Bot,,0000,0000,0000,,Me alegra tener tu apoyo.
+Dialogue: 0,0:27:16.00,0:27:18.11,Top,,0000,0000,0000,,Me alegra tener tu apoyo.
+Dialogue: 0,0:27:18.17,0:27:19.44,Bot,,0000,0000,0000,,Gracias por invitarme, señor.
+Dialogue: 0,0:27:18.17,0:27:19.44,Top,,0000,0000,0000,,Gracias por invitarme, señor.
+Dialogue: 0,0:27:19.50,0:27:21.27,Bot,,0000,0000,0000,,Gracias, Fatali Khan.
+Dialogue: 0,0:27:19.50,0:27:21.27,Top,,0000,0000,0000,,Gracias, Fatali Khan.
+Dialogue: 0,0:27:25.84,0:27:27.51,Bot,,0000,0000,0000,,Te condujiste\Nmuy bien, hijo mío.
+Dialogue: 0,0:27:25.84,0:27:27.51,Top,,0000,0000,0000,,Te condujiste\Nmuy bien, hijo mío.
+Dialogue: 0,0:27:27.57,0:27:28.76,Bot,,0000,0000,0000,,¡Ali!
+Dialogue: 0,0:27:27.57,0:27:28.76,Top,,0000,0000,0000,,¡Ali!
+Dialogue: 0,0:27:29.98,0:27:31.39,Bot,,0000,0000,0000,,Ali.
+Dialogue: 0,0:27:29.98,0:27:31.39,Top,,0000,0000,0000,,Ali.
+Dialogue: 0,0:27:33.05,0:27:34.39,Bot,,0000,0000,0000,,Nakhararyan ha\Nsecuestrado a Nino.
+Dialogue: 0,0:27:33.05,0:27:34.39,Top,,0000,0000,0000,,Nakhararyan ha\Nsecuestrado a Nino.
+Dialogue: 0,0:27:34.45,0:27:36.02,Bot,,0000,0000,0000,,No, sólo fueron a la ópera.
+Dialogue: 0,0:27:34.45,0:27:36.02,Top,,0000,0000,0000,,No, sólo fueron a la ópera.
+Dialogue: 0,0:27:36.08,0:27:39.16,Bot,,0000,0000,0000,,No, él estaba\Ntratando de besarla.
+Dialogue: 0,0:27:36.08,0:27:39.16,Top,,0000,0000,0000,,No, él estaba\Ntratando de besarla.
+Dialogue: 0,0:27:39.22,0:27:41.28,Bot,,0000,0000,0000,,Luego se fue con ella.
+Dialogue: 0,0:27:39.22,0:27:41.28,Top,,0000,0000,0000,,Luego se fue con ella.
+Dialogue: 0,0:27:53.20,0:27:54.96,Bot,,0000,0000,0000,,- ¿Qué crees que estás haciendo?\N- ¡Suéltame!
+Dialogue: 0,0:27:53.20,0:27:54.96,Top,,0000,0000,0000,,- ¿Qué crees que estás haciendo?\N- ¡Suéltame!
+Dialogue: 0,0:27:55.02,0:27:56.68,Bot,,0000,0000,0000,,Te vas a quedar conmigo.\N¿Lo entiendes?
+Dialogue: 0,0:27:55.02,0:27:56.68,Top,,0000,0000,0000,,Te vas a quedar conmigo.\N¿Lo entiendes?
+Dialogue: 0,0:27:56.74,0:28:00.07,Bot,,0000,0000,0000,,- ¡Suéltame, no puedes hacer esto!\N- ¡No, no puedes irte! Eres mía ahora.
+Dialogue: 0,0:27:56.74,0:28:00.07,Top,,0000,0000,0000,,- ¡Suéltame, no puedes hacer esto!\N- ¡No, no puedes irte! Eres mía ahora.
+Dialogue: 0,0:28:01.38,0:28:03.54,Bot,,0000,0000,0000,,No lo diré de nuevo.
+Dialogue: 0,0:28:01.38,0:28:03.54,Top,,0000,0000,0000,,No lo diré de nuevo.
+Dialogue: 0,0:28:09.15,0:28:10.95,Bot,,0000,0000,0000,,Se dirigían a la\Ncarretera de la costa.
+Dialogue: 0,0:28:09.15,0:28:10.95,Top,,0000,0000,0000,,Se dirigían a la\Ncarretera de la costa.
+Dialogue: 0,0:28:33.24,0:28:35.04,Bot,,0000,0000,0000,,Tal vez sea lo mejor.
+Dialogue: 0,0:28:33.24,0:28:35.04,Top,,0000,0000,0000,,Tal vez sea lo mejor.
+Dialogue: 0,0:29:36.87,0:29:38.08,Bot,,0000,0000,0000,,¿Qué haces?
+Dialogue: 0,0:29:36.87,0:29:38.08,Top,,0000,0000,0000,,¿Qué haces?
+Dialogue: 0,0:29:45.41,0:29:47.35,Bot,,0000,0000,0000,,¡No, Ali!
+Dialogue: 0,0:29:45.41,0:29:47.35,Top,,0000,0000,0000,,¡No, Ali!
+Dialogue: 0,0:31:31.05,0:31:32.74,Bot,,0000,0000,0000,,¿Ali?
+Dialogue: 0,0:31:31.05,0:31:32.74,Top,,0000,0000,0000,,¿Ali?
+Dialogue: 0,0:32:43.19,0:32:44.62,Bot,,0000,0000,0000,,¿Qué pasó?
+Dialogue: 0,0:32:43.19,0:32:44.62,Top,,0000,0000,0000,,¿Qué pasó?
+Dialogue: 0,0:32:46.39,0:32:47.99,Bot,,0000,0000,0000,,Pensé...
+Dialogue: 0,0:32:46.39,0:32:47.99,Top,,0000,0000,0000,,Pensé...
+Dialogue: 0,0:32:49.50,0:32:51.69,Bot,,0000,0000,0000,,¿Qué pensaste?
+Dialogue: 0,0:32:49.50,0:32:51.69,Top,,0000,0000,0000,,¿Qué pensaste?
+Dialogue: 0,0:32:53.33,0:32:56.81,Bot,,0000,0000,0000,,Quiero decir, ¿él...?
+Dialogue: 0,0:32:53.33,0:32:56.81,Top,,0000,0000,0000,,Quiero decir, ¿él...?
+Dialogue: 0,0:32:58.57,0:33:01.34,Bot,,0000,0000,0000,,¿Él qué?
+Dialogue: 0,0:32:58.57,0:33:01.34,Top,,0000,0000,0000,,¿Él qué?
+Dialogue: 0,0:33:04.34,0:33:06.64,Bot,,0000,0000,0000,,No, no lo hizo.
+Dialogue: 0,0:33:04.34,0:33:06.64,Top,,0000,0000,0000,,No, no lo hizo.
+Dialogue: 0,0:33:12.19,0:33:13.89,Bot,,0000,0000,0000,,Está muerto.
+Dialogue: 0,0:33:12.19,0:33:13.89,Top,,0000,0000,0000,,Está muerto.
+Dialogue: 0,0:33:39.85,0:33:41.79,Bot,,0000,0000,0000,,Tengo 40 hombres\Ncustodiando la casa.
+Dialogue: 0,0:33:39.85,0:33:41.79,Top,,0000,0000,0000,,Tengo 40 hombres\Ncustodiando la casa.
+Dialogue: 0,0:33:42.25,0:33:44.83,Bot,,0000,0000,0000,,- Tienes que irte esta noche.\N- ¿Por qué?
+Dialogue: 0,0:33:42.25,0:33:44.83,Top,,0000,0000,0000,,- Tienes que irte esta noche.\N- ¿Por qué?
+Dialogue: 0,0:33:44.89,0:33:48.30,Bot,,0000,0000,0000,,Por los Nakhararyans, le\Npusieron precio a tu cabeza.
+Dialogue: 0,0:33:44.89,0:33:48.30,Top,,0000,0000,0000,,Por los Nakhararyans, le\Npusieron precio a tu cabeza.
+Dialogue: 0,0:33:48.36,0:33:50.48,Bot,,0000,0000,0000,,Van a venir a buscarte.
+Dialogue: 0,0:33:48.36,0:33:50.48,Top,,0000,0000,0000,,Van a venir a buscarte.
+Dialogue: 0,0:33:55.20,0:33:58.41,Bot,,0000,0000,0000,,Te voy a mandar con nuestra\Ngente en las montañas.
+Dialogue: 0,0:33:55.20,0:33:58.41,Top,,0000,0000,0000,,Te voy a mandar con nuestra\Ngente en las montañas.
+Dialogue: 0,0:33:58.47,0:34:01.16,Bot,,0000,0000,0000,,¿Cuánto tiempo tengo\Nque estar fuera?
+Dialogue: 0,0:33:58.47,0:34:01.16,Top,,0000,0000,0000,,¿Cuánto tiempo tengo\Nque estar fuera?
+Dialogue: 0,0:34:02.20,0:34:03.83,Bot,,0000,0000,0000,,Mucho tiempo.
+Dialogue: 0,0:34:02.20,0:34:03.83,Top,,0000,0000,0000,,Mucho tiempo.
+Dialogue: 0,0:34:08.28,0:34:10.57,Bot,,0000,0000,0000,,- Buenas noches.\N- Buenas noches.
+Dialogue: 0,0:34:08.28,0:34:10.57,Top,,0000,0000,0000,,- Buenas noches.\N- Buenas noches.
+Dialogue: 0,0:34:13.35,0:34:14.98,Bot,,0000,0000,0000,,¿Le gustaría sentarse?
+Dialogue: 0,0:34:13.35,0:34:14.98,Top,,0000,0000,0000,,¿Le gustaría sentarse?
+Dialogue: 0,0:34:17.22,0:34:19.38,Bot,,0000,0000,0000,,Ante las circunstancias, Khan...
+Dialogue: 0,0:34:17.22,0:34:19.38,Top,,0000,0000,0000,,Ante las circunstancias, Khan...
+Dialogue: 0,0:34:21.46,0:34:25.20,Bot,,0000,0000,0000,,Estoy convencido de que...
+Dialogue: 0,0:34:21.46,0:34:25.20,Top,,0000,0000,0000,,Estoy convencido de que...
+Dialogue: 0,0:34:25.26,0:34:28.52,Bot,,0000,0000,0000,,La única solución honorable\Nes que se casen.
+Dialogue: 0,0:34:25.26,0:34:28.52,Top,,0000,0000,0000,,La única solución honorable\Nes que se casen.
+Dialogue: 0,0:34:30.43,0:34:32.34,Bot,,0000,0000,0000,,- No se puede, príncipe.\N- Sí.
+Dialogue: 0,0:34:30.43,0:34:32.34,Top,,0000,0000,0000,,- No se puede, príncipe.\N- Sí.
+Dialogue: 0,0:34:32.40,0:34:34.56,Bot,,0000,0000,0000,,Puede hacerse esta noche.
+Dialogue: 0,0:34:32.40,0:34:34.56,Top,,0000,0000,0000,,Puede hacerse esta noche.
+Dialogue: 0,0:34:36.27,0:34:37.98,Bot,,0000,0000,0000,,¿Dónde está?
+Dialogue: 0,0:34:36.27,0:34:37.98,Top,,0000,0000,0000,,¿Dónde está?
+Dialogue: 0,0:34:39.87,0:34:42.24,Bot,,0000,0000,0000,,Creo que se fue a casa\Nde su tío en Persia.
+Dialogue: 0,0:34:39.87,0:34:42.24,Top,,0000,0000,0000,,Creo que se fue a casa\Nde su tío en Persia.
+Dialogue: 0,0:34:44.95,0:34:46.68,Bot,,0000,0000,0000,,Tienen que casarse.
+Dialogue: 0,0:34:44.95,0:34:46.68,Top,,0000,0000,0000,,Tienen que casarse.
+Dialogue: 0,0:34:48.72,0:34:52.48,Bot,,0000,0000,0000,,Estoy seguro de que podrán\Nencontrarle un marido adecuado.
+Dialogue: 0,0:34:48.72,0:34:52.48,Top,,0000,0000,0000,,Estoy seguro de que podrán\Nencontrarle un marido adecuado.
+Dialogue: 0,0:34:54.56,0:34:57.58,Bot,,0000,0000,0000,,Ambos sabemos que nadie\Nse casará con ella ahora.
+Dialogue: 0,0:34:54.56,0:34:57.58,Top,,0000,0000,0000,,Ambos sabemos que nadie\Nse casará con ella ahora.
+Dialogue: 0,0:35:03.26,0:35:04.89,Bot,,0000,0000,0000,,Gracias por venir.
+Dialogue: 0,0:35:03.26,0:35:04.89,Top,,0000,0000,0000,,Gracias por venir.
+Dialogue: 0,0:36:07.56,0:36:09.90,Bot,,0000,0000,0000,,- ¿Qué es esto?\N- Hachís.
+Dialogue: 0,0:36:07.56,0:36:09.90,Top,,0000,0000,0000,,- ¿Qué es esto?\N- Hachís.
+Dialogue: 0,0:36:09.96,0:36:11.97,Bot,,0000,0000,0000,,Es bueno para el dolor.
+Dialogue: 0,0:36:09.96,0:36:11.97,Top,,0000,0000,0000,,Es bueno para el dolor.
+Dialogue: 0,0:36:12.03,0:36:13.63,Bot,,0000,0000,0000,,Y para la consciencia.
+Dialogue: 0,0:36:12.03,0:36:13.63,Top,,0000,0000,0000,,Y para la consciencia.
+Dialogue: 0,0:36:17.30,0:36:18.40,Bot,,0000,0000,0000,,Ali.
+Dialogue: 0,0:36:17.30,0:36:18.40,Top,,0000,0000,0000,,Ali.
+Dialogue: 0,0:37:46.76,0:37:49.00,Bot,,0000,0000,0000,,¿Kasi Mullah?
+Dialogue: 0,0:37:46.76,0:37:49.00,Top,,0000,0000,0000,,¿Kasi Mullah?
+Dialogue: 0,0:37:49.06,0:37:50.67,Bot,,0000,0000,0000,,Este es Ali Khan Shirvanshir.
+Dialogue: 0,0:37:49.06,0:37:50.67,Top,,0000,0000,0000,,Este es Ali Khan Shirvanshir.
+Dialogue: 0,0:37:50.73,0:37:52.83,Bot,,0000,0000,0000,,Necesita tu protección.
+Dialogue: 0,0:37:50.73,0:37:52.83,Top,,0000,0000,0000,,Necesita tu protección.
+Dialogue: 0,0:38:01.41,0:38:03.43,Bot,,0000,0000,0000,,Sígame, Su Señoría.
+Dialogue: 0,0:38:01.41,0:38:03.43,Top,,0000,0000,0000,,Sígame, Su Señoría.
+Dialogue: 0,0:38:17.96,0:38:20.15,Bot,,0000,0000,0000,,Ali Khan... Ali Khan.
+Dialogue: 0,0:38:17.96,0:38:20.15,Top,,0000,0000,0000,,Ali Khan... Ali Khan.
+Dialogue: 0,0:38:28.47,0:38:30.73,Bot,,0000,0000,0000,,Me temo que está muy enfermo.
+Dialogue: 0,0:38:28.47,0:38:30.73,Top,,0000,0000,0000,,Me temo que está muy enfermo.
+Dialogue: 0,0:38:32.84,0:38:35.71,Bot,,0000,0000,0000,,Nadie está enfermo por\Nmucho tiempo en Daguestán.
+Dialogue: 0,0:38:32.84,0:38:35.71,Top,,0000,0000,0000,,Nadie está enfermo por\Nmucho tiempo en Daguestán.
+Dialogue: 0,0:38:43.05,0:38:44.64,Bot,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:38:43.05,0:38:44.64,Top,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:38:46.79,0:38:49.90,Bot,,0000,0000,0000,,Realmente no\Nentiendo lo que dice.
+Dialogue: 0,0:38:46.79,0:38:49.90,Top,,0000,0000,0000,,Realmente no\Nentiendo lo que dice.
+Dialogue: 0,0:38:49.96,0:38:52.43,Bot,,0000,0000,0000,,Príncipe Kipiani,
+Dialogue: 0,0:38:49.96,0:38:52.43,Top,,0000,0000,0000,,Príncipe Kipiani,
+Dialogue: 0,0:38:52.49,0:38:55.57,Bot,,0000,0000,0000,,por respeto a la\Nfamilia Nakhararyan,
+Dialogue: 0,0:38:52.49,0:38:55.57,Top,,0000,0000,0000,,por respeto a la\Nfamilia Nakhararyan,
+Dialogue: 0,0:38:55.63,0:38:58.41,Bot,,0000,0000,0000,,nuestra comunidad se siente\Nobligada a pedir que su hija
+Dialogue: 0,0:38:55.63,0:38:58.41,Top,,0000,0000,0000,,nuestra comunidad se siente\Nobligada a pedir que su hija
+Dialogue: 0,0:38:58.47,0:39:02.56,Bot,,0000,0000,0000,,se abstenga de asistir a la\Nmisa en el futuro inmediato.
+Dialogue: 0,0:38:58.47,0:39:02.56,Top,,0000,0000,0000,,se abstenga de asistir a la\Nmisa en el futuro inmediato.
+Dialogue: 0,0:39:23.96,0:39:26.00,Bot,,0000,0000,0000,,No sé qué más hacer.
+Dialogue: 0,0:39:23.96,0:39:26.00,Top,,0000,0000,0000,,No sé qué más hacer.
+Dialogue: 0,0:39:26.06,0:39:28.05,Bot,,0000,0000,0000,,Bueno, será mejor\Nque pienses en algo.
+Dialogue: 0,0:39:26.06,0:39:28.05,Top,,0000,0000,0000,,Bueno, será mejor\Nque pienses en algo.
+Dialogue: 0,0:39:30.00,0:39:31.59,Bot,,0000,0000,0000,,¡Mírala!
+Dialogue: 0,0:39:30.00,0:39:31.59,Top,,0000,0000,0000,,¡Mírala!
+Dialogue: 0,0:39:33.13,0:39:34.83,Bot,,0000,0000,0000,,¡Mírate!
+Dialogue: 0,0:39:33.13,0:39:34.83,Top,,0000,0000,0000,,¡Mírate!
+Dialogue: 0,0:39:36.07,0:39:37.94,Bot,,0000,0000,0000,,¡No podemos seguir así!
+Dialogue: 0,0:39:36.07,0:39:37.94,Top,,0000,0000,0000,,¡No podemos seguir así!
+Dialogue: 0,0:40:00.09,0:40:01.94,Bot,,0000,0000,0000,,No quiero ir a Moscú.
+Dialogue: 0,0:40:00.09,0:40:01.94,Top,,0000,0000,0000,,No quiero ir a Moscú.
+Dialogue: 0,0:40:02.00,0:40:04.47,Bot,,0000,0000,0000,,Me temo que en esta ocasión\Nno te pedimos tu opinión.
+Dialogue: 0,0:40:02.00,0:40:04.47,Top,,0000,0000,0000,,Me temo que en esta ocasión\Nno te pedimos tu opinión.
+Dialogue: 0,0:40:04.53,0:40:07.54,Bot,,0000,0000,0000,,- Me niego...\N- Ya se hicieron los arreglos.
+Dialogue: 0,0:40:04.53,0:40:07.54,Top,,0000,0000,0000,,- Me niego...\N- Ya se hicieron los arreglos.
+Dialogue: 0,0:40:07.60,0:40:09.54,Bot,,0000,0000,0000,,- Padre, por favor.\N- ¡No!
+Dialogue: 0,0:40:07.60,0:40:09.54,Top,,0000,0000,0000,,- Padre, por favor.\N- ¡No!
+Dialogue: 0,0:40:09.60,0:40:11.98,Bot,,0000,0000,0000,,Es muy obvio que no\Nhay futuro para ti aquí.
+Dialogue: 0,0:40:09.60,0:40:11.98,Top,,0000,0000,0000,,Es muy obvio que no\Nhay futuro para ti aquí.
+Dialogue: 0,0:40:12.04,0:40:13.51,Bot,,0000,0000,0000,,No hay futuro para mí en Moscú.
+Dialogue: 0,0:40:12.04,0:40:13.51,Top,,0000,0000,0000,,No hay futuro para mí en Moscú.
+Dialogue: 0,0:40:13.57,0:40:17.27,Bot,,0000,0000,0000,,Hay una posibilidad de que no\Ntodos hayan oído lo que pasó.
+Dialogue: 0,0:40:13.57,0:40:17.27,Top,,0000,0000,0000,,Hay una posibilidad de que no\Ntodos hayan oído lo que pasó.
+Dialogue: 0,0:42:00.18,0:42:02.91,Bot,,0000,0000,0000,,Mis padres me enviarán\Nmañana a Moscú.
+Dialogue: 0,0:42:00.18,0:42:02.91,Top,,0000,0000,0000,,Mis padres me enviarán\Nmañana a Moscú.
+Dialogue: 0,0:42:04.18,0:42:07.13,Bot,,0000,0000,0000,,Entonces es tu\Ndeber obedecerlos.
+Dialogue: 0,0:42:04.18,0:42:07.13,Top,,0000,0000,0000,,Entonces es tu\Ndeber obedecerlos.
+Dialogue: 0,0:42:07.19,0:42:08.28,Bot,,0000,0000,0000,,¿No es así?
+Dialogue: 0,0:42:07.19,0:42:08.28,Top,,0000,0000,0000,,¿No es así?
+Dialogue: 0,0:42:09.96,0:42:12.69,Bot,,0000,0000,0000,,Si no me llevas,\Niré por mi cuenta.
+Dialogue: 0,0:42:09.96,0:42:12.69,Top,,0000,0000,0000,,Si no me llevas,\Niré por mi cuenta.
+Dialogue: 0,0:43:35.01,0:43:36.72,Bot,,0000,0000,0000,,¿Nino?
+Dialogue: 0,0:43:35.01,0:43:36.72,Top,,0000,0000,0000,,¿Nino?
+Dialogue: 0,0:43:36.78,0:43:38.89,Bot,,0000,0000,0000,,Sí.
+Dialogue: 0,0:43:36.78,0:43:38.89,Top,,0000,0000,0000,,Sí.
+Dialogue: 0,0:43:38.95,0:43:39.95,Bot,,0000,0000,0000,,Nino.
+Dialogue: 0,0:43:38.95,0:43:39.95,Top,,0000,0000,0000,,Nino.
+Dialogue: 0,0:43:47.02,0:43:49.43,Bot,,0000,0000,0000,,¿Cómo llegaste aquí?
+Dialogue: 0,0:43:47.02,0:43:49.43,Top,,0000,0000,0000,,¿Cómo llegaste aquí?
+Dialogue: 0,0:43:49.49,0:43:52.15,Bot,,0000,0000,0000,,Seyid Mustafá me trajo.
+Dialogue: 0,0:43:49.49,0:43:52.15,Top,,0000,0000,0000,,Seyid Mustafá me trajo.
+Dialogue: 0,0:44:12.51,0:44:14.48,Bot,,0000,0000,0000,,Te he extrañado tanto.
+Dialogue: 0,0:44:12.51,0:44:14.48,Top,,0000,0000,0000,,Te he extrañado tanto.
+Dialogue: 0,0:45:38.13,0:45:39.13,Bot,,0000,0000,0000,,Seyid.
+Dialogue: 0,0:45:38.13,0:45:39.13,Top,,0000,0000,0000,,Seyid.
+Dialogue: 0,0:45:40.27,0:45:43.01,Bot,,0000,0000,0000,,Ve a buscar un mullah y dile que\Nnecesito casarme de inmediato.
+Dialogue: 0,0:45:40.27,0:45:43.01,Top,,0000,0000,0000,,Ve a buscar un mullah y dile que\Nnecesito casarme de inmediato.
+Dialogue: 0,0:45:43.07,0:45:44.91,Bot,,0000,0000,0000,,No necesitamos un mullah.
+Dialogue: 0,0:45:43.07,0:45:44.91,Top,,0000,0000,0000,,No necesitamos un mullah.
+Dialogue: 0,0:45:44.97,0:45:46.38,Bot,,0000,0000,0000,,Sé cómo llevar a\Ncabo un matrimonio.
+Dialogue: 0,0:45:44.97,0:45:46.38,Top,,0000,0000,0000,,Sé cómo llevar a\Ncabo un matrimonio.
+Dialogue: 0,0:45:46.44,0:45:49.12,Bot,,0000,0000,0000,,Sólo necesito\Npreparar los papeles.
+Dialogue: 0,0:45:46.44,0:45:49.12,Top,,0000,0000,0000,,Sólo necesito\Npreparar los papeles.
+Dialogue: 0,0:45:49.18,0:45:51.27,Bot,,0000,0000,0000,,Bien, dentro de una\Nhora entonces.
+Dialogue: 0,0:45:49.18,0:45:51.27,Top,,0000,0000,0000,,Bien, dentro de una\Nhora entonces.
+Dialogue: 0,0:46:01.59,0:46:03.61,Bot,,0000,0000,0000,,¿Realmente quieres hacer esto?
+Dialogue: 0,0:46:01.59,0:46:03.61,Top,,0000,0000,0000,,¿Realmente quieres hacer esto?
+Dialogue: 0,0:46:04.89,0:46:06.55,Bot,,0000,0000,0000,,¿Quieres?
+Dialogue: 0,0:46:04.89,0:46:06.55,Top,,0000,0000,0000,,¿Quieres?
+Dialogue: 0,0:46:09.03,0:46:12.12,Bot,,0000,0000,0000,,¿Estás preparado para\Ncasarte con una mujer indigna?
+Dialogue: 0,0:46:09.03,0:46:12.12,Top,,0000,0000,0000,,¿Estás preparado para\Ncasarte con una mujer indigna?
+Dialogue: 0,0:46:13.07,0:46:15.98,Bot,,0000,0000,0000,,¿Estás preparada\Npara quedarte aquí?
+Dialogue: 0,0:46:13.07,0:46:15.98,Top,,0000,0000,0000,,¿Estás preparada\Npara quedarte aquí?
+Dialogue: 0,0:46:16.04,0:46:19.56,Bot,,0000,0000,0000,,¿En esta casucha?\N¿No te vas a aburrir?
+Dialogue: 0,0:46:16.04,0:46:19.56,Top,,0000,0000,0000,,¿En esta casucha?\N¿No te vas a aburrir?
+Dialogue: 0,0:46:21.04,0:46:22.04,Bot,,0000,0000,0000,,No.
+Dialogue: 0,0:46:21.04,0:46:22.04,Top,,0000,0000,0000,,No.
+Dialogue: 0,0:46:30.92,0:46:31.96,Bot,,0000,0000,0000,,¿Cómo te llamas?
+Dialogue: 0,0:46:30.92,0:46:31.96,Top,,0000,0000,0000,,¿Cómo te llamas?
+Dialogue: 0,0:46:32.02,0:46:36.10,Bot,,0000,0000,0000,,Ali Khan Shirvanshir.\NHijo de Safar Khan.
+Dialogue: 0,0:46:32.02,0:46:36.10,Top,,0000,0000,0000,,Ali Khan Shirvanshir.\NHijo de Safar Khan.
+Dialogue: 0,0:46:36.16,0:46:37.23,Bot,,0000,0000,0000,,¿Religión?
+Dialogue: 0,0:46:36.16,0:46:37.23,Top,,0000,0000,0000,,¿Religión?
+Dialogue: 0,0:46:37.29,0:46:39.20,Bot,,0000,0000,0000,,Musulmán chiita.
+Dialogue: 0,0:46:37.29,0:46:39.20,Top,,0000,0000,0000,,Musulmán chiita.
+Dialogue: 0,0:46:39.26,0:46:40.63,Bot,,0000,0000,0000,,¿Cuál es tu deseo?
+Dialogue: 0,0:46:39.26,0:46:40.63,Top,,0000,0000,0000,,¿Cuál es tu deseo?
+Dialogue: 0,0:46:43.46,0:46:45.52,Bot,,0000,0000,0000,,Tomar a esta mujer\Ncomo mi esposa.
+Dialogue: 0,0:46:43.46,0:46:45.52,Top,,0000,0000,0000,,Tomar a esta mujer\Ncomo mi esposa.
+Dialogue: 0,0:46:48.00,0:46:49.53,Bot,,0000,0000,0000,,¿Cuál es tu nombre?
+Dialogue: 0,0:46:48.00,0:46:49.53,Top,,0000,0000,0000,,¿Cuál es tu nombre?
+Dialogue: 0,0:46:51.60,0:46:53.27,Bot,,0000,0000,0000,,Princesa Nino Kipiani.
+Dialogue: 0,0:46:51.60,0:46:53.27,Top,,0000,0000,0000,,Princesa Nino Kipiani.
+Dialogue: 0,0:46:55.07,0:46:56.55,Bot,,0000,0000,0000,,¿Religión?
+Dialogue: 0,0:46:55.07,0:46:56.55,Top,,0000,0000,0000,,¿Religión?
+Dialogue: 0,0:46:56.61,0:46:58.35,Bot,,0000,0000,0000,,Georgiana ortodoxa.
+Dialogue: 0,0:46:56.61,0:46:58.35,Top,,0000,0000,0000,,Georgiana ortodoxa.
+Dialogue: 0,0:46:58.41,0:46:59.67,Bot,,0000,0000,0000,,¿Cuál es tu deseo?
+Dialogue: 0,0:46:58.41,0:46:59.67,Top,,0000,0000,0000,,¿Cuál es tu deseo?
+Dialogue: 0,0:47:02.52,0:47:04.49,Bot,,0000,0000,0000,,Ser la esposa de este hombre.
+Dialogue: 0,0:47:02.52,0:47:04.49,Top,,0000,0000,0000,,Ser la esposa de este hombre.
+Dialogue: 0,0:47:04.55,0:47:07.13,Bot,,0000,0000,0000,,¿Deseas conservar tu religión?
+Dialogue: 0,0:47:04.55,0:47:07.13,Top,,0000,0000,0000,,¿Deseas conservar tu religión?
+Dialogue: 0,0:47:07.19,0:47:09.21,Bot,,0000,0000,0000,,Sí.
+Dialogue: 0,0:47:07.19,0:47:09.21,Top,,0000,0000,0000,,Sí.
+Dialogue: 0,0:47:12.46,0:47:16.23,Bot,,0000,0000,0000,,Por favor, firma aquí.
+Dialogue: 0,0:47:12.46,0:47:16.23,Top,,0000,0000,0000,,Por favor, firma aquí.
+Dialogue: 0,0:47:19.43,0:47:21.53,Bot,,0000,0000,0000,,¿Con cuál nombre debo firmar?
+Dialogue: 0,0:47:19.43,0:47:21.53,Top,,0000,0000,0000,,¿Con cuál nombre debo firmar?
+Dialogue: 0,0:47:22.47,0:47:24.44,Bot,,0000,0000,0000,,Con tu nuevo nombre.
+Dialogue: 0,0:47:22.47,0:47:24.44,Top,,0000,0000,0000,,Con tu nuevo nombre.
+Dialogue: 0,0:48:34.71,0:48:39.19,Bot,,0000,0000,0000,,Mis queridos padres, por\Nfavor, no se preocupen por mí.
+Dialogue: 0,0:48:34.71,0:48:39.19,Top,,0000,0000,0000,,Mis queridos padres, por\Nfavor, no se preocupen por mí.
+Dialogue: 0,0:48:39.25,0:48:43.51,Bot,,0000,0000,0000,,Ali y yo nos casamos\Ny todo ha salido bien.
+Dialogue: 0,0:48:39.25,0:48:43.51,Top,,0000,0000,0000,,Ali y yo nos casamos\Ny todo ha salido bien.
+Dialogue: 0,0:48:48.25,0:48:51.33,Bot,,0000,0000,0000,,La vida es simple\Nen las montañas.
+Dialogue: 0,0:48:48.25,0:48:51.33,Top,,0000,0000,0000,,La vida es simple\Nen las montañas.
+Dialogue: 0,0:48:51.39,0:48:54.79,Bot,,0000,0000,0000,,Criamos pollos y cultivamos\Nnuestros propios vegetales.
+Dialogue: 0,0:48:51.39,0:48:54.79,Top,,0000,0000,0000,,Criamos pollos y cultivamos\Nnuestros propios vegetales.
+Dialogue: 0,0:48:57.70,0:49:01.70,Bot,,0000,0000,0000,,Trabajamos todo el día y participamos\Nplenamente en la vida del pueblo.
+Dialogue: 0,0:48:57.70,0:49:01.70,Top,,0000,0000,0000,,Trabajamos todo el día y participamos\Nplenamente en la vida del pueblo.
+Dialogue: 0,0:49:05.77,0:49:08.26,Bot,,0000,0000,0000,,No tenemos ninguna de las\Ncomodidades de la ciudad.
+Dialogue: 0,0:49:05.77,0:49:08.26,Top,,0000,0000,0000,,No tenemos ninguna de las\Ncomodidades de la ciudad.
+Dialogue: 0,0:49:11.04,0:49:13.39,Bot,,0000,0000,0000,,Pero honestamente puedo decir
+Dialogue: 0,0:49:11.04,0:49:13.39,Top,,0000,0000,0000,,Pero honestamente puedo decir
+Dialogue: 0,0:49:13.45,0:49:17.02,Bot,,0000,0000,0000,,que jamás he sido\Ntan feliz en mi vida.
+Dialogue: 0,0:49:13.45,0:49:17.02,Top,,0000,0000,0000,,que jamás he sido\Ntan feliz en mi vida.
+Dialogue: 0,0:49:17.08,0:49:20.18,Bot,,0000,0000,0000,,Con todo mi amor, Nino.
+Dialogue: 0,0:49:17.08,0:49:20.18,Top,,0000,0000,0000,,Con todo mi amor, Nino.
+Dialogue: 0,0:49:40.14,0:49:42.48,Bot,,0000,0000,0000,,Necesito algo que abrigue.
+Dialogue: 0,0:49:40.14,0:49:42.48,Top,,0000,0000,0000,,Necesito algo que abrigue.
+Dialogue: 0,0:49:42.54,0:49:46.09,Bot,,0000,0000,0000,,Algo caliente.\NAlgo caliente.
+Dialogue: 0,0:49:42.54,0:49:46.09,Top,,0000,0000,0000,,Algo caliente.\NAlgo caliente.
+Dialogue: 0,0:50:05.53,0:50:09.34,Bot,,0000,0000,0000,,Mi padre sugiere que\Nnos vayamos a Suecia.
+Dialogue: 0,0:50:05.53,0:50:09.34,Top,,0000,0000,0000,,Mi padre sugiere que\Nnos vayamos a Suecia.
+Dialogue: 0,0:50:09.40,0:50:11.23,Bot,,0000,0000,0000,,A un país neutral.
+Dialogue: 0,0:50:09.40,0:50:11.23,Top,,0000,0000,0000,,A un país neutral.
+Dialogue: 0,0:50:12.41,0:50:15.67,Bot,,0000,0000,0000,,¿Te sugiere cómo podríamos\Nllegar allá en medio de la guerra?
+Dialogue: 0,0:50:12.41,0:50:15.67,Top,,0000,0000,0000,,¿Te sugiere cómo podríamos\Nllegar allá en medio de la guerra?
+Dialogue: 0,0:50:17.14,0:50:18.91,Bot,,0000,0000,0000,,No prestan atención.
+Dialogue: 0,0:50:17.14,0:50:18.91,Top,,0000,0000,0000,,No prestan atención.
+Dialogue: 0,0:50:19.75,0:50:23.09,Bot,,0000,0000,0000,,Cuando les escribas de vuelta,
+Dialogue: 0,0:50:19.75,0:50:23.09,Top,,0000,0000,0000,,Cuando les escribas de vuelta,
+Dialogue: 0,0:50:23.15,0:50:26.58,Bot,,0000,0000,0000,,diles que vivimos como lo hace la\Nmayoría de la gente en nuestro país.
+Dialogue: 0,0:50:23.15,0:50:26.58,Top,,0000,0000,0000,,diles que vivimos como lo hace la\Nmayoría de la gente en nuestro país.
+Dialogue: 0,0:50:27.19,0:50:28.95,Bot,,0000,0000,0000,,Y tiene sentido.
+Dialogue: 0,0:50:27.19,0:50:28.95,Top,,0000,0000,0000,,Y tiene sentido.
+Dialogue: 0,0:51:44.55,0:51:48.65,Bot,,0000,0000,0000,,Otoño de 1917.
+Dialogue: 0,0:51:44.55,0:51:48.65,Top,,0000,0000,0000,,Otoño de 1917.
+Dialogue: 0,0:52:09.99,0:52:12.29,Bot,,0000,0000,0000,,Perteneció a la madre de Ali.
+Dialogue: 0,0:52:09.99,0:52:12.29,Top,,0000,0000,0000,,Perteneció a la madre de Ali.
+Dialogue: 0,0:52:14.66,0:52:16.99,Bot,,0000,0000,0000,,Muchas gracias, Safar Khan.
+Dialogue: 0,0:52:14.66,0:52:16.99,Top,,0000,0000,0000,,Muchas gracias, Safar Khan.
+Dialogue: 0,0:52:18.50,0:52:19.99,Bot,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:52:18.50,0:52:19.99,Top,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:52:26.74,0:52:29.85,Bot,,0000,0000,0000,,¿Sacas el agua del pozo\Ncada mañana, hija mía?
+Dialogue: 0,0:52:26.74,0:52:29.85,Top,,0000,0000,0000,,¿Sacas el agua del pozo\Ncada mañana, hija mía?
+Dialogue: 0,0:52:32.85,0:52:34.59,Bot,,0000,0000,0000,,¿Y cocinas toda la comida?
+Dialogue: 0,0:52:32.85,0:52:34.59,Top,,0000,0000,0000,,¿Y cocinas toda la comida?
+Dialogue: 0,0:52:34.65,0:52:35.98,Bot,,0000,0000,0000,,Así es.
+Dialogue: 0,0:52:34.65,0:52:35.98,Top,,0000,0000,0000,,Así es.
+Dialogue: 0,0:52:39.32,0:52:40.55,Bot,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:52:39.32,0:52:40.55,Top,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:52:48.26,0:52:50.03,Bot,,0000,0000,0000,,Apruebo a tu esposa, Ali Khan.
+Dialogue: 0,0:52:48.26,0:52:50.03,Top,,0000,0000,0000,,Apruebo a tu esposa, Ali Khan.
+Dialogue: 0,0:52:51.60,0:52:53.84,Bot,,0000,0000,0000,,Pero...
+Dialogue: 0,0:52:51.60,0:52:53.84,Top,,0000,0000,0000,,Pero...
+Dialogue: 0,0:52:53.90,0:52:56.71,Bot,,0000,0000,0000,,Es muy mala cocinera.
+Dialogue: 0,0:52:53.90,0:52:56.71,Top,,0000,0000,0000,,Es muy mala cocinera.
+Dialogue: 0,0:52:56.77,0:53:00.48,Bot,,0000,0000,0000,,¿Safar Khan, puedo\Ntentarlo con un poco más?
+Dialogue: 0,0:52:56.77,0:53:00.48,Top,,0000,0000,0000,,¿Safar Khan, puedo\Ntentarlo con un poco más?
+Dialogue: 0,0:53:00.54,0:53:01.95,Bot,,0000,0000,0000,,No, gracias. Delicioso.
+Dialogue: 0,0:53:00.54,0:53:01.95,Top,,0000,0000,0000,,No, gracias. Delicioso.
+Dialogue: 0,0:53:02.01,0:53:03.50,Bot,,0000,0000,0000,,No podría.
+Dialogue: 0,0:53:02.01,0:53:03.50,Top,,0000,0000,0000,,No podría.
+Dialogue: 0,0:53:04.54,0:53:05.89,Bot,,0000,0000,0000,,¿Cómo está la vida en Bakú?
+Dialogue: 0,0:53:04.54,0:53:05.89,Top,,0000,0000,0000,,¿Cómo está la vida en Bakú?
+Dialogue: 0,0:53:05.95,0:53:08.72,Bot,,0000,0000,0000,,Todo sigue igual, excepto que...
+Dialogue: 0,0:53:05.95,0:53:08.72,Top,,0000,0000,0000,,Todo sigue igual, excepto que...
+Dialogue: 0,0:53:08.78,0:53:10.76,Bot,,0000,0000,0000,,Las calles son un caos,
+Dialogue: 0,0:53:08.78,0:53:10.76,Top,,0000,0000,0000,,Las calles son un caos,
+Dialogue: 0,0:53:10.82,0:53:14.58,Bot,,0000,0000,0000,,porque nuestro\Ngobernador ruso huyó.
+Dialogue: 0,0:53:10.82,0:53:14.58,Top,,0000,0000,0000,,porque nuestro\Ngobernador ruso huyó.
+Dialogue: 0,0:53:15.45,0:53:16.93,Bot,,0000,0000,0000,,¿Por qué motivo?
+Dialogue: 0,0:53:15.45,0:53:16.93,Top,,0000,0000,0000,,¿Por qué motivo?
+Dialogue: 0,0:53:16.99,0:53:19.29,Bot,,0000,0000,0000,,El zar abdicó.
+Dialogue: 0,0:53:16.99,0:53:19.29,Top,,0000,0000,0000,,El zar abdicó.
+Dialogue: 0,0:53:20.46,0:53:22.00,Bot,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:53:20.46,0:53:22.00,Top,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:53:22.06,0:53:23.77,Bot,,0000,0000,0000,,Sí.
+Dialogue: 0,0:53:22.06,0:53:23.77,Top,,0000,0000,0000,,Sí.
+Dialogue: 0,0:53:23.83,0:53:25.94,Bot,,0000,0000,0000,,Así que todos los rusos\Nhan dejado la ciudad.
+Dialogue: 0,0:53:23.83,0:53:25.94,Top,,0000,0000,0000,,Así que todos los rusos\Nhan dejado la ciudad.
+Dialogue: 0,0:53:26.00,0:53:29.56,Bot,,0000,0000,0000,,Y nuestros soldados volvieron del\Nfrente, libres de su juramento al zar.
+Dialogue: 0,0:53:26.00,0:53:29.56,Top,,0000,0000,0000,,Y nuestros soldados volvieron del\Nfrente, libres de su juramento al zar.
+Dialogue: 0,0:53:34.44,0:53:36.42,Bot,,0000,0000,0000,,¿Qué hay de los Nakhararyans?
+Dialogue: 0,0:53:34.44,0:53:36.42,Top,,0000,0000,0000,,¿Qué hay de los Nakhararyans?
+Dialogue: 0,0:53:36.48,0:53:39.95,Bot,,0000,0000,0000,,Toda la familia Nakhararyan\Nescapó a Moscú.
+Dialogue: 0,0:53:36.48,0:53:39.95,Top,,0000,0000,0000,,Toda la familia Nakhararyan\Nescapó a Moscú.
+Dialogue: 0,0:53:40.01,0:53:41.95,Bot,,0000,0000,0000,,¿Y mi familia?
+Dialogue: 0,0:53:40.01,0:53:41.95,Top,,0000,0000,0000,,¿Y mi familia?
+Dialogue: 0,0:53:42.01,0:53:45.64,Bot,,0000,0000,0000,,Creo que se fueron muy\Nsensatamente a Tbilisi.
+Dialogue: 0,0:53:42.01,0:53:45.64,Top,,0000,0000,0000,,Creo que se fueron muy\Nsensatamente a Tbilisi.
+Dialogue: 0,0:53:51.59,0:53:53.56,Bot,,0000,0000,0000,,¿Eso significa que\Npodemos regresar?
+Dialogue: 0,0:53:51.59,0:53:53.56,Top,,0000,0000,0000,,¿Eso significa que\Npodemos regresar?
+Dialogue: 0,0:53:54.49,0:53:56.25,Bot,,0000,0000,0000,,No veo objeción.
+Dialogue: 0,0:53:54.49,0:53:56.25,Top,,0000,0000,0000,,No veo objeción.
+Dialogue: 0,0:54:08.37,0:54:11.67,Bot,,0000,0000,0000,,Hemos sido felices\Naquí. ¿Por qué irnos?
+Dialogue: 0,0:54:08.37,0:54:11.67,Top,,0000,0000,0000,,Hemos sido felices\Naquí. ¿Por qué irnos?
+Dialogue: 0,0:54:15.58,0:54:19.94,Bot,,0000,0000,0000,,Esta es la mejor oportunidad que\Nhemos tenido de ser independientes.
+Dialogue: 0,0:54:15.58,0:54:19.94,Top,,0000,0000,0000,,Esta es la mejor oportunidad que\Nhemos tenido de ser independientes.
+Dialogue: 0,0:54:59.02,0:55:00.99,Bot,,0000,0000,0000,,¿Estaba así cuando te fuiste?
+Dialogue: 0,0:54:59.02,0:55:00.99,Top,,0000,0000,0000,,¿Estaba así cuando te fuiste?
+Dialogue: 0,0:55:02.03,0:55:03.03,Bot,,0000,0000,0000,,No.
+Dialogue: 0,0:55:02.03,0:55:03.03,Top,,0000,0000,0000,,No.
+Dialogue: 0,0:55:14.84,0:55:18.95,Bot,,0000,0000,0000,,¡La revolución en Rusia\Ncausó caos en todos lados!
+Dialogue: 0,0:55:14.84,0:55:18.95,Top,,0000,0000,0000,,¡La revolución en Rusia\Ncausó caos en todos lados!
+Dialogue: 0,0:55:19.01,0:55:23.42,Bot,,0000,0000,0000,,Los rusos pudieron haberse ido,\Npero todavía seguimos en peligro.
+Dialogue: 0,0:55:19.01,0:55:23.42,Top,,0000,0000,0000,,Los rusos pudieron haberse ido,\Npero todavía seguimos en peligro.
+Dialogue: 0,0:55:23.48,0:55:26.39,Bot,,0000,0000,0000,,Hermanos, acérquense, por favor.
+Dialogue: 0,0:55:23.48,0:55:26.39,Top,,0000,0000,0000,,Hermanos, acérquense, por favor.
+Dialogue: 0,0:55:26.45,0:55:29.51,Bot,,0000,0000,0000,,Quiero dejarles la\Nsituación clara.
+Dialogue: 0,0:55:26.45,0:55:29.51,Top,,0000,0000,0000,,Quiero dejarles la\Nsituación clara.
+Dialogue: 0,0:55:30.86,0:55:35.43,Bot,,0000,0000,0000,,Nuestro pueblo está rodeado de\Ndesertores de los ejércitos del zar.
+Dialogue: 0,0:55:30.86,0:55:35.43,Top,,0000,0000,0000,,Nuestro pueblo está rodeado de\Ndesertores de los ejércitos del zar.
+Dialogue: 0,0:55:35.49,0:55:39.61,Bot,,0000,0000,0000,,Van de pueblo en pueblo\Nmatando a todos a su paso.
+Dialogue: 0,0:55:35.49,0:55:39.61,Top,,0000,0000,0000,,Van de pueblo en pueblo\Nmatando a todos a su paso.
+Dialogue: 0,0:55:39.67,0:55:43.04,Bot,,0000,0000,0000,,Han prendido fuego a los campos\Npetroleros y están casi sobre nosotros,
+Dialogue: 0,0:55:39.67,0:55:43.04,Top,,0000,0000,0000,,Han prendido fuego a los campos\Npetroleros y están casi sobre nosotros,
+Dialogue: 0,0:55:43.10,0:55:45.51,Bot,,0000,0000,0000,,desesperados y\Nresueltos a saquear y
+Dialogue: 0,0:55:43.10,0:55:45.51,Top,,0000,0000,0000,,desesperados y\Nresueltos a saquear y
+Dialogue: 0,0:55:45.51,0:55:48.51,Bot,,0000,0000,0000,,destruir nuestras casas,\Nviolar a nuestras mujeres.
+Dialogue: 0,0:55:45.51,0:55:48.51,Top,,0000,0000,0000,,destruir nuestras casas,\Nviolar a nuestras mujeres.
+Dialogue: 0,0:55:49.94,0:55:52.05,Bot,,0000,0000,0000,,¡Nos superan en número!
+Dialogue: 0,0:55:49.94,0:55:52.05,Top,,0000,0000,0000,,¡Nos superan en número!
+Dialogue: 0,0:55:52.11,0:55:54.71,Bot,,0000,0000,0000,,Y tenemos pocas armas.
+Dialogue: 0,0:55:52.11,0:55:54.71,Top,,0000,0000,0000,,Y tenemos pocas armas.
+Dialogue: 0,0:55:56.22,0:56:00.43,Bot,,0000,0000,0000,,¡Les pido que se unan a nosotros\Npara defender nuestras casas
+Dialogue: 0,0:55:56.22,0:56:00.43,Top,,0000,0000,0000,,¡Les pido que se unan a nosotros\Npara defender nuestras casas
+Dialogue: 0,0:56:00.49,0:56:02.96,Bot,,0000,0000,0000,,y alejar al enemigo\Nde nuestra puerta!
+Dialogue: 0,0:56:00.49,0:56:02.96,Top,,0000,0000,0000,,y alejar al enemigo\Nde nuestra puerta!
+Dialogue: 0,0:56:12.23,0:56:15.07,Bot,,0000,0000,0000,,Regresas justo cuando\Nmás te necesitamos.
+Dialogue: 0,0:56:12.23,0:56:15.07,Top,,0000,0000,0000,,Regresas justo cuando\Nmás te necesitamos.
+Dialogue: 0,0:56:17.94,0:56:19.67,Bot,,0000,0000,0000,,Ali Khan.
+Dialogue: 0,0:56:17.94,0:56:19.67,Top,,0000,0000,0000,,Ali Khan.
+Dialogue: 0,0:56:20.47,0:56:21.71,Bot,,0000,0000,0000,,¿Qué le pasó a tu ojo?
+Dialogue: 0,0:56:20.47,0:56:21.71,Top,,0000,0000,0000,,¿Qué le pasó a tu ojo?
+Dialogue: 0,0:56:21.77,0:56:23.71,Bot,,0000,0000,0000,,Una pieza de metralla rusa.
+Dialogue: 0,0:56:21.77,0:56:23.71,Top,,0000,0000,0000,,Una pieza de metralla rusa.
+Dialogue: 0,0:56:27.18,0:56:31.96,Bot,,0000,0000,0000,,Un día luchando por los rusos y el\Nsiguiente peleando contra ellos.
+Dialogue: 0,0:56:27.18,0:56:31.96,Top,,0000,0000,0000,,Un día luchando por los rusos y el\Nsiguiente peleando contra ellos.
+Dialogue: 0,0:56:32.02,0:56:34.83,Bot,,0000,0000,0000,,Al menos nos entrenaron.
+Dialogue: 0,0:56:32.02,0:56:34.83,Top,,0000,0000,0000,,Al menos nos entrenaron.
+Dialogue: 0,0:56:34.89,0:56:35.95,Bot,,0000,0000,0000,,Ven.
+Dialogue: 0,0:56:34.89,0:56:35.95,Top,,0000,0000,0000,,Ven.
+Dialogue: 0,0:56:39.93,0:56:41.83,Bot,,0000,0000,0000,,Necesitamos empezar\Na prepararnos.
+Dialogue: 0,0:56:39.93,0:56:41.83,Top,,0000,0000,0000,,Necesitamos empezar\Na prepararnos.
+Dialogue: 0,0:56:41.89,0:56:44.57,Bot,,0000,0000,0000,,Los desertores estarán\Naquí en cuestión de horas.
+Dialogue: 0,0:56:41.89,0:56:44.57,Top,,0000,0000,0000,,Los desertores estarán\Naquí en cuestión de horas.
+Dialogue: 0,0:56:50.07,0:56:54.75,Bot,,0000,0000,0000,,Por favor, lleva estos instrumentos\Nadentro y esterilízalos.
+Dialogue: 0,0:56:50.07,0:56:54.75,Top,,0000,0000,0000,,Por favor, lleva estos instrumentos\Nadentro y esterilízalos.
+Dialogue: 0,0:57:11.92,0:57:14.57,Bot,,0000,0000,0000,,Nuestro trabajo es\Nproteger el casco antiguo.
+Dialogue: 0,0:57:11.92,0:57:14.57,Top,,0000,0000,0000,,Nuestro trabajo es\Nproteger el casco antiguo.
+Dialogue: 0,0:57:14.63,0:57:19.04,Bot,,0000,0000,0000,,Nadie pasa por nosotros y nadie\Ndispara hasta que reciba la orden.
+Dialogue: 0,0:57:14.63,0:57:19.04,Top,,0000,0000,0000,,Nadie pasa por nosotros y nadie\Ndispara hasta que reciba la orden.
+Dialogue: 0,0:57:19.10,0:57:21.29,Bot,,0000,0000,0000,,Prepárense, a sus posiciones.
+Dialogue: 0,0:57:19.10,0:57:21.29,Top,,0000,0000,0000,,Prepárense, a sus posiciones.
+Dialogue: 0,0:59:00.90,0:59:02.96,Bot,,0000,0000,0000,,Oigan.
+Dialogue: 0,0:59:00.90,0:59:02.96,Top,,0000,0000,0000,,Oigan.
+Dialogue: 0,0:59:18.95,0:59:20.33,Bot,,0000,0000,0000,,¡Ahora!
+Dialogue: 0,0:59:18.95,0:59:20.33,Top,,0000,0000,0000,,¡Ahora!
+Dialogue: 0,1:01:35.35,1:01:37.15,Bot,,0000,0000,0000,,Mehmed.
+Dialogue: 0,1:01:35.35,1:01:37.15,Top,,0000,0000,0000,,Mehmed.
+Dialogue: 0,1:01:47.17,1:01:48.50,Bot,,0000,0000,0000,,Mehmed.
+Dialogue: 0,1:01:47.17,1:01:48.50,Top,,0000,0000,0000,,Mehmed.
+Dialogue: 0,1:01:50.84,1:01:52.14,Bot,,0000,0000,0000,,¿Qué pasó?
+Dialogue: 0,1:01:50.84,1:01:52.14,Top,,0000,0000,0000,,¿Qué pasó?
+Dialogue: 0,1:01:52.20,1:01:53.51,Bot,,0000,0000,0000,,Mehmed. Mehmed.
+Dialogue: 0,1:01:52.20,1:01:53.51,Top,,0000,0000,0000,,Mehmed. Mehmed.
+Dialogue: 0,1:02:09.25,1:02:10.30,Bot,,0000,0000,0000,,Tenemos que irnos.
+Dialogue: 0,1:02:09.25,1:02:10.30,Top,,0000,0000,0000,,Tenemos que irnos.
+Dialogue: 0,1:02:10.36,1:02:12.19,Bot,,0000,0000,0000,,Tengo que buscar a Nino.
+Dialogue: 0,1:02:10.36,1:02:12.19,Top,,0000,0000,0000,,Tengo que buscar a Nino.
+Dialogue: 0,1:02:33.21,1:02:34.39,Bot,,0000,0000,0000,,Tenemos que irnos.
+Dialogue: 0,1:02:33.21,1:02:34.39,Top,,0000,0000,0000,,Tenemos que irnos.
+Dialogue: 0,1:02:34.45,1:02:37.06,Bot,,0000,0000,0000,,¿Qué? ¿Qué hay de\Ntodos los heridos?
+Dialogue: 0,1:02:34.45,1:02:37.06,Top,,0000,0000,0000,,¿Qué? ¿Qué hay de\Ntodos los heridos?
+Dialogue: 0,1:02:37.12,1:02:38.39,Bot,,0000,0000,0000,,La ciudad está a punto\Nde ser destruida.
+Dialogue: 0,1:02:37.12,1:02:38.39,Top,,0000,0000,0000,,La ciudad está a punto\Nde ser destruida.
+Dialogue: 0,1:02:38.42,1:02:40.29,Bot,,0000,0000,0000,,Tenemos que irnos.
+Dialogue: 0,1:02:38.42,1:02:40.29,Top,,0000,0000,0000,,Tenemos que irnos.
+Dialogue: 0,1:02:44.62,1:02:46.09,Bot,,0000,0000,0000,,¿Estás bien?
+Dialogue: 0,1:02:44.62,1:02:46.09,Top,,0000,0000,0000,,¿Estás bien?
+Dialogue: 0,1:02:47.89,1:02:49.84,Bot,,0000,0000,0000,,Me quedaré aquí con Ilyas.
+Dialogue: 0,1:02:47.89,1:02:49.84,Top,,0000,0000,0000,,Me quedaré aquí con Ilyas.
+Dialogue: 0,1:02:49.90,1:02:51.50,Bot,,0000,0000,0000,,Tienes que irte con\Nmi padre en Persia.
+Dialogue: 0,1:02:49.90,1:02:51.50,Top,,0000,0000,0000,,Tienes que irte con\Nmi padre en Persia.
+Dialogue: 0,1:02:51.56,1:02:55.07,Bot,,0000,0000,0000,,- No, quiero quedarme contigo.\N- No, no puedes.
+Dialogue: 0,1:02:51.56,1:02:55.07,Top,,0000,0000,0000,,- No, quiero quedarme contigo.\N- No, no puedes.
+Dialogue: 0,1:02:55.13,1:02:56.60,Bot,,0000,0000,0000,,Esta lucha no ha terminado aún.
+Dialogue: 0,1:02:55.13,1:02:56.60,Top,,0000,0000,0000,,Esta lucha no ha terminado aún.
+Dialogue: 0,1:03:00.44,1:03:02.37,Bot,,0000,0000,0000,,Llamaré al bebé Ali.
+Dialogue: 0,1:03:00.44,1:03:02.37,Top,,0000,0000,0000,,Llamaré al bebé Ali.
+Dialogue: 0,1:04:01.53,1:04:03.31,Bot,,0000,0000,0000,,Este es Yahya Guli.
+Dialogue: 0,1:04:01.53,1:04:03.31,Top,,0000,0000,0000,,Este es Yahya Guli.
+Dialogue: 0,1:04:03.37,1:04:05.17,Bot,,0000,0000,0000,,Él te mostrará tu habitación.
+Dialogue: 0,1:04:03.37,1:04:05.17,Top,,0000,0000,0000,,Él te mostrará tu habitación.
+Dialogue: 0,1:04:18.25,1:04:20.06,Bot,,0000,0000,0000,,Bienvenida a Persia, mi señora.
+Dialogue: 0,1:04:18.25,1:04:20.06,Top,,0000,0000,0000,,Bienvenida a Persia, mi señora.
+Dialogue: 0,1:04:20.12,1:04:23.35,Bot,,0000,0000,0000,,Soy su eunuco. Por favor.
+Dialogue: 0,1:04:20.12,1:04:23.35,Top,,0000,0000,0000,,Soy su eunuco. Por favor.
+Dialogue: 0,1:04:43.51,1:04:45.00,Bot,,0000,0000,0000,,Sígame, princesa.
+Dialogue: 0,1:04:43.51,1:04:45.00,Top,,0000,0000,0000,,Sígame, princesa.
+Dialogue: 0,1:05:34.76,1:05:36.19,Bot,,0000,0000,0000,,Por favor.
+Dialogue: 0,1:05:34.76,1:05:36.19,Top,,0000,0000,0000,,Por favor.
+Dialogue: 0,1:06:11.20,1:06:15.67,Bot,,0000,0000,0000,,Creo que debe ser muy agotador
+Dialogue: 0,1:06:11.20,1:06:15.67,Top,,0000,0000,0000,,Creo que debe ser muy agotador
+Dialogue: 0,1:06:15.73,1:06:18.29,Bot,,0000,0000,0000,,ser la única esposa\Nde un joven marido.
+Dialogue: 0,1:06:15.73,1:06:18.29,Top,,0000,0000,0000,,ser la única esposa\Nde un joven marido.
+Dialogue: 0,1:06:20.24,1:06:24.18,Bot,,0000,0000,0000,,Pero por supuesto, todo lo que tienes\Nque hacer cuando sea demasiado para ti
+Dialogue: 0,1:06:20.24,1:06:24.18,Top,,0000,0000,0000,,Pero por supuesto, todo lo que tienes\Nque hacer cuando sea demasiado para ti
+Dialogue: 0,1:06:24.24,1:06:28.42,Bot,,0000,0000,0000,,es mandarlo con los\Nmuchachos de baile.
+Dialogue: 0,1:06:24.24,1:06:28.42,Top,,0000,0000,0000,,es mandarlo con los\Nmuchachos de baile.
+Dialogue: 0,1:06:30.35,1:06:32.54,Bot,,0000,0000,0000,,¿Alguna vez te ha\Npasado alguna enfermedad?
+Dialogue: 0,1:06:30.35,1:06:32.54,Top,,0000,0000,0000,,¿Alguna vez te ha\Npasado alguna enfermedad?
+Dialogue: 0,1:06:34.75,1:06:35.75,Bot,,0000,0000,0000,,No.
+Dialogue: 0,1:06:34.75,1:06:35.75,Top,,0000,0000,0000,,No.
+Dialogue: 0,1:06:40.79,1:06:42.78,Bot,,0000,0000,0000,,Tienes mucha suerte con él.
+Dialogue: 0,1:06:40.79,1:06:42.78,Top,,0000,0000,0000,,Tienes mucha suerte con él.
+Dialogue: 0,1:06:47.87,1:06:50.38,Bot,,0000,0000,0000,,Usa esto.
+Dialogue: 0,1:06:47.87,1:06:50.38,Top,,0000,0000,0000,,Usa esto.
+Dialogue: 0,1:06:50.44,1:06:53.21,Bot,,0000,0000,0000,,Úsalo, vamos.
+Dialogue: 0,1:06:50.44,1:06:53.21,Top,,0000,0000,0000,,Úsalo, vamos.
+Dialogue: 0,1:06:53.27,1:06:56.54,Bot,,0000,0000,0000,,Te protegerá contra\Ncualquier rival.
+Dialogue: 0,1:06:53.27,1:06:56.54,Top,,0000,0000,0000,,Te protegerá contra\Ncualquier rival.
+Dialogue: 0,1:06:59.74,1:07:01.24,Bot,,0000,0000,0000,,Gracias.
+Dialogue: 0,1:06:59.74,1:07:01.24,Top,,0000,0000,0000,,Gracias.
+Dialogue: 0,1:07:27.41,1:07:28.84,Bot,,0000,0000,0000,,¿Alguna noticia?
+Dialogue: 0,1:07:27.41,1:07:28.84,Top,,0000,0000,0000,,¿Alguna noticia?
+Dialogue: 0,1:07:47.93,1:07:49.84,Bot,,0000,0000,0000,,¿Qué es todo esto?
+Dialogue: 0,1:07:47.93,1:07:49.84,Top,,0000,0000,0000,,¿Qué es todo esto?
+Dialogue: 0,1:07:49.90,1:07:52.37,Bot,,0000,0000,0000,,Te dije que no\Nquiero usar un velo.
+Dialogue: 0,1:07:49.90,1:07:52.37,Top,,0000,0000,0000,,Te dije que no\Nquiero usar un velo.
+Dialogue: 0,1:07:52.43,1:07:54.17,Bot,,0000,0000,0000,,Lo siento, princesa.
+Dialogue: 0,1:07:52.43,1:07:54.17,Top,,0000,0000,0000,,Lo siento, princesa.
+Dialogue: 0,1:07:54.23,1:07:57.44,Bot,,0000,0000,0000,,No puedo permitirle salir\Ndel harén sin uno puesto.
+Dialogue: 0,1:07:54.23,1:07:57.44,Top,,0000,0000,0000,,No puedo permitirle salir\Ndel harén sin uno puesto.
+Dialogue: 0,1:07:57.50,1:07:58.94,Bot,,0000,0000,0000,,¿Qué quieres decir?
+Dialogue: 0,1:07:57.50,1:07:58.94,Top,,0000,0000,0000,,¿Qué quieres decir?
+Dialogue: 0,1:07:59.17,1:08:01.15,Bot,,0000,0000,0000,,Sólo voy a Bazaar.
+Dialogue: 0,1:07:59.17,1:08:01.15,Top,,0000,0000,0000,,Sólo voy a Bazaar.
+Dialogue: 0,1:08:01.21,1:08:04.65,Bot,,0000,0000,0000,,Tiene que usar un velo,\Nes la ley en esta tierra.
+Dialogue: 0,1:08:01.21,1:08:04.65,Top,,0000,0000,0000,,Tiene que usar un velo,\Nes la ley en esta tierra.
+Dialogue: 0,1:08:04.71,1:08:07.52,Bot,,0000,0000,0000,,No puedo dejar que la arresten.
+Dialogue: 0,1:08:04.71,1:08:07.52,Top,,0000,0000,0000,,No puedo dejar que la arresten.
+Dialogue: 0,1:08:07.58,1:08:09.25,Bot,,0000,0000,0000,,¿Que me arresten?
+Dialogue: 0,1:08:07.58,1:08:09.25,Top,,0000,0000,0000,,¿Que me arresten?
+Dialogue: 0,1:08:14.42,1:08:16.39,Bot,,0000,0000,0000,,¡Entonces me quedaré aquí!
+Dialogue: 0,1:08:14.42,1:08:16.39,Top,,0000,0000,0000,,¡Entonces me quedaré aquí!
+Dialogue: 0,1:08:16.45,1:08:17.80,Bot,,0000,0000,0000,,Me quedaré dentro.
+Dialogue: 0,1:08:16.45,1:08:17.80,Top,,0000,0000,0000,,Me quedaré dentro.
+Dialogue: 0,1:08:17.86,1:08:20.29,Bot,,0000,0000,0000,,Por favor, vete.
+Dialogue: 0,1:08:17.86,1:08:20.29,Top,,0000,0000,0000,,Por favor, vete.
+Dialogue: 0,1:08:21.59,1:08:23.39,Bot,,0000,0000,0000,,Gracias.
+Dialogue: 0,1:08:21.59,1:08:23.39,Top,,0000,0000,0000,,Gracias.
+Dialogue: 0,1:08:24.50,1:08:26.40,Bot,,0000,0000,0000,,Vete, fuera.
+Dialogue: 0,1:08:24.50,1:08:26.40,Top,,0000,0000,0000,,Vete, fuera.
+Dialogue: 0,1:08:42.95,1:08:46.46,Bot,,0000,0000,0000,,Han pasado semanas\Nsin saber nada de ti, Ali.
+Dialogue: 0,1:08:42.95,1:08:46.46,Top,,0000,0000,0000,,Han pasado semanas\Nsin saber nada de ti, Ali.
+Dialogue: 0,1:08:46.52,1:08:48.28,Bot,,0000,0000,0000,,Es muy solo aquí.
+Dialogue: 0,1:08:46.52,1:08:48.28,Top,,0000,0000,0000,,Es muy solo aquí.
+Dialogue: 0,1:08:52.76,1:08:54.93,Bot,,0000,0000,0000,,Por favor, ven por mí.
+Dialogue: 0,1:08:52.76,1:08:54.93,Top,,0000,0000,0000,,Por favor, ven por mí.
+Dialogue: 0,1:08:54.99,1:08:59.54,Bot,,0000,0000,0000,,Me temo que mi estado mental puede\Nque no sea bueno para el bebé.
+Dialogue: 0,1:08:54.99,1:08:59.54,Top,,0000,0000,0000,,Me temo que mi estado mental puede\Nque no sea bueno para el bebé.
+Dialogue: 0,1:08:59.60,1:09:02.24,Bot,,0000,0000,0000,,Prométeme que vendrás\Ntan pronto puedas.
+Dialogue: 0,1:08:59.60,1:09:02.24,Top,,0000,0000,0000,,Prométeme que vendrás\Ntan pronto puedas.
+Dialogue: 0,1:10:23.92,1:10:26.35,Bot,,0000,0000,0000,,- Fatali Khan.\N- Ali.
+Dialogue: 0,1:10:23.92,1:10:26.35,Top,,0000,0000,0000,,- Fatali Khan.\N- Ali.
+Dialogue: 0,1:10:27.65,1:10:30.66,Bot,,0000,0000,0000,,- ¿Cuándo llegaste aquí?\N- Esta tarde.
+Dialogue: 0,1:10:27.65,1:10:30.66,Top,,0000,0000,0000,,- ¿Cuándo llegaste aquí?\N- Esta tarde.
+Dialogue: 0,1:10:30.72,1:10:34.30,Bot,,0000,0000,0000,,El Consejo Nacional me\Nha dado un trabajo.
+Dialogue: 0,1:10:30.72,1:10:34.30,Top,,0000,0000,0000,,El Consejo Nacional me\Nha dado un trabajo.
+Dialogue: 0,1:10:34.36,1:10:36.00,Bot,,0000,0000,0000,,¿Cuál?
+Dialogue: 0,1:10:34.36,1:10:36.00,Top,,0000,0000,0000,,¿Cuál?
+Dialogue: 0,1:10:36.06,1:10:40.77,Bot,,0000,0000,0000,,Bueno, es el anuncio\Nde un nuevo país.
+Dialogue: 0,1:10:36.06,1:10:40.77,Top,,0000,0000,0000,,Bueno, es el anuncio\Nde un nuevo país.
+Dialogue: 0,1:10:40.83,1:10:43.74,Bot,,0000,0000,0000,,Fatali Khan está aquí para\Nproclamar nuestra independencia.
+Dialogue: 0,1:10:40.83,1:10:43.74,Top,,0000,0000,0000,,Fatali Khan está aquí para\Nproclamar nuestra independencia.
+Dialogue: 0,1:10:43.80,1:10:45.34,Bot,,0000,0000,0000,,Eso es extraordinario.
+Dialogue: 0,1:10:43.80,1:10:45.34,Top,,0000,0000,0000,,Eso es extraordinario.
+Dialogue: 0,1:10:48.41,1:10:50.05,Bot,,0000,0000,0000,,¡Sí!
+Dialogue: 0,1:10:48.41,1:10:50.05,Top,,0000,0000,0000,,¡Sí!
+Dialogue: 0,1:11:02.02,1:11:06.83,Bot,,0000,0000,0000,,Declaro la creación de una\Nnueva nación soberana.
+Dialogue: 0,1:11:02.02,1:11:06.83,Top,,0000,0000,0000,,Declaro la creación de una\Nnueva nación soberana.
+Dialogue: 0,1:11:06.89,1:11:12.75,Bot,,0000,0000,0000,,Garantizará derechos civiles y\Npolíticos a todos sus ciudadanos,
+Dialogue: 0,1:11:06.89,1:11:12.75,Top,,0000,0000,0000,,Garantizará derechos civiles y\Npolíticos a todos sus ciudadanos,
+Dialogue: 0,1:11:12.76,1:11:18.71,Bot,,0000,0000,0000,,sin importar su origen étnico,\Nreligión, clase o género.
+Dialogue: 0,1:11:12.76,1:11:18.71,Top,,0000,0000,0000,,sin importar su origen étnico,\Nreligión, clase o género.
+Dialogue: 0,1:11:18.77,1:11:21.61,Bot,,0000,0000,0000,,La República Democrática\Nde Azerbaiyán.
+Dialogue: 0,1:11:18.77,1:11:21.61,Top,,0000,0000,0000,,La República Democrática\Nde Azerbaiyán.
+Dialogue: 0,1:11:26.61,1:11:27.99,Bot,,0000,0000,0000,,Prometamos fidelidad aquí
+Dialogue: 0,1:11:26.61,1:11:27.99,Top,,0000,0000,0000,,Prometamos fidelidad aquí
+Dialogue: 0,1:11:28.05,1:11:30.85,Bot,,0000,0000,0000,,y digamos en voz alta nuestra\Npromesa a nuestro nuevo país.
+Dialogue: 0,1:11:28.05,1:11:30.85,Top,,0000,0000,0000,,y digamos en voz alta nuestra\Npromesa a nuestro nuevo país.
+Dialogue: 0,1:11:32.42,1:11:34.78,Bot,,0000,0000,0000,,- Nuestra bandera está izada.\N- ¡Nuestra bandera está izada!
+Dialogue: 0,1:11:32.42,1:11:34.78,Top,,0000,0000,0000,,- Nuestra bandera está izada.\N- ¡Nuestra bandera está izada!
+Dialogue: 0,1:11:34.82,1:11:37.93,Bot,,0000,0000,0000,,- Y jamás caerá.\N- ¡Y jamás caerá!
+Dialogue: 0,1:11:34.82,1:11:37.93,Top,,0000,0000,0000,,- Y jamás caerá.\N- ¡Y jamás caerá!
+Dialogue: 0,1:12:32.18,1:12:35.15,Bot,,0000,0000,0000,,Pensé que te había perdido, Ali.
+Dialogue: 0,1:12:32.18,1:12:35.15,Top,,0000,0000,0000,,Pensé que te había perdido, Ali.
+Dialogue: 0,1:12:35.21,1:12:37.99,Bot,,0000,0000,0000,,Pensé que estaría aquí\Npor el resto de mi vida.
+Dialogue: 0,1:12:35.21,1:12:37.99,Top,,0000,0000,0000,,Pensé que estaría aquí\Npor el resto de mi vida.
+Dialogue: 0,1:12:38.05,1:12:40.86,Bot,,0000,0000,0000,,- ¿Cuándo podemos irnos a casa?\N- Aún no.
+Dialogue: 0,1:12:38.05,1:12:40.86,Top,,0000,0000,0000,,- ¿Cuándo podemos irnos a casa?\N- Aún no.
+Dialogue: 0,1:12:40.92,1:12:42.86,Bot,,0000,0000,0000,,Pero cuando nazca el\Nbebé podremos irnos.
+Dialogue: 0,1:12:40.92,1:12:42.86,Top,,0000,0000,0000,,Pero cuando nazca el\Nbebé podremos irnos.
+Dialogue: 0,1:12:42.92,1:12:45.93,Bot,,0000,0000,0000,,No puedo esperar\Ntanto tiempo, no puedo.
+Dialogue: 0,1:12:42.92,1:12:45.93,Top,,0000,0000,0000,,No puedo esperar\Ntanto tiempo, no puedo.
+Dialogue: 0,1:12:45.99,1:12:48.77,Bot,,0000,0000,0000,,Me siento como una prisionera.
+Dialogue: 0,1:12:45.99,1:12:48.77,Top,,0000,0000,0000,,Me siento como una prisionera.
+Dialogue: 0,1:12:48.83,1:12:52.17,Bot,,0000,0000,0000,,No puedo salir contigo.\NNo puedo recibir invitados.
+Dialogue: 0,1:12:48.83,1:12:52.17,Top,,0000,0000,0000,,No puedo salir contigo.\NNo puedo recibir invitados.
+Dialogue: 0,1:12:52.23,1:12:57.44,Bot,,0000,0000,0000,,No puedo ir a Teherán porque no se\Npermite el mezclarse con incrédulos.
+Dialogue: 0,1:12:52.23,1:12:57.44,Top,,0000,0000,0000,,No puedo ir a Teherán porque no se\Npermite el mezclarse con incrédulos.
+Dialogue: 0,1:12:57.50,1:12:59.22,Bot,,0000,0000,0000,,¿Te preguntas por qué\Nno soporto estar aquí?
+Dialogue: 0,1:12:57.50,1:12:59.22,Top,,0000,0000,0000,,¿Te preguntas por qué\Nno soporto estar aquí?
+Dialogue: 0,1:13:01.61,1:13:04.48,Bot,,0000,0000,0000,,Y no puedo soportar a\Nese eunuco otro día.
+Dialogue: 0,1:13:01.61,1:13:04.48,Top,,0000,0000,0000,,Y no puedo soportar a\Nese eunuco otro día.
+Dialogue: 0,1:13:04.54,1:13:09.19,Bot,,0000,0000,0000,,Sigue queriendo pintarme las uñas y\Nafeitarme todo el pelo de mi cuerpo.
+Dialogue: 0,1:13:04.54,1:13:09.19,Top,,0000,0000,0000,,Sigue queriendo pintarme las uñas y\Nafeitarme todo el pelo de mi cuerpo.
+Dialogue: 0,1:13:09.25,1:13:11.65,Bot,,0000,0000,0000,,No quiero volver a verlo.
+Dialogue: 0,1:13:09.25,1:13:11.65,Top,,0000,0000,0000,,No quiero volver a verlo.
+Dialogue: 0,1:13:15.92,1:13:18.05,Bot,,0000,0000,0000,,Y tampoco quiero verte.
+Dialogue: 0,1:13:15.92,1:13:18.05,Top,,0000,0000,0000,,Y tampoco quiero verte.
+Dialogue: 0,1:13:18.89,1:13:20.26,Bot,,0000,0000,0000,,Así que, por favor...
+Dialogue: 0,1:13:18.89,1:13:20.26,Top,,0000,0000,0000,,Así que, por favor...
+Dialogue: 0,1:13:22.13,1:13:23.13,Bot,,0000,0000,0000,,Por favor.
+Dialogue: 0,1:13:22.13,1:13:23.13,Top,,0000,0000,0000,,Por favor.
+Dialogue: 0,1:14:40.10,1:14:41.81,Bot,,0000,0000,0000,,¿Qué es más importante para ti?
+Dialogue: 0,1:14:40.10,1:14:41.81,Top,,0000,0000,0000,,¿Qué es más importante para ti?
+Dialogue: 0,1:14:41.87,1:14:45.14,Bot,,0000,0000,0000,,¿Tu esposa e hijo o tu país?
+Dialogue: 0,1:14:41.87,1:14:45.14,Top,,0000,0000,0000,,¿Tu esposa e hijo o tu país?
+Dialogue: 0,1:15:15.24,1:15:17.02,Bot,,0000,0000,0000,,Ali Khan.
+Dialogue: 0,1:15:15.24,1:15:17.02,Top,,0000,0000,0000,,Ali Khan.
+Dialogue: 0,1:15:17.08,1:15:18.68,Bot,,0000,0000,0000,,Es una niña.
+Dialogue: 0,1:15:17.08,1:15:18.68,Top,,0000,0000,0000,,Es una niña.
+Dialogue: 0,1:15:18.74,1:15:20.30,Bot,,0000,0000,0000,,Es una niña, padre.
+Dialogue: 0,1:15:18.74,1:15:20.30,Top,,0000,0000,0000,,Es una niña, padre.
+Dialogue: 0,1:15:23.92,1:15:28.06,Bot,,0000,0000,0000,,La próxima vez será un varón.
+Dialogue: 0,1:15:23.92,1:15:28.06,Top,,0000,0000,0000,,La próxima vez será un varón.
+Dialogue: 0,1:15:32.39,1:15:33.88,Bot,,0000,0000,0000,,Oye.
+Dialogue: 0,1:15:32.39,1:15:33.88,Top,,0000,0000,0000,,Oye.
+Dialogue: 0,1:15:39.93,1:15:42.03,Bot,,0000,0000,0000,,Ella es muy hermosa.
+Dialogue: 0,1:15:39.93,1:15:42.03,Top,,0000,0000,0000,,Ella es muy hermosa.
+Dialogue: 0,1:16:10.26,1:16:12.06,Bot,,0000,0000,0000,,Te amo.
+Dialogue: 0,1:16:10.26,1:16:12.06,Top,,0000,0000,0000,,Te amo.
+Dialogue: 0,1:16:15.87,1:16:17.89,Bot,,0000,0000,0000,,Yo también te amo.
+Dialogue: 0,1:16:15.87,1:16:17.89,Top,,0000,0000,0000,,Yo también te amo.
+Dialogue: 0,1:16:29.18,1:16:30.66,Bot,,0000,0000,0000,,¿Vendrás con nosotros pronto?
+Dialogue: 0,1:16:29.18,1:16:30.66,Top,,0000,0000,0000,,¿Vendrás con nosotros pronto?
+Dialogue: 0,1:16:30.72,1:16:34.36,Bot,,0000,0000,0000,,No, he decidido quedarme aquí.
+Dialogue: 0,1:16:30.72,1:16:34.36,Top,,0000,0000,0000,,No, he decidido quedarme aquí.
+Dialogue: 0,1:16:34.42,1:16:36.76,Bot,,0000,0000,0000,,Pero, ¿qué vas a\Nhacer en Teherán?
+Dialogue: 0,1:16:34.42,1:16:36.76,Top,,0000,0000,0000,,Pero, ¿qué vas a\Nhacer en Teherán?
+Dialogue: 0,1:16:36.82,1:16:38.45,Bot,,0000,0000,0000,,No sé.
+Dialogue: 0,1:16:36.82,1:16:38.45,Top,,0000,0000,0000,,No sé.
+Dialogue: 0,1:16:38.69,1:16:40.39,Bot,,0000,0000,0000,,Probablemente me case otra vez.
+Dialogue: 0,1:16:38.69,1:16:40.39,Top,,0000,0000,0000,,Probablemente me case otra vez.
+Dialogue: 0,1:16:43.46,1:16:46.43,Bot,,0000,0000,0000,,Deberías volver cuando\Ntodo se derrumbe en Bakú.
+Dialogue: 0,1:16:43.46,1:16:46.43,Top,,0000,0000,0000,,Deberías volver cuando\Ntodo se derrumbe en Bakú.
+Dialogue: 0,1:16:48.43,1:16:51.04,Bot,,0000,0000,0000,,¿Qué quieres decir?
+Dialogue: 0,1:16:48.43,1:16:51.04,Top,,0000,0000,0000,,¿Qué quieres decir?
+Dialogue: 0,1:16:51.10,1:16:53.34,Bot,,0000,0000,0000,,Creo que sabes a\Nlo que me refiero.
+Dialogue: 0,1:16:51.10,1:16:53.34,Top,,0000,0000,0000,,Creo que sabes a\Nlo que me refiero.
+Dialogue: 0,1:16:53.40,1:16:57.94,Bot,,0000,0000,0000,,La guerra puede haber acabado, pero\Nnuestros problemas apenas empiezan.
+Dialogue: 0,1:16:53.40,1:16:57.94,Top,,0000,0000,0000,,La guerra puede haber acabado, pero\Nnuestros problemas apenas empiezan.
+Dialogue: 0,1:17:01.71,1:17:04.42,Bot,,0000,0000,0000,,Que tengas un\Nbuen viaje, hijo mío.
+Dialogue: 0,1:17:01.71,1:17:04.42,Top,,0000,0000,0000,,Que tengas un\Nbuen viaje, hijo mío.
+Dialogue: 0,1:17:04.48,1:17:05.76,Bot,,0000,0000,0000,,Adiós, padre.
+Dialogue: 0,1:17:04.48,1:17:05.76,Top,,0000,0000,0000,,Adiós, padre.
+Dialogue: 0,1:17:05.82,1:17:07.65,Bot,,0000,0000,0000,,Adiós, hijo mío.
+Dialogue: 0,1:17:05.82,1:17:07.65,Top,,0000,0000,0000,,Adiós, hijo mío.
+Dialogue: 0,1:17:19.25,1:17:24.35,Bot,,0000,0000,0000,,Verano de 1919.
+Dialogue: 0,1:17:19.25,1:17:24.35,Top,,0000,0000,0000,,Verano de 1919.
+Dialogue: 0,1:18:05.24,1:18:08.87,Bot,,0000,0000,0000,,Asegúrate de que las habitaciones\Nestén asignadas como te expliqué.
+Dialogue: 0,1:18:05.24,1:18:08.87,Top,,0000,0000,0000,,Asegúrate de que las habitaciones\Nestén asignadas como te expliqué.
+Dialogue: 0,1:18:09.95,1:18:11.35,Bot,,0000,0000,0000,,Primer Ministro.
+Dialogue: 0,1:18:09.95,1:18:11.35,Top,,0000,0000,0000,,Primer Ministro.
+Dialogue: 0,1:18:15.92,1:18:18.80,Bot,,0000,0000,0000,,Somos como una criatura recién\Nnacida ciega e indefensa
+Dialogue: 0,1:18:15.92,1:18:18.80,Top,,0000,0000,0000,,Somos como una criatura recién\Nnacida ciega e indefensa
+Dialogue: 0,1:18:18.86,1:18:22.93,Bot,,0000,0000,0000,,tratando de nadar en aguas\Ninfestadas de tiburones.
+Dialogue: 0,1:18:18.86,1:18:22.93,Top,,0000,0000,0000,,tratando de nadar en aguas\Ninfestadas de tiburones.
+Dialogue: 0,1:18:22.99,1:18:26.40,Bot,,0000,0000,0000,,Aún así, al menos nuestros vecinos\Nrespetan nuestra independencia.
+Dialogue: 0,1:18:22.99,1:18:26.40,Top,,0000,0000,0000,,Aún así, al menos nuestros vecinos\Nrespetan nuestra independencia.
+Dialogue: 0,1:18:27.90,1:18:30.41,Bot,,0000,0000,0000,,Lo que me preocupa, Primer Ministro,\Nes que somos un país pequeño,
+Dialogue: 0,1:18:27.90,1:18:30.41,Top,,0000,0000,0000,,Lo que me preocupa, Primer Ministro,\Nes que somos un país pequeño,
+Dialogue: 0,1:18:30.43,1:18:33.38,Bot,,0000,0000,0000,,y allá arriba hay 160\Nmillones de rusos
+Dialogue: 0,1:18:30.43,1:18:33.38,Top,,0000,0000,0000,,y allá arriba hay 160\Nmillones de rusos
+Dialogue: 0,1:18:33.44,1:18:35.45,Bot,,0000,0000,0000,,muy sedientos de petróleo.
+Dialogue: 0,1:18:33.44,1:18:35.45,Top,,0000,0000,0000,,muy sedientos de petróleo.
+Dialogue: 0,1:18:35.51,1:18:37.80,Bot,,0000,0000,0000,,Te preocupas\Ndemasiado, Ali Khan.
+Dialogue: 0,1:18:35.51,1:18:37.80,Top,,0000,0000,0000,,Te preocupas\Ndemasiado, Ali Khan.
+Dialogue: 0,1:18:54.99,1:18:57.40,Bot,,0000,0000,0000,,Pensé en hacerte Viceministro\Nde Relaciones Exteriores.
+Dialogue: 0,1:18:54.99,1:18:57.40,Top,,0000,0000,0000,,Pensé en hacerte Viceministro\Nde Relaciones Exteriores.
+Dialogue: 0,1:18:57.46,1:18:59.02,Bot,,0000,0000,0000,,¿Qué opinas?
+Dialogue: 0,1:18:57.46,1:18:59.02,Top,,0000,0000,0000,,¿Qué opinas?
+Dialogue: 0,1:19:02.17,1:19:04.81,Bot,,0000,0000,0000,,Gracias, Primer Ministro.
+Dialogue: 0,1:19:02.17,1:19:04.81,Top,,0000,0000,0000,,Gracias, Primer Ministro.
+Dialogue: 0,1:19:04.87,1:19:06.81,Bot,,0000,0000,0000,,Haré lo que usted desee.
+Dialogue: 0,1:19:04.87,1:19:06.81,Top,,0000,0000,0000,,Haré lo que usted desee.
+Dialogue: 0,1:19:06.87,1:19:08.93,Bot,,0000,0000,0000,,Bien, entonces está arreglado.
+Dialogue: 0,1:19:06.87,1:19:08.93,Top,,0000,0000,0000,,Bien, entonces está arreglado.
+Dialogue: 0,1:19:10.44,1:19:14.82,Bot,,0000,0000,0000,,Necesitamos un lugar para entretener\Na nuestros invitados diplomáticos,
+Dialogue: 0,1:19:10.44,1:19:14.82,Top,,0000,0000,0000,,Necesitamos un lugar para entretener\Na nuestros invitados diplomáticos,
+Dialogue: 0,1:19:14.88,1:19:18.15,Bot,,0000,0000,0000,,y me dijeron que\Nestás redecorando.
+Dialogue: 0,1:19:14.88,1:19:18.15,Top,,0000,0000,0000,,y me dijeron que\Nestás redecorando.
+Dialogue: 0,1:19:20.12,1:19:22.14,Bot,,0000,0000,0000,,Sí, el palacio estará\Nlisto en dos semanas.
+Dialogue: 0,1:19:20.12,1:19:22.14,Top,,0000,0000,0000,,Sí, el palacio estará\Nlisto en dos semanas.
+Dialogue: 0,1:19:23.52,1:19:26.40,Bot,,0000,0000,0000,,¿Hay posibilidad de que\Nsea en una semana?
+Dialogue: 0,1:19:23.52,1:19:26.40,Top,,0000,0000,0000,,¿Hay posibilidad de que\Nsea en una semana?
+Dialogue: 0,1:19:38.14,1:19:40.55,Bot,,0000,0000,0000,,Me sorprendió saber que\Ntienen un teatro de ópera aquí.
+Dialogue: 0,1:19:38.14,1:19:40.55,Top,,0000,0000,0000,,Me sorprendió saber que\Ntienen un teatro de ópera aquí.
+Dialogue: 0,1:19:40.61,1:19:43.87,Bot,,0000,0000,0000,,Sí, muchos de nosotros pueden\Nleer y escribir también.
+Dialogue: 0,1:19:40.61,1:19:43.87,Top,,0000,0000,0000,,Sí, muchos de nosotros pueden\Nleer y escribir también.
+Dialogue: 0,1:19:46.44,1:19:47.49,Bot,,0000,0000,0000,,Lamento interrumpir.
+Dialogue: 0,1:19:46.44,1:19:47.49,Top,,0000,0000,0000,,Lamento interrumpir.
+Dialogue: 0,1:19:47.55,1:19:51.01,Bot,,0000,0000,0000,,Ali, cuando hablaste con el\NAlto Comisionado, ¿qué dijo?
+Dialogue: 0,1:19:47.55,1:19:51.01,Top,,0000,0000,0000,,Ali, cuando hablaste con el\NAlto Comisionado, ¿qué dijo?
+Dialogue: 0,1:19:52.25,1:19:55.56,Bot,,0000,0000,0000,,Dijo que el Tratado de Versalles está a\Npunto de darnos la plena nacionalidad
+Dialogue: 0,1:19:52.25,1:19:55.56,Top,,0000,0000,0000,,Dijo que el Tratado de Versalles está a\Npunto de darnos la plena nacionalidad
+Dialogue: 0,1:19:55.62,1:19:58.18,Bot,,0000,0000,0000,,y garantizar el\Nreconocimiento diplomático.
+Dialogue: 0,1:19:55.62,1:19:58.18,Top,,0000,0000,0000,,y garantizar el\Nreconocimiento diplomático.
+Dialogue: 0,1:20:00.19,1:20:02.03,Bot,,0000,0000,0000,,Gracias, cariño.
+Dialogue: 0,1:20:00.19,1:20:02.03,Top,,0000,0000,0000,,Gracias, cariño.
+Dialogue: 0,1:20:02.09,1:20:05.60,Bot,,0000,0000,0000,,- Por la independencia.\N- Por la independencia.
+Dialogue: 0,1:20:02.09,1:20:05.60,Top,,0000,0000,0000,,- Por la independencia.\N- Por la independencia.
+Dialogue: 0,1:21:16.89,1:21:21.60,Bot,,0000,0000,0000,,Frontera Azerbayana-rusa.\NDos meses después.
+Dialogue: 0,1:21:16.89,1:21:21.60,Top,,0000,0000,0000,,Frontera Azerbayana-rusa.\NDos meses después.
+Dialogue: 0,1:21:42.69,1:21:46.39,Bot,,0000,0000,0000,,No estaban exagerando cuando\Ndijeron 30 mil hombres.
+Dialogue: 0,1:21:42.69,1:21:46.39,Top,,0000,0000,0000,,No estaban exagerando cuando\Ndijeron 30 mil hombres.
+Dialogue: 0,1:21:47.30,1:21:49.21,Bot,,0000,0000,0000,,No.
+Dialogue: 0,1:21:47.30,1:21:49.21,Top,,0000,0000,0000,,No.
+Dialogue: 0,1:21:49.27,1:21:51.26,Bot,,0000,0000,0000,,Y no creo que estén\Naquí por su salud.
+Dialogue: 0,1:21:49.27,1:21:51.26,Top,,0000,0000,0000,,Y no creo que estén\Naquí por su salud.
+Dialogue: 0,1:21:55.24,1:21:57.05,Bot,,0000,0000,0000,,No pueden hacer nada.
+Dialogue: 0,1:21:55.24,1:21:57.05,Top,,0000,0000,0000,,No pueden hacer nada.
+Dialogue: 0,1:21:57.11,1:21:59.42,Bot,,0000,0000,0000,,El Tratado de\NVersalles dice que...
+Dialogue: 0,1:21:57.11,1:21:59.42,Top,,0000,0000,0000,,El Tratado de\NVersalles dice que...
+Dialogue: 0,1:21:59.48,1:22:03.50,Bot,,0000,0000,0000,,Por como luce, diría que no muchos\Nhan leído el Tratado de Versalles.
+Dialogue: 0,1:21:59.48,1:22:03.50,Top,,0000,0000,0000,,Por como luce, diría que no muchos\Nhan leído el Tratado de Versalles.
+Dialogue: 0,1:22:07.08,1:22:09.05,Bot,,0000,0000,0000,,No.
+Dialogue: 0,1:22:07.08,1:22:09.05,Top,,0000,0000,0000,,No.
+Dialogue: 0,1:22:11.39,1:22:14.47,Bot,,0000,0000,0000,,Los rusos no van a marchar\Nhasta aquí así como así.
+Dialogue: 0,1:22:11.39,1:22:14.47,Top,,0000,0000,0000,,Los rusos no van a marchar\Nhasta aquí así como así.
+Dialogue: 0,1:22:14.53,1:22:17.60,Bot,,0000,0000,0000,,Además, acaban de firmar un\Ntratado de paz con nosotros.
+Dialogue: 0,1:22:14.53,1:22:17.60,Top,,0000,0000,0000,,Además, acaban de firmar un\Ntratado de paz con nosotros.
+Dialogue: 0,1:22:17.66,1:22:20.60,Bot,,0000,0000,0000,,- ¿Y por qué están en la frontera?\N- Dicen que son maniobras.
+Dialogue: 0,1:22:17.66,1:22:20.60,Top,,0000,0000,0000,,- ¿Y por qué están en la frontera?\N- Dicen que son maniobras.
+Dialogue: 0,1:22:20.66,1:22:24.04,Bot,,0000,0000,0000,,¿Por qué eligen el punto más\Ncercano a Bakú para sus maniobras?
+Dialogue: 0,1:22:20.66,1:22:24.04,Top,,0000,0000,0000,,¿Por qué eligen el punto más\Ncercano a Bakú para sus maniobras?
+Dialogue: 0,1:22:24.10,1:22:25.57,Bot,,0000,0000,0000,,Pueden estar aquí en tres horas.
+Dialogue: 0,1:22:24.10,1:22:25.57,Top,,0000,0000,0000,,Pueden estar aquí en tres horas.
+Dialogue: 0,1:22:26.80,1:22:29.80,Bot,,0000,0000,0000,,Es una estrategia de negociación para\Nhacernos bajar el precio del petróleo.
+Dialogue: 0,1:22:26.80,1:22:29.80,Top,,0000,0000,0000,,Es una estrategia de negociación para\Nhacernos bajar el precio del petróleo.
+Dialogue: 0,1:22:31.54,1:22:33.64,Bot,,0000,0000,0000,,Creo que lo quieren gratis.
+Dialogue: 0,1:22:31.54,1:22:33.64,Top,,0000,0000,0000,,Creo que lo quieren gratis.
+Dialogue: 0,1:22:37.25,1:22:39.09,Bot,,0000,0000,0000,,Estoy feliz, estoy feliz.\NTengo una hija maravillosa.
+Dialogue: 0,1:22:37.25,1:22:39.09,Top,,0000,0000,0000,,Estoy feliz, estoy feliz.\NTengo una hija maravillosa.
+Dialogue: 0,1:22:39.12,1:22:40.46,Bot,,0000,0000,0000,,Es una buena niña.
+Dialogue: 0,1:22:39.12,1:22:40.46,Top,,0000,0000,0000,,Es una buena niña.
+Dialogue: 0,1:22:40.52,1:22:42.03,Bot,,0000,0000,0000,,Es una buena chica.
+Dialogue: 0,1:22:40.52,1:22:42.03,Top,,0000,0000,0000,,Es una buena chica.
+Dialogue: 0,1:22:42.09,1:22:44.11,Bot,,0000,0000,0000,,Ahora viviré para siempre, ¿sí?
+Dialogue: 0,1:22:42.09,1:22:44.11,Top,,0000,0000,0000,,Ahora viviré para siempre, ¿sí?
+Dialogue: 0,1:22:48.46,1:22:51.47,Bot,,0000,0000,0000,,- ¿Me concederás un deseo?\N- Dime.
+Dialogue: 0,1:22:48.46,1:22:51.47,Top,,0000,0000,0000,,- ¿Me concederás un deseo?\N- Dime.
+Dialogue: 0,1:22:51.53,1:22:54.41,Bot,,0000,0000,0000,,- ¿Si lo pido me dirás que sí?\N- Depende.
+Dialogue: 0,1:22:51.53,1:22:54.41,Top,,0000,0000,0000,,- ¿Si lo pido me dirás que sí?\N- Depende.
+Dialogue: 0,1:22:54.47,1:22:57.23,Bot,,0000,0000,0000,,Quiero que vengas a casa\Na Tbilisi con nosotros.
+Dialogue: 0,1:22:54.47,1:22:57.23,Top,,0000,0000,0000,,Quiero que vengas a casa\Na Tbilisi con nosotros.
+Dialogue: 0,1:23:00.17,1:23:01.71,Bot,,0000,0000,0000,,- No.\N- Pero tienes que hacerlo.
+Dialogue: 0,1:23:00.17,1:23:01.71,Top,,0000,0000,0000,,- No.\N- Pero tienes que hacerlo.
+Dialogue: 0,1:23:01.77,1:23:04.58,Bot,,0000,0000,0000,,Quiero que le digas a tu\Nesposo que deje este lugar.
+Dialogue: 0,1:23:01.77,1:23:04.58,Top,,0000,0000,0000,,Quiero que le digas a tu\Nesposo que deje este lugar.
+Dialogue: 0,1:23:04.64,1:23:07.05,Bot,,0000,0000,0000,,No es seguro.
+Dialogue: 0,1:23:04.64,1:23:07.05,Top,,0000,0000,0000,,No es seguro.
+Dialogue: 0,1:23:07.11,1:23:12.51,Bot,,0000,0000,0000,,Lenin dijo que la revolución no\Nsobreviviría sin el petróleo de Bakú.
+Dialogue: 0,1:23:07.11,1:23:12.51,Top,,0000,0000,0000,,Lenin dijo que la revolución no\Nsobreviviría sin el petróleo de Bakú.
+Dialogue: 0,1:23:13.78,1:23:15.38,Bot,,0000,0000,0000,,Vendrán por él.
+Dialogue: 0,1:23:13.78,1:23:15.38,Top,,0000,0000,0000,,Vendrán por él.
+Dialogue: 0,1:23:36.68,1:23:40.28,Bot,,0000,0000,0000,,28 de abril de 1920.
+Dialogue: 0,1:23:36.68,1:23:40.28,Top,,0000,0000,0000,,28 de abril de 1920.
+Dialogue: 0,1:23:44.32,1:23:45.51,Bot,,0000,0000,0000,,¿Te gusta?
+Dialogue: 0,1:23:44.32,1:23:45.51,Top,,0000,0000,0000,,¿Te gusta?
+Dialogue: 0,1:23:54.76,1:23:57.19,Bot,,0000,0000,0000,,Ven aquí.
+Dialogue: 0,1:23:54.76,1:23:57.19,Top,,0000,0000,0000,,Ven aquí.
+Dialogue: 0,1:24:02.60,1:24:03.84,Bot,,0000,0000,0000,,- ¿Ali Khan?\N- Sí, Ilyas.
+Dialogue: 0,1:24:02.60,1:24:03.84,Top,,0000,0000,0000,,- ¿Ali Khan?\N- Sí, Ilyas.
+Dialogue: 0,1:24:03.90,1:24:05.84,Bot,,0000,0000,0000,,Los bolcheviques han\Ncruzado la frontera.
+Dialogue: 0,1:24:03.90,1:24:05.84,Top,,0000,0000,0000,,Los bolcheviques han\Ncruzado la frontera.
+Dialogue: 0,1:24:05.90,1:24:08.85,Bot,,0000,0000,0000,,Han tomado los trenes.\NVienen camino a Bakú.
+Dialogue: 0,1:24:05.90,1:24:08.85,Top,,0000,0000,0000,,Han tomado los trenes.\NVienen camino a Bakú.
+Dialogue: 0,1:24:08.91,1:24:11.21,Bot,,0000,0000,0000,,- Es hora de irnos.\N- De acuerdo.
+Dialogue: 0,1:24:08.91,1:24:11.21,Top,,0000,0000,0000,,- Es hora de irnos.\N- De acuerdo.
+Dialogue: 0,1:24:16.55,1:24:17.91,Bot,,0000,0000,0000,,Tenemos que irnos.
+Dialogue: 0,1:24:16.55,1:24:17.91,Top,,0000,0000,0000,,Tenemos que irnos.
+Dialogue: 0,1:25:32.49,1:25:34.73,Bot,,0000,0000,0000,,Primer Ministro.
+Dialogue: 0,1:25:32.49,1:25:34.73,Top,,0000,0000,0000,,Primer Ministro.
+Dialogue: 0,1:25:34.79,1:25:38.57,Bot,,0000,0000,0000,,Acabo de ser informado que los\Nbolcheviques nos están ganando.
+Dialogue: 0,1:25:34.79,1:25:38.57,Top,,0000,0000,0000,,Acabo de ser informado que los\Nbolcheviques nos están ganando.
+Dialogue: 0,1:25:38.63,1:25:40.87,Bot,,0000,0000,0000,,Nos aseguraremos de que escape\Nal otro lado de la frontera.
+Dialogue: 0,1:25:38.63,1:25:40.87,Top,,0000,0000,0000,,Nos aseguraremos de que escape\Nal otro lado de la frontera.
+Dialogue: 0,1:25:40.90,1:25:43.91,Bot,,0000,0000,0000,,Haremos lo que sea\Nnecesario para frenarlos.
+Dialogue: 0,1:25:40.90,1:25:43.91,Top,,0000,0000,0000,,Haremos lo que sea\Nnecesario para frenarlos.
+Dialogue: 0,1:25:43.97,1:25:45.37,Bot,,0000,0000,0000,,Señor.
+Dialogue: 0,1:25:43.97,1:25:45.37,Top,,0000,0000,0000,,Señor.
+Dialogue: 0,1:26:48.63,1:26:52.84,Bot,,0000,0000,0000,,Ilyas, te he conocido\Npor mucho tiempo,
+Dialogue: 0,1:26:48.63,1:26:52.84,Top,,0000,0000,0000,,Ilyas, te he conocido\Npor mucho tiempo,
+Dialogue: 0,1:26:52.90,1:26:55.71,Bot,,0000,0000,0000,,y has demostrado tu gran valor.
+Dialogue: 0,1:26:52.90,1:26:55.71,Top,,0000,0000,0000,,y has demostrado tu gran valor.
+Dialogue: 0,1:26:55.77,1:26:57.20,Bot,,0000,0000,0000,,Te saludo.
+Dialogue: 0,1:26:55.77,1:26:57.20,Top,,0000,0000,0000,,Te saludo.
+Dialogue: 0,1:26:59.58,1:27:00.94,Bot,,0000,0000,0000,,Que Alá te acompañe.
+Dialogue: 0,1:26:59.58,1:27:00.94,Top,,0000,0000,0000,,Que Alá te acompañe.
+Dialogue: 0,1:27:11.22,1:27:13.55,Bot,,0000,0000,0000,,Hay algo que necesito\Ndecirle a Ilyas.
+Dialogue: 0,1:27:11.22,1:27:13.55,Top,,0000,0000,0000,,Hay algo que necesito\Ndecirle a Ilyas.
+Dialogue: 0,1:27:20.50,1:27:21.90,Bot,,0000,0000,0000,,Ilyas.
+Dialogue: 0,1:27:20.50,1:27:21.90,Top,,0000,0000,0000,,Ilyas.
+Dialogue: 0,1:27:51.66,1:27:54.94,Bot,,0000,0000,0000,,Nino, me quedaré con\NIlyas un par de días.
+Dialogue: 0,1:27:51.66,1:27:54.94,Top,,0000,0000,0000,,Nino, me quedaré con\NIlyas un par de días.
+Dialogue: 0,1:27:55.00,1:27:56.69,Bot,,0000,0000,0000,,Para ayudarlo.
+Dialogue: 0,1:27:55.00,1:27:56.69,Top,,0000,0000,0000,,Para ayudarlo.
+Dialogue: 0,1:27:58.10,1:28:01.38,Bot,,0000,0000,0000,,No. No.
+Dialogue: 0,1:27:58.10,1:28:01.38,Top,,0000,0000,0000,,No. No.
+Dialogue: 0,1:28:01.44,1:28:03.08,Bot,,0000,0000,0000,,- No, no, no, no, no.\N- Tengo que hacerlo.
+Dialogue: 0,1:28:01.44,1:28:03.08,Top,,0000,0000,0000,,- No, no, no, no, no.\N- Tengo que hacerlo.
+Dialogue: 0,1:28:04.64,1:28:07.42,Bot,,0000,0000,0000,,Ali...
+Dialogue: 0,1:28:04.64,1:28:07.42,Top,,0000,0000,0000,,Ali...
+Dialogue: 0,1:28:07.48,1:28:08.91,Bot,,0000,0000,0000,,¿No significamos nada para ti?
+Dialogue: 0,1:28:07.48,1:28:08.91,Top,,0000,0000,0000,,¿No significamos nada para ti?
+Dialogue: 0,1:28:10.91,1:28:12.44,Bot,,0000,0000,0000,,Lo significan todo.
+Dialogue: 0,1:28:10.91,1:28:12.44,Top,,0000,0000,0000,,Lo significan todo.
+Dialogue: 0,1:28:14.39,1:28:16.66,Bot,,0000,0000,0000,,Mira qué pasó la última\Nvez que nos separamos.
+Dialogue: 0,1:28:14.39,1:28:16.66,Top,,0000,0000,0000,,Mira qué pasó la última\Nvez que nos separamos.
+Dialogue: 0,1:28:16.72,1:28:18.56,Bot,,0000,0000,0000,,No es lo mismo.
+Dialogue: 0,1:28:16.72,1:28:18.56,Top,,0000,0000,0000,,No es lo mismo.
+Dialogue: 0,1:28:18.62,1:28:22.12,Bot,,0000,0000,0000,,No viajas a un país extraño.\NVas con tus padres.
+Dialogue: 0,1:28:18.62,1:28:22.12,Top,,0000,0000,0000,,No viajas a un país extraño.\NVas con tus padres.
+Dialogue: 0,1:28:24.90,1:28:26.49,Bot,,0000,0000,0000,,Tengo que hacer esto, Nino.
+Dialogue: 0,1:28:24.90,1:28:26.49,Top,,0000,0000,0000,,Tengo que hacer esto, Nino.
+Dialogue: 0,1:28:28.63,1:28:31.16,Bot,,0000,0000,0000,,Será el país de nuestro\Nbebé cuando crezca.
+Dialogue: 0,1:28:28.63,1:28:31.16,Top,,0000,0000,0000,,Será el país de nuestro\Nbebé cuando crezca.
+Dialogue: 0,1:28:33.40,1:28:34.90,Bot,,0000,0000,0000,,Tiene que ser defendido.
+Dialogue: 0,1:28:33.40,1:28:34.90,Top,,0000,0000,0000,,Tiene que ser defendido.
+Dialogue: 0,1:28:43.51,1:28:45.11,Bot,,0000,0000,0000,,Estaré contigo el viernes.
+Dialogue: 0,1:28:43.51,1:28:45.11,Top,,0000,0000,0000,,Estaré contigo el viernes.
+Dialogue: 0,1:28:46.92,1:28:48.18,Bot,,0000,0000,0000,,Sí.
+Dialogue: 0,1:28:46.92,1:28:48.18,Top,,0000,0000,0000,,Sí.
+Dialogue: 0,1:28:49.95,1:28:51.80,Bot,,0000,0000,0000,,El viernes.
+Dialogue: 0,1:28:49.95,1:28:51.80,Top,,0000,0000,0000,,El viernes.
+Dialogue: 0,1:28:51.86,1:28:53.55,Bot,,0000,0000,0000,,E iremos a París.
+Dialogue: 0,1:28:51.86,1:28:53.55,Top,,0000,0000,0000,,E iremos a París.
+Dialogue: 0,1:28:55.76,1:28:57.19,Bot,,0000,0000,0000,,Para esa luna de miel.
+Dialogue: 0,1:28:55.76,1:28:57.19,Top,,0000,0000,0000,,Para esa luna de miel.
+Dialogue: 0,1:29:01.03,1:29:04.98,Bot,,0000,0000,0000,,Y tendremos una\Ncasa con un jardín.
+Dialogue: 0,1:29:01.03,1:29:04.98,Top,,0000,0000,0000,,Y tendremos una\Ncasa con un jardín.
+Dialogue: 0,1:29:05.04,1:29:06.13,Bot,,0000,0000,0000,,Sí.
+Dialogue: 0,1:29:05.04,1:29:06.13,Top,,0000,0000,0000,,Sí.
+Dialogue: 0,1:29:10.51,1:29:13.17,Bot,,0000,0000,0000,,Y nuestro siguiente\Nhijo será un varón.
+Dialogue: 0,1:29:10.51,1:29:13.17,Top,,0000,0000,0000,,Y nuestro siguiente\Nhijo será un varón.
+Dialogue: 0,1:32:18.13,1:32:19.84,Bot,,0000,0000,0000,,¡Al suelo!
+Dialogue: 0,1:32:18.13,1:32:19.84,Top,,0000,0000,0000,,¡Al suelo!
+Dialogue: 0,1:35:19.24,1:35:23.24,Bot,,0000,0000,0000,,Ali Khan Shirvanshir murió\Na la edad de 24 años.
+Dialogue: 0,1:35:19.24,1:35:23.24,Top,,0000,0000,0000,,Ali Khan Shirvanshir murió\Na la edad de 24 años.
+Dialogue: 0,1:35:23.24,1:35:28.14,Bot,,0000,0000,0000,,El Primer Ministro Fatali Khan fue\Nasesinado seis semanas después.
+Dialogue: 0,1:35:23.24,1:35:28.14,Top,,0000,0000,0000,,El Primer Ministro Fatali Khan fue\Nasesinado seis semanas después.
+Dialogue: 0,1:35:28.14,1:35:33.24,Bot,,0000,0000,0000,,Fue 71 años después en 1991, que\NAzerbaiyán reclamó su independencia.
+Dialogue: 0,1:35:28.14,1:35:33.24,Top,,0000,0000,0000,,Fue 71 años después en 1991, que\NAzerbaiyán reclamó su independencia.
+Dialogue: 0,1:35:33.24,1:35:41.24,Bot,,0000,0000,0000,,Nino y su hija escaparon a\NParís, nunca volvieron a Bakú.
+Dialogue: 0,1:35:33.24,1:35:41.24,Top,,0000,0000,0000,,Nino y su hija escaparon a\NParís, nunca volvieron a Bakú.
+Dialogue: 0,1:35:41.24,1:35:49.24,Bot,,0000,0000,0000,,.:.[Traducido por Axel7902].:.
+Dialogue: 0,1:35:41.24,1:35:49.24,Top,,0000,0000,0000,,.:.[Traducido por Axel7902].:.
