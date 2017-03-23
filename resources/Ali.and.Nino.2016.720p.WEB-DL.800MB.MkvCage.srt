@@ -1,16 +1,16 @@
-ï»¿1
+1
 00:00:42,200 --> 00:00:45,980
 <i>En los albores de la Gran Guerra,</i>
 
 2
 00:00:46,001 --> 00:00:52,901
 <i>el Imperio Ruso gobernaba
-mÃ¡s de 100 grupos Ã©tnicos.</i>
+más de 100 grupos étnicos.</i>
 
 3
-00:00:53,002 --> 00:01:01,002
-<i>La RegiÃ³n CaucÃ¡sica abastecÃ­a
-el 50% del petrÃ³leo mundial.</i>
+00:00:53,002 --> 00:01:01,902
+<i>La Región Caucásica abastecía
+el 50% del petróleo mundial.</i>
 
 4
 00:01:02,003 --> 00:01:09,903
@@ -36,12 +36,13 @@ Padre, quiero casarme.
 
 9
 00:03:06,887 --> 00:03:09,381
-Â¿Quieres que te busque
+¿Quieres que te busque
 una hermosa esposa?
 
 10
 00:03:11,725 --> 00:03:13,751
-Quiero casarme con Nino Kipiani.
+Quiero casarme
+con Nino Kipiani.
 
 11
 00:03:15,596 --> 00:03:18,439
@@ -50,12 +51,12 @@ como todas las georgianas.
 
 12
 00:03:18,499 --> 00:03:19,762
-Â¡Padre!
+¡Padre!
 
 13
 00:03:20,968 --> 00:03:23,811
-Las caderas de una mujer son mÃ¡s
-importantes que su educaciÃ³n, hijo mÃ­o.
+Las caderas de una mujer son más
+importantes que su educación, hijo mío.
 
 14
 00:03:23,871 --> 00:03:25,464
@@ -63,7 +64,7 @@ Recuerda eso.
 
 15
 00:03:33,747 --> 00:03:36,357
-Â¿CuÃ¡ndo quieres casarte?
+¿Cuándo quieres casarte?
 
 16
 00:03:36,417 --> 00:03:37,841
@@ -71,7 +72,7 @@ Pronto.
 
 17
 00:03:42,489 --> 00:03:45,049
-Me gustarÃ­a que mi
+Me gustaría que mi
 nieto naciera en mayo.
 
 18
@@ -80,7 +81,7 @@ Es un mes de suerte.
 
 19
 00:03:50,698 --> 00:03:52,339
-Â¿Por quÃ© la elegiste a ella?
+¿Por qué la elegiste a ella?
 
 20
 00:03:52,399 --> 00:03:53,774
@@ -88,7 +89,7 @@ La amo, padre.
 
 21
 00:03:53,834 --> 00:03:56,984
-En tÃ©rminos generales, amar a
+En términos generales, amar a
 una mujer no es una buena idea.
 
 22
@@ -98,28 +99,28 @@ Padre.
 23
 00:04:08,682 --> 00:04:12,760
 Ali Khan, felicidades
-por la graduaciÃ³n.
+por la graduación.
 
 24
 00:04:12,820 --> 00:04:16,397
 Es una muy merecida
-celebraciÃ³n para ti.
+celebración para ti.
 
 25
 00:04:16,457 --> 00:04:18,399
-Â¿Vas a estudiar en MoscÃº?
+¿Vas a estudiar en Moscú?
 
 26
 00:04:18,459 --> 00:04:19,927
-AÃºn no lo he decidido.
+Aún no lo he decidido.
 
 27
 00:04:23,997 --> 00:04:25,556
-Â¿Puedo pedirte este baile?
+¿Puedo pedirte este baile?
 
 28
 00:04:27,468 --> 00:04:28,527
-Â¿Padre?
+¿Padre?
 
 29
 00:04:29,636 --> 00:04:31,104
@@ -132,13 +133,13 @@ de los Kipiani, Tbilisi.</i>
 
 31
 00:04:46,487 --> 00:04:48,896
-Â¿CuÃ¡nto por la tierra, seÃ±or?
-Â¿CuÃ¡n grande es tu dominio?
+¿Cuánto por la tierra, señor?
+¿Cuán grande es tu dominio?
 
 32
 00:04:49,956 --> 00:04:52,825
 Bueno, a veces soy
-bastante tÃ­mida, pero...
+bastante tímida, pero...
 
 33
 00:04:54,161 --> 00:04:56,062
@@ -146,11 +147,11 @@ No, no.
 
 34
 00:05:00,768 --> 00:05:02,430
-Â¿Puedo?
+¿Puedo?
 
 35
 00:05:04,938 --> 00:05:07,134
-- SÃ­, por supuesto.
+- Sí, por supuesto.
 - Gracias.
 
 36
@@ -165,7 +166,8 @@ No, no.
 
 38
 00:05:19,086 --> 00:05:20,761
-Soy muy buen amigo de tu padre.
+Soy muy buen
+amigo de tu padre.
 
 39
 00:05:20,821 --> 00:05:22,796
@@ -181,7 +183,7 @@ Gracias.
 
 42
 00:05:51,151 --> 00:05:53,827
-<i>DespuÃ©s de todo, es el suministro
+<i>Después de todo, es el suministro
 el que tenemos que controlar.</i>
 
 43
@@ -190,17 +192,17 @@ el que tenemos que controlar.</i>
 
 44
 00:05:56,490 --> 00:05:59,867
-PrÃ­ncipe Ali Khan, es
-mÃ¡s que bienvenido.
+Príncipe Ali Khan, es
+más que bienvenido.
 
 45
 00:05:59,927 --> 00:06:02,803
 Lo siento mucho,
-mi tren llegÃ³ tarde.
+mi tren llegó tarde.
 
 46
 00:06:02,863 --> 00:06:04,595
-En lo absoluto, acompÃ¡Ã±enos.
+En lo absoluto, acompáñenos.
 
 47
 00:06:06,633 --> 00:06:07,999
@@ -210,7 +212,7 @@ En lo absoluto, acompÃ¡Ã±enos.
 48
 00:06:16,076 --> 00:06:18,886
 Acabo de enterarme de su
-tÃ­tulo de nobleza, Alteza.
+título de nobleza, Alteza.
 
 49
 00:06:18,946 --> 00:06:20,187
@@ -226,29 +228,30 @@ Gracias.
 
 52
 00:06:25,185 --> 00:06:26,593
-Dios estÃ¡ en nuestro vino.
+Dios está en nuestro vino.
 
 53
 00:06:26,653 --> 00:06:28,178
-No le harÃ¡ daÃ±o.
+No le hará daño.
 
 54
 00:06:29,122 --> 00:06:32,251
-Padre, Ali Khan no bebe alcohol.
+Padre, Ali Khan
+no bebe alcohol.
 
 55
 00:06:32,493 --> 00:06:34,655
-Va contra su religiÃ³n.
+Va contra su religión.
 
 56
 00:06:36,897 --> 00:06:39,175
-En esta ocasiÃ³n, harÃ©
-una excepciÃ³n para
+En esta ocasión, haré
+una excepción para
 
 57
 00:06:39,176 --> 00:06:41,476
 poder brindar con
-el prÃ­ncipe Kipiani.
+el príncipe Kipiani.
 
 58
 00:06:41,535 --> 00:06:43,510
@@ -256,54 +259,54 @@ Gracias, caballero.
 
 59
 00:06:43,570 --> 00:06:44,878
-Por el prÃ­ncipe Kipiani.
+Por el príncipe Kipiani.
 
 60
 00:06:44,938 --> 00:06:46,531
-Por el prÃ­ncipe Kipiani.
+Por el príncipe Kipiani.
 
 61
 00:06:51,912 --> 00:06:54,822
 Debe venir a ver nuestros jardines
-despuÃ©s de la cena, Ali Khan.
+después de la cena, Ali Khan.
 
 62
 00:06:54,882 --> 00:06:57,758
-Tenemos los mÃ¡s bellos
-Ã¡rboles antiguos.
+Tenemos los más bellos
+árboles antiguos.
 
 63
 00:06:57,818 --> 00:07:02,062
 Gracias, Su Alteza, pero vine a
-visitarlo a usted no a lo Ã¡rboles.
+visitarlo a usted no a lo árboles.
 
 64
 00:07:02,122 --> 00:07:05,132
-Â¿QuÃ©? Â¿Tiene algo en
-contra de los Ã¡rboles?
+¿Qué? ¿Tiene algo en
+contra de los árboles?
 
 65
 00:07:05,192 --> 00:07:07,868
 Ali Khan les tiene miedo,
-seÃ±or Nakhararyan.
+señor Nakhararyan.
 
 66
 00:07:07,928 --> 00:07:09,738
 No exactamente, pero lo
-que los demÃ¡s sienten
+que los demás sienten
 
 67
 00:07:09,739 --> 00:07:11,539
-por los Ã¡rboles, yo lo
+por los árboles, yo lo
 siento por el desierto.
 
 68
 00:07:11,598 --> 00:07:12,973
-Â¿El desierto?
+¿El desierto?
 
 69
 00:07:13,033 --> 00:07:15,175
-Es sÃ³lo matorrales y arena.
+Es sólo matorrales y arena.
 
 70
 00:07:15,235 --> 00:07:17,144
@@ -315,7 +318,7 @@ Su simplicidad.
 
 72
 00:07:19,172 --> 00:07:21,648
-QuizÃ¡s esa es la diferencia
+Quizás esa es la diferencia
 entre el Occidente y el Oriente.
 
 73
@@ -325,7 +328,7 @@ nada, no promete nada,
 
 74
 00:07:25,712 --> 00:07:27,788
-pero los Ã¡rboles estÃ¡n
+pero los árboles están
 llenos de preguntas.
 
 75
@@ -335,8 +338,8 @@ llenos de preguntas.
 
 76
 00:07:29,249 --> 00:07:31,959
-Las Ã¡guilas vienen
-de las montaÃ±as
+Las águilas vienen
+de las montañas
 
 77
 00:07:32,019 --> 00:07:34,595
@@ -359,7 +362,7 @@ Leones y guerreros.
 81
 00:07:46,934 --> 00:07:50,677
 Y no olvidemos la fuente de
-nuestra riqueza, el petrÃ³leo.
+nuestra riqueza, el petróleo.
 
 82
 00:07:54,274 --> 00:07:56,216
@@ -380,12 +383,12 @@ Me estaba preocupando.
 
 86
 00:08:38,085 --> 00:08:39,826
-Â¿QuiÃ©n era ese hombre
+¿Quién era ese hombre
 sentado a tu lado?
 
 87
 00:08:39,886 --> 00:08:41,929
-Â¿Malik?
+¿Malik?
 
 88
 00:08:41,989 --> 00:08:44,698
@@ -394,15 +397,15 @@ armenia muy importante.
 
 89
 00:08:47,227 --> 00:08:49,303
-Tu padre es prÃ­ncipe ahora.
+Tu padre es príncipe ahora.
 
 90
 00:08:49,363 --> 00:08:51,972
-Â¿Eso te hace una princesa?
+¿Eso te hace una princesa?
 
 91
 00:08:52,032 --> 00:08:53,625
-SÃ­.
+Sí.
 
 92
 00:09:07,114 --> 00:09:09,379
@@ -414,48 +417,48 @@ Aunque sea una princesa.
 
 94
 00:09:14,221 --> 00:09:17,030
-QuizÃ¡s no lo seas
+Quizás no lo seas
 por mucho tiempo.
 
 95
 00:09:17,090 --> 00:09:18,683
-Â¿A quÃ© te refieres?
+¿A qué te refieres?
 
 96
 00:09:20,160 --> 00:09:23,187
-Â¿No pierdes el tÃ­tulo
+¿No pierdes el título
 cuando te casas?
 
 97
 00:09:28,969 --> 00:09:31,463
-Â¿Se supone que eso
+¿Se supone que eso
 es una propuesta?
 
 98
 00:09:33,073 --> 00:09:34,701
-SÃ­.
+Sí.
 
 99
 00:09:37,177 --> 00:09:39,319
-Â¿Siempre me vas
+¿Siempre me vas
 a amar, Ali Khan?
 
 100
 00:09:39,379 --> 00:09:40,821
-SÃ­.
+Sí.
 
 101
 00:09:40,881 --> 00:09:45,383
-Â¿Te quedarÃ¡s conmigo pase lo que
-pase y no tendrÃ¡s otra esposa?
+¿Te quedarás conmigo pase lo que
+pase y no tendrás otra esposa?
 
 102
 00:09:47,821 --> 00:09:50,297
-SÃ­.
+Sí.
 
 103
 00:09:50,357 --> 00:09:53,684
-Â¿Tu padre va a exigirme que
+¿Tu padre va a exigirme que
 me convierta en musulmana?
 
 104
@@ -464,16 +467,17 @@ No.
 
 105
 00:09:59,132 --> 00:10:01,775
-Siempre he querido ir a ParÃ­s,
+Siempre he
+querido ir a París,
 
 106
 00:10:01,835 --> 00:10:05,078
-mÃ¡s que nada en el mundo.
+más que nada en el mundo.
 
 107
 00:10:05,138 --> 00:10:08,415
-Prometo que te llevarÃ©
-a ParÃ­s de luna de miel.
+Prometo que te llevaré
+a París de luna de miel.
 
 108
 00:10:13,246 --> 00:10:16,156
@@ -481,18 +485,18 @@ Ahora...
 
 109
 00:10:16,216 --> 00:10:17,912
-Â¿Te casarÃ¡s conmigo?
+¿Te casarás conmigo?
 
 110
 00:10:19,419 --> 00:10:20,978
-SÃ­.
+Sí.
 
 111
 00:10:22,789 --> 00:10:24,131
-Lo harÃ©, Ali.
+Lo haré, Ali.
 
 112
-00:10:52,018 --> 00:10:53,018
+00:10:52,018 --> 00:10:53,008
 Khan.
 
 113
@@ -519,30 +523,31 @@ varios monarcas europeos.</i>
 
 118
 00:11:12,339 --> 00:11:15,798
-<i>Regresa de inmediato a BakÃº y
-prepÃ¡rate para cumplir con tu deber.</i>
+<i>Regresa de inmediato a Bakú y
+prepárate para cumplir con tu deber.</i>
 
 119
 00:11:19,146 --> 00:11:22,923
-Â¿Contra quiÃ©n es la guerra?
+¿Contra quién es la guerra?
 
 120
 00:11:22,983 --> 00:11:25,892
-Contra el KÃ¡iser alemÃ¡n,
+Contra el Káiser alemán,
 el Emperador de Austria,
 
 121
 00:11:25,952 --> 00:11:30,063
 el rey de Baviera, el rey de
-Prusia, el rey de HungrÃ­a,
+Prusia, el rey de Hungría,
 
 122
 00:11:30,123 --> 00:11:31,498
-el sultÃ¡n del Imperio Otomano...
+el sultán del
+Imperio Otomano...
 
 123
 00:11:31,558 --> 00:11:33,366
-Â¿Y quiÃ©nes son los
+¿Y quiénes son los
 aliados de Rusia?
 
 124
@@ -552,8 +557,8 @@ Serbia, el rey de los belgas,
 
 125
 00:11:38,064 --> 00:11:42,976
-<i>el presidente de la RepÃºblica
-Francesa y el Emperador de JapÃ³n.</i>
+<i>el presidente de la República
+Francesa y el Emperador de Japón.</i>
 
 126
 00:12:14,177 --> 00:12:18,877
@@ -561,12 +566,12 @@ Francesa y el Emperador de JapÃ³n.</i>
 
 127
 00:12:46,533 --> 00:12:48,875
-<i>SÃ© que cuando nuestra
-familia gobernÃ³ este paÃ­s...</i>
+<i>Sé que cuando nuestra
+familia gobernó este país...</i>
 
 128
 00:12:48,935 --> 00:12:51,962
-<i>Â¿CuÃ¡ntos de ellos pelearon y
+<i>¿Cuántos de ellos pelearon y
 murieron en el campo de batalla?</i>
 
 129
@@ -575,16 +580,17 @@ murieron en el campo de batalla?</i>
 
 130
 00:12:57,310 --> 00:13:00,053
-<i>Y yo me siento parte de eso.</i>
+<i>Y yo me siento
+parte de eso.</i>
 
 131
 00:13:00,113 --> 00:13:04,090
-Pero, Â¿por quÃ© deberÃ­a luchar por
+Pero, ¿por qué debería luchar por
 un monarca cristiano contra otro?
 
 132
 00:13:04,150 --> 00:13:07,861
-Â¿Por quÃ© deberÃ­a luchar por la
+¿Por qué debería luchar por la
 causa de Rusia, sea la que sea?
 
 133
@@ -598,44 +604,45 @@ No lo somos.
 
 135
 00:13:12,425 --> 00:13:16,102
-Nos invadieron hace cien aÃ±os y nos
+Nos invadieron hace cien años y nos
 quitaron el poder de nuestra familia.
 
 136
 00:13:16,162 --> 00:13:18,631
-Somos un paÃ­s ocupado.
+Somos un país ocupado.
 
 137
 00:13:21,167 --> 00:13:25,138
-CrÃ©eme, padre, estarÃ© orgulloso de
+Créeme, padre, estaré orgulloso de
 morir en batalla cuando llegue la hora.
 
 138
 00:13:28,275 --> 00:13:30,574
-Pero esta no es nuestra lucha.
+Pero esta no
+es nuestra lucha.
 
 139
 00:13:31,912 --> 00:13:33,587
-EstÃ¡s loco.
+Estás loco.
 
 140
 00:13:33,647 --> 00:13:36,957
-Â¿Quieres decir que dejarÃ¡s pasar
+¿Quieres decir que dejarás pasar
 esta maravillosa oportunidad?
 
 141
 00:13:37,017 --> 00:13:40,927
-Ilyas, estamos aquÃ­.
+Ilyas, estamos aquí.
 
 142
 00:13:40,987 --> 00:13:43,330
-Y la lÃ­nea del frente
-estarÃ¡ por aquÃ­.
+Y la línea del frente
+estará por aquí.
 
 143
 00:13:43,390 --> 00:13:46,299
 A 2 mil millas de
-distancia en BÃ©lgica.
+distancia en Bélgica.
 
 144
 00:13:46,359 --> 00:13:50,303
@@ -644,8 +651,8 @@ probable que sea contra los turcos,
 
 145
 00:13:50,363 --> 00:13:52,539
-nuestros primos. Â¿Por
-quÃ© querrÃ­a hacer eso?
+nuestros primos. ¿Por
+qué querría hacer eso?
 
 146
 00:13:52,599 --> 00:13:54,241
@@ -653,20 +660,20 @@ Por la gloria.
 
 147
 00:13:54,301 --> 00:13:56,076
-Escucha, Â¿te importa
-quiÃ©n gane esta guerra?
+Escucha, ¿te importa
+quién gane esta guerra?
 
 148
 00:13:56,136 --> 00:13:57,695
-No, en lo mÃ¡s mÃ­nimo.
+No, en lo más mínimo.
 
 149
 00:13:57,938 --> 00:14:00,480
-SÃ³lo quieres pelear.
+Sólo quieres pelear.
 
 150
 00:14:00,540 --> 00:14:02,182
-SÃ­, quiero ser un soldado.
+Sí, quiero ser un soldado.
 
 151
 00:14:02,242 --> 00:14:04,384
@@ -678,17 +685,17 @@ Lo siento, no entiendo.
 
 153
 00:14:06,446 --> 00:14:09,822
-Te pondrÃ¡s celoso cuando me veas
+Te pondrás celoso cuando me veas
 con mi uniforme de oficial, Ali.
 
 154
 00:14:11,151 --> 00:14:13,927
-Estoy seguro de que ambos serÃ¡n
-valientes oficiales, Â¿pero, por quÃ©?
+Estoy seguro de que ambos serán
+valientes oficiales, ¿pero, por qué?
 
 155
 00:14:13,987 --> 00:14:15,595
-SerÃ¡ una aventura.
+Será una aventura.
 
 156
 00:14:15,655 --> 00:14:17,446
@@ -696,7 +703,7 @@ Eso es lo importante.
 
 157
 00:14:18,692 --> 00:14:20,354
-Â¿QuÃ© piensas, Seyid?
+¿Qué piensas, Seyid?
 
 158
 00:14:23,663 --> 00:14:25,495
@@ -709,7 +716,7 @@ sea algo que nos incumba.
 
 160
 00:14:35,375 --> 00:14:37,650
-Al menos no tendrÃ©
+Al menos no tendré
 que volver a la escuela.
 
 161
@@ -718,11 +725,11 @@ que volver a la escuela.
 
 162
 00:14:44,651 --> 00:14:47,460
-Â¿CuÃ¡ndo irÃ¡s a verlo?
+¿Cuándo irás a verlo?
 
 163
 00:14:47,520 --> 00:14:49,462
-Â¿A mi padre?
+¿A mi padre?
 
 164
 00:14:49,522 --> 00:14:50,981
@@ -735,8 +742,8 @@ asegurarle al zar que
 
 166
 00:15:08,141 --> 00:15:11,776
-no habrÃ¡ interrupciÃ³n en el suministro
-de petrÃ³leo de los prÃ³ximos meses.
+no habrá interrupción en el suministro
+de petróleo de los próximos meses.
 
 167
 00:15:12,012 --> 00:15:13,988
@@ -745,7 +752,7 @@ para un incremento.
 
 168
 00:15:17,150 --> 00:15:19,459
-PrÃ­ncipe Ali Khan.
+Príncipe Ali Khan.
 
 169
 00:15:19,519 --> 00:15:22,228
@@ -763,12 +770,12 @@ Como sabe, nuestra familia
 
 172
 00:15:33,943 --> 00:15:36,043
-gobernÃ³ en esta regiÃ³n
-por casi 700 aÃ±os.
+gobernó en esta región
+por casi 700 años.
 
 173
 00:15:36,102 --> 00:15:37,610
-SÃ­.
+Sí.
 
 174
 00:15:37,670 --> 00:15:39,648
@@ -790,7 +797,7 @@ Entonces...
 
 178
 00:15:46,046 --> 00:15:47,636
-Â¿SÃ­?
+¿Sí?
 
 179
 00:15:48,181 --> 00:15:53,246
@@ -804,7 +811,7 @@ un honor, Ali Khan.
 
 181
 00:16:09,369 --> 00:16:12,737
-No sÃ³lo para Nino sino
+No sólo para Nino sino
 para toda nuestra familia.
 
 182
@@ -814,16 +821,16 @@ Sin embargo...
 183
 00:16:17,310 --> 00:16:20,353
 No puedo evitar sentir que ella
-todavÃ­a es muy joven para casarse,
+todavía es muy joven para casarse,
 
 184
 00:16:20,413 --> 00:16:25,456
 por no hablar de las diferencias
-culturales y de religiÃ³n.
+culturales y de religión.
 
 185
 00:16:28,218 --> 00:16:30,528
-Estoy seguro que tambiÃ©n
+Estoy seguro que también
 eso le preocupa a tu padre.
 
 186
@@ -832,7 +839,7 @@ No.
 
 187
 00:16:33,493 --> 00:16:35,635
-Ya lo hablÃ© con Ã©l.
+Ya lo hablé con él.
 
 188
 00:16:35,695 --> 00:16:38,772
@@ -846,12 +853,12 @@ e impredecible.
 
 190
 00:16:42,435 --> 00:16:45,166
-Creo que deberÃ­amos
+Creo que deberíamos
 esperar a ver el resultado.
 
 191
 00:16:46,272 --> 00:16:47,988
-Â¿EstÃ¡s de acuerdo?
+¿Estás de acuerdo?
 
 192
 00:17:06,593 --> 00:17:07,983
@@ -859,46 +866,48 @@ Ali Khan.
 
 193
 00:17:10,897 --> 00:17:12,505
-Â¿EstÃ¡s bien?
+¿Estás bien?
 
 194
 00:17:12,565 --> 00:17:14,227
-Â¿QuÃ© sucede?
+¿Qué sucede?
 
 195
 00:17:15,702 --> 00:17:17,510
-Â¿CÃ³mo se atreve?
+¿Cómo se atreve?
 
 196
 00:17:17,570 --> 00:17:21,636
-Hace cien aÃ±os, un Kipiani habrÃ­a
+Hace cien años, un Kipiani habría
 besado mis pies ante tal oportunidad.
 
 197
 00:17:22,909 --> 00:17:25,435
-Mi padre se reirÃ¡ de mÃ­.
+Mi padre se reirá de mí.
 
 198
 00:17:26,713 --> 00:17:29,422
 - Realmente no dijo que no.
-- Â¿El fin de la guerra?
+- ¿El fin de la guerra?
 
 199
 00:17:29,482 --> 00:17:32,792
-Esta guerra puede durar 20 aÃ±os.
+Esta guerra puede
+durar 20 años.
 
 200
 00:17:32,852 --> 00:17:35,412
-- Â¿QuÃ© harÃ¡s?
+- ¿Qué harás?
 - Huiremos juntos.
 
 201
 00:17:37,257 --> 00:17:39,692
-Â¿La vas a secuestrar?
+¿La vas a secuestrar?
 
 202
 00:17:43,663 --> 00:17:47,774
-Bueno, no me opongo a la idea.
+Bueno, no me
+opongo a la idea.
 
 203
 00:17:47,834 --> 00:17:51,177
@@ -907,31 +916,31 @@ resolver problemas de este tipo,
 
 204
 00:17:51,237 --> 00:17:53,502
-pero deberÃ­a ser el
-Ãºltimo recurso, Â¿no?
+pero debería ser el
+último recurso, ¿no?
 
 205
 00:17:55,508 --> 00:18:00,251
-Creo... que alguien deberÃ­a
-explicarle al prÃ­ncipe Kipiani,
+Creo... que alguien debería
+explicarle al príncipe Kipiani,
 
 206
 00:18:00,313 --> 00:18:03,189
 el maravilloso
-matrimonio que serÃ­a
+matrimonio que sería
 
 207
 00:18:03,249 --> 00:18:05,718
 por todo tipo de razones
-polÃ­ticas y culturales.
+políticas y culturales.
 
 208
 00:18:07,654 --> 00:18:09,623
-Â¿QuiÃ©n va a hacer eso?
+¿Quién va a hacer eso?
 
 209
 00:18:12,192 --> 00:18:14,787
-Yo puedo, dÃ©jamelo a mÃ­.
+Yo puedo, déjamelo a mí.
 
 210
 00:18:19,566 --> 00:18:20,874
@@ -939,7 +948,7 @@ Gracias.
 
 211
 00:18:20,934 --> 00:18:24,244
-Â¿Por quÃ© dijiste que
+¿Por qué dijiste que
 al finalizar la guerra?
 
 212
@@ -950,35 +959,35 @@ necesidad de apresurarse.
 213
 00:18:28,908 --> 00:18:31,451
 Todo el mundo dice que
-habrÃ¡ terminado en Navidad.
+habrá terminado en Navidad.
 
 214
 00:18:31,511 --> 00:18:32,752
-Â¿Pero cÃ³mo lo sabes?
+¿Pero cómo lo sabes?
 
 215
 00:18:32,812 --> 00:18:35,188
-Nadie sabe cuÃ¡nto durarÃ¡.
+Nadie sabe cuánto durará.
 
 216
 00:18:35,248 --> 00:18:37,974
-PensÃ© que serÃ­a bueno para ti
+Pensé que sería bueno para ti
 tener tiempo para pensar.
 
 217
 00:18:38,218 --> 00:18:39,893
-Â¿Por quÃ© necesitarÃ­a
+¿Por qué necesitaría
 tiempo para pensar?
 
 218
 00:18:39,953 --> 00:18:42,395
-Â¿Prefieres unirte a
-su harÃ©n sin pensarlo?
+¿Prefieres unirte a
+su harén sin pensarlo?
 
 219
 00:18:42,455 --> 00:18:45,331
-Pero Ã©l me dijo que no
-tomarÃ­a ninguna otra esposa.
+Pero él me dijo que no
+tomaría ninguna otra esposa.
 
 220
 00:18:45,391 --> 00:18:47,267
@@ -1001,7 +1010,8 @@ azerbaiyano y un armenio.
 
 224
 00:19:10,450 --> 00:19:12,559
-Tres grandes pueblos caucÃ¡sicos.
+Tres grandes
+pueblos caucásicos.
 
 225
 00:19:20,560 --> 00:19:22,835
@@ -1009,17 +1019,17 @@ Gracias.
 
 226
 00:19:22,895 --> 00:19:24,904
-Mi esposa te dirÃ¡
+Mi esposa te dirá
 uno a cada minuto.
 
 227
 00:19:24,964 --> 00:19:27,840
 - Gregor, eres malo.
-- DÃ­selo, recÃ­tale uno ahora.
+- Díselo, recítale uno ahora.
 
 228
 00:19:30,937 --> 00:19:33,846
-RecÃ­tale uno de tus poemas.
+Recítale uno de tus poemas.
 
 229
 00:19:33,906 --> 00:19:35,982
@@ -1027,11 +1037,12 @@ Tenemos el mismo rostro.
 
 230
 00:19:36,042 --> 00:19:37,817
-Â¿En serio? No lo creo.
+¿En serio? No lo creo.
 
 231
 00:19:48,021 --> 00:19:49,996
-Â¿QuÃ© estÃ¡ pasando en la guerra?
+¿Qué está pasando
+en la guerra?
 
 232
 00:19:50,056 --> 00:19:51,898
@@ -1044,7 +1055,8 @@ Los rusos avanzan en Bagdad.
 
 234
 00:19:55,428 --> 00:19:56,803
-Todo es lo mismo para nosotros.
+Todo es lo mismo
+para nosotros.
 
 235
 00:19:56,863 --> 00:20:00,406
@@ -1057,12 +1069,12 @@ Tenemos caballos y armas.
 
 237
 00:20:02,335 --> 00:20:04,176
-Â¿No puedes ser
+¿No puedes ser
 voluntario para el frente?
 
 238
 00:20:04,236 --> 00:20:06,512
-No llevarÃ¡n oficiales
+No llevarán oficiales
 musulmanes al frente
 
 239
@@ -1072,7 +1084,7 @@ a disparar a otros musulmanes.
 
 240
 00:20:11,444 --> 00:20:12,885
-Y tienen razÃ³n.
+Y tienen razón.
 
 241
 00:20:12,945 --> 00:20:15,005
@@ -1081,7 +1093,7 @@ hermanos turcos.
 
 242
 00:20:15,848 --> 00:20:17,724
-CortesÃ­a de los oficiales.
+Cortesía de los oficiales.
 
 243
 00:20:17,784 --> 00:20:19,792
@@ -1090,25 +1102,25 @@ para los chicos.
 
 244
 00:20:26,359 --> 00:20:28,624
-Â¿Ves el tipo de cosas al que
+¿Ves el tipo de cosas al que
 nos tenemos que enfrentar?
 
 245
 00:20:31,397 --> 00:20:33,628
-TenÃ­as razÃ³n en no unirte.
+Tenías razón en no unirte.
 
 246
 00:20:55,855 --> 00:20:57,517
-Â¡Hola!
+¡Hola!
 
 247
 00:20:58,591 --> 00:21:00,433
 - Me voy.
-- EstÃ¡ bien.
+- Está bien.
 
 248
 00:21:00,493 --> 00:21:01,517
-AdiÃ³s.
+Adiós.
 
 249
 00:21:12,505 --> 00:21:13,996
@@ -1116,17 +1128,17 @@ Paz a ti.
 
 250
 00:21:21,848 --> 00:21:24,757
-Â¿Malik estÃ¡ haciendo
-algÃºn progreso?
+¿Malik está haciendo
+algún progreso?
 
 251
 00:21:24,817 --> 00:21:27,360
-Se estÃ¡ esforzando mucho.
+Se está esforzando mucho.
 
 252
 00:21:27,420 --> 00:21:29,929
-Pero mi madre todavÃ­a te
-llama "musulmÃ¡n salvaje."
+Pero mi madre todavía te
+llama "musulmán salvaje."
 
 253
 00:21:31,391 --> 00:21:34,834
@@ -1144,22 +1156,22 @@ dicho como un cumplido.
 
 256
 00:22:03,156 --> 00:22:06,766
-SÃ© que tus amigos estÃ¡n
-sirviendo en el ejÃ©rcito, Ali.
+Sé que tus amigos están
+sirviendo en el ejército, Ali.
 
 257
 00:22:06,826 --> 00:22:09,669
-Pero entre tÃº y yo,
+Pero entre tú y yo,
 
 258
 00:22:09,729 --> 00:22:12,631
 lamento que a los rusos
-le estÃ© yendo tan bien.
+le esté yendo tan bien.
 
 259
 00:22:15,134 --> 00:22:18,578
-- Â¿Nos incumbe?
-- SÃ­.
+- ¿Nos incumbe?
+- Sí.
 
 260
 00:22:18,638 --> 00:22:20,546
@@ -1169,11 +1181,11 @@ rusos sean derrotados,
 261
 00:22:20,606 --> 00:22:23,750
 no tenemos oportunidad de lograr
-lo que nuestro paÃ­s mÃ¡s necesita.
+lo que nuestro país más necesita.
 
 262
 00:22:23,810 --> 00:22:25,438
-Â¿Y quÃ© es eso?
+¿Y qué es eso?
 
 263
 00:22:27,180 --> 00:22:29,115
@@ -1186,12 +1198,12 @@ oportunidad de tener independencia.
 
 265
 00:22:37,657 --> 00:22:39,888
-Creo que estÃ¡ equivocado.
+Creo que está equivocado.
 
 266
 00:22:42,895 --> 00:22:46,072
-Â¡Izquierda, izquierda!
-Â¡Uno, dos, tres!
+¡Izquierda, izquierda!
+¡Uno, dos, tres!
 
 267
 00:22:52,038 --> 00:22:53,446
@@ -1199,49 +1211,49 @@ Creo que estÃ¡ equivocado.
 
 268
 00:22:53,506 --> 00:22:54,547
-Â¿Alguna noticia?
+¿Alguna noticia?
 
 269
 00:22:54,607 --> 00:22:55,915
-<i>Malik estÃ¡ aquÃ­.</i>
+<i>Malik está aquí.</i>
 
 270
 00:22:55,975 --> 00:22:58,451
-Les estÃ¡ diciendo
-que en esta regiÃ³n,
+Les está diciendo
+que en esta región,
 
 271
 00:22:58,511 --> 00:23:02,121
 cree que los matrimonios mixtos
-son el Ãºnico camino a seguir.
+son el único camino a seguir.
 
 272
 00:23:02,181 --> 00:23:03,890
-- Â¿SÃ­?
-- SÃ­.
+- ¿Sí?
+- Sí.
 
 273
 00:23:03,950 --> 00:23:08,526
-Y creo que despuÃ©s de la
-guerra, quizÃ¡s, es incluso mÃ¡s...
+Y creo que después de la
+guerra, quizás, es incluso más...
 
 274
 00:23:08,588 --> 00:23:10,989
 Todo bien. Tal vez
-podamos vernos mÃ¡s tarde.
+podamos vernos más tarde.
 
 275
 00:23:15,628 --> 00:23:17,170
-MÃ¡s...
+Más...
 
 276
 00:23:17,230 --> 00:23:18,905
-Complicado, sÃ­.
+Complicado, sí.
 
 277
 00:23:21,667 --> 00:23:23,476
-Bien, te verÃ©
-despuÃ©s de la Ã³pera.
+Bien, te veré
+después de la ópera.
 
 278
 00:23:23,536 --> 00:23:25,077
@@ -1254,15 +1266,15 @@ Nos vemos luego.
 
 280
 00:23:26,272 --> 00:23:28,707
-<i>Â¿Nino? Â¿Vienes?</i>
+<i>¿Nino? ¿Vienes?</i>
 
 281
 00:23:29,876 --> 00:23:31,037
-AdiÃ³s.
+Adiós.
 
 282
 00:24:17,590 --> 00:24:21,868
-Si Russia toma TurquÃ­a y Persia,
+Si Russia toma Turquía y Persia,
 el zar dijo que iba a cerrar
 
 283
@@ -1277,8 +1289,8 @@ zar nos pide dinero.
 
 285
 00:24:28,334 --> 00:24:31,644
-Â¿Por quÃ© deberÃ­amos colaborar en
-la destrucciÃ³n de nuestra cultura?
+¿Por qué deberíamos colaborar en
+la destrucción de nuestra cultura?
 
 286
 00:24:31,704 --> 00:24:33,948
@@ -1288,37 +1300,37 @@ estar seguros es que
 287
 00:24:33,949 --> 00:24:35,949
 luego de la guerra todo
-serÃ¡ bastante diferente.
+será bastante diferente.
 
 288
 00:24:36,008 --> 00:24:39,685
 Todas las grandes potencias
-estarÃ¡n dÃ©biles y agotadas,
+estarán débiles y agotadas,
 
 289
 00:24:39,745 --> 00:24:42,188
-pero nosotros todavÃ­a
+pero nosotros todavía
 tendremos nuestra fuerza,
 
 290
 00:24:42,248 --> 00:24:44,824
 nuestro dinero y
-nuestro petrÃ³leo.
+nuestro petróleo.
 
 291
 00:24:44,884 --> 00:24:46,959
-Â¿No serÃ­a maravilloso si
-pudiÃ©ramos convertirnos
+¿No sería maravilloso si
+pudiéramos convertirnos
 
 292
 00:24:47,019 --> 00:24:49,887
-en la primera naciÃ³n
-democrÃ¡tica musulmana?
+en la primera nación
+democrática musulmana?
 
 293
 00:24:53,326 --> 00:24:56,626
 No me gusta la forma en que
-estÃ¡ tratando de retratar al zar.
+está tratando de retratar al zar.
 
 294
 00:24:59,165 --> 00:25:00,895
@@ -1327,12 +1339,12 @@ con Fatali Khan.
 
 295
 00:25:02,635 --> 00:25:04,210
-DeberÃ­amos liberarnos.
+Deberíamos liberarnos.
 
 296
 00:25:04,370 --> 00:25:06,414
 Y no me refiero a regresar
-100 aÃ±os al modo en
+100 años al modo en
 
 297
 00:25:06,415 --> 00:25:08,115
@@ -1341,8 +1353,8 @@ que los rusos vinieran.
 
 298
 00:25:08,374 --> 00:25:10,208
-Digo que deberÃ­amos
-crear un paÃ­s moderno y
+Digo que deberíamos
+crear un país moderno y
 
 299
 00:25:10,209 --> 00:25:13,109
@@ -1352,7 +1364,7 @@ por nosotros mismos.
 300
 00:25:19,685 --> 00:25:22,895
 Muchas gracias por acceder a
-acompaÃ±arme, seÃ±or Nakhararyan.
+acompañarme, señor Nakhararyan.
 
 301
 00:25:22,955 --> 00:25:24,924
@@ -1394,44 +1406,45 @@ Realmente me gustas.
 
 310
 00:26:48,808 --> 00:26:50,506
-Â¿QuÃ© haces?
+¿Qué haces?
 
 311
 00:26:53,045 --> 00:26:54,954
 Podemos irnos de
-este paÃ­s juntos.
+este país juntos.
 
 312
 00:26:55,014 --> 00:26:57,056
-- Nos casaremos en MoscÃº.
+- Nos casaremos en Moscú.
 - No.
 
 313
 00:26:57,116 --> 00:26:58,991
-SÃ­ y luego nos iremos a Londres.
+Sí y luego nos
+iremos a Londres.
 
 314
 00:26:59,051 --> 00:27:01,427
 No, no, no.
-Â¿Malik, quÃ© haces?
+¿Malik, qué haces?
 
 315
 00:27:01,487 --> 00:27:04,730
-DÃ©jame salir. Â¡DetÃ©n
-el auto! Â¡Malik!
+Déjame salir. ¡Detén
+el auto! ¡Malik!
 
 316
 00:27:04,790 --> 00:27:06,431
-Â¡DÃ©jame salir!
+¡Déjame salir!
 
 317
 00:27:10,062 --> 00:27:12,138
-Â¡DÃ©jame salir!
-Â¡DÃ©jame salir!
+¡Déjame salir!
+¡Déjame salir!
 
 318
 00:27:13,499 --> 00:27:15,941
-Â¡DetÃ©n el auto, Malik!
+¡Detén el auto, Malik!
 
 319
 00:27:16,001 --> 00:27:18,110
@@ -1439,7 +1452,7 @@ Me alegra tener tu apoyo.
 
 320
 00:27:18,170 --> 00:27:19,445
-Gracias por invitarme, seÃ±or.
+Gracias por invitarme, señor.
 
 321
 00:27:19,505 --> 00:27:21,273
@@ -1448,11 +1461,11 @@ Gracias, Fatali Khan.
 322
 00:27:25,845 --> 00:27:27,519
 Te condujiste
-muy bien, hijo mÃ­o.
+muy bien, hijo mío.
 
 323
 00:27:27,579 --> 00:27:28,769
-Â¡Ali!
+¡Ali!
 
 324
 00:27:29,982 --> 00:27:31,390
@@ -1465,11 +1478,11 @@ secuestrado a Nino.
 
 326
 00:27:34,453 --> 00:27:36,028
-No, sÃ³lo fueron a la Ã³pera.
+No, sólo fueron a la ópera.
 
 327
 00:27:36,088 --> 00:27:39,165
-No, Ã©l estaba
+No, él estaba
 tratando de besarla.
 
 328
@@ -1477,27 +1490,27 @@ tratando de besarla.
 Luego se fue con ella.
 
 329
-00:27:53,205 --> 00:27:54,965
-- Â¿QuÃ© crees que estÃ¡s haciendo?
-- Â¡SuÃ©ltame!
+00:27:53,205 --> 00:27:54,943
+- ¿Qué crees que estás haciendo?
+- ¡Suéltame!
 
 330
 00:27:55,023 --> 00:27:56,682
 Te vas a quedar conmigo.
-Â¿Lo entiendes?
+¿Lo entiendes?
 
 331
 00:27:56,742 --> 00:28:00,076
-- Â¡SuÃ©ltame, no puedes hacer esto!
-- Â¡No, no puedes irte! Eres mÃ­a ahora.
+- ¡Suéltame, no puedes hacer esto!
+- ¡No, no puedes irte! Eres mía ahora.
 
 332
 00:28:01,380 --> 00:28:03,542
-No lo dirÃ© de nuevo.
+No lo diré de nuevo.
 
 333
 00:28:09,155 --> 00:28:10,955
-Se dirigÃ­an a la
+Se dirigían a la
 carretera de la costa.
 
 334
@@ -1506,35 +1519,35 @@ Tal vez sea lo mejor.
 
 335
 00:29:36,876 --> 00:29:38,083
-Â¿QuÃ© haces?
+¿Qué haces?
 
 336
 00:29:45,417 --> 00:29:47,359
-Â¡No, Ali!
+¡No, Ali!
 
 337
 00:31:31,056 --> 00:31:32,746
-Â¿Ali?
+¿Ali?
 
 338
 00:32:43,195 --> 00:32:44,629
-Â¿QuÃ© pasÃ³?
+¿Qué pasó?
 
 339
 00:32:46,398 --> 00:32:47,998
-PensÃ©...
+Pensé...
 
 340
 00:32:49,501 --> 00:32:51,697
-Â¿QuÃ© pensaste?
+¿Qué pensaste?
 
 341
 00:32:53,338 --> 00:32:56,813
-Quiero decir, Â¿Ã©l...?
+Quiero decir, ¿él...?
 
 342
 00:32:58,577 --> 00:33:01,342
-Â¿Ã‰l quÃ©?
+¿Él qué?
 
 343
 00:33:04,349 --> 00:33:06,648
@@ -1542,7 +1555,7 @@ No, no lo hizo.
 
 344
 00:33:12,191 --> 00:33:13,898
-EstÃ¡ muerto.
+Está muerto.
 
 345
 00:33:39,852 --> 00:33:41,794
@@ -1552,7 +1565,7 @@ custodiando la casa.
 346
 00:33:42,254 --> 00:33:44,830
 - Tienes que irte esta noche.
-- Â¿Por quÃ©?
+- ¿Por qué?
 
 347
 00:33:44,890 --> 00:33:48,300
@@ -1566,11 +1579,11 @@ Van a venir a buscarte.
 349
 00:33:55,200 --> 00:33:58,410
 Te voy a mandar con nuestra
-gente en las montaÃ±as.
+gente en las montañas.
 
 350
 00:33:58,470 --> 00:34:01,167
-Â¿CuÃ¡nto tiempo tengo
+¿Cuánto tiempo tengo
 que estar fuera?
 
 351
@@ -1584,11 +1597,12 @@ Mucho tiempo.
 
 353
 00:34:13,352 --> 00:34:14,982
-Â¿Le gustarÃ­a sentarse?
+¿Le gustaría sentarse?
 
 354
 00:34:17,222 --> 00:34:19,384
-Ante las circunstancias, Khan...
+Ante las
+circunstancias, Khan...
 
 355
 00:34:21,460 --> 00:34:25,204
@@ -1596,13 +1610,13 @@ Estoy convencido de que...
 
 356
 00:34:25,264 --> 00:34:28,527
-La Ãºnica soluciÃ³n honorable
+La única solución honorable
 es que se casen.
 
 357
 00:34:30,435 --> 00:34:32,344
-- No se puede, prÃ­ncipe.
-- SÃ­.
+- No se puede, príncipe.
+- Sí.
 
 358
 00:34:32,404 --> 00:34:34,566
@@ -1610,12 +1624,12 @@ Puede hacerse esta noche.
 
 359
 00:34:36,275 --> 00:34:37,985
-Â¿DÃ³nde estÃ¡?
+¿Dónde está?
 
 360
 00:34:39,878 --> 00:34:42,245
 Creo que se fue a casa
-de su tÃ­o en Persia.
+de su tío en Persia.
 
 361
 00:34:44,950 --> 00:34:46,684
@@ -1623,13 +1637,13 @@ Tienen que casarse.
 
 362
 00:34:48,720 --> 00:34:52,484
-Estoy seguro de que podrÃ¡n
+Estoy seguro de que podrán
 encontrarle un marido adecuado.
 
 363
 00:34:54,560 --> 00:34:57,587
 Ambos sabemos que nadie
-se casarÃ¡ con ella ahora.
+se casará con ella ahora.
 
 364
 00:35:03,268 --> 00:35:04,897
@@ -1637,8 +1651,8 @@ Gracias por venir.
 
 365
 00:36:07,566 --> 00:36:09,908
-- Â¿QuÃ© es esto?
-- HachÃ­s.
+- ¿Qué es esto?
+- Hachís.
 
 366
 00:36:09,968 --> 00:36:11,977
@@ -1654,19 +1668,20 @@ Ali.
 
 369
 00:37:46,765 --> 00:37:49,007
-Â¿Kasi Mullah?
+¿Kasi Mullah?
 
 370
 00:37:49,067 --> 00:37:50,676
-Este es Ali Khan Shirvanshir.
+Este es Ali
+Khan Shirvanshir.
 
 371
 00:37:50,736 --> 00:37:52,830
-Necesita tu protecciÃ³n.
+Necesita tu protección.
 
 372
 00:38:01,413 --> 00:38:03,439
-SÃ­game, Su SeÃ±orÃ­a.
+Sígame, Su Señoría.
 
 373
 00:38:17,963 --> 00:38:20,159
@@ -1674,12 +1689,13 @@ Ali Khan... Ali Khan.
 
 374
 00:38:28,473 --> 00:38:30,738
-Me temo que estÃ¡ muy enfermo.
+Me temo que
+está muy enfermo.
 
 375
 00:38:32,844 --> 00:38:35,712
-Nadie estÃ¡ enfermo por
-mucho tiempo en DaguestÃ¡n.
+Nadie está enfermo por
+mucho tiempo en Daguestán.
 
 376
 00:38:43,054 --> 00:38:44,647
@@ -1692,7 +1708,7 @@ entiendo lo que dice.
 
 378
 00:38:49,961 --> 00:38:52,437
-PrÃ­ncipe Kipiani,
+Príncipe Kipiani,
 
 379
 00:38:52,497 --> 00:38:55,574
@@ -1711,33 +1727,33 @@ misa en el futuro inmediato.
 
 382
 00:39:23,962 --> 00:39:26,004
-No sÃ© quÃ© mÃ¡s hacer.
+No sé qué más hacer.
 
 383
 00:39:26,064 --> 00:39:28,056
-Bueno, serÃ¡ mejor
+Bueno, será mejor
 que pienses en algo.
 
 384
 00:39:30,001 --> 00:39:31,596
-Â¡MÃ­rala!
+¡Mírala!
 
 385
 00:39:33,138 --> 00:39:34,834
-Â¡MÃ­rate!
+¡Mírate!
 
 386
 00:39:36,074 --> 00:39:37,940
-Â¡No podemos seguir asÃ­!
+¡No podemos seguir así!
 
 387
 00:40:00,098 --> 00:40:01,940
-No quiero ir a MoscÃº.
+No quiero ir a Moscú.
 
 388
 00:40:02,000 --> 00:40:04,475
-Me temo que en esta ocasiÃ³n
-no te pedimos tu opiniÃ³n.
+Me temo que en esta ocasión
+no te pedimos tu opinión.
 
 389
 00:40:04,535 --> 00:40:07,546
@@ -1747,26 +1763,27 @@ no te pedimos tu opiniÃ³n.
 390
 00:40:07,606 --> 00:40:09,548
 - Padre, por favor.
-- Â¡No!
+- ¡No!
 
 391
 00:40:09,608 --> 00:40:11,983
 Es muy obvio que no
-hay futuro para ti aquÃ­.
+hay futuro para ti aquí.
 
 392
 00:40:12,043 --> 00:40:13,518
-No hay futuro para mÃ­ en MoscÃº.
+No hay futuro
+para mí en Moscú.
 
 393
 00:40:13,578 --> 00:40:17,276
 Hay una posibilidad de que no
-todos hayan oÃ­do lo que pasÃ³.
+todos hayan oído lo que pasó.
 
 394
 00:42:00,185 --> 00:42:02,916
-Mis padres me enviarÃ¡n
-maÃ±ana a MoscÃº.
+Mis padres me enviarán
+mañana a Moscú.
 
 395
 00:42:04,189 --> 00:42:07,132
@@ -1775,39 +1792,39 @@ deber obedecerlos.
 
 396
 00:42:07,192 --> 00:42:08,285
-Â¿No es asÃ­?
+¿No es así?
 
 397
 00:42:09,961 --> 00:42:12,692
 Si no me llevas,
-irÃ© por mi cuenta.
+iré por mi cuenta.
 
 398
 00:43:35,013 --> 00:43:36,721
-Â¿Nino?
+¿Nino?
 
 399
 00:43:36,781 --> 00:43:38,890
-SÃ­.
+Sí.
 
 400
-00:43:38,950 --> 00:43:39,950
+00:43:38,950 --> 00:43:39,940
 Nino.
 
 401
 00:43:47,025 --> 00:43:49,434
-Â¿CÃ³mo llegaste aquÃ­?
+¿Cómo llegaste aquí?
 
 402
 00:43:49,494 --> 00:43:52,157
-Seyid MustafÃ¡ me trajo.
+Seyid Mustafá me trajo.
 
 403
 00:44:12,517 --> 00:44:14,486
-Te he extraÃ±ado tanto.
+Te he extrañado tanto.
 
 404
-00:45:38,136 --> 00:45:39,136
+00:45:38,136 --> 00:45:39,126
 Seyid.
 
 405
@@ -1821,12 +1838,12 @@ No necesitamos un mullah.
 
 407
 00:45:44,976 --> 00:45:46,384
-SÃ© cÃ³mo llevar a
+Sé cómo llevar a
 cabo un matrimonio.
 
 408
 00:45:46,444 --> 00:45:49,120
-<i>SÃ³lo necesito
+<i>Sólo necesito
 preparar los papeles.</i>
 
 409
@@ -1836,34 +1853,35 @@ hora entonces.
 
 410
 00:46:01,593 --> 00:46:03,619
-Â¿Realmente quieres hacer esto?
+¿Realmente
+quieres hacer esto?
 
 411
 00:46:04,896 --> 00:46:06,555
-Â¿Quieres?
+¿Quieres?
 
 412
 00:46:09,033 --> 00:46:12,128
-Â¿EstÃ¡s preparado para
+¿Estás preparado para
 casarte con una mujer indigna?
 
 413
 00:46:13,071 --> 00:46:15,980
-Â¿EstÃ¡s preparada
-para quedarte aquÃ­?
+¿Estás preparada
+para quedarte aquí?
 
 414
 00:46:16,040 --> 00:46:19,568
-Â¿En esta casucha?
-Â¿No te vas a aburrir?
+¿En esta casucha?
+¿No te vas a aburrir?
 
 415
-00:46:21,045 --> 00:46:22,045
+00:46:21,045 --> 00:46:22,013
 No.
 
 416
 00:46:30,922 --> 00:46:31,963
-Â¿CÃ³mo te llamas?
+¿Cómo te llamas?
 
 417
 00:46:32,023 --> 00:46:36,100
@@ -1872,15 +1890,15 @@ Hijo de Safar Khan.
 
 418
 00:46:36,160 --> 00:46:37,235
-Â¿ReligiÃ³n?
+¿Religión?
 
 419
 00:46:37,295 --> 00:46:39,204
-MusulmÃ¡n chiita.
+Musulmán chiita.
 
 420
 00:46:39,264 --> 00:46:40,630
-Â¿CuÃ¡l es tu deseo?
+¿Cuál es tu deseo?
 
 421
 00:46:43,468 --> 00:46:45,528
@@ -1889,7 +1907,7 @@ como mi esposa.
 
 422
 00:46:48,006 --> 00:46:49,531
-Â¿CuÃ¡l es tu nombre?
+¿Cuál es tu nombre?
 
 423
 00:46:51,609 --> 00:46:53,271
@@ -1897,7 +1915,7 @@ Princesa Nino Kipiani.
 
 424
 00:46:55,079 --> 00:46:56,554
-Â¿ReligiÃ³n?
+¿Religión?
 
 425
 00:46:56,614 --> 00:46:58,356
@@ -1905,27 +1923,29 @@ Georgiana ortodoxa.
 
 426
 00:46:58,416 --> 00:46:59,679
-Â¿CuÃ¡l es tu deseo?
+¿Cuál es tu deseo?
 
 427
 00:47:02,520 --> 00:47:04,495
-Ser la esposa de este hombre.
+Ser la esposa
+de este hombre.
 
 428
 00:47:04,555 --> 00:47:07,131
-Â¿Deseas conservar tu religiÃ³n?
+¿Deseas conservar tu religión?
 
 429
 00:47:07,191 --> 00:47:09,217
-SÃ­.
+Sí.
 
 430
 00:47:12,463 --> 00:47:16,230
-Por favor, firma aquÃ­.
+Por favor, firma aquí.
 
 431
 00:47:19,437 --> 00:47:21,535
-Â¿Con cuÃ¡l nombre debo firmar?
+¿Con cuál
+nombre debo firmar?
 
 432
 00:47:22,473 --> 00:47:24,442
@@ -1934,7 +1954,7 @@ Con tu nuevo nombre.
 433
 00:48:34,712 --> 00:48:39,190
 <i>Mis queridos padres, por
-favor, no se preocupen por mÃ­.</i>
+favor, no se preocupen por mí.</i>
 
 434
 00:48:39,250 --> 00:48:43,516
@@ -1944,7 +1964,7 @@ y todo ha salido bien.</i>
 435
 00:48:48,259 --> 00:48:51,336
 <i>La vida es simple
-en las montaÃ±as.</i>
+en las montañas.</i>
 
 436
 00:48:51,396 --> 00:48:54,798
@@ -1953,7 +1973,7 @@ nuestros propios vegetales.</i>
 
 437
 00:48:57,702 --> 00:49:01,700
-<i>Trabajamos todo el dÃ­a y participamos
+<i>Trabajamos todo el día y participamos
 plenamente en la vida del pueblo.</i>
 
 438
@@ -1963,11 +1983,12 @@ comodidades de la ciudad.</i>
 
 439
 00:49:11,049 --> 00:49:13,391
-<i>Pero honestamente puedo decir</i>
+<i>Pero honestamente
+puedo decir</i>
 
 440
 00:49:13,451 --> 00:49:17,028
-<i>que jamÃ¡s he sido
+<i>que jamás he sido
 tan feliz en mi vida.</i>
 
 441
@@ -1990,25 +2011,26 @@ nos vayamos a Suecia.
 
 445
 00:50:09,407 --> 00:50:11,239
-A un paÃ­s neutral.
+A un país neutral.
 
 446
 00:50:12,410 --> 00:50:15,670
-Â¿Te sugiere cÃ³mo podrÃ­amos
-llegar allÃ¡ en medio de la guerra?
+¿Te sugiere cómo podríamos
+llegar allá en medio de la guerra?
 
 447
 00:50:17,148 --> 00:50:18,914
-No prestan atenciÃ³n.
+No prestan atención.
 
 448
 00:50:19,750 --> 00:50:23,094
-Cuando les escribas de vuelta,
+Cuando les
+escribas de vuelta,
 
 449
 00:50:23,154 --> 00:50:26,581
 diles que vivimos como lo hace la
-mayorÃ­a de la gente en nuestro paÃ­s.
+mayoría de la gente en nuestro país.
 
 450
 00:50:27,191 --> 00:50:28,957
@@ -2016,11 +2038,12 @@ Y tiene sentido.
 
 451
 00:51:44,558 --> 00:51:48,658
-<i><b>OtoÃ±o de 1917.</b></i>
+<i><b>Otoño de 1917.</b></i>
 
 452
 00:52:09,994 --> 00:52:12,293
-PerteneciÃ³ a la madre de Ali.
+Perteneció a
+la madre de Ali.
 
 453
 00:52:14,665 --> 00:52:16,998
@@ -2032,16 +2055,16 @@ Gracias.
 
 455
 00:52:26,744 --> 00:52:29,854
-Â¿Sacas el agua del pozo
-cada maÃ±ana, hija mÃ­a?
+¿Sacas el agua del pozo
+cada mañana, hija mía?
 
 456
 00:52:32,850 --> 00:52:34,592
-Â¿Y cocinas toda la comida?
+¿Y cocinas toda la comida?
 
 457
 00:52:34,652 --> 00:52:35,984
-AsÃ­ es.
+Así es.
 
 458
 00:52:39,323 --> 00:52:40,552
@@ -2049,7 +2072,8 @@ Gracias.
 
 459
 00:52:48,266 --> 00:52:50,030
-<i>Apruebo a tu esposa, Ali Khan.</i>
+<i>Apruebo a tu
+esposa, Ali Khan.</i>
 
 460
 00:52:51,602 --> 00:52:53,844
@@ -2061,8 +2085,8 @@ Es muy mala cocinera.
 
 462
 00:52:56,774 --> 00:53:00,484
-Â¿Safar Khan, puedo
-tentarlo con un poco mÃ¡s?
+¿Safar Khan, puedo
+tentarlo con un poco más?
 
 463
 00:53:00,544 --> 00:53:01,953
@@ -2070,15 +2094,16 @@ No, gracias. Delicioso.
 
 464
 00:53:02,013 --> 00:53:03,504
-No podrÃ­a.
+No podría.
 
 465
 00:53:04,548 --> 00:53:05,890
-Â¿CÃ³mo estÃ¡ la vida en BakÃº?
+¿Cómo está la vida en Bakú?
 
 466
 00:53:05,950 --> 00:53:08,726
-Todo sigue igual, excepto que...
+Todo sigue igual,
+excepto que...
 
 467
 00:53:08,786 --> 00:53:10,761
@@ -2087,27 +2112,27 @@ Las calles son un caos,
 468
 00:53:10,821 --> 00:53:14,588
 porque nuestro
-gobernador ruso huyÃ³.
+gobernador ruso huyó.
 
 469
 00:53:15,459 --> 00:53:16,934
-Â¿Por quÃ© motivo?
+¿Por qué motivo?
 
 470
 00:53:16,994 --> 00:53:19,293
-El zar abdicÃ³.
+El zar abdicó.
 
 471
 00:53:20,464 --> 00:53:22,006
-Â¿QuÃ©?
+¿Qué?
 
 472
 00:53:22,066 --> 00:53:23,774
-SÃ­.
+Sí.
 
 473
 00:53:23,834 --> 00:53:25,943
-AsÃ­ que todos los rusos
+Así que todos los rusos
 han dejado la ciudad.
 
 474
@@ -2117,16 +2142,16 @@ frente, libres de su juramento al zar.
 
 475
 00:53:34,445 --> 00:53:36,420
-Â¿QuÃ© hay de los Nakhararyans?
+¿Qué hay de los Nakhararyans?
 
 476
 00:53:36,480 --> 00:53:39,957
 Toda la familia Nakhararyan
-escapÃ³ a MoscÃº.
+escapó a Moscú.
 
 477
 00:53:40,017 --> 00:53:41,959
-Â¿Y mi familia?
+¿Y mi familia?
 
 478
 00:53:42,019 --> 00:53:45,649
@@ -2135,17 +2160,17 @@ sensatamente a Tbilisi.
 
 479
 00:53:51,595 --> 00:53:53,564
-Â¿Eso significa que
+¿Eso significa que
 podemos regresar?
 
 480
 00:53:54,498 --> 00:53:56,259
-No veo objeciÃ³n.
+No veo objeción.
 
 481
 00:54:08,379 --> 00:54:11,679
 Hemos sido felices
-aquÃ­. Â¿Por quÃ© irnos?
+aquí. ¿Por qué irnos?
 
 482
 00:54:15,586 --> 00:54:19,947
@@ -2154,35 +2179,36 @@ hemos tenido de ser independientes.
 
 483
 00:54:59,029 --> 00:55:00,998
-Â¿Estaba asÃ­ cuando te fuiste?
+¿Estaba así cuando te fuiste?
 
 484
-00:55:02,032 --> 00:55:03,032
+00:55:02,032 --> 00:55:03,007
 No.
 
 485
 00:55:14,845 --> 00:55:18,956
-<i>Â¡La revoluciÃ³n en Rusia
-causÃ³ caos en todos lados!</i>
+<i>¡La revolución en Rusia
+causó caos en todos lados!</i>
 
 486
 00:55:19,016 --> 00:55:23,427
 Los rusos pudieron haberse ido,
-pero todavÃ­a seguimos en peligro.
+pero todavía seguimos en peligro.
 
 487
 00:55:23,487 --> 00:55:26,397
-Hermanos, acÃ©rquense, por favor.
+Hermanos,
+acérquense, por favor.
 
 488
 00:55:26,457 --> 00:55:29,518
 Quiero dejarles la
-situaciÃ³n clara.
+situación clara.
 
 489
 00:55:30,861 --> 00:55:35,439
-Nuestro pueblo estÃ¡ rodeado de
-desertores de los ejÃ©rcitos del zar.
+Nuestro pueblo está rodeado de
+desertores de los ejércitos del zar.
 
 490
 00:55:35,499 --> 00:55:39,610
@@ -2192,7 +2218,7 @@ matando a todos a su paso.
 491
 00:55:39,670 --> 00:55:43,047
 Han prendido fuego a los campos
-petroleros y estÃ¡n casi sobre nosotros,
+petroleros y están casi sobre nosotros,
 
 492
 00:55:43,107 --> 00:55:45,512
@@ -2206,7 +2232,7 @@ violar a nuestras mujeres.
 
 494
 00:55:49,947 --> 00:55:52,056
-Â¡Nos superan en nÃºmero!
+¡Nos superan en número!
 
 495
 00:55:52,116 --> 00:55:54,711
@@ -2214,7 +2240,7 @@ Y tenemos pocas armas.
 
 496
 00:55:56,220 --> 00:56:00,431
-Â¡Les pido que se unan a nosotros
+¡Les pido que se unan a nosotros
 para defender nuestras casas
 
 497
@@ -2225,7 +2251,7 @@ de nuestra puerta!
 498
 00:56:12,236 --> 00:56:15,070
 Regresas justo cuando
-mÃ¡s te necesitamos.
+más te necesitamos.
 
 499
 00:56:17,942 --> 00:56:19,672
@@ -2233,7 +2259,7 @@ Ali Khan.
 
 500
 00:56:20,478 --> 00:56:21,719
-Â¿QuÃ© le pasÃ³ a tu ojo?
+¿Qué le pasó a tu ojo?
 
 501
 00:56:21,779 --> 00:56:23,714
@@ -2241,7 +2267,7 @@ Una pieza de metralla rusa.
 
 502
 00:56:27,184 --> 00:56:31,962
-Un dÃ­a luchando por los rusos y el
+Un día luchando por los rusos y el
 siguiente peleando contra ellos.
 
 503
@@ -2259,13 +2285,13 @@ a prepararnos.
 
 506
 00:56:41,899 --> 00:56:44,575
-Los desertores estarÃ¡n
-aquÃ­ en cuestiÃ³n de horas.
+Los desertores estarán
+aquí en cuestión de horas.
 
 507
 00:56:50,074 --> 00:56:54,752
 Por favor, lleva estos instrumentos
-adentro y esterilÃ­zalos.
+adentro y esterilízalos.
 
 508
 00:57:11,929 --> 00:57:14,572
@@ -2279,7 +2305,8 @@ dispara hasta que reciba la orden.
 
 510
 00:57:19,103 --> 00:57:21,299
-PrepÃ¡rense, a sus posiciones.
+Prepárense, a
+sus posiciones.
 
 511
 00:59:00,904 --> 00:59:02,964
@@ -2287,7 +2314,7 @@ Oigan.
 
 512
 00:59:18,956 --> 00:59:20,331
-Â¡Ahora!
+¡Ahora!
 
 513
 01:01:35,359 --> 01:01:37,157
@@ -2299,7 +2326,7 @@ Mehmed.
 
 515
 01:01:50,841 --> 01:01:52,149
-Â¿QuÃ© pasÃ³?
+¿Qué pasó?
 
 516
 01:01:52,209 --> 01:01:53,517
@@ -2319,12 +2346,12 @@ Tenemos que irnos.
 
 520
 01:02:34,451 --> 01:02:37,060
-Â¿QuÃ©? Â¿QuÃ© hay de
+¿Qué? ¿Qué hay de
 todos los heridos?
 
 521
-01:02:37,120 --> 01:02:38,398
-La ciudad estÃ¡ a punto
+01:02:37,120 --> 01:02:38,362
+La ciudad está a punto
 de ser destruida.
 
 522
@@ -2333,11 +2360,11 @@ Tenemos que irnos.
 
 523
 01:02:44,628 --> 01:02:46,096
-Â¿EstÃ¡s bien?
+¿Estás bien?
 
 524
 01:02:47,898 --> 01:02:49,840
-Me quedarÃ© aquÃ­ con Ilyas.
+Me quedaré aquí con Ilyas.
 
 525
 01:02:49,900 --> 01:02:51,508
@@ -2351,11 +2378,12 @@ mi padre en Persia.
 
 527
 01:02:55,138 --> 01:02:56,606
-Esta lucha no ha terminado aÃºn.
+Esta lucha no
+ha terminado aún.
 
 528
 01:03:00,444 --> 01:03:02,379
-LlamarÃ© al bebÃ© Ali.
+Llamaré al bebé Ali.
 
 529
 01:04:01,538 --> 01:04:03,313
@@ -2363,11 +2391,12 @@ Este es Yahya Guli.
 
 530
 01:04:03,373 --> 01:04:05,171
-Ã‰l te mostrarÃ¡ tu habitaciÃ³n.
+Él te mostrará tu habitación.
 
 531
 01:04:18,255 --> 01:04:20,063
-Bienvenida a Persia, mi seÃ±ora.
+Bienvenida a
+Persia, mi señora.
 
 532
 01:04:20,123 --> 01:04:23,355
@@ -2375,7 +2404,7 @@ Soy su eunuco. Por favor.
 
 533
 01:04:43,513 --> 01:04:45,004
-SÃ­game, princesa.
+Sígame, princesa.
 
 534
 01:05:34,765 --> 01:05:36,199
@@ -2383,11 +2412,12 @@ Por favor.
 
 535
 01:06:11,201 --> 01:06:15,679
-Creo que debe ser muy agotador
+Creo que debe
+ser muy agotador
 
 536
 01:06:15,739 --> 01:06:18,299
-ser la Ãºnica esposa
+ser la única esposa
 de un joven marido.
 
 537
@@ -2402,16 +2432,16 @@ muchachos de baile.
 
 539
 01:06:30,353 --> 01:06:32,549
-Â¿Alguna vez te ha
+¿Alguna vez te ha
 pasado alguna enfermedad?
 
 540
-01:06:34,758 --> 01:06:35,758
+01:06:34,758 --> 01:06:35,748
 No.
 
 541
 01:06:40,797 --> 01:06:42,789
-Tienes mucha suerte con Ã©l.
+Tienes mucha suerte con él.
 
 542
 01:06:47,871 --> 01:06:50,380
@@ -2419,11 +2449,11 @@ Usa esto.
 
 543
 01:06:50,440 --> 01:06:53,216
-Ãšsalo, vamos.
+Úsalo, vamos.
 
 544
 01:06:53,276 --> 01:06:56,542
-Te protegerÃ¡ contra
+Te protegerá contra
 cualquier rival.
 
 545
@@ -2432,11 +2462,11 @@ Gracias.
 
 546
 01:07:27,410 --> 01:07:28,844
-Â¿Alguna noticia?
+¿Alguna noticia?
 
 547
 01:07:47,931 --> 01:07:49,840
-Â¿QuÃ© es todo esto?
+¿Qué es todo esto?
 
 548
 01:07:49,900 --> 01:07:52,375
@@ -2450,15 +2480,15 @@ Lo siento, princesa.
 550
 01:07:54,237 --> 01:07:57,447
 No puedo permitirle salir
-del harÃ©n sin uno puesto.
+del harén sin uno puesto.
 
 551
 01:07:57,507 --> 01:07:58,941
-Â¿QuÃ© quieres decir?
+¿Qué quieres decir?
 
 552
 01:07:59,176 --> 01:08:01,151
-SÃ³lo voy a Bazaar.
+Sólo voy a Bazaar.
 
 553
 01:08:01,211 --> 01:08:04,654
@@ -2467,19 +2497,20 @@ es la ley en esta tierra.
 
 554
 01:08:04,714 --> 01:08:07,524
-No puedo dejar que la arresten.
+No puedo dejar
+que la arresten.
 
 555
 01:08:07,584 --> 01:08:09,250
-Â¿Que me arresten?
+¿Que me arresten?
 
 556
 01:08:14,424 --> 01:08:16,399
-Â¡Entonces me quedarÃ© aquÃ­!
+¡Entonces me quedaré aquí!
 
 557
 01:08:16,459 --> 01:08:17,801
-Me quedarÃ© dentro.
+Me quedaré dentro.
 
 558
 01:08:17,861 --> 01:08:20,296
@@ -2500,20 +2531,20 @@ sin saber nada de ti, Ali.</i>
 
 562
 01:08:46,523 --> 01:08:48,287
-<i>Es muy solo aquÃ­.</i>
+<i>Es muy solo aquí.</i>
 
 563
 01:08:52,762 --> 01:08:54,938
-<i>Por favor, ven por mÃ­.</i>
+<i>Por favor, ven por mí.</i>
 
 564
 01:08:54,998 --> 01:08:59,543
 <i>Me temo que mi estado mental puede
-que no sea bueno para el bebÃ©.</i>
+que no sea bueno para el bebé.</i>
 
 565
 01:08:59,603 --> 01:09:02,245
-<i>PromÃ©teme que vendrÃ¡s
+<i>Prométeme que vendrás
 tan pronto puedas.</i>
 
 566
@@ -2523,7 +2554,7 @@ tan pronto puedas.</i>
 
 567
 01:10:27,657 --> 01:10:30,667
-- Â¿CuÃ¡ndo llegaste aquÃ­?
+- ¿Cuándo llegaste aquí?
 - Esta tarde.
 
 568
@@ -2533,16 +2564,16 @@ ha dado un trabajo.
 
 569
 01:10:34,364 --> 01:10:36,006
-Â¿CuÃ¡l?
+¿Cuál?
 
 570
 01:10:36,066 --> 01:10:40,777
 Bueno, es el anuncio
-de un nuevo paÃ­s.
+de un nuevo país.
 
 571
 01:10:40,837 --> 01:10:43,747
-Fatali Khan estÃ¡ aquÃ­ para
+Fatali Khan está aquí para
 proclamar nuestra independencia.
 
 572
@@ -2551,65 +2582,66 @@ Eso es extraordinario.
 
 573
 01:10:48,411 --> 01:10:50,053
-Â¡SÃ­!
+¡Sí!
 
 574
 01:11:02,025 --> 01:11:06,836
-Declaro la creaciÃ³n de una
-nueva naciÃ³n soberana.
+Declaro la creación de una
+nueva nación soberana.
 
 575
 01:11:06,896 --> 01:11:12,754
-GarantizarÃ¡ derechos civiles y
-polÃ­ticos a todos sus ciudadanos,
+Garantizará derechos civiles y
+políticos a todos sus ciudadanos,
 
 576
 01:11:12,769 --> 01:11:18,715
-sin importar su origen Ã©tnico,
-religiÃ³n, clase o gÃ©nero.
+sin importar su origen étnico,
+religión, clase o género.
 
 577
 01:11:18,775 --> 01:11:21,618
-La RepÃºblica DemocrÃ¡tica
-de AzerbaiyÃ¡n.
+La República Democrática
+de Azerbaiyán.
 
 578
 01:11:26,616 --> 01:11:27,991
-Prometamos fidelidad aquÃ­
+Prometamos fidelidad aquí
 
 579
 01:11:28,051 --> 01:11:30,850
 y digamos en voz alta nuestra
-promesa a nuestro nuevo paÃ­s.
+promesa a nuestro nuevo país.
 
 580
-01:11:32,422 --> 01:11:34,782
-- Nuestra bandera estÃ¡ izada.
-- Â¡Nuestra bandera estÃ¡ izada!
+01:11:32,422 --> 01:11:34,764
+- Nuestra bandera está izada.
+- ¡Nuestra bandera está izada!
 
 581
 01:11:34,824 --> 01:11:37,934
-- Y jamÃ¡s caerÃ¡.
-- Â¡Y jamÃ¡s caerÃ¡!
+- Y jamás caerá.
+- ¡Y jamás caerá!
 
 582
 01:12:32,182 --> 01:12:35,158
-<i>PensÃ© que te habÃ­a perdido, Ali.</i>
+<i>Pensé que te
+había perdido, Ali.</i>
 
 583
 01:12:35,218 --> 01:12:37,994
-<i>PensÃ© que estarÃ­a aquÃ­
+<i>Pensé que estaría aquí
 por el resto de mi vida.</i>
 
 584
 01:12:38,054 --> 01:12:40,864
-<i>- Â¿CuÃ¡ndo podemos irnos a casa?
-- AÃºn no.</i>
+<i>- ¿Cuándo podemos irnos a casa?
+- Aún no.</i>
 
 585
 01:12:40,924 --> 01:12:42,866
 Pero cuando nazca el
-bebÃ© podremos irnos.
+bebé podremos irnos.
 
 586
 01:12:42,926 --> 01:12:45,935
@@ -2618,7 +2650,8 @@ tanto tiempo, no puedo.
 
 587
 01:12:45,995 --> 01:12:48,772
-Me siento como una prisionera.
+Me siento como
+una prisionera.
 
 588
 01:12:48,832 --> 01:12:52,175
@@ -2627,22 +2660,22 @@ No puedo recibir invitados.
 
 589
 01:12:52,235 --> 01:12:57,447
-No puedo ir a TeherÃ¡n porque no se
-permite el mezclarse con incrÃ©dulos.
+No puedo ir a Teherán porque no se
+permite el mezclarse con incrédulos.
 
 590
-01:12:57,507 --> 01:12:59,227
-Â¿Te preguntas por quÃ©
-no soporto estar aquÃ­?
+01:12:57,507 --> 01:12:59,203
+¿Te preguntas por qué
+no soporto estar aquí?
 
 591
 01:13:01,611 --> 01:13:04,487
 Y no puedo soportar a
-ese eunuco otro dÃ­a.
+ese eunuco otro día.
 
 592
 01:13:04,547 --> 01:13:09,192
-Sigue queriendo pintarme las uÃ±as y
+Sigue queriendo pintarme las uñas y
 afeitarme todo el pelo de mi cuerpo.
 
 593
@@ -2655,19 +2688,20 @@ Y tampoco quiero verte.
 
 595
 01:13:18,895 --> 01:13:20,261
-AsÃ­ que, por favor...
+Así que, por favor...
 
 596
-01:13:22,131 --> 01:13:23,131
+01:13:22,131 --> 01:13:23,121
 Por favor.
 
 597
 01:14:40,109 --> 01:14:41,818
-Â¿QuÃ© es mÃ¡s importante para ti?
+¿Qué es más
+importante para ti?
 
 598
 01:14:41,878 --> 01:14:45,144
-Â¿Tu esposa e hijo o tu paÃ­s?
+¿Tu esposa e hijo o tu país?
 
 599
 01:15:15,244 --> 01:15:17,020
@@ -2675,15 +2709,15 @@ Ali Khan.
 
 600
 01:15:17,080 --> 01:15:18,688
-Es una niÃ±a.
+Es una niña.
 
 601
 01:15:18,748 --> 01:15:20,307
-Es una niÃ±a, padre.
+Es una niña, padre.
 
 602
 01:15:23,920 --> 01:15:28,064
-La prÃ³xima vez serÃ¡ un varÃ³n.
+La próxima vez será un varón.
 
 603
 01:15:32,395 --> 01:15:33,886
@@ -2699,37 +2733,40 @@ Te amo.
 
 606
 01:16:15,872 --> 01:16:17,898
-Yo tambiÃ©n te amo.
+Yo también te amo.
 
 607
 01:16:29,185 --> 01:16:30,660
-<i>Â¿VendrÃ¡s con nosotros pronto?</i>
+<i>¿Vendrás con
+nosotros pronto?</i>
 
 608
 01:16:30,720 --> 01:16:34,364
-No, he decidido quedarme aquÃ­.
+No, he decidido
+quedarme aquí.
 
 609
 01:16:34,424 --> 01:16:36,766
-Pero, Â¿quÃ© vas a
-hacer en TeherÃ¡n?
+Pero, ¿qué vas a
+hacer en Teherán?
 
 610
 01:16:36,826 --> 01:16:38,454
-No sÃ©.
+No sé.
 
 611
 01:16:38,695 --> 01:16:40,391
-Probablemente me case otra vez.
+Probablemente
+me case otra vez.
 
 612
 01:16:43,466 --> 01:16:46,436
-DeberÃ­as volver cuando
-todo se derrumbe en BakÃº.
+Deberías volver cuando
+todo se derrumbe en Bakú.
 
 613
 01:16:48,438 --> 01:16:51,047
-Â¿QuÃ© quieres decir?
+¿Qué quieres decir?
 
 614
 01:16:51,107 --> 01:16:53,349
@@ -2744,15 +2781,15 @@ nuestros problemas apenas empiezan.
 616
 01:17:01,718 --> 01:17:04,427
 Que tengas un
-buen viaje, hijo mÃ­o.
+buen viaje, hijo mío.
 
 617
 01:17:04,487 --> 01:17:05,762
-AdiÃ³s, padre.
+Adiós, padre.
 
 618
 01:17:05,822 --> 01:17:07,654
-AdiÃ³s, hijo mÃ­o.
+Adiós, hijo mío.
 
 619
 01:17:19,255 --> 01:17:24,355
@@ -2760,8 +2797,8 @@ AdiÃ³s, hijo mÃ­o.
 
 620
 01:18:05,248 --> 01:18:08,878
-AsegÃºrate de que las habitaciones
-estÃ©n asignadas como te expliquÃ©.
+Asegúrate de que las habitaciones
+estén asignadas como te expliqué.
 
 621
 01:18:09,952 --> 01:18:11,352
@@ -2769,7 +2806,7 @@ Primer Ministro.
 
 622
 01:18:15,925 --> 01:18:18,801
-Somos como una criatura reciÃ©n
+Somos como una criatura recién
 nacida ciega e indefensa
 
 623
@@ -2779,22 +2816,22 @@ infestadas de tiburones.
 
 624
 01:18:22,999 --> 01:18:26,401
-AÃºn asÃ­, al menos nuestros vecinos
+Aún así, al menos nuestros vecinos
 respetan nuestra independencia.
 
 625
-01:18:27,904 --> 01:18:30,415
+01:18:27,904 --> 01:18:30,379
 Lo que me preocupa, Primer Ministro,
-es que somos un paÃ­s pequeÃ±o,
+es que somos un país pequeño,
 
 626
 01:18:30,439 --> 01:18:33,382
-y allÃ¡ arriba hay 160
+y allá arriba hay 160
 millones de rusos
 
 627
 01:18:33,442 --> 01:18:35,451
-muy sedientos de petrÃ³leo.
+muy sedientos de petróleo.
 
 628
 01:18:35,511 --> 01:18:37,803
@@ -2803,12 +2840,12 @@ demasiado, Ali Khan.
 
 629
 01:18:54,997 --> 01:18:57,406
-PensÃ© en hacerte Viceministro
+Pensé en hacerte Viceministro
 de Relaciones Exteriores.
 
 630
 01:18:57,466 --> 01:18:59,025
-Â¿QuÃ© opinas?
+¿Qué opinas?
 
 631
 01:19:02,171 --> 01:19:04,814
@@ -2816,41 +2853,42 @@ Gracias, Primer Ministro.
 
 632
 01:19:04,874 --> 01:19:06,816
-HarÃ© lo que usted desee.
+Haré lo que usted desee.
 
 633
 01:19:06,876 --> 01:19:08,936
-Bien, entonces estÃ¡ arreglado.
+Bien, entonces
+está arreglado.
 
 634
 01:19:10,446 --> 01:19:14,824
 Necesitamos un lugar para entretener
-a nuestros invitados diplomÃ¡ticos,
+a nuestros invitados diplomáticos,
 
 635
 01:19:14,884 --> 01:19:18,150
 y me dijeron que
-estÃ¡s redecorando.
+estás redecorando.
 
 636
 01:19:20,122 --> 01:19:22,148
-SÃ­, el palacio estarÃ¡
+Sí, el palacio estará
 listo en dos semanas.
 
 637
 01:19:23,526 --> 01:19:26,402
-Â¿Hay posibilidad de que
+¿Hay posibilidad de que
 sea en una semana?
 
 638
 01:19:38,140 --> 01:19:40,550
-Me sorprendiÃ³ saber que
-tienen un teatro de Ã³pera aquÃ­.
+Me sorprendió saber que
+tienen un teatro de ópera aquí.
 
 639
 01:19:40,610 --> 01:19:43,876
-SÃ­, muchos de nosotros pueden
-leer y escribir tambiÃ©n.
+Sí, muchos de nosotros pueden
+leer y escribir también.
 
 640
 01:19:46,449 --> 01:19:47,490
@@ -2859,21 +2897,21 @@ Lamento interrumpir.
 641
 01:19:47,550 --> 01:19:51,019
 Ali, cuando hablaste con el
-Alto Comisionado, Â¿quÃ© dijo?
+Alto Comisionado, ¿qué dijo?
 
 642
 01:19:52,255 --> 01:19:55,565
-Dijo que el Tratado de Versalles estÃ¡ a
+Dijo que el Tratado de Versalles está a
 punto de darnos la plena nacionalidad
 
 643
 01:19:55,625 --> 01:19:58,185
 y garantizar el
-reconocimiento diplomÃ¡tico.
+reconocimiento diplomático.
 
 644
 01:20:00,196 --> 01:20:02,038
-<i>Gracias, cariÃ±o.</i>
+<i>Gracias, cariño.</i>
 
 645
 01:20:02,098 --> 01:20:05,608
@@ -2883,7 +2921,7 @@ reconocimiento diplomÃ¡tico.
 646
 01:21:16,899 --> 01:21:21,609
 <i><b>Frontera Azerbayana-rusa.
-Dos meses despuÃ©s.</b></i>
+Dos meses después.</b></i>
 
 647
 01:21:42,698 --> 01:21:46,396
@@ -2896,8 +2934,8 @@ No.
 
 649
 01:21:49,271 --> 01:21:51,263
-Y no creo que estÃ©n
-aquÃ­ por su salud.
+Y no creo que estén
+aquí por su salud.
 
 650
 01:21:55,244 --> 01:21:57,053
@@ -2910,8 +2948,8 @@ Versalles dice que...
 
 652
 01:21:59,482 --> 01:22:03,509
-Por como luce, dirÃ­a que no muchos
-han leÃ­do el Tratado de Versalles.
+Por como luce, diría que no muchos
+han leído el Tratado de Versalles.
 
 653
 01:22:07,089 --> 01:22:09,058
@@ -2920,44 +2958,45 @@ No.
 654
 01:22:11,394 --> 01:22:14,470
 Los rusos no van a marchar
-hasta aquÃ­ asÃ­ como asÃ­.
+hasta acá así como así.
 
 655
 01:22:14,530 --> 01:22:17,606
-AdemÃ¡s, acaban de firmar un
+Además, acaban de firmar un
 tratado de paz con nosotros.
 
 656
 01:22:17,666 --> 01:22:20,609
-- Â¿Y por quÃ© estÃ¡n en la frontera?
+- ¿Y por qué están en la frontera?
 - Dicen que son maniobras.
 
 657
 01:22:20,669 --> 01:22:24,046
-Â¿Por quÃ© eligen el punto mÃ¡s
-cercano a BakÃº para sus maniobras?
+¿Por qué eligen el punto más
+cercano a Bakú para sus maniobras?
 
 658
 01:22:24,106 --> 01:22:25,574
-Pueden estar aquÃ­ en tres horas.
+Pueden estar
+aquí en tres horas.
 
 659
-01:22:26,809 --> 01:22:29,809
-Es una estrategia de negociaciÃ³n para
-hacernos bajar el precio del petrÃ³leo.
+01:22:26,809 --> 01:22:29,769
+Es una estrategia de negociación para
+hacernos bajar el precio del petróleo.
 
 660
 01:22:31,547 --> 01:22:33,643
 Creo que lo quieren gratis.
 
 661
-01:22:37,253 --> 01:22:39,097
+01:22:37,253 --> 01:22:39,061
 Estoy feliz, estoy feliz.
 Tengo una hija maravillosa.
 
 662
 01:22:39,121 --> 01:22:40,463
-Es una buena niÃ±a.
+Es una buena niña.
 
 663
 01:22:40,523 --> 01:22:42,031
@@ -2965,16 +3004,17 @@ Es una buena chica.
 
 664
 01:22:42,091 --> 01:22:44,117
-Ahora vivirÃ© para siempre, Â¿sÃ­?
+Ahora viviré
+para siempre, ¿sí?
 
 665
 01:22:48,464 --> 01:22:51,474
-- Â¿Me concederÃ¡s un deseo?
+- ¿Me concederás un deseo?
 - Dime.
 
 666
 01:22:51,534 --> 01:22:54,410
-- Â¿Si lo pido me dirÃ¡s que sÃ­?
+- ¿Si lo pido me dirás que sí?
 - Depende.
 
 667
@@ -2998,12 +3038,12 @@ No es seguro.
 
 671
 01:23:07,116 --> 01:23:12,513
-Lenin dijo que la revoluciÃ³n no
-sobrevivirÃ­a sin el petrÃ³leo de BakÃº.
+Lenin dijo que la revolución no
+sobreviviría sin el petróleo de Bakú.
 
 672
 01:23:13,789 --> 01:23:15,382
-VendrÃ¡n por Ã©l.
+Vendrán por él.
 
 673
 01:23:36,683 --> 01:23:40,283
@@ -3011,16 +3051,16 @@ VendrÃ¡n por Ã©l.
 
 674
 01:23:44,320 --> 01:23:45,515
-Â¿Te gusta?
+¿Te gusta?
 
 675
 01:23:54,763 --> 01:23:57,198
-Ven aquÃ­.
+Ven acá.
 
 676
 01:24:02,605 --> 01:24:03,846
-<i>- Â¿Ali Khan?
-- SÃ­, Ilyas.</i>
+<i>- ¿Ali Khan?
+- Sí, Ilyas.</i>
 
 677
 01:24:03,906 --> 01:24:05,848
@@ -3030,7 +3070,7 @@ cruzado la frontera.
 678
 01:24:05,908 --> 01:24:08,851
 Han tomado los trenes.
-Vienen camino a BakÃº.
+Vienen camino a Bakú.
 
 679
 01:24:08,911 --> 01:24:11,210
@@ -3048,10 +3088,10 @@ Primer Ministro.
 682
 01:25:34,797 --> 01:25:38,574
 Acabo de ser informado que los
-bolcheviques nos estÃ¡n ganando.
+bolcheviques nos están ganando.
 
 683
-01:25:38,634 --> 01:25:40,879
+01:25:38,634 --> 01:25:40,843
 Nos aseguraremos de que escape
 al otro lado de la frontera.
 
@@ -3062,7 +3102,7 @@ necesario para frenarlos.
 
 685
 01:25:43,973 --> 01:25:45,373
-SeÃ±or.
+Señor.
 
 686
 01:26:48,637 --> 01:26:52,848
@@ -3071,7 +3111,8 @@ por mucho tiempo,
 
 687
 01:26:52,908 --> 01:26:55,718
-y has demostrado tu gran valor.
+y has demostrado
+tu gran valor.
 
 688
 01:26:55,778 --> 01:26:57,205
@@ -3079,7 +3120,7 @@ Te saludo.
 
 689
 01:26:59,581 --> 01:27:00,947
-Que AlÃ¡ te acompaÃ±e.
+Que Alá te acompañe.
 
 690
 01:27:11,226 --> 01:27:13,551
@@ -3092,8 +3133,8 @@ Ilyas.
 
 692
 01:27:51,667 --> 01:27:54,943
-Nino, me quedarÃ© con
-Ilyas un par de dÃ­as.
+Nino, me quedaré con
+Ilyas un par de días.
 
 693
 01:27:55,003 --> 01:27:56,699
@@ -3104,7 +3145,7 @@ Para ayudarlo.
 No. No.
 
 695
-01:28:01,443 --> 01:28:03,083
+01:28:01,443 --> 01:28:02,775
 - No, no, no, no, no.
 - Tengo que hacerlo.
 
@@ -3114,7 +3155,8 @@ Ali...
 
 697
 01:28:07,483 --> 01:28:08,917
-Â¿No significamos nada para ti?
+¿No significamos
+nada para ti?
 
 698
 01:28:10,919 --> 01:28:12,444
@@ -3122,7 +3164,7 @@ Lo significan todo.
 
 699
 01:28:14,390 --> 01:28:16,665
-Mira quÃ© pasÃ³ la Ãºltima
+Mira qué pasó la última
 vez que nos separamos.
 
 700
@@ -3131,7 +3173,7 @@ No es lo mismo.
 
 701
 01:28:18,627 --> 01:28:22,123
-No viajas a un paÃ­s extraÃ±o.
+No viajas a un país extraño.
 Vas con tus padres.
 
 702
@@ -3140,8 +3182,8 @@ Tengo que hacer esto, Nino.
 
 703
 01:28:28,637 --> 01:28:31,163
-SerÃ¡ el paÃ­s de nuestro
-bebÃ© cuando crezca.
+Será el país de nuestro
+bebé cuando crezca.
 
 704
 01:28:33,409 --> 01:28:34,900
@@ -3149,11 +3191,11 @@ Tiene que ser defendido.
 
 705
 01:28:43,519 --> 01:28:45,112
-EstarÃ© contigo el viernes.
+Estaré contigo el viernes.
 
 706
 01:28:46,922 --> 01:28:48,185
-SÃ­.
+Sí.
 
 707
 01:28:49,958 --> 01:28:51,800
@@ -3161,7 +3203,7 @@ El viernes.
 
 708
 01:28:51,860 --> 01:28:53,556
-E iremos a ParÃ­s.
+E iremos a París.
 
 709
 01:28:55,764 --> 01:28:57,198
@@ -3170,60 +3212,42 @@ Para esa luna de miel.
 710
 01:29:01,036 --> 01:29:04,980
 Y tendremos una
-casa con un jardÃ­n.
+casa con un jardín.
 
 711
 01:29:05,040 --> 01:29:06,133
-SÃ­.
+Sí.
 
 712
 01:29:10,512 --> 01:29:13,175
 Y nuestro siguiente
-hijo serÃ¡ un varÃ³n.
+hijo será un varón.
 
 713
 01:32:18,133 --> 01:32:19,841
-Â¡Al suelo!
+¡Al suelo!
 
 714
 01:35:19,242 --> 01:35:23,242
-<i>Ali Khan Shirvanshir muriÃ³
-a la edad de 24 aÃ±os.</i>
+<i>Ali Khan Shirvanshir murió
+a la edad de 24 años.</i>
 
 715
 01:35:23,243 --> 01:35:28,143
 <i>El Primer Ministro Fatali Khan fue
-asesinado seis semanas despuÃ©s.</i>
+asesinado seis semanas después.</i>
 
 716
 01:35:28,144 --> 01:35:33,244
-<i>Fue 71 aÃ±os despuÃ©s en 1991, que
-AzerbaiyÃ¡n reclamÃ³ su independencia.</i>
+<i>Fue 71 años después en 1991, que
+Azerbaiyán reclamó su independencia.</i>
 
 717
 01:35:33,245 --> 01:35:41,245
 <i>Nino y su hija escaparon a
-ParÃ­s, nunca volvieron a BakÃº.</i>
+París, nunca volvieron a Bakú.</i>
 
 718
-01:35:41,246 --> 01:35:49,246
+01:35:41,246 --> 01:36:42,246
 <b>.:.[Traducido por Axel7902].:.</b>
 
-										
- 
- 
- 
-
-
-
-
-
- 
-
- 
- 
-
-
- 
-  
-     										
