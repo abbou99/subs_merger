@@ -5,15 +5,14 @@
  */
 package subsmerger;
 
-import java.awt.List;
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Comparator;
-import java.util.Scanner;
 
 /**
  *
@@ -38,15 +37,47 @@ public class SubsMerger {
     }
     
     public static String getScriptInfo(){
-        return null;
+        String ret =  "ScriptType: v4.00+" + EOL + 
+            "Collisions: Normal" + EOL + 
+            "PlayDepth: 0" + EOL + 
+            "Timer: 100,0000" + EOL + 
+            "Video Aspect Ratio: 0" + EOL + 
+            "WrapStyle: 0" + EOL + 
+            "ScaledBorderAndShadow: no";
+        return ret;
     }
     
     public static String getStyles(String font, int sizeFont){
+        String ret = "Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding" + EOL;
+        ret = ret + "Style: Default," + font + "," + sizeFont + ",&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,0" + EOL;
+        ret = ret + "Style: Top," + font + "," + sizeFont + ",&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,0" + EOL;
+        ret = ret + "Style: Mid," + font + "," + sizeFont + ",&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,0" + EOL;
+        ret = ret + "Style: Bot," + font + "," + sizeFont + ",&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,0";
+        return ret;
+    }
+    
+    public static String getAll(File fTop, File fBot, String font, int sizeFont, File dest) throws IOException{
+        
+        String ret = "[Script Info]\n";
+        ret = ret + getScriptInfo() + EOL + EOL;
+        ret = ret + "[V4+ Styles]" + EOL;
+        ret = ret + getStyles(font, sizeFont) + EOL + EOL;
+        
+        ArrayList<String> al = getEventsMerged(fTop, fBot);
+        for(String s : al){
+            
+        }
+        
         return null;
     }
     
-    public static String getScriptInfoAndStyles(){
-        return null;
+    public static ArrayList<String> getEventsMerged(File fTop, File fBot) throws IOException{
+        ArrayList<String> alTop = getEvents(fTop, "Top");
+        ArrayList<String> alBot = getEvents(fBot, "Bot");
+        alTop.addAll(alBot);
+        alTop.sort(Comparator.naturalOrder());
+        //alTop.add(0, "[Events]");
+        return alTop;
     }
     
     public static ArrayList<String> getEvents(File f, String pos) throws FileNotFoundException, IOException{
@@ -62,7 +93,7 @@ public class SubsMerger {
             text = text + "\\N" + line;
             line = br.readLine();
         }
-        text.replace("<i>","");
+        text = text.replace("<i>","");
         
         while(sub!=null && time!=null && text!=null && line!=null){
             //TODO Make magic
@@ -79,6 +110,7 @@ public class SubsMerger {
                 text = text + "\\N" + line;
                 line = br.readLine();
             }
+            text = text.replace("<i>","");
         }
         return res;
     }
