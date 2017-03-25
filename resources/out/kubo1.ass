@@ -1,0 +1,1900 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+Timer: 100,0000
+Video Aspect Ratio: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,0
+Style: Top,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,0
+Style: Mid,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,0
+Style: Bot,Arial,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:23.24,0:00:25.86,Bot,,0000,0000,0000,,Si deben parpadear,\Nháganlo ahora.
+Dialogue: 0,0:00:23.34,0:00:25.97,Top,,0000,0000,0000,,Si deben parpadear,\Nháganlo ahora.
+Dialogue: 0,0:00:42.36,0:00:46.02,Bot,,0000,0000,0000,,Presten atención a\Ntodo lo que vean y oigan.
+Dialogue: 0,0:00:42.46,0:00:46.12,Top,,0000,0000,0000,,Presten atención a\Ntodo lo que vean y oigan.
+Dialogue: 0,0:00:48.48,0:00:50.81,Bot,,0000,0000,0000,,Sin importar cuán inusual parezca.
+Dialogue: 0,0:00:48.58,0:00:50.91,Top,,0000,0000,0000,,Sin importar cuán inusual parezca.
+Dialogue: 0,0:01:29.43,0:01:31.16,Bot,,0000,0000,0000,,Y por favor, quedan advertidos.
+Dialogue: 0,0:01:29.53,0:01:31.26,Top,,0000,0000,0000,,Y por favor, quedan advertidos.
+Dialogue: 0,0:01:31.20,0:01:34.75,Bot,,0000,0000,0000,,Si se agitan,\Nsi se apartan.
+Dialogue: 0,0:01:31.30,0:01:34.85,Top,,0000,0000,0000,,Si se agitan,\Nsi se apartan.
+Dialogue: 0,0:01:35.30,0:01:38.00,Bot,,0000,0000,0000,,Si se olvidan de alguna parte\Nde lo que les voy a decir.
+Dialogue: 0,0:01:35.40,0:01:38.10,Top,,0000,0000,0000,,Si se olvidan de alguna parte\Nde lo que les voy a decir.
+Dialogue: 0,0:01:38.50,0:01:40.11,Bot,,0000,0000,0000,,Incluso por un instante.
+Dialogue: 0,0:01:38.60,0:01:40.21,Top,,0000,0000,0000,,Incluso por un instante.
+Dialogue: 0,0:01:42.39,0:01:44.84,Bot,,0000,0000,0000,,Entonces, nuestro héroe\Nseguramente perecerá.
+Dialogue: 0,0:01:42.49,0:01:44.94,Top,,0000,0000,0000,,Entonces, nuestro héroe\Nseguramente perecerá.
+Dialogue: 0,0:02:24.99,0:02:27.02,Bot,,0000,0000,0000,,Su nombre es Kubo.
+Dialogue: 0,0:02:25.09,0:02:27.12,Top,,0000,0000,0000,,Su nombre es Kubo.
+Dialogue: 0,0:02:27.61,0:02:29.93,Bot,,0000,0000,0000,,Su abuelo robó algo de él.
+Dialogue: 0,0:02:27.71,0:02:30.04,Top,,0000,0000,0000,,Su abuelo robó algo de él.
+Dialogue: 0,0:02:40.53,0:02:42.60,Bot,,0000,0000,0000,,Eso es realmente lo de menos.
+Dialogue: 0,0:02:40.63,0:02:42.70,Top,,0000,0000,0000,,Eso es realmente lo de menos.
+Dialogue: 0,0:07:13.09,0:07:15.07,Bot,,0000,0000,0000,,Bueno, hola, Kubo.
+Dialogue: 0,0:07:13.19,0:07:15.17,Top,,0000,0000,0000,,Bueno, hola, Kubo.
+Dialogue: 0,0:07:15.62,0:07:18.45,Bot,,0000,0000,0000,,- ¿Cómo estuvo tu día?\N- No fue una mala multitud.
+Dialogue: 0,0:07:15.72,0:07:18.55,Top,,0000,0000,0000,,- ¿Cómo estuvo tu día?\N- No fue una mala multitud.
+Dialogue: 0,0:07:18.83,0:07:20.98,Bot,,0000,0000,0000,,Tengo dos monedas de un\Ncentavo y una pelotita.
+Dialogue: 0,0:07:18.93,0:07:21.08,Top,,0000,0000,0000,,Tengo dos monedas de un\Ncentavo y una pelotita.
+Dialogue: 0,0:07:21.23,0:07:23.01,Bot,,0000,0000,0000,,Esta es una buena pelotita.
+Dialogue: 0,0:07:21.33,0:07:23.11,Top,,0000,0000,0000,,Esta es una buena pelotita.
+Dialogue: 0,0:07:23.64,0:07:27.53,Bot,,0000,0000,0000,,- ¿Y qué has planeado para hoy?\N- Ya sabes, lo habitual.
+Dialogue: 0,0:07:23.74,0:07:27.63,Top,,0000,0000,0000,,- ¿Y qué has planeado para hoy?\N- Ya sabes, lo habitual.
+Dialogue: 0,0:07:27.57,0:07:29.09,Bot,,0000,0000,0000,,- ¿Monstruos?\N- Por supuesto.
+Dialogue: 0,0:07:27.67,0:07:29.19,Top,,0000,0000,0000,,- ¿Monstruos?\N- Por supuesto.
+Dialogue: 0,0:07:29.13,0:07:31.41,Bot,,0000,0000,0000,,¿Crees que podrías meter a\Nun pollo escupe fuego?
+Dialogue: 0,0:07:29.23,0:07:31.51,Top,,0000,0000,0000,,¿Crees que podrías meter a\Nun pollo escupe fuego?
+Dialogue: 0,0:07:32.04,0:07:35.00,Bot,,0000,0000,0000,,- ¿El pollo de nuevo?\N- El pollo es gracioso.
+Dialogue: 0,0:07:32.14,0:07:35.10,Top,,0000,0000,0000,,- ¿El pollo de nuevo?\N- El pollo es gracioso.
+Dialogue: 0,0:07:35.25,0:07:38.04,Bot,,0000,0000,0000,,Un toque de comedia para\Nequilibrar todo el asunto.
+Dialogue: 0,0:07:35.35,0:07:38.14,Top,,0000,0000,0000,,Un toque de comedia para\Nequilibrar todo el asunto.
+Dialogue: 0,0:07:38.17,0:07:41.42,Bot,,0000,0000,0000,,Te lanzarán dinero,\Nsólo lo sé.
+Dialogue: 0,0:07:38.27,0:07:41.52,Top,,0000,0000,0000,,Te lanzarán dinero,\Nsólo lo sé.
+Dialogue: 0,0:07:41.54,0:07:43.74,Bot,,0000,0000,0000,,O te arrojarán algo,\Nno lo sé.
+Dialogue: 0,0:07:41.64,0:07:43.84,Top,,0000,0000,0000,,O te arrojarán algo,\Nno lo sé.
+Dialogue: 0,0:07:43.78,0:07:46.02,Bot,,0000,0000,0000,,Bueno,\Nveré lo que puedo hacer.
+Dialogue: 0,0:07:43.88,0:07:46.12,Top,,0000,0000,0000,,Bueno,\Nveré lo que puedo hacer.
+Dialogue: 0,0:07:46.06,0:07:47.67,Bot,,0000,0000,0000,,¿Y planeas terminar la...
+Dialogue: 0,0:07:46.16,0:07:47.77,Top,,0000,0000,0000,,¿Y planeas terminar la...
+Dialogue: 0,0:07:47.71,0:07:49.65,Bot,,0000,0000,0000,,...historia esta vez, jovencito?
+Dialogue: 0,0:07:47.81,0:07:49.75,Top,,0000,0000,0000,,...historia esta vez, jovencito?
+Dialogue: 0,0:08:01.05,0:08:03.50,Bot,,0000,0000,0000,,Si deben parpadear,\Nháganlo ahora.
+Dialogue: 0,0:08:01.15,0:08:03.60,Top,,0000,0000,0000,,Si deben parpadear,\Nháganlo ahora.
+Dialogue: 0,0:08:08.36,0:08:10.89,Bot,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:08:08.46,0:08:10.99,Top,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:08:13.17,0:08:16.55,Bot,,0000,0000,0000,,Presten especial atención\Na todo lo que vean y oigan.
+Dialogue: 0,0:08:13.27,0:08:16.65,Top,,0000,0000,0000,,Presten especial atención\Na todo lo que vean y oigan.
+Dialogue: 0,0:08:16.63,0:08:19.25,Bot,,0000,0000,0000,,No importa qué tan\Ninusual pueda parecer.
+Dialogue: 0,0:08:16.73,0:08:19.35,Top,,0000,0000,0000,,No importa qué tan\Ninusual pueda parecer.
+Dialogue: 0,0:08:19.29,0:08:23.81,Bot,,0000,0000,0000,,Y por favor, quedan advertidos.\NSi se agitan, si se apartan.
+Dialogue: 0,0:08:19.39,0:08:23.91,Top,,0000,0000,0000,,Y por favor, quedan advertidos.\NSi se agitan, si se apartan.
+Dialogue: 0,0:08:23.85,0:08:26.30,Bot,,0000,0000,0000,,Si se olvidan de alguna parte\Nde lo que les voy a decir.
+Dialogue: 0,0:08:23.95,0:08:26.40,Top,,0000,0000,0000,,Si se olvidan de alguna parte\Nde lo que les voy a decir.
+Dialogue: 0,0:08:26.34,0:08:27.65,Bot,,0000,0000,0000,,Incluso por un instante.
+Dialogue: 0,0:08:26.44,0:08:27.75,Top,,0000,0000,0000,,Incluso por un instante.
+Dialogue: 0,0:08:28.41,0:08:31.50,Bot,,0000,0000,0000,,Entonces, nuestro héroe\Nseguramente perecerá.
+Dialogue: 0,0:08:28.51,0:08:31.60,Top,,0000,0000,0000,,Entonces, nuestro héroe\Nseguramente perecerá.
+Dialogue: 0,0:08:37.36,0:08:40.83,Bot,,0000,0000,0000,,Hanzo era un poderoso\NSamurái, pero estaba solo.
+Dialogue: 0,0:08:37.46,0:08:40.93,Top,,0000,0000,0000,,Hanzo era un poderoso\NSamurái, pero estaba solo.
+Dialogue: 0,0:08:41.04,0:08:44.84,Bot,,0000,0000,0000,,Su familia le fue arrebatada,\Nsu Reino estaba en ruinas,
+Dialogue: 0,0:08:41.14,0:08:44.94,Top,,0000,0000,0000,,Su familia le fue arrebatada,\Nsu Reino estaba en ruinas,
+Dialogue: 0,0:08:44.96,0:08:48.55,Bot,,0000,0000,0000,,y su ejército destruido\Npor el temido Rey Luna.
+Dialogue: 0,0:08:45.06,0:08:48.65,Top,,0000,0000,0000,,y su ejército destruido\Npor el temido Rey Luna.
+Dialogue: 0,0:08:49.06,0:08:51.68,Bot,,0000,0000,0000,,Recordarán que, Hanzo vagaba...
+Dialogue: 0,0:08:49.16,0:08:51.79,Top,,0000,0000,0000,,Recordarán que, Hanzo vagaba...
+Dialogue: 0,0:08:51.72,0:08:52.99,Bot,,0000,0000,0000,,...en las alejadas\NTierras Lejanas,
+Dialogue: 0,0:08:51.82,0:08:53.09,Top,,0000,0000,0000,,...en las alejadas\NTierras Lejanas,
+Dialogue: 0,0:08:53.03,0:08:55.18,Bot,,0000,0000,0000,,en busca de una\Narmadura mágica,
+Dialogue: 0,0:08:53.13,0:08:55.28,Top,,0000,0000,0000,,en busca de una\Narmadura mágica,
+Dialogue: 0,0:08:55.22,0:08:57.34,Bot,,0000,0000,0000,,la única arma\Nen todo el mundo...
+Dialogue: 0,0:08:55.32,0:08:57.44,Top,,0000,0000,0000,,la única arma\Nen todo el mundo...
+Dialogue: 0,0:08:57.38,0:09:00.04,Bot,,0000,0000,0000,,...que podría protegerlo del\Npoder del Rey Luna.
+Dialogue: 0,0:08:57.48,0:09:00.14,Top,,0000,0000,0000,,...que podría protegerlo del\Npoder del Rey Luna.
+Dialogue: 0,0:09:00.16,0:09:02.83,Bot,,0000,0000,0000,,Esta armadura se\Ncomponía de tres piezas.
+Dialogue: 0,0:09:00.26,0:09:02.93,Top,,0000,0000,0000,,Esta armadura se\Ncomponía de tres piezas.
+Dialogue: 0,0:09:03.08,0:09:06.79,Bot,,0000,0000,0000,,- Primera.\N- Yo sé, yo sé. La espada irrompible.
+Dialogue: 0,0:09:03.18,0:09:06.90,Top,,0000,0000,0000,,- Primera.\N- Yo sé, yo sé. La espada irrompible.
+Dialogue: 0,0:09:11.82,0:09:15.32,Bot,,0000,0000,0000,,- Segunda.\N- La coraza impene...
+Dialogue: 0,0:09:11.92,0:09:15.42,Top,,0000,0000,0000,,- Segunda.\N- La coraza impene...
+Dialogue: 0,0:09:15.83,0:09:19.55,Bot,,0000,0000,0000,,- Impenetrable.\N- Impenetrable. ¡Sí!
+Dialogue: 0,0:09:15.93,0:09:19.65,Top,,0000,0000,0000,,- Impenetrable.\N- Impenetrable. ¡Sí!
+Dialogue: 0,0:09:22.54,0:09:24.95,Bot,,0000,0000,0000,,Y finalmente,\Nla tercera arma.
+Dialogue: 0,0:09:22.64,0:09:25.05,Top,,0000,0000,0000,,Y finalmente,\Nla tercera arma.
+Dialogue: 0,0:09:25.16,0:09:26.77,Bot,,0000,0000,0000,,Última pieza de la armadura.
+Dialogue: 0,0:09:25.26,0:09:26.87,Top,,0000,0000,0000,,Última pieza de la armadura.
+Dialogue: 0,0:09:26.81,0:09:28.37,Bot,,0000,0000,0000,,Sé esta. Escógeme a mí.
+Dialogue: 0,0:09:26.91,0:09:28.47,Top,,0000,0000,0000,,Sé esta. Escógeme a mí.
+Dialogue: 0,0:09:28.71,0:09:31.07,Bot,,0000,0000,0000,,El casco invulnerable.
+Dialogue: 0,0:09:28.81,0:09:31.17,Top,,0000,0000,0000,,El casco invulnerable.
+Dialogue: 0,0:09:33.65,0:09:36.06,Bot,,0000,0000,0000,,Antes de que Hanzo pudiera\Nreclamar la armadura,
+Dialogue: 0,0:09:33.75,0:09:36.16,Top,,0000,0000,0000,,Antes de que Hanzo pudiera\Nreclamar la armadura,
+Dialogue: 0,0:09:36.10,0:09:38.72,Bot,,0000,0000,0000,,y unir las piezas para\Nrevelar su verdadero poder,
+Dialogue: 0,0:09:36.20,0:09:38.82,Top,,0000,0000,0000,,y unir las piezas para\Nrevelar su verdadero poder,
+Dialogue: 0,0:09:39.05,0:09:41.80,Bot,,0000,0000,0000,,fue atacado por las\Nbestias del Rey Luna.
+Dialogue: 0,0:09:39.15,0:09:41.90,Top,,0000,0000,0000,,fue atacado por las\Nbestias del Rey Luna.
+Dialogue: 0,0:10:14.35,0:10:15.32,Bot,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:10:14.45,0:10:15.42,Top,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:10:34.36,0:10:37.70,Bot,,0000,0000,0000,,¡Maten al pollo!\N¡Háganlo pedazos!
+Dialogue: 0,0:10:34.46,0:10:37.80,Top,,0000,0000,0000,,¡Maten al pollo!\N¡Háganlo pedazos!
+Dialogue: 0,0:11:06.20,0:11:07.68,Bot,,0000,0000,0000,,¡Ay, Dios!
+Dialogue: 0,0:11:06.30,0:11:07.78,Top,,0000,0000,0000,,¡Ay, Dios!
+Dialogue: 0,0:11:20.30,0:11:21.61,Bot,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:11:20.40,0:11:21.72,Top,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:11:26.81,0:11:29.05,Bot,,0000,0000,0000,,Hanzo se llenó de ira.
+Dialogue: 0,0:11:26.91,0:11:29.15,Top,,0000,0000,0000,,Hanzo se llenó de ira.
+Dialogue: 0,0:11:29.26,0:11:31.24,Bot,,0000,0000,0000,,Su alma atormentada\Npor el dolor...
+Dialogue: 0,0:11:29.36,0:11:31.34,Top,,0000,0000,0000,,Su alma atormentada\Npor el dolor...
+Dialogue: 0,0:11:31.28,0:11:33.23,Bot,,0000,0000,0000,,...de una familia que\Nle habían robado.
+Dialogue: 0,0:11:31.38,0:11:33.33,Top,,0000,0000,0000,,...de una familia que\Nle habían robado.
+Dialogue: 0,0:11:38.97,0:11:42.81,Bot,,0000,0000,0000,,Por fin, nuestro héroe estaba\Ncara a cara con su némesis,
+Dialogue: 0,0:11:39.07,0:11:42.91,Top,,0000,0000,0000,,Por fin, nuestro héroe estaba\Ncara a cara con su némesis,
+Dialogue: 0,0:11:42.98,0:11:44.42,Bot,,0000,0000,0000,,el Rey Luna.
+Dialogue: 0,0:11:43.08,0:11:44.52,Top,,0000,0000,0000,,el Rey Luna.
+Dialogue: 0,0:11:56.45,0:11:58.10,Bot,,0000,0000,0000,,Asegúrense de volver mañana.
+Dialogue: 0,0:11:56.55,0:11:58.20,Top,,0000,0000,0000,,Asegúrense de volver mañana.
+Dialogue: 0,0:11:58.22,0:11:59.24,Bot,,0000,0000,0000,,¿De nuevo?
+Dialogue: 0,0:11:58.32,0:11:59.34,Top,,0000,0000,0000,,¿De nuevo?
+Dialogue: 0,0:11:59.28,0:12:03.75,Bot,,0000,0000,0000,,¿Qué? ¡Vamos! A la gente\Nle gusta un final.
+Dialogue: 0,0:11:59.38,0:12:03.85,Top,,0000,0000,0000,,¿Qué? ¡Vamos! A la gente\Nle gusta un final.
+Dialogue: 0,0:12:03.88,0:12:05.65,Bot,,0000,0000,0000,,¿A dónde vas?
+Dialogue: 0,0:12:03.98,0:12:05.75,Top,,0000,0000,0000,,¿A dónde vas?
+Dialogue: 0,0:12:05.74,0:12:08.65,Bot,,0000,0000,0000,,No, no puedes...\N¡No te puedes ir!
+Dialogue: 0,0:12:05.84,0:12:08.75,Top,,0000,0000,0000,,No, no puedes...\N¡No te puedes ir!
+Dialogue: 0,0:12:26.51,0:12:27.65,Bot,,0000,0000,0000,,¿Kubo?
+Dialogue: 0,0:12:26.61,0:12:27.75,Top,,0000,0000,0000,,¿Kubo?
+Dialogue: 0,0:12:29.13,0:12:32.93,Bot,,0000,0000,0000,,- ¿Kubo?\N- ¿Sí, mamá? Estoy aquí.
+Dialogue: 0,0:12:29.23,0:12:33.03,Top,,0000,0000,0000,,- ¿Kubo?\N- ¿Sí, mamá? Estoy aquí.
+Dialogue: 0,0:12:35.42,0:12:36.48,Bot,,0000,0000,0000,,¿Tienes hambre?
+Dialogue: 0,0:12:35.52,0:12:36.58,Top,,0000,0000,0000,,¿Tienes hambre?
+Dialogue: 0,0:12:38.17,0:12:40.87,Bot,,0000,0000,0000,,Y a pesar de que\Napenas podía ver...
+Dialogue: 0,0:12:38.27,0:12:40.97,Top,,0000,0000,0000,,Y a pesar de que\Napenas podía ver...
+Dialogue: 0,0:12:40.91,0:12:43.36,Bot,,0000,0000,0000,,...su propia mano\Nfrente a su cara,
+Dialogue: 0,0:12:41.01,0:12:43.46,Top,,0000,0000,0000,,...su propia mano\Nfrente a su cara,
+Dialogue: 0,0:12:43.82,0:12:46.91,Bot,,0000,0000,0000,,Hanzo y su ejército\Nde leales Samuráis...
+Dialogue: 0,0:12:43.92,0:12:47.01,Top,,0000,0000,0000,,Hanzo y su ejército\Nde leales Samuráis...
+Dialogue: 0,0:12:46.95,0:12:48.76,Bot,,0000,0000,0000,,...apresuraron a través de\Nla tormenta de nieve.
+Dialogue: 0,0:12:47.05,0:12:48.87,Top,,0000,0000,0000,,...apresuraron a través de\Nla tormenta de nieve.
+Dialogue: 0,0:12:52.10,0:12:54.89,Bot,,0000,0000,0000,,Y de repente,\Ntan rápido como...
+Dialogue: 0,0:12:52.20,0:12:54.99,Top,,0000,0000,0000,,Y de repente,\Ntan rápido como...
+Dialogue: 0,0:12:54.93,0:12:58.31,Bot,,0000,0000,0000,,...hubo comenzado, la tormenta\Nse despejó delante de él.
+Dialogue: 0,0:12:55.03,0:12:58.41,Top,,0000,0000,0000,,...hubo comenzado, la tormenta\Nse despejó delante de él.
+Dialogue: 0,0:12:58.56,0:13:03.04,Bot,,0000,0000,0000,,Hanzo dio un suspiro de alivio,\Nporque él estaba en casa.
+Dialogue: 0,0:12:58.66,0:13:03.14,Top,,0000,0000,0000,,Hanzo dio un suspiro de alivio,\Nporque él estaba en casa.
+Dialogue: 0,0:13:03.07,0:13:05.36,Bot,,0000,0000,0000,,¿Su fortaleza? ¿El castillo\Ndel Clan del Escarabajo?
+Dialogue: 0,0:13:03.17,0:13:05.46,Top,,0000,0000,0000,,¿Su fortaleza? ¿El castillo\Ndel Clan del Escarabajo?
+Dialogue: 0,0:13:05.40,0:13:08.02,Bot,,0000,0000,0000,,Sí, en la frontera\Nde las Tierras Lejanas.
+Dialogue: 0,0:13:05.50,0:13:08.12,Top,,0000,0000,0000,,Sí, en la frontera\Nde las Tierras Lejanas.
+Dialogue: 0,0:13:08.06,0:13:11.40,Bot,,0000,0000,0000,,Oculto por la magia poderosa\Ndel Rey Luna.
+Dialogue: 0,0:13:08.16,0:13:11.50,Top,,0000,0000,0000,,Oculto por la magia poderosa\Ndel Rey Luna.
+Dialogue: 0,0:13:11.56,0:13:14.06,Bot,,0000,0000,0000,,¿Y luego qué pasó?\N¿Cuando llegó al castillo?
+Dialogue: 0,0:13:11.66,0:13:14.16,Top,,0000,0000,0000,,¿Y luego qué pasó?\N¿Cuando llegó al castillo?
+Dialogue: 0,0:13:15.87,0:13:18.74,Bot,,0000,0000,0000,,- ¿Cuándo quien llegó al castillo?\N- Hanzo, mi papá.
+Dialogue: 0,0:13:15.97,0:13:18.84,Top,,0000,0000,0000,,- ¿Cuándo quien llegó al castillo?\N- Hanzo, mi papá.
+Dialogue: 0,0:13:19.33,0:13:22.37,Bot,,0000,0000,0000,,¿Hanzo?\N¿Hanzo estaba en el castillo?
+Dialogue: 0,0:13:19.43,0:13:22.48,Top,,0000,0000,0000,,¿Hanzo?\N¿Hanzo estaba en el castillo?
+Dialogue: 0,0:13:22.88,0:13:24.19,Bot,,0000,0000,0000,,Él...
+Dialogue: 0,0:13:22.98,0:13:24.29,Top,,0000,0000,0000,,Él...
+Dialogue: 0,0:13:25.25,0:13:26.77,Bot,,0000,0000,0000,,Sólo dame un segundo,\Nestoy...
+Dialogue: 0,0:13:25.35,0:13:26.87,Top,,0000,0000,0000,,Sólo dame un segundo,\Nestoy...
+Dialogue: 0,0:13:27.99,0:13:31.37,Bot,,0000,0000,0000,,No. Se ha ido.
+Dialogue: 0,0:13:28.09,0:13:31.47,Top,,0000,0000,0000,,No. Se ha ido.
+Dialogue: 0,0:13:32.42,0:13:36.65,Bot,,0000,0000,0000,,No puedo. Lo siento, Kubo.
+Dialogue: 0,0:13:32.52,0:13:36.75,Top,,0000,0000,0000,,No puedo. Lo siento, Kubo.
+Dialogue: 0,0:13:37.15,0:13:39.98,Bot,,0000,0000,0000,,Tal vez podría recordar\Nuna historia diferente.
+Dialogue: 0,0:13:37.25,0:13:40.08,Top,,0000,0000,0000,,Tal vez podría recordar\Nuna historia diferente.
+Dialogue: 0,0:13:40.66,0:13:44.42,Bot,,0000,0000,0000,,¿Mamá, como era mi papá?
+Dialogue: 0,0:13:40.76,0:13:44.52,Top,,0000,0000,0000,,¿Mamá, como era mi papá?
+Dialogue: 0,0:13:47.07,0:13:48.68,Bot,,0000,0000,0000,,Esta es fácil.
+Dialogue: 0,0:13:47.17,0:13:48.78,Top,,0000,0000,0000,,Esta es fácil.
+Dialogue: 0,0:13:49.36,0:13:51.64,Bot,,0000,0000,0000,,Hanzo era un\NGuerrero poderoso,
+Dialogue: 0,0:13:49.46,0:13:51.74,Top,,0000,0000,0000,,Hanzo era un\NGuerrero poderoso,
+Dialogue: 0,0:13:51.67,0:13:53.92,Bot,,0000,0000,0000,,hábil con la espada y el arco.
+Dialogue: 0,0:13:51.77,0:13:54.02,Top,,0000,0000,0000,,hábil con la espada y el arco.
+Dialogue: 0,0:13:53.96,0:13:58.39,Bot,,0000,0000,0000,,No. ¿Cómo era realmente?\NCuando no estaba peleando.
+Dialogue: 0,0:13:54.06,0:13:58.49,Top,,0000,0000,0000,,No. ¿Cómo era realmente?\NCuando no estaba peleando.
+Dialogue: 0,0:13:59.15,0:14:00.46,Bot,,0000,0000,0000,,Cuando estaba con nosotros.
+Dialogue: 0,0:13:59.25,0:14:00.56,Top,,0000,0000,0000,,Cuando estaba con nosotros.
+Dialogue: 0,0:14:02.78,0:14:04.43,Bot,,0000,0000,0000,,Era igual que tú.
+Dialogue: 0,0:14:02.88,0:14:04.53,Top,,0000,0000,0000,,Era igual que tú.
+Dialogue: 0,0:14:05.74,0:14:07.86,Bot,,0000,0000,0000,,- ¿Como yo?\N- Sí.
+Dialogue: 0,0:14:05.84,0:14:07.96,Top,,0000,0000,0000,,- ¿Como yo?\N- Sí.
+Dialogue: 0,0:14:07.89,0:14:11.19,Bot,,0000,0000,0000,,Fuerte e inteligente,\Ny divertido.
+Dialogue: 0,0:14:07.99,0:14:11.29,Top,,0000,0000,0000,,Fuerte e inteligente,\Ny divertido.
+Dialogue: 0,0:14:11.23,0:14:13.72,Bot,,0000,0000,0000,,Y, tan guapo.
+Dialogue: 0,0:14:11.33,0:14:13.82,Top,,0000,0000,0000,,Y, tan guapo.
+Dialogue: 0,0:14:14.14,0:14:16.29,Bot,,0000,0000,0000,,- Mamá...\N- ¡Vamos!
+Dialogue: 0,0:14:14.24,0:14:16.40,Top,,0000,0000,0000,,- Mamá...\N- ¡Vamos!
+Dialogue: 0,0:14:17.52,0:14:21.83,Bot,,0000,0000,0000,,Nunca olvides lo mucho\Nque te quería, Kubo.
+Dialogue: 0,0:14:17.62,0:14:21.93,Top,,0000,0000,0000,,Nunca olvides lo mucho\Nque te quería, Kubo.
+Dialogue: 0,0:14:21.99,0:14:24.32,Bot,,0000,0000,0000,,Murió protegiéndonos.
+Dialogue: 0,0:14:22.09,0:14:24.42,Top,,0000,0000,0000,,Murió protegiéndonos.
+Dialogue: 0,0:14:27.15,0:14:30.48,Bot,,0000,0000,0000,,- ¿Acaso el Rey Luna...\N- Tu abuelo.
+Dialogue: 0,0:14:27.25,0:14:30.58,Top,,0000,0000,0000,,- ¿Acaso el Rey Luna...\N- Tu abuelo.
+Dialogue: 0,0:14:30.52,0:14:33.52,Bot,,0000,0000,0000,,¿El abuelo y tus hermanas\Nrealmente mataron a mi papá?
+Dialogue: 0,0:14:30.62,0:14:33.62,Top,,0000,0000,0000,,¿El abuelo y tus hermanas\Nrealmente mataron a mi papá?
+Dialogue: 0,0:14:33.98,0:14:37.11,Bot,,0000,0000,0000,,No puede ser cierto,\N¿verdad? Son familia.
+Dialogue: 0,0:14:34.08,0:14:37.21,Top,,0000,0000,0000,,No puede ser cierto,\N¿verdad? Son familia.
+Dialogue: 0,0:14:37.15,0:14:39.01,Bot,,0000,0000,0000,,No. ¡Son unos monstruos!
+Dialogue: 0,0:14:37.25,0:14:39.11,Top,,0000,0000,0000,,No. ¡Son unos monstruos!
+Dialogue: 0,0:14:39.05,0:14:42.22,Bot,,0000,0000,0000,,El abuelo y mis hermanas\Nrobaron tu ojo, Kubo.
+Dialogue: 0,0:14:39.15,0:14:42.32,Top,,0000,0000,0000,,El abuelo y mis hermanas\Nrobaron tu ojo, Kubo.
+Dialogue: 0,0:14:42.26,0:14:45.39,Bot,,0000,0000,0000,,Ellos nunca deben de\Nencontrarte de nuevo, ¡nunca!
+Dialogue: 0,0:14:42.36,0:14:45.49,Top,,0000,0000,0000,,Ellos nunca deben de\Nencontrarte de nuevo, ¡nunca!
+Dialogue: 0,0:14:45.47,0:14:48.09,Bot,,0000,0000,0000,,Siempre debes permanecer\Noculto del cielo nocturno,
+Dialogue: 0,0:14:45.57,0:14:48.19,Top,,0000,0000,0000,,Siempre debes permanecer\Noculto del cielo nocturno,
+Dialogue: 0,0:14:48.13,0:14:50.45,Bot,,0000,0000,0000,,o te encontrarán y te\Nllevarán lejos de mí.
+Dialogue: 0,0:14:48.23,0:14:50.55,Top,,0000,0000,0000,,o te encontrarán y te\Nllevarán lejos de mí.
+Dialogue: 0,0:14:50.87,0:14:54.08,Bot,,0000,0000,0000,,Prométemelo. Qué nunca vas\Na permitir que esto suceda.
+Dialogue: 0,0:14:50.97,0:14:54.19,Top,,0000,0000,0000,,Prométemelo. Qué nunca vas\Na permitir que esto suceda.
+Dialogue: 0,0:14:54.17,0:14:56.07,Bot,,0000,0000,0000,,¡Prométemelo, Kubo!
+Dialogue: 0,0:14:54.27,0:14:56.17,Top,,0000,0000,0000,,¡Prométemelo, Kubo!
+Dialogue: 0,0:15:01.73,0:15:04.09,Bot,,0000,0000,0000,,No estés triste, Kubo.
+Dialogue: 0,0:15:01.83,0:15:04.19,Top,,0000,0000,0000,,No estés triste, Kubo.
+Dialogue: 0,0:15:04.85,0:15:09.07,Bot,,0000,0000,0000,,Kubo. Recuerda lo\Nque debes de hacer, Kubo.
+Dialogue: 0,0:15:04.95,0:15:09.18,Top,,0000,0000,0000,,Kubo. Recuerda lo\Nque debes de hacer, Kubo.
+Dialogue: 0,0:15:10.13,0:15:11.78,Bot,,0000,0000,0000,,Recuerda.
+Dialogue: 0,0:15:10.23,0:15:11.88,Top,,0000,0000,0000,,Recuerda.
+Dialogue: 0,0:15:12.37,0:15:14.35,Bot,,0000,0000,0000,,Te tendré conmigo\Ntodo el tiempo,
+Dialogue: 0,0:15:12.47,0:15:14.45,Top,,0000,0000,0000,,Te tendré conmigo\Ntodo el tiempo,
+Dialogue: 0,0:15:14.39,0:15:15.15,Bot,,0000,0000,0000,,Sr. Mono.
+Dialogue: 0,0:15:14.49,0:15:15.26,Top,,0000,0000,0000,,Sr. Mono.
+Dialogue: 0,0:15:15.20,0:15:16.55,Bot,,0000,0000,0000,,¿Y?
+Dialogue: 0,0:15:15.30,0:15:16.65,Top,,0000,0000,0000,,¿Y?
+Dialogue: 0,0:15:16.59,0:15:21.02,Bot,,0000,0000,0000,,Y mantener la túnica de papá,\Nen mi espalda en todo momento.
+Dialogue: 0,0:15:16.69,0:15:21.13,Top,,0000,0000,0000,,Y mantener la túnica de papá,\Nen mi espalda en todo momento.
+Dialogue: 0,0:15:21.06,0:15:24.99,Bot,,0000,0000,0000,,Sí, Kubo. Y hay una cosa más.
+Dialogue: 0,0:15:21.16,0:15:25.09,Top,,0000,0000,0000,,Sí, Kubo. Y hay una cosa más.
+Dialogue: 0,0:15:25.50,0:15:30.27,Bot,,0000,0000,0000,,Nunca jamás salgas\Ndespués del anochecer.
+Dialogue: 0,0:15:25.60,0:15:30.37,Top,,0000,0000,0000,,Nunca jamás salgas\Ndespués del anochecer.
+Dialogue: 0,0:15:32.72,0:15:34.96,Bot,,0000,0000,0000,,Recuérdalo.
+Dialogue: 0,0:15:32.82,0:15:35.06,Top,,0000,0000,0000,,Recuérdalo.
+Dialogue: 0,0:15:35.93,0:15:38.29,Bot,,0000,0000,0000,,- Sí, Sr. Mono.\N- ¡Buen chico!
+Dialogue: 0,0:15:36.03,0:15:38.39,Top,,0000,0000,0000,,- Sí, Sr. Mono.\N- ¡Buen chico!
+Dialogue: 0,0:15:57.76,0:15:58.77,Bot,,0000,0000,0000,,Hora de dormir.
+Dialogue: 0,0:15:57.86,0:15:58.87,Top,,0000,0000,0000,,Hora de dormir.
+Dialogue: 0,0:16:54.84,0:16:57.29,Bot,,0000,0000,0000,,Mamá, despierta.\NEstás soñando.
+Dialogue: 0,0:16:54.94,0:16:57.39,Top,,0000,0000,0000,,Mamá, despierta.\NEstás soñando.
+Dialogue: 0,0:16:57.33,0:16:59.83,Bot,,0000,0000,0000,,No. Kubo.
+Dialogue: 0,0:16:57.43,0:16:59.93,Top,,0000,0000,0000,,No. Kubo.
+Dialogue: 0,0:17:00.67,0:17:03.71,Bot,,0000,0000,0000,,- ¿Kubo, eres tú?\N- Sí, mamá. Estoy aquí.
+Dialogue: 0,0:17:00.77,0:17:03.81,Top,,0000,0000,0000,,- ¿Kubo, eres tú?\N- Sí, mamá. Estoy aquí.
+Dialogue: 0,0:17:07.17,0:17:10.17,Bot,,0000,0000,0000,,¿Kubo, que le pasó a tu ojo?
+Dialogue: 0,0:17:07.27,0:17:10.27,Top,,0000,0000,0000,,¿Kubo, que le pasó a tu ojo?
+Dialogue: 0,0:17:32.46,0:17:35.46,Bot,,0000,0000,0000,,¡Chico de los papeles!\N¡Aquí, aquí!
+Dialogue: 0,0:17:32.56,0:17:35.56,Top,,0000,0000,0000,,¡Chico de los papeles!\N¡Aquí, aquí!
+Dialogue: 0,0:17:36.64,0:17:39.26,Bot,,0000,0000,0000,,Vamos, vamos. Ven y\Nsiéntate a mi lado.
+Dialogue: 0,0:17:36.74,0:17:39.36,Top,,0000,0000,0000,,Vamos, vamos. Ven y\Nsiéntate a mi lado.
+Dialogue: 0,0:17:39.30,0:17:40.78,Bot,,0000,0000,0000,,Nos conseguí un\Nbuen lugar aquí.
+Dialogue: 0,0:17:39.40,0:17:40.88,Top,,0000,0000,0000,,Nos conseguí un\Nbuen lugar aquí.
+Dialogue: 0,0:17:41.63,0:17:44.25,Bot,,0000,0000,0000,,¿Qué opinas?\NMe hice...
+Dialogue: 0,0:17:41.73,0:17:44.35,Top,,0000,0000,0000,,¿Qué opinas?\NMe hice...
+Dialogue: 0,0:17:44.29,0:17:45.98,Bot,,0000,0000,0000,,...acicalar\Npara el gran día.
+Dialogue: 0,0:17:44.39,0:17:46.08,Top,,0000,0000,0000,,...acicalar\Npara el gran día.
+Dialogue: 0,0:17:50.66,0:17:55.27,Bot,,0000,0000,0000,,Disfruto mucho del Festival.\NUn tiempo para celebrar.
+Dialogue: 0,0:17:50.76,0:17:55.37,Top,,0000,0000,0000,,Disfruto mucho del Festival.\NUn tiempo para celebrar.
+Dialogue: 0,0:17:56.79,0:17:58.73,Bot,,0000,0000,0000,,Sabes, es una pena\Nque nunca te...
+Dialogue: 0,0:17:56.89,0:17:58.83,Top,,0000,0000,0000,,Sabes, es una pena\Nque nunca te...
+Dialogue: 0,0:17:58.77,0:18:00.29,Bot,,0000,0000,0000,,...quedes después\Nde la puesta del sol.
+Dialogue: 0,0:17:58.87,0:18:00.39,Top,,0000,0000,0000,,...quedes después\Nde la puesta del sol.
+Dialogue: 0,0:18:00.33,0:18:03.88,Bot,,0000,0000,0000,,Hay fuegos artificiales,\Ncantos y bailes.
+Dialogue: 0,0:18:00.43,0:18:03.98,Top,,0000,0000,0000,,Hay fuegos artificiales,\Ncantos y bailes.
+Dialogue: 0,0:18:03.92,0:18:05.70,Bot,,0000,0000,0000,,Y un banquete, por supuesto.
+Dialogue: 0,0:18:04.02,0:18:05.80,Top,,0000,0000,0000,,Y un banquete, por supuesto.
+Dialogue: 0,0:18:06.12,0:18:08.23,Bot,,0000,0000,0000,,Pero la mejor\Nparte de todo...
+Dialogue: 0,0:18:06.22,0:18:08.33,Top,,0000,0000,0000,,Pero la mejor\Nparte de todo...
+Dialogue: 0,0:18:08.35,0:18:10.59,Bot,,0000,0000,0000,,¿Ves esas lámparas y altares?
+Dialogue: 0,0:18:08.45,0:18:10.69,Top,,0000,0000,0000,,¿Ves esas lámparas y altares?
+Dialogue: 0,0:18:10.80,0:18:12.96,Bot,,0000,0000,0000,,Los usamos para\Nhablar con los...
+Dialogue: 0,0:18:10.90,0:18:13.07,Top,,0000,0000,0000,,Los usamos para\Nhablar con los...
+Dialogue: 0,0:18:13.00,0:18:15.79,Bot,,0000,0000,0000,,...seres queridos\Nque nos dejaron atrás.
+Dialogue: 0,0:18:13.10,0:18:15.89,Top,,0000,0000,0000,,...seres queridos\Nque nos dejaron atrás.
+Dialogue: 0,0:18:16.72,0:18:21.02,Bot,,0000,0000,0000,,Escuchamos sus cuentos y\Nguiamos su retorno seguro...
+Dialogue: 0,0:18:16.82,0:18:21.12,Top,,0000,0000,0000,,Escuchamos sus cuentos y\Nguiamos su retorno seguro...
+Dialogue: 0,0:18:21.06,0:18:23.02,Bot,,0000,0000,0000,,...a la tierra de la\Npura de felicidad.
+Dialogue: 0,0:18:21.16,0:18:23.13,Top,,0000,0000,0000,,...a la tierra de la\Npura de felicidad.
+Dialogue: 0,0:18:23.06,0:18:24.99,Bot,,0000,0000,0000,,¿En serio?\N¿Has hablado con alguien?
+Dialogue: 0,0:18:23.16,0:18:25.09,Top,,0000,0000,0000,,¿En serio?\N¿Has hablado con alguien?
+Dialogue: 0,0:18:25.03,0:18:26.93,Bot,,0000,0000,0000,,Sí, lo hice. Mi esposo.
+Dialogue: 0,0:18:25.13,0:18:27.03,Top,,0000,0000,0000,,Sí, lo hice. Mi esposo.
+Dialogue: 0,0:18:27.02,0:18:29.72,Bot,,0000,0000,0000,,Su voz era tan\Nclara y fuerte como...
+Dialogue: 0,0:18:27.12,0:18:29.82,Top,,0000,0000,0000,,Su voz era tan\Nclara y fuerte como...
+Dialogue: 0,0:18:29.76,0:18:32.42,Bot,,0000,0000,0000,,...la que usas\Npara tus historias.
+Dialogue: 0,0:18:29.86,0:18:32.52,Top,,0000,0000,0000,,...la que usas\Npara tus historias.
+Dialogue: 0,0:18:32.84,0:18:35.50,Bot,,0000,0000,0000,,En 72 años, nunca\Ntuvo nada que decir.
+Dialogue: 0,0:18:32.94,0:18:35.61,Top,,0000,0000,0000,,En 72 años, nunca\Ntuvo nada que decir.
+Dialogue: 0,0:18:35.55,0:18:37.70,Bot,,0000,0000,0000,,Y ahora que se ha ido,\Nno puedo callarlo.
+Dialogue: 0,0:18:35.65,0:18:37.80,Top,,0000,0000,0000,,Y ahora que se ha ido,\Nno puedo callarlo.
+Dialogue: 0,0:18:41.75,0:18:43.95,Bot,,0000,0000,0000,,¿Tienes a alguien\Ncon quien quieras hablar?
+Dialogue: 0,0:18:41.85,0:18:44.05,Top,,0000,0000,0000,,¿Tienes a alguien\Ncon quien quieras hablar?
+Dialogue: 0,0:18:43.99,0:18:45.13,Bot,,0000,0000,0000,,Mucho.
+Dialogue: 0,0:18:44.09,0:18:45.23,Top,,0000,0000,0000,,Mucho.
+Dialogue: 0,0:18:45.17,0:18:47.88,Bot,,0000,0000,0000,,- Bueno, ¿qué te detiene?\N- ¿No necesito de una lámpara?
+Dialogue: 0,0:18:45.27,0:18:47.98,Top,,0000,0000,0000,,- Bueno, ¿qué te detiene?\N- ¿No necesito de una lámpara?
+Dialogue: 0,0:18:48.13,0:18:52.94,Bot,,0000,0000,0000,,Bueno, apuesto a que podrías\Nhacer una muy buena...
+Dialogue: 0,0:18:48.23,0:18:53.04,Top,,0000,0000,0000,,Bueno, apuesto a que podrías\Nhacer una muy buena...
+Dialogue: 0,0:18:52.98,0:18:55.98,Bot,,0000,0000,0000,,...con esa cosa de papel\Ndoblado que haces.
+Dialogue: 0,0:18:53.08,0:18:56.09,Top,,0000,0000,0000,,...con esa cosa de papel\Ndoblado que haces.
+Dialogue: 0,0:18:57.21,0:19:00.16,Bot,,0000,0000,0000,,¿Lo ves? ¿No sólo soy\Nuna cara bonita, cierto?
+Dialogue: 0,0:18:57.31,0:19:00.27,Top,,0000,0000,0000,,¿Lo ves? ¿No sólo soy\Nuna cara bonita, cierto?
+Dialogue: 0,0:19:00.80,0:19:02.15,Bot,,0000,0000,0000,,Ahora, date prisa.
+Dialogue: 0,0:19:00.90,0:19:02.25,Top,,0000,0000,0000,,Ahora, date prisa.
+Dialogue: 0,0:19:02.32,0:19:05.32,Bot,,0000,0000,0000,,Ve, aún hay tiempo\Nantes de que oscurezca.
+Dialogue: 0,0:19:02.42,0:19:05.42,Top,,0000,0000,0000,,Ve, aún hay tiempo\Nantes de que oscurezca.
+Dialogue: 0,0:19:05.36,0:19:06.50,Bot,,0000,0000,0000,,Ve, sal de aquí.
+Dialogue: 0,0:19:05.46,0:19:06.60,Top,,0000,0000,0000,,Ve, sal de aquí.
+Dialogue: 0,0:19:40.99,0:19:42.98,Bot,,0000,0000,0000,,Coloca la lámpara\Nen el altar.
+Dialogue: 0,0:19:41.09,0:19:43.08,Top,,0000,0000,0000,,Coloca la lámpara\Nen el altar.
+Dialogue: 0,0:19:44.03,0:19:46.82,Bot,,0000,0000,0000,,- Muy bien.\N- ¿Qué hacemos ahora, papi?
+Dialogue: 0,0:19:44.13,0:19:46.92,Top,,0000,0000,0000,,- Muy bien.\N- ¿Qué hacemos ahora, papi?
+Dialogue: 0,0:19:46.99,0:19:48.64,Bot,,0000,0000,0000,,Ahora, oramos.
+Dialogue: 0,0:19:47.09,0:19:48.74,Top,,0000,0000,0000,,Ahora, oramos.
+Dialogue: 0,0:19:48.76,0:19:51.76,Bot,,0000,0000,0000,,Pedimos a su espíritu\Nque nos honre con su luz.
+Dialogue: 0,0:19:48.86,0:19:51.86,Top,,0000,0000,0000,,Pedimos a su espíritu\Nque nos honre con su luz.
+Dialogue: 0,0:19:52.14,0:19:54.08,Bot,,0000,0000,0000,,¿Abuela, harías el favor\Nde honrarnos?
+Dialogue: 0,0:19:52.24,0:19:54.19,Top,,0000,0000,0000,,¿Abuela, harías el favor\Nde honrarnos?
+Dialogue: 0,0:19:55.81,0:19:58.01,Bot,,0000,0000,0000,,Suavemente, suavemente.
+Dialogue: 0,0:19:55.91,0:19:58.11,Top,,0000,0000,0000,,Suavemente, suavemente.
+Dialogue: 0,0:20:16.12,0:20:19.33,Bot,,0000,0000,0000,,Hola, papá. Espero\Nque estés bien.
+Dialogue: 0,0:20:16.22,0:20:19.43,Top,,0000,0000,0000,,Hola, papá. Espero\Nque estés bien.
+Dialogue: 0,0:20:19.37,0:20:21.06,Bot,,0000,0000,0000,,Quiero decir, sé\Nque estás muerto,
+Dialogue: 0,0:20:19.47,0:20:21.16,Top,,0000,0000,0000,,Quiero decir, sé\Nque estás muerto,
+Dialogue: 0,0:20:21.15,0:20:24.48,Bot,,0000,0000,0000,,pero espero que\Ntodo esté bien.
+Dialogue: 0,0:20:21.25,0:20:24.59,Top,,0000,0000,0000,,pero espero que\Ntodo esté bien.
+Dialogue: 0,0:20:29.63,0:20:31.49,Bot,,0000,0000,0000,,Mira, es tu túnica.
+Dialogue: 0,0:20:29.73,0:20:31.59,Top,,0000,0000,0000,,Mira, es tu túnica.
+Dialogue: 0,0:20:32.34,0:20:34.20,Bot,,0000,0000,0000,,Mamá dice que voy a\Ncrecer y me quedará.
+Dialogue: 0,0:20:32.44,0:20:34.30,Top,,0000,0000,0000,,Mamá dice que voy a\Ncrecer y me quedará.
+Dialogue: 0,0:20:35.88,0:20:39.09,Bot,,0000,0000,0000,,Dice que eras un gran líder,\Nque murió protegiéndome.
+Dialogue: 0,0:20:35.98,0:20:39.20,Top,,0000,0000,0000,,Dice que eras un gran líder,\Nque murió protegiéndome.
+Dialogue: 0,0:20:39.64,0:20:41.63,Bot,,0000,0000,0000,,Salvando a uno de mis ojos.
+Dialogue: 0,0:20:39.74,0:20:41.73,Top,,0000,0000,0000,,Salvando a uno de mis ojos.
+Dialogue: 0,0:20:42.30,0:20:45.47,Bot,,0000,0000,0000,,Dos habrían sido lo ideal,\Npero, gracias de todos modos.
+Dialogue: 0,0:20:42.40,0:20:45.57,Top,,0000,0000,0000,,Dos habrían sido lo ideal,\Npero, gracias de todos modos.
+Dialogue: 0,0:20:48.64,0:20:51.17,Bot,,0000,0000,0000,,Papá, estoy\Npreocupado por mamá.
+Dialogue: 0,0:20:48.74,0:20:51.27,Top,,0000,0000,0000,,Papá, estoy\Npreocupado por mamá.
+Dialogue: 0,0:20:51.59,0:20:55.01,Bot,,0000,0000,0000,,Con cada día que pasa,\Nella se aleja más y más.
+Dialogue: 0,0:20:51.69,0:20:55.11,Top,,0000,0000,0000,,Con cada día que pasa,\Nella se aleja más y más.
+Dialogue: 0,0:20:56.79,0:21:00.63,Bot,,0000,0000,0000,,Ella habla mucho de ti, pero...\NPero simplemente no lo sé.
+Dialogue: 0,0:20:56.89,0:21:00.73,Top,,0000,0000,0000,,Ella habla mucho de ti, pero...\NPero simplemente no lo sé.
+Dialogue: 0,0:21:01.30,0:21:03.80,Bot,,0000,0000,0000,,Creo que no se acuerda\Nde lo que es real ya más.
+Dialogue: 0,0:21:01.40,0:21:03.90,Top,,0000,0000,0000,,Creo que no se acuerda\Nde lo que es real ya más.
+Dialogue: 0,0:21:05.48,0:21:07.51,Bot,,0000,0000,0000,,Yo no sé lo que\Nes real ya más.
+Dialogue: 0,0:21:05.58,0:21:07.61,Top,,0000,0000,0000,,Yo no sé lo que\Nes real ya más.
+Dialogue: 0,0:21:08.31,0:21:10.04,Bot,,0000,0000,0000,,Sólo desearía que\Nestuvieras aquí.
+Dialogue: 0,0:21:08.41,0:21:10.14,Top,,0000,0000,0000,,Sólo desearía que\Nestuvieras aquí.
+Dialogue: 0,0:21:11.06,0:21:15.11,Bot,,0000,0000,0000,,Así podría hablarte, verte.
+Dialogue: 0,0:21:11.16,0:21:15.21,Top,,0000,0000,0000,,Así podría hablarte, verte.
+Dialogue: 0,0:21:15.70,0:21:17.69,Bot,,0000,0000,0000,,- Averiguar lo que debería hacer.\N- Papi, papi...
+Dialogue: 0,0:21:15.80,0:21:17.79,Top,,0000,0000,0000,,- Averiguar lo que debería hacer.\N- Papi, papi...
+Dialogue: 0,0:21:17.73,0:21:19.76,Bot,,0000,0000,0000,,...ella está aquí.\NLa abuela está aquí.
+Dialogue: 0,0:21:17.83,0:21:19.86,Top,,0000,0000,0000,,...ella está aquí.\NLa abuela está aquí.
+Dialogue: 0,0:21:19.84,0:21:22.29,Bot,,0000,0000,0000,,Ahora es el momento\Npara la parte final.
+Dialogue: 0,0:21:19.94,0:21:22.39,Top,,0000,0000,0000,,Ahora es el momento\Npara la parte final.
+Dialogue: 0,0:21:22.54,0:21:25.50,Bot,,0000,0000,0000,,Tenemos que ayudarla a volver\Nal mundo de los espíritus.
+Dialogue: 0,0:21:22.64,0:21:25.60,Top,,0000,0000,0000,,Tenemos que ayudarla a volver\Nal mundo de los espíritus.
+Dialogue: 0,0:21:26.17,0:21:30.18,Bot,,0000,0000,0000,,- Pero ella acaba de llegar.\N- Vamos.
+Dialogue: 0,0:21:26.27,0:21:30.29,Top,,0000,0000,0000,,- Pero ella acaba de llegar.\N- Vamos.
+Dialogue: 0,0:21:30.90,0:21:33.94,Bot,,0000,0000,0000,,¿Papá? ¿Hola?
+Dialogue: 0,0:21:31.00,0:21:34.04,Top,,0000,0000,0000,,¿Papá? ¿Hola?
+Dialogue: 0,0:21:37.62,0:21:38.71,Bot,,0000,0000,0000,,Cuando quieras.
+Dialogue: 0,0:21:37.72,0:21:38.82,Top,,0000,0000,0000,,Cuando quieras.
+Dialogue: 0,0:22:36.14,0:22:37.41,Bot,,0000,0000,0000,,¡Perfecto!
+Dialogue: 0,0:22:36.24,0:22:37.51,Top,,0000,0000,0000,,¡Perfecto!
+Dialogue: 0,0:22:37.91,0:22:39.39,Bot,,0000,0000,0000,,No te necesito\Nde todos modos.
+Dialogue: 0,0:22:38.01,0:22:39.49,Top,,0000,0000,0000,,No te necesito\Nde todos modos.
+Dialogue: 0,0:22:46.99,0:22:48.21,Bot,,0000,0000,0000,,Kubo.
+Dialogue: 0,0:22:47.09,0:22:48.32,Top,,0000,0000,0000,,Kubo.
+Dialogue: 0,0:22:56.83,0:22:57.97,Bot,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:22:56.93,0:22:58.07,Top,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:23:06.92,0:23:10.09,Bot,,0000,0000,0000,,Kubo...
+Dialogue: 0,0:23:07.02,0:23:10.19,Top,,0000,0000,0000,,Kubo...
+Dialogue: 0,0:23:15.49,0:23:17.05,Bot,,0000,0000,0000,,Aquí estoy.
+Dialogue: 0,0:23:15.59,0:23:17.15,Top,,0000,0000,0000,,Aquí estoy.
+Dialogue: 0,0:23:17.56,0:23:22.63,Bot,,0000,0000,0000,,¿Niñito, que le\Npasó a tu ojo?
+Dialogue: 0,0:23:17.66,0:23:22.73,Top,,0000,0000,0000,,¿Niñito, que le\Npasó a tu ojo?
+Dialogue: 0,0:23:22.67,0:23:25.71,Bot,,0000,0000,0000,,¿Quiénes son?\N¿Cómo saben mi nombre?
+Dialogue: 0,0:23:22.77,0:23:25.81,Top,,0000,0000,0000,,¿Quiénes son?\N¿Cómo saben mi nombre?
+Dialogue: 0,0:23:26.80,0:23:31.20,Bot,,0000,0000,0000,,Somos tu familia, Kubo.\NHermanas de tu mamá.
+Dialogue: 0,0:23:26.90,0:23:31.30,Top,,0000,0000,0000,,Somos tu familia, Kubo.\NHermanas de tu mamá.
+Dialogue: 0,0:23:31.96,0:23:36.14,Bot,,0000,0000,0000,,Y hemos estado\Nbuscándote tanto tiempo.
+Dialogue: 0,0:23:32.06,0:23:36.24,Top,,0000,0000,0000,,Y hemos estado\Nbuscándote tanto tiempo.
+Dialogue: 0,0:23:36.26,0:23:42.60,Bot,,0000,0000,0000,,Es tan encantador conocerte,\NKubo, cara a cara.
+Dialogue: 0,0:23:36.36,0:23:42.70,Top,,0000,0000,0000,,Es tan encantador conocerte,\NKubo, cara a cara.
+Dialogue: 0,0:23:46.48,0:23:50.50,Bot,,0000,0000,0000,,Ven, Kubo, ven con tus tías.
+Dialogue: 0,0:23:46.58,0:23:50.60,Top,,0000,0000,0000,,Ven, Kubo, ven con tus tías.
+Dialogue: 0,0:23:51.00,0:23:54.63,Bot,,0000,0000,0000,,No hay razón para\Ntener miedo, Kubo.
+Dialogue: 0,0:23:51.10,0:23:54.73,Top,,0000,0000,0000,,No hay razón para\Ntener miedo, Kubo.
+Dialogue: 0,0:23:54.67,0:23:57.04,Bot,,0000,0000,0000,,Sólo necesitamos tu otro ojo.
+Dialogue: 0,0:23:54.77,0:23:57.14,Top,,0000,0000,0000,,Sólo necesitamos tu otro ojo.
+Dialogue: 0,0:23:57.16,0:24:00.42,Bot,,0000,0000,0000,,Tu abuelo te admira también.
+Dialogue: 0,0:23:57.26,0:24:00.52,Top,,0000,0000,0000,,Tu abuelo te admira también.
+Dialogue: 0,0:24:24.23,0:24:28.66,Bot,,0000,0000,0000,,¡Ayuda! ¡Ayuda!\N¡Alguien que me ayude!
+Dialogue: 0,0:24:24.33,0:24:28.77,Top,,0000,0000,0000,,¡Ayuda! ¡Ayuda!\N¡Alguien que me ayude!
+Dialogue: 0,0:24:28.75,0:24:31.79,Bot,,0000,0000,0000,,¡Ayuda! ¡Cuidado!\N¡Corran!
+Dialogue: 0,0:24:28.85,0:24:31.89,Top,,0000,0000,0000,,¡Ayuda! ¡Cuidado!\N¡Corran!
+Dialogue: 0,0:24:38.04,0:24:39.35,Bot,,0000,0000,0000,,¡Corran!
+Dialogue: 0,0:24:38.14,0:24:39.45,Top,,0000,0000,0000,,¡Corran!
+Dialogue: 0,0:24:42.64,0:24:43.74,Bot,,0000,0000,0000,,¡Mamá!
+Dialogue: 0,0:24:42.74,0:24:43.84,Top,,0000,0000,0000,,¡Mamá!
+Dialogue: 0,0:24:56.66,0:24:58.77,Bot,,0000,0000,0000,,Estamos aquí, Kubo.
+Dialogue: 0,0:24:56.76,0:24:58.87,Top,,0000,0000,0000,,Estamos aquí, Kubo.
+Dialogue: 0,0:24:59.53,0:25:01.81,Bot,,0000,0000,0000,,Tu familia ha venido por ti.
+Dialogue: 0,0:24:59.63,0:25:01.91,Top,,0000,0000,0000,,Tu familia ha venido por ti.
+Dialogue: 0,0:25:14.77,0:25:16.97,Bot,,0000,0000,0000,,- Kubo.\N- Mamá.
+Dialogue: 0,0:25:14.87,0:25:17.07,Top,,0000,0000,0000,,- Kubo.\N- Mamá.
+Dialogue: 0,0:25:24.74,0:25:26.97,Bot,,0000,0000,0000,,Kubo, debes\Nencontrar la armadura.
+Dialogue: 0,0:25:24.84,0:25:27.08,Top,,0000,0000,0000,,Kubo, debes\Nencontrar la armadura.
+Dialogue: 0,0:25:27.02,0:25:28.83,Bot,,0000,0000,0000,,Es tu única oportunidad.
+Dialogue: 0,0:25:27.12,0:25:28.94,Top,,0000,0000,0000,,Es tu única oportunidad.
+Dialogue: 0,0:25:28.96,0:25:30.18,Bot,,0000,0000,0000,,Recuerda esto.
+Dialogue: 0,0:25:29.06,0:25:30.29,Top,,0000,0000,0000,,Recuerda esto.
+Dialogue: 0,0:25:37.45,0:25:38.50,Bot,,0000,0000,0000,,¡Mamá!
+Dialogue: 0,0:25:37.55,0:25:38.60,Top,,0000,0000,0000,,¡Mamá!
+Dialogue: 0,0:25:39.52,0:25:40.78,Bot,,0000,0000,0000,,¡No, mamá!
+Dialogue: 0,0:25:39.62,0:25:40.88,Top,,0000,0000,0000,,¡No, mamá!
+Dialogue: 0,0:25:41.54,0:25:42.43,Bot,,0000,0000,0000,,¡No!
+Dialogue: 0,0:25:41.64,0:25:42.53,Top,,0000,0000,0000,,¡No!
+Dialogue: 0,0:25:44.20,0:25:45.72,Bot,,0000,0000,0000,,¡Mamá!
+Dialogue: 0,0:25:44.30,0:25:45.82,Top,,0000,0000,0000,,¡Mamá!
+Dialogue: 0,0:25:59.36,0:26:00.88,Bot,,0000,0000,0000,,Kubo...
+Dialogue: 0,0:25:59.46,0:26:00.98,Top,,0000,0000,0000,,Kubo...
+Dialogue: 0,0:26:02.15,0:26:03.41,Bot,,0000,0000,0000,,¡Kubo!
+Dialogue: 0,0:26:02.25,0:26:03.52,Top,,0000,0000,0000,,¡Kubo!
+Dialogue: 0,0:26:05.27,0:26:07.72,Bot,,0000,0000,0000,,¿Me escuchas, Kubo?
+Dialogue: 0,0:26:05.37,0:26:07.82,Top,,0000,0000,0000,,¿Me escuchas, Kubo?
+Dialogue: 0,0:26:12.28,0:26:14.69,Bot,,0000,0000,0000,,Te dije que tu\Nmamá se ha ido.
+Dialogue: 0,0:26:12.38,0:26:14.79,Top,,0000,0000,0000,,Te dije que tu\Nmamá se ha ido.
+Dialogue: 0,0:26:14.73,0:26:17.81,Bot,,0000,0000,0000,,Tu aldea está destruida,\Nquemada hasta las cenizas.
+Dialogue: 0,0:26:14.83,0:26:17.91,Top,,0000,0000,0000,,Tu aldea está destruida,\Nquemada hasta las cenizas.
+Dialogue: 0,0:26:18.91,0:26:21.11,Bot,,0000,0000,0000,,Aterrizamos aquí en\Nlas Tierras Lejanas.
+Dialogue: 0,0:26:19.01,0:26:21.21,Top,,0000,0000,0000,,Aterrizamos aquí en\Nlas Tierras Lejanas.
+Dialogue: 0,0:26:21.19,0:26:23.17,Bot,,0000,0000,0000,,Tus enemigos no\Nestán muy atrás.
+Dialogue: 0,0:26:21.29,0:26:23.28,Top,,0000,0000,0000,,Tus enemigos no\Nestán muy atrás.
+Dialogue: 0,0:26:23.47,0:26:26.81,Bot,,0000,0000,0000,,Debemos buscar refugio antes\Nde que tu abuelo venga.
+Dialogue: 0,0:26:23.57,0:26:26.91,Top,,0000,0000,0000,,Debemos buscar refugio antes\Nde que tu abuelo venga.
+Dialogue: 0,0:26:32.97,0:26:34.53,Bot,,0000,0000,0000,,Tenemos que irnos ahora.
+Dialogue: 0,0:26:33.07,0:26:34.64,Top,,0000,0000,0000,,Tenemos que irnos ahora.
+Dialogue: 0,0:26:36.77,0:26:38.71,Bot,,0000,0000,0000,,¡Vamos, levántate! ¡Vámonos!
+Dialogue: 0,0:26:36.87,0:26:38.81,Top,,0000,0000,0000,,¡Vamos, levántate! ¡Vámonos!
+Dialogue: 0,0:27:16.08,0:27:18.40,Bot,,0000,0000,0000,,Una vez que estemos\Nadentro, es posible que...
+Dialogue: 0,0:27:16.18,0:27:18.51,Top,,0000,0000,0000,,Una vez que estemos\Nadentro, es posible que...
+Dialogue: 0,0:27:18.45,0:27:20.85,Bot,,0000,0000,0000,,...quieras quejarte del olor.
+Dialogue: 0,0:27:18.55,0:27:20.95,Top,,0000,0000,0000,,...quieras quejarte del olor.
+Dialogue: 0,0:27:25.50,0:27:28.07,Bot,,0000,0000,0000,,Ten en cuenta que mi\Nsentido del olfato es...
+Dialogue: 0,0:27:25.60,0:27:28.17,Top,,0000,0000,0000,,Ten en cuenta que mi\Nsentido del olfato es...
+Dialogue: 0,0:27:28.11,0:27:30.14,Bot,,0000,0000,0000,,...diez veces más\Nfuerte que el tuyo.
+Dialogue: 0,0:27:28.21,0:27:30.24,Top,,0000,0000,0000,,...diez veces más\Nfuerte que el tuyo.
+Dialogue: 0,0:28:08.18,0:28:10.00,Bot,,0000,0000,0000,,Tienes preguntas,\Nlo puedo saber.
+Dialogue: 0,0:28:08.28,0:28:10.10,Top,,0000,0000,0000,,Tienes preguntas,\Nlo puedo saber.
+Dialogue: 0,0:28:10.25,0:28:11.48,Bot,,0000,0000,0000,,- ¿Quién...\N- Tienes tres.
+Dialogue: 0,0:28:10.35,0:28:11.58,Top,,0000,0000,0000,,- ¿Quién...\N- Tienes tres.
+Dialogue: 0,0:28:13.46,0:28:15.28,Bot,,0000,0000,0000,,Creí que tendría más.
+Dialogue: 0,0:28:13.56,0:28:15.38,Top,,0000,0000,0000,,Creí que tendría más.
+Dialogue: 0,0:28:15.66,0:28:20.22,Bot,,0000,0000,0000,,- Tres, antes de comer.\N- ¿Por qué sólo tres?
+Dialogue: 0,0:28:15.76,0:28:20.32,Top,,0000,0000,0000,,- Tres, antes de comer.\N- ¿Por qué sólo tres?
+Dialogue: 0,0:28:20.26,0:28:21.23,Bot,,0000,0000,0000,,Bien, esa fue tu\Nprimera pregunta.
+Dialogue: 0,0:28:20.36,0:28:21.33,Top,,0000,0000,0000,,Bien, esa fue tu\Nprimera pregunta.
+Dialogue: 0,0:28:21.27,0:28:21.70,Bot,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:28:21.37,0:28:21.80,Top,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:28:21.74,0:28:23.26,Bot,,0000,0000,0000,,No entiendo lo\Nque está pasando.
+Dialogue: 0,0:28:21.84,0:28:23.36,Top,,0000,0000,0000,,No entiendo lo\Nque está pasando.
+Dialogue: 0,0:28:23.38,0:28:24.91,Bot,,0000,0000,0000,,¿Quién eres tú?
+Dialogue: 0,0:28:23.48,0:28:25.01,Top,,0000,0000,0000,,¿Quién eres tú?
+Dialogue: 0,0:28:25.79,0:28:27.23,Bot,,0000,0000,0000,,¿No me reconoces?
+Dialogue: 0,0:28:25.89,0:28:27.33,Top,,0000,0000,0000,,¿No me reconoces?
+Dialogue: 0,0:28:31.49,0:28:33.43,Bot,,0000,0000,0000,,Todos estos años, tuviste\Nque mantenerme...
+Dialogue: 0,0:28:31.59,0:28:33.54,Top,,0000,0000,0000,,Todos estos años, tuviste\Nque mantenerme...
+Dialogue: 0,0:28:33.48,0:28:35.63,Bot,,0000,0000,0000,,...en tu mochila.\NAhora sabes por qué.
+Dialogue: 0,0:28:33.58,0:28:35.73,Top,,0000,0000,0000,,...en tu mochila.\NAhora sabes por qué.
+Dialogue: 0,0:28:35.67,0:28:39.64,Bot,,0000,0000,0000,,Pero eras un talismán de madera.\NEras así de grande.
+Dialogue: 0,0:28:35.77,0:28:39.74,Top,,0000,0000,0000,,Pero eras un talismán de madera.\NEras así de grande.
+Dialogue: 0,0:28:40.53,0:28:43.78,Bot,,0000,0000,0000,,Llamé a ese talismán,\Nel Sr. Mono.
+Dialogue: 0,0:28:40.63,0:28:43.88,Top,,0000,0000,0000,,Llamé a ese talismán,\Nel Sr. Mono.
+Dialogue: 0,0:28:43.82,0:28:45.30,Bot,,0000,0000,0000,,Y si hubiera estado viva\Nen ese momento,
+Dialogue: 0,0:28:43.92,0:28:45.40,Top,,0000,0000,0000,,Y si hubiera estado viva\Nen ese momento,
+Dialogue: 0,0:28:45.33,0:28:46.69,Bot,,0000,0000,0000,,me habría parecido\Nun insulto.
+Dialogue: 0,0:28:45.43,0:28:46.79,Top,,0000,0000,0000,,me habría parecido\Nun insulto.
+Dialogue: 0,0:28:46.73,0:28:50.32,Bot,,0000,0000,0000,,Mira, tu mamá usó su última\Nmagia para salvarte.
+Dialogue: 0,0:28:46.83,0:28:50.43,Top,,0000,0000,0000,,Mira, tu mamá usó su última\Nmagia para salvarte.
+Dialogue: 0,0:28:50.53,0:28:51.93,Bot,,0000,0000,0000,,Y me dio vida.
+Dialogue: 0,0:28:50.63,0:28:52.03,Top,,0000,0000,0000,,Y me dio vida.
+Dialogue: 0,0:29:03.08,0:29:04.85,Bot,,0000,0000,0000,,Toma. Bebe.
+Dialogue: 0,0:29:03.18,0:29:04.95,Top,,0000,0000,0000,,Toma. Bebe.
+Dialogue: 0,0:29:09.07,0:29:11.61,Bot,,0000,0000,0000,,- Apesta.\N- Todo aquí apesta.
+Dialogue: 0,0:29:09.17,0:29:11.71,Top,,0000,0000,0000,,- Apesta.\N- Todo aquí apesta.
+Dialogue: 0,0:29:12.11,0:29:13.55,Bot,,0000,0000,0000,,- Bébelo.\N- No lo quiero.
+Dialogue: 0,0:29:12.21,0:29:13.65,Top,,0000,0000,0000,,- Bébelo.\N- No lo quiero.
+Dialogue: 0,0:29:13.63,0:29:16.00,Bot,,0000,0000,0000,,Dije, bébelo.
+Dialogue: 0,0:29:13.73,0:29:16.10,Top,,0000,0000,0000,,Dije, bébelo.
+Dialogue: 0,0:29:16.04,0:29:17.52,Bot,,0000,0000,0000,,Eres un mono malo, ¿verdad?
+Dialogue: 0,0:29:16.14,0:29:17.62,Top,,0000,0000,0000,,Eres un mono malo, ¿verdad?
+Dialogue: 0,0:29:17.60,0:29:19.55,Bot,,0000,0000,0000,,Sí. Sí lo soy.
+Dialogue: 0,0:29:17.70,0:29:19.65,Top,,0000,0000,0000,,Sí. Sí lo soy.
+Dialogue: 0,0:29:19.59,0:29:21.11,Bot,,0000,0000,0000,,Y ya son tres.\NNo te quedan preguntas.
+Dialogue: 0,0:29:19.69,0:29:21.21,Top,,0000,0000,0000,,Y ya son tres.\NNo te quedan preguntas.
+Dialogue: 0,0:29:21.14,0:29:22.33,Bot,,0000,0000,0000,,Ahora sólo escucha.
+Dialogue: 0,0:29:21.24,0:29:22.43,Top,,0000,0000,0000,,Ahora sólo escucha.
+Dialogue: 0,0:29:22.37,0:29:23.98,Bot,,0000,0000,0000,,Estoy aquí para\Nprotegerte, Kubo.
+Dialogue: 0,0:29:22.47,0:29:24.08,Top,,0000,0000,0000,,Estoy aquí para\Nprotegerte, Kubo.
+Dialogue: 0,0:29:24.36,0:29:26.43,Bot,,0000,0000,0000,,Y eso significa que tienes\Nque hacer lo que yo diga.
+Dialogue: 0,0:29:24.46,0:29:26.53,Top,,0000,0000,0000,,Y eso significa que tienes\Nque hacer lo que yo diga.
+Dialogue: 0,0:29:26.64,0:29:29.17,Bot,,0000,0000,0000,,Por lo tanto, si\Nno comes, te pondrás débil.
+Dialogue: 0,0:29:26.74,0:29:29.27,Top,,0000,0000,0000,,Por lo tanto, si\Nno comes, te pondrás débil.
+Dialogue: 0,0:29:29.21,0:29:30.78,Bot,,0000,0000,0000,,Si eres débil, serás lento.
+Dialogue: 0,0:29:29.31,0:29:30.88,Top,,0000,0000,0000,,Si eres débil, serás lento.
+Dialogue: 0,0:29:30.86,0:29:32.29,Bot,,0000,0000,0000,,Si eres lento,\Nte vas a morir.
+Dialogue: 0,0:29:30.96,0:29:32.40,Top,,0000,0000,0000,,Si eres lento,\Nte vas a morir.
+Dialogue: 0,0:29:38.20,0:29:39.56,Bot,,0000,0000,0000,,Está demasiado caliente.
+Dialogue: 0,0:29:38.30,0:29:39.66,Top,,0000,0000,0000,,Está demasiado caliente.
+Dialogue: 0,0:29:45.93,0:29:47.07,Bot,,0000,0000,0000,,Bebe.
+Dialogue: 0,0:29:46.03,0:29:47.17,Top,,0000,0000,0000,,Bebe.
+Dialogue: 0,0:29:56.87,0:29:58.18,Bot,,0000,0000,0000,,Disculpa.
+Dialogue: 0,0:29:56.97,0:29:58.28,Top,,0000,0000,0000,,Disculpa.
+Dialogue: 0,0:30:11.35,0:30:13.84,Bot,,0000,0000,0000,,De acuerdo, es mejor que empieces\Na tomar esto en serio, Kubo.
+Dialogue: 0,0:30:11.45,0:30:13.94,Top,,0000,0000,0000,,De acuerdo, es mejor que empieces\Na tomar esto en serio, Kubo.
+Dialogue: 0,0:30:13.89,0:30:16.80,Bot,,0000,0000,0000,,Esto es real.\NEsta no es una historia.
+Dialogue: 0,0:30:13.99,0:30:16.90,Top,,0000,0000,0000,,Esto es real.\NEsta no es una historia.
+Dialogue: 0,0:30:16.84,0:30:18.99,Bot,,0000,0000,0000,,Esas cosas, tus tías.
+Dialogue: 0,0:30:16.94,0:30:19.10,Top,,0000,0000,0000,,Esas cosas, tus tías.
+Dialogue: 0,0:30:19.04,0:30:21.82,Bot,,0000,0000,0000,,Nunca tienen hambre.\NNunca duermen.
+Dialogue: 0,0:30:19.14,0:30:21.92,Top,,0000,0000,0000,,Nunca tienen hambre.\NNunca duermen.
+Dialogue: 0,0:30:21.86,0:30:23.38,Bot,,0000,0000,0000,,Te encontrarán.
+Dialogue: 0,0:30:21.96,0:30:23.49,Top,,0000,0000,0000,,Te encontrarán.
+Dialogue: 0,0:30:24.44,0:30:26.26,Bot,,0000,0000,0000,,Y si no estamos preparados...
+Dialogue: 0,0:30:24.54,0:30:26.36,Top,,0000,0000,0000,,Y si no estamos preparados...
+Dialogue: 0,0:30:26.85,0:30:30.27,Bot,,0000,0000,0000,,Me matarán y te\Nquitarán el otro ojo.
+Dialogue: 0,0:30:26.95,0:30:30.37,Top,,0000,0000,0000,,Me matarán y te\Nquitarán el otro ojo.
+Dialogue: 0,0:30:34.32,0:30:35.55,Bot,,0000,0000,0000,,¿Qué vamos a hacer?
+Dialogue: 0,0:30:34.42,0:30:35.65,Top,,0000,0000,0000,,¿Qué vamos a hacer?
+Dialogue: 0,0:30:35.76,0:30:37.53,Bot,,0000,0000,0000,,Vamos a encontrar\Nla armadura.
+Dialogue: 0,0:30:35.86,0:30:37.63,Top,,0000,0000,0000,,Vamos a encontrar\Nla armadura.
+Dialogue: 0,0:30:38.21,0:30:40.11,Bot,,0000,0000,0000,,Es la única cosa\Nque puede protegerte.
+Dialogue: 0,0:30:38.31,0:30:40.21,Top,,0000,0000,0000,,Es la única cosa\Nque puede protegerte.
+Dialogue: 0,0:30:40.87,0:30:44.20,Bot,,0000,0000,0000,,Por lo que es real.\NRealmente real.
+Dialogue: 0,0:30:40.97,0:30:44.30,Top,,0000,0000,0000,,Por lo que es real.\NRealmente real.
+Dialogue: 0,0:30:56.32,0:30:58.60,Bot,,0000,0000,0000,,No te preocupes,\Nno voy a quedármela.
+Dialogue: 0,0:30:56.42,0:30:58.70,Top,,0000,0000,0000,,No te preocupes,\Nno voy a quedármela.
+Dialogue: 0,0:31:00.75,0:31:04.81,Bot,,0000,0000,0000,,Le quite cabello de su cabeza.\NNo era mi intención hacerlo.
+Dialogue: 0,0:31:00.85,0:31:04.91,Top,,0000,0000,0000,,Le quite cabello de su cabeza.\NNo era mi intención hacerlo.
+Dialogue: 0,0:31:04.89,0:31:07.34,Bot,,0000,0000,0000,,Tu mamá era muy poderosa.
+Dialogue: 0,0:31:04.99,0:31:07.44,Top,,0000,0000,0000,,Tu mamá era muy poderosa.
+Dialogue: 0,0:31:07.42,0:31:09.62,Bot,,0000,0000,0000,,Bendijo tu túnica,\Npara que cuando la...
+Dialogue: 0,0:31:07.52,0:31:09.72,Top,,0000,0000,0000,,Bendijo tu túnica,\Npara que cuando la...
+Dialogue: 0,0:31:09.66,0:31:12.03,Bot,,0000,0000,0000,,...necesidad fuera mayor,\Nesta te hiciera volar.
+Dialogue: 0,0:31:09.76,0:31:12.13,Top,,0000,0000,0000,,...necesidad fuera mayor,\Nesta te hiciera volar.
+Dialogue: 0,0:31:12.45,0:31:15.66,Bot,,0000,0000,0000,,Usó lo último de ese poder\Npara darme vida.
+Dialogue: 0,0:31:12.55,0:31:15.76,Top,,0000,0000,0000,,Usó lo último de ese poder\Npara darme vida.
+Dialogue: 0,0:31:16.00,0:31:19.25,Bot,,0000,0000,0000,,Esta pulsera, su\Ncabello, es un recuerdo.
+Dialogue: 0,0:31:16.10,0:31:19.35,Top,,0000,0000,0000,,Esta pulsera, su\Ncabello, es un recuerdo.
+Dialogue: 0,0:31:19.33,0:31:21.57,Bot,,0000,0000,0000,,Y los recuerdos son\Ncosas poderosas, Kubo.
+Dialogue: 0,0:31:19.43,0:31:21.67,Top,,0000,0000,0000,,Y los recuerdos son\Ncosas poderosas, Kubo.
+Dialogue: 0,0:31:22.24,0:31:23.51,Bot,,0000,0000,0000,,Nunca los pierdas.
+Dialogue: 0,0:31:22.34,0:31:23.61,Top,,0000,0000,0000,,Nunca los pierdas.
+Dialogue: 0,0:31:28.62,0:31:31.70,Bot,,0000,0000,0000,,- ¿Una pregunta más?\N- La última.
+Dialogue: 0,0:31:28.72,0:31:31.80,Top,,0000,0000,0000,,- ¿Una pregunta más?\N- La última.
+Dialogue: 0,0:31:31.87,0:31:34.74,Bot,,0000,0000,0000,,¿Sabes dónde está?\N¿La armadura?
+Dialogue: 0,0:31:31.97,0:31:34.84,Top,,0000,0000,0000,,¿Sabes dónde está?\N¿La armadura?
+Dialogue: 0,0:31:35.71,0:31:38.50,Bot,,0000,0000,0000,,No. No, no lo sé.
+Dialogue: 0,0:31:35.81,0:31:38.60,Top,,0000,0000,0000,,No. No, no lo sé.
+Dialogue: 0,0:31:42.72,0:31:44.12,Bot,,0000,0000,0000,,Ahora ve a dormir.
+Dialogue: 0,0:31:42.82,0:31:44.22,Top,,0000,0000,0000,,Ahora ve a dormir.
+Dialogue: 0,0:31:52.65,0:31:53.96,Bot,,0000,0000,0000,,Buenas noches, Mono.
+Dialogue: 0,0:31:52.75,0:31:54.06,Top,,0000,0000,0000,,Buenas noches, Mono.
+Dialogue: 0,0:32:12.28,0:32:13.34,Bot,,0000,0000,0000,,Kubo.
+Dialogue: 0,0:32:12.38,0:32:13.44,Top,,0000,0000,0000,,Kubo.
+Dialogue: 0,0:32:14.35,0:32:17.94,Bot,,0000,0000,0000,,¡Kubo!\NHablabas dormido.
+Dialogue: 0,0:32:14.45,0:32:18.04,Top,,0000,0000,0000,,¡Kubo!\NHablabas dormido.
+Dialogue: 0,0:32:18.15,0:32:21.40,Bot,,0000,0000,0000,,Estabas soñando,\Nllamando a tu papá.
+Dialogue: 0,0:32:18.25,0:32:21.50,Top,,0000,0000,0000,,Estabas soñando,\Nllamando a tu papá.
+Dialogue: 0,0:32:21.91,0:32:24.10,Bot,,0000,0000,0000,,Y entonces el papel\Nvoló fuera de tu...
+Dialogue: 0,0:32:22.01,0:32:24.20,Top,,0000,0000,0000,,Y entonces el papel\Nvoló fuera de tu...
+Dialogue: 0,0:32:24.19,0:32:27.27,Bot,,0000,0000,0000,,...mochila y se dobló solo,\Nformándolo a... Él.
+Dialogue: 0,0:32:24.29,0:32:27.37,Top,,0000,0000,0000,,...mochila y se dobló solo,\Nformándolo a... Él.
+Dialogue: 0,0:32:29.93,0:32:33.05,Bot,,0000,0000,0000,,Él ha estado allí\Nde pie durante horas.
+Dialogue: 0,0:32:30.03,0:32:33.16,Top,,0000,0000,0000,,Él ha estado allí\Nde pie durante horas.
+Dialogue: 0,0:32:33.18,0:32:35.04,Bot,,0000,0000,0000,,En silencio juzgándonos.
+Dialogue: 0,0:32:33.28,0:32:35.14,Top,,0000,0000,0000,,En silencio juzgándonos.
+Dialogue: 0,0:32:39.05,0:32:41.84,Bot,,0000,0000,0000,,Ni siquiera estoy convencida de\Nque esto cuente como origami.
+Dialogue: 0,0:32:39.15,0:32:41.94,Top,,0000,0000,0000,,Ni siquiera estoy convencida de\Nque esto cuente como origami.
+Dialogue: 0,0:32:43.15,0:32:46.14,Bot,,0000,0000,0000,,Juraría que unas tijeras raras,\Nestuvieron involucradas.
+Dialogue: 0,0:32:43.25,0:32:46.24,Top,,0000,0000,0000,,Juraría que unas tijeras raras,\Nestuvieron involucradas.
+Dialogue: 0,0:32:48.34,0:32:49.90,Bot,,0000,0000,0000,,De vuelta en casa en la cueva,
+Dialogue: 0,0:32:48.44,0:32:50.00,Top,,0000,0000,0000,,De vuelta en casa en la cueva,
+Dialogue: 0,0:32:49.94,0:32:52.10,Bot,,0000,0000,0000,,los sueños de mi\Nmamá hacían esto,
+Dialogue: 0,0:32:50.04,0:32:52.20,Top,,0000,0000,0000,,los sueños de mi\Nmamá hacían esto,
+Dialogue: 0,0:32:52.14,0:32:55.35,Bot,,0000,0000,0000,,y, el papel siempre se\Ndoblaba solo para la mañana.
+Dialogue: 0,0:32:52.24,0:32:55.45,Top,,0000,0000,0000,,y, el papel siempre se\Ndoblaba solo para la mañana.
+Dialogue: 0,0:33:05.90,0:33:07.34,Bot,,0000,0000,0000,,¿Qué hace?
+Dialogue: 0,0:33:06.00,0:33:07.44,Top,,0000,0000,0000,,¿Qué hace?
+Dialogue: 0,0:33:22.08,0:33:23.26,Bot,,0000,0000,0000,,¿Qué estás haciendo?
+Dialogue: 0,0:33:22.18,0:33:23.36,Top,,0000,0000,0000,,¿Qué estás haciendo?
+Dialogue: 0,0:33:28.96,0:33:31.54,Bot,,0000,0000,0000,,Supongo que así es como\Nmi papá me ha respondido.
+Dialogue: 0,0:33:29.06,0:33:31.64,Top,,0000,0000,0000,,Supongo que así es como\Nmi papá me ha respondido.
+Dialogue: 0,0:33:32.46,0:33:35.00,Bot,,0000,0000,0000,,Estoy tentada a decir que\Nconfiar nuestro destino...
+Dialogue: 0,0:33:32.56,0:33:35.10,Top,,0000,0000,0000,,Estoy tentada a decir que\Nconfiar nuestro destino...
+Dialogue: 0,0:33:35.04,0:33:36.81,Bot,,0000,0000,0000,,...a la guía de un pequeño...
+Dialogue: 0,0:33:35.14,0:33:36.91,Top,,0000,0000,0000,,...a la guía de un pequeño...
+Dialogue: 0,0:33:36.85,0:33:40.02,Bot,,0000,0000,0000,,...hombre de papel,\Nparece una mala idea.
+Dialogue: 0,0:33:36.95,0:33:40.12,Top,,0000,0000,0000,,...hombre de papel,\Nparece una mala idea.
+Dialogue: 0,0:33:40.53,0:33:43.44,Bot,,0000,0000,0000,,Pero, esa es la mejor\Nmala idea que hayamos tenido.
+Dialogue: 0,0:33:40.63,0:33:43.54,Top,,0000,0000,0000,,Pero, esa es la mejor\Nmala idea que hayamos tenido.
+Dialogue: 0,0:35:13.71,0:35:15.36,Bot,,0000,0000,0000,,Estás haciéndote más fuerte.
+Dialogue: 0,0:35:13.81,0:35:15.46,Top,,0000,0000,0000,,Estás haciéndote más fuerte.
+Dialogue: 0,0:35:15.62,0:35:18.28,Bot,,0000,0000,0000,,Es posible que no desees\Nestar tan complacido por eso.
+Dialogue: 0,0:35:15.72,0:35:18.38,Top,,0000,0000,0000,,Es posible que no desees\Nestar tan complacido por eso.
+Dialogue: 0,0:35:18.36,0:35:21.91,Bot,,0000,0000,0000,,Nos volvemos más fuertes y el\Nmundo se hace más peligroso.
+Dialogue: 0,0:35:18.46,0:35:22.01,Top,,0000,0000,0000,,Nos volvemos más fuertes y el\Nmundo se hace más peligroso.
+Dialogue: 0,0:35:21.95,0:35:23.22,Bot,,0000,0000,0000,,La vida tiene una\Nmanera graciosa...
+Dialogue: 0,0:35:22.05,0:35:23.32,Top,,0000,0000,0000,,La vida tiene una\Nmanera graciosa...
+Dialogue: 0,0:35:23.26,0:35:24.57,Bot,,0000,0000,0000,,...de mantener a las\Ncosas en equilibrio.
+Dialogue: 0,0:35:23.36,0:35:24.67,Top,,0000,0000,0000,,...de mantener a las\Ncosas en equilibrio.
+Dialogue: 0,0:35:24.65,0:35:28.16,Bot,,0000,0000,0000,,Mono,\N¿nunca dices nada alentador?
+Dialogue: 0,0:35:24.75,0:35:28.26,Top,,0000,0000,0000,,Mono,\N¿nunca dices nada alentador?
+Dialogue: 0,0:35:29.17,0:35:31.11,Bot,,0000,0000,0000,,Te aliento a no morir.
+Dialogue: 0,0:35:29.27,0:35:31.21,Top,,0000,0000,0000,,Te aliento a no morir.
+Dialogue: 0,0:35:39.30,0:35:41.33,Bot,,0000,0000,0000,,"Te aliento a no morir".
+Dialogue: 0,0:35:39.40,0:35:41.43,Top,,0000,0000,0000,,"Te aliento a no morir".
+Dialogue: 0,0:36:02.40,0:36:04.98,Bot,,0000,0000,0000,,Los mosquitos, que molestos.
+Dialogue: 0,0:36:02.50,0:36:05.08,Top,,0000,0000,0000,,Los mosquitos, que molestos.
+Dialogue: 0,0:36:28.45,0:36:29.72,Bot,,0000,0000,0000,,No fui yo, lo juro.
+Dialogue: 0,0:36:28.55,0:36:29.82,Top,,0000,0000,0000,,No fui yo, lo juro.
+Dialogue: 0,0:36:32.25,0:36:35.25,Bot,,0000,0000,0000,,Se acabó lo del papel,\Nal igual que la paciencia.
+Dialogue: 0,0:36:32.35,0:36:35.35,Top,,0000,0000,0000,,Se acabó lo del papel,\Nal igual que la paciencia.
+Dialogue: 0,0:36:35.29,0:36:36.73,Bot,,0000,0000,0000,,Yo no les pedí hacer eso.
+Dialogue: 0,0:36:35.39,0:36:36.83,Top,,0000,0000,0000,,Yo no les pedí hacer eso.
+Dialogue: 0,0:36:38.42,0:36:41.75,Bot,,0000,0000,0000,,La segunda vez.\N¡No lo hice!
+Dialogue: 0,0:36:38.52,0:36:41.85,Top,,0000,0000,0000,,La segunda vez.\N¡No lo hice!
+Dialogue: 0,0:36:42.00,0:36:45.00,Bot,,0000,0000,0000,,Al menos no exactamente.\NEs decir, lo sentí, pero...
+Dialogue: 0,0:36:42.10,0:36:45.10,Top,,0000,0000,0000,,Al menos no exactamente.\NEs decir, lo sentí, pero...
+Dialogue: 0,0:36:45.04,0:36:47.16,Bot,,0000,0000,0000,,La magia no está\Ndestinada a ser fácil.
+Dialogue: 0,0:36:45.14,0:36:47.26,Top,,0000,0000,0000,,La magia no está\Ndestinada a ser fácil.
+Dialogue: 0,0:36:47.20,0:36:48.93,Bot,,0000,0000,0000,,Necesitas\Naprender a controlarla.
+Dialogue: 0,0:36:47.30,0:36:49.03,Top,,0000,0000,0000,,Necesitas\Naprender a controlarla.
+Dialogue: 0,0:36:48.97,0:36:52.77,Bot,,0000,0000,0000,,Concéntrate en lo que estás\Nhaciendo, y siempre recuerda...
+Dialogue: 0,0:36:49.07,0:36:52.87,Top,,0000,0000,0000,,Concéntrate en lo que estás\Nhaciendo, y siempre recuerda...
+Dialogue: 0,0:36:52.81,0:36:55.31,Bot,,0000,0000,0000,,No te metas con Mono.
+Dialogue: 0,0:36:52.91,0:36:55.41,Top,,0000,0000,0000,,No te metas con Mono.
+Dialogue: 0,0:37:10.63,0:37:14.10,Bot,,0000,0000,0000,,Pisa con cuidado, Kubo.\NEsta no es una de tus historias.
+Dialogue: 0,0:37:10.73,0:37:14.20,Top,,0000,0000,0000,,Pisa con cuidado, Kubo.\NEsta no es una de tus historias.
+Dialogue: 0,0:37:14.35,0:37:16.42,Bot,,0000,0000,0000,,¿Cómo lo sabes?\NTal vez lo sea.
+Dialogue: 0,0:37:14.45,0:37:16.52,Top,,0000,0000,0000,,¿Cómo lo sabes?\NTal vez lo sea.
+Dialogue: 0,0:37:16.46,0:37:19.63,Bot,,0000,0000,0000,,Soy un héroe valiente y\Ntú eres un mono malo.
+Dialogue: 0,0:37:16.56,0:37:19.73,Top,,0000,0000,0000,,Soy un héroe valiente y\Ntú eres un mono malo.
+Dialogue: 0,0:37:19.66,0:37:21.28,Bot,,0000,0000,0000,,Héroes van y vienen.
+Dialogue: 0,0:37:19.76,0:37:21.38,Top,,0000,0000,0000,,Héroes van y vienen.
+Dialogue: 0,0:37:21.32,0:37:22.88,Bot,,0000,0000,0000,,En cualquier\Nmomento algo terrible...
+Dialogue: 0,0:37:21.42,0:37:22.98,Top,,0000,0000,0000,,En cualquier\Nmomento algo terrible...
+Dialogue: 0,0:37:22.92,0:37:24.61,Bot,,0000,0000,0000,,...podría venir\Nde la nada y...
+Dialogue: 0,0:37:23.02,0:37:24.71,Top,,0000,0000,0000,,...podría venir\Nde la nada y...
+Dialogue: 0,0:37:25.66,0:37:28.32,Bot,,0000,0000,0000,,- ¡Mono!\N- ¡Kubo!
+Dialogue: 0,0:37:25.76,0:37:28.43,Top,,0000,0000,0000,,- ¡Mono!\N- ¡Kubo!
+Dialogue: 0,0:37:41.16,0:37:42.38,Bot,,0000,0000,0000,,¡Mono, espera!
+Dialogue: 0,0:37:41.26,0:37:42.49,Top,,0000,0000,0000,,¡Mono, espera!
+Dialogue: 0,0:37:43.90,0:37:45.42,Bot,,0000,0000,0000,,No estaba tratando\Nde hacerme daño.
+Dialogue: 0,0:37:44.00,0:37:45.53,Top,,0000,0000,0000,,No estaba tratando\Nde hacerme daño.
+Dialogue: 0,0:37:46.56,0:37:49.35,Bot,,0000,0000,0000,,- Sólo quería a Hanzo.\N- ¿A Hanzo?
+Dialogue: 0,0:37:46.66,0:37:49.45,Top,,0000,0000,0000,,- Sólo quería a Hanzo.\N- ¿A Hanzo?
+Dialogue: 0,0:37:51.17,0:37:52.05,Bot,,0000,0000,0000,,Hanzo.
+Dialogue: 0,0:37:51.27,0:37:52.15,Top,,0000,0000,0000,,Hanzo.
+Dialogue: 0,0:37:57.29,0:37:59.15,Bot,,0000,0000,0000,,Todavía creo que voy\Na apuñalarlo.
+Dialogue: 0,0:37:57.39,0:37:59.25,Top,,0000,0000,0000,,Todavía creo que voy\Na apuñalarlo.
+Dialogue: 0,0:37:59.23,0:38:01.60,Bot,,0000,0000,0000,,¿Por qué siempre tienes\Nque asumir lo peor?
+Dialogue: 0,0:37:59.33,0:38:01.70,Top,,0000,0000,0000,,¿Por qué siempre tienes\Nque asumir lo peor?
+Dialogue: 0,0:38:01.64,0:38:03.50,Bot,,0000,0000,0000,,Perdóname por no confiar...
+Dialogue: 0,0:38:01.74,0:38:03.60,Top,,0000,0000,0000,,Perdóname por no confiar...
+Dialogue: 0,0:38:03.54,0:38:05.27,Bot,,0000,0000,0000,,...en este monstruoso\Nbicho gigante de picos...
+Dialogue: 0,0:38:03.64,0:38:05.37,Top,,0000,0000,0000,,...en este monstruoso\Nbicho gigante de picos...
+Dialogue: 0,0:38:05.31,0:38:08.56,Bot,,0000,0000,0000,,- ... que te secuestro.\N- Hanzo, sí. Lo recuerdo.
+Dialogue: 0,0:38:05.41,0:38:08.66,Top,,0000,0000,0000,,- ... que te secuestro.\N- Hanzo, sí. Lo recuerdo.
+Dialogue: 0,0:38:08.90,0:38:11.77,Bot,,0000,0000,0000,,Creo que tal vez\Nél era mi Maestro.
+Dialogue: 0,0:38:09.00,0:38:11.87,Top,,0000,0000,0000,,Creo que tal vez\Nél era mi Maestro.
+Dialogue: 0,0:38:12.03,0:38:13.76,Bot,,0000,0000,0000,,¿Qué? ¿Qué dijiste?
+Dialogue: 0,0:38:12.13,0:38:13.86,Top,,0000,0000,0000,,¿Qué? ¿Qué dijiste?
+Dialogue: 0,0:38:14.98,0:38:17.26,Bot,,0000,0000,0000,,Tuvimos un blasón,\Nun blasón de Samurái.
+Dialogue: 0,0:38:15.08,0:38:17.36,Top,,0000,0000,0000,,Tuvimos un blasón,\Nun blasón de Samurái.
+Dialogue: 0,0:38:25.16,0:38:26.89,Bot,,0000,0000,0000,,¿Has visto este blasón antes?
+Dialogue: 0,0:38:25.26,0:38:26.99,Top,,0000,0000,0000,,¿Has visto este blasón antes?
+Dialogue: 0,0:38:31.49,0:38:33.90,Bot,,0000,0000,0000,,Esto es un milagro.
+Dialogue: 0,0:38:31.59,0:38:34.00,Top,,0000,0000,0000,,Esto es un milagro.
+Dialogue: 0,0:38:34.19,0:38:38.54,Bot,,0000,0000,0000,,Tienes nuestra túnica.\N¡Estás usando nuestra túnica!
+Dialogue: 0,0:38:34.29,0:38:38.64,Top,,0000,0000,0000,,Tienes nuestra túnica.\N¡Estás usando nuestra túnica!
+Dialogue: 0,0:38:39.43,0:38:40.78,Bot,,0000,0000,0000,,¿Por qué llevas\Nnuestra túnica?
+Dialogue: 0,0:38:39.53,0:38:40.88,Top,,0000,0000,0000,,¿Por qué llevas\Nnuestra túnica?
+Dialogue: 0,0:38:40.82,0:38:42.30,Bot,,0000,0000,0000,,Él no tiene que responder\Na tus preguntas...
+Dialogue: 0,0:38:40.92,0:38:42.40,Top,,0000,0000,0000,,Él no tiene que responder\Na tus preguntas...
+Dialogue: 0,0:38:42.43,0:38:43.99,Bot,,0000,0000,0000,,De todos modos,\N¿quién eres tú?
+Dialogue: 0,0:38:42.53,0:38:44.09,Top,,0000,0000,0000,,De todos modos,\N¿quién eres tú?
+Dialogue: 0,0:38:46.10,0:38:48.30,Bot,,0000,0000,0000,,Hace muchos años,\Nfui maldito.
+Dialogue: 0,0:38:46.20,0:38:48.40,Top,,0000,0000,0000,,Hace muchos años,\Nfui maldito.
+Dialogue: 0,0:38:49.14,0:38:51.97,Bot,,0000,0000,0000,,Atrapado en este\Nestado condenado.
+Dialogue: 0,0:38:49.24,0:38:52.07,Top,,0000,0000,0000,,Atrapado en este\Nestado condenado.
+Dialogue: 0,0:38:52.90,0:38:55.47,Bot,,0000,0000,0000,,Condenado a vagar por\Nlas Tierras Lejanas.
+Dialogue: 0,0:38:53.00,0:38:55.58,Top,,0000,0000,0000,,Condenado a vagar por\Nlas Tierras Lejanas.
+Dialogue: 0,0:38:55.77,0:38:58.35,Bot,,0000,0000,0000,,Maldito o con una maldición.
+Dialogue: 0,0:38:55.87,0:38:58.45,Top,,0000,0000,0000,,Maldito o con una maldición.
+Dialogue: 0,0:38:58.89,0:39:01.30,Bot,,0000,0000,0000,,Sin camaradas,\Nsin Maestro.
+Dialogue: 0,0:38:58.99,0:39:01.40,Top,,0000,0000,0000,,Sin camaradas,\Nsin Maestro.
+Dialogue: 0,0:39:01.72,0:39:04.13,Bot,,0000,0000,0000,,Ni siquiera un nombre\No un sólo recuerdo...
+Dialogue: 0,0:39:01.82,0:39:04.23,Top,,0000,0000,0000,,Ni siquiera un nombre\No un sólo recuerdo...
+Dialogue: 0,0:39:04.93,0:39:07.47,Bot,,0000,0000,0000,,...del noble Guerrero\Nque una vez fui.
+Dialogue: 0,0:39:05.03,0:39:07.57,Top,,0000,0000,0000,,...del noble Guerrero\Nque una vez fui.
+Dialogue: 0,0:39:07.59,0:39:10.13,Bot,,0000,0000,0000,,¿Solías ser un hombre?
+Dialogue: 0,0:39:07.69,0:39:10.23,Top,,0000,0000,0000,,¿Solías ser un hombre?
+Dialogue: 0,0:39:10.17,0:39:12.83,Bot,,0000,0000,0000,,No, no cualquier hombre.\NUn Samurái.
+Dialogue: 0,0:39:10.27,0:39:12.93,Top,,0000,0000,0000,,No, no cualquier hombre.\NUn Samurái.
+Dialogue: 0,0:39:13.59,0:39:17.77,Bot,,0000,0000,0000,,Quiero decir, estoy bastante seguro.\NMira, tengo el equipo.
+Dialogue: 0,0:39:13.69,0:39:17.87,Top,,0000,0000,0000,,Quiero decir, estoy bastante seguro.\NMira, tengo el equipo.
+Dialogue: 0,0:39:17.80,0:39:20.09,Bot,,0000,0000,0000,,Es decir, o era un Samurái\No un muy mal acaparador.
+Dialogue: 0,0:39:17.90,0:39:20.19,Top,,0000,0000,0000,,Es decir, o era un Samurái\No un muy mal acaparador.
+Dialogue: 0,0:39:20.13,0:39:22.24,Bot,,0000,0000,0000,,De cualquier manera,\Ndentro de mi tórax...
+Dialogue: 0,0:39:20.23,0:39:22.35,Top,,0000,0000,0000,,De cualquier manera,\Ndentro de mi tórax...
+Dialogue: 0,0:39:22.29,0:39:24.06,Bot,,0000,0000,0000,,...late el corazón\Nde un Guerrero.
+Dialogue: 0,0:39:22.39,0:39:24.16,Top,,0000,0000,0000,,...late el corazón\Nde un Guerrero.
+Dialogue: 0,0:39:24.10,0:39:26.22,Bot,,0000,0000,0000,,Si no tienes recuerdos,
+Dialogue: 0,0:39:24.20,0:39:26.32,Top,,0000,0000,0000,,Si no tienes recuerdos,
+Dialogue: 0,0:39:26.25,0:39:28.49,Bot,,0000,0000,0000,,¿cómo puedes estar\Nseguro de lo que sea?
+Dialogue: 0,0:39:26.35,0:39:28.59,Top,,0000,0000,0000,,¿cómo puedes estar\Nseguro de lo que sea?
+Dialogue: 0,0:39:28.53,0:39:30.48,Bot,,0000,0000,0000,,Porque tengo imágenes.
+Dialogue: 0,0:39:28.63,0:39:30.58,Top,,0000,0000,0000,,Porque tengo imágenes.
+Dialogue: 0,0:39:30.77,0:39:34.91,Bot,,0000,0000,0000,,Son sobre objetos que me\Nencontré en mis viajes.
+Dialogue: 0,0:39:30.87,0:39:35.01,Top,,0000,0000,0000,,Son sobre objetos que me\Nencontré en mis viajes.
+Dialogue: 0,0:39:35.71,0:39:40.10,Bot,,0000,0000,0000,,A veces,\Nes un sonido o un olor.
+Dialogue: 0,0:39:35.81,0:39:40.21,Top,,0000,0000,0000,,A veces,\Nes un sonido o un olor.
+Dialogue: 0,0:39:40.99,0:39:42.51,Bot,,0000,0000,0000,,Te deben de llegar\Nmuchas imágenes.
+Dialogue: 0,0:39:41.09,0:39:42.61,Top,,0000,0000,0000,,Te deben de llegar\Nmuchas imágenes.
+Dialogue: 0,0:39:42.59,0:39:43.44,Bot,,0000,0000,0000,,Recuerdos.
+Dialogue: 0,0:39:42.69,0:39:43.54,Top,,0000,0000,0000,,Recuerdos.
+Dialogue: 0,0:39:43.52,0:39:45.38,Bot,,0000,0000,0000,,Se desvanecen. Y todo\Nlo que me queda...
+Dialogue: 0,0:39:43.62,0:39:45.48,Top,,0000,0000,0000,,Se desvanecen. Y todo\Nlo que me queda...
+Dialogue: 0,0:39:45.42,0:39:46.56,Bot,,0000,0000,0000,,...es la sensación\Nde que yo fui...
+Dialogue: 0,0:39:45.52,0:39:46.67,Top,,0000,0000,0000,,...es la sensación\Nde que yo fui...
+Dialogue: 0,0:39:46.77,0:39:49.65,Bot,,0000,0000,0000,,...una vez parte de\Nalgo mucho más grande.
+Dialogue: 0,0:39:46.87,0:39:49.75,Top,,0000,0000,0000,,...una vez parte de\Nalgo mucho más grande.
+Dialogue: 0,0:39:49.98,0:39:51.55,Bot,,0000,0000,0000,,¿Mono, puedo decirle?
+Dialogue: 0,0:39:50.08,0:39:51.65,Top,,0000,0000,0000,,¿Mono, puedo decirle?
+Dialogue: 0,0:39:51.59,0:39:53.24,Bot,,0000,0000,0000,,Realmente no creo que\Nsea una buena idea.
+Dialogue: 0,0:39:51.69,0:39:53.34,Top,,0000,0000,0000,,Realmente no creo que\Nsea una buena idea.
+Dialogue: 0,0:39:53.28,0:39:55.14,Bot,,0000,0000,0000,,- Él tiene derecho.\N- Absolutamente no.
+Dialogue: 0,0:39:53.38,0:39:55.24,Top,,0000,0000,0000,,- Él tiene derecho.\N- Absolutamente no.
+Dialogue: 0,0:39:55.17,0:39:55.69,Bot,,0000,0000,0000,,- Pero...\N- ¡No, pero...!
+Dialogue: 0,0:39:55.27,0:39:55.79,Top,,0000,0000,0000,,- Pero...\N- ¡No, pero...!
+Dialogue: 0,0:39:55.73,0:39:56.66,Bot,,0000,0000,0000,,- Yo...\N- ¡No!
+Dialogue: 0,0:39:55.83,0:39:56.76,Top,,0000,0000,0000,,- Yo...\N- ¡No!
+Dialogue: 0,0:39:56.70,0:39:57.59,Bot,,0000,0000,0000,,Decirme, ¿qué?
+Dialogue: 0,0:39:56.80,0:39:57.69,Top,,0000,0000,0000,,Decirme, ¿qué?
+Dialogue: 0,0:39:57.84,0:39:59.91,Bot,,0000,0000,0000,,- Hanzo era mi papá.\N- ¡Kubo!
+Dialogue: 0,0:39:57.94,0:40:00.01,Top,,0000,0000,0000,,- Hanzo era mi papá.\N- ¡Kubo!
+Dialogue: 0,0:40:00.50,0:40:01.72,Bot,,0000,0000,0000,,Esto es un milagro.
+Dialogue: 0,0:40:00.60,0:40:01.82,Top,,0000,0000,0000,,Esto es un milagro.
+Dialogue: 0,0:40:02.40,0:40:04.64,Bot,,0000,0000,0000,,He encontrado al\Nhijo de mi Maestro.
+Dialogue: 0,0:40:02.50,0:40:04.74,Top,,0000,0000,0000,,He encontrado al\Nhijo de mi Maestro.
+Dialogue: 0,0:40:06.96,0:40:09.15,Bot,,0000,0000,0000,,- Ni pretendas...\N- Está bien.
+Dialogue: 0,0:40:07.06,0:40:09.26,Top,,0000,0000,0000,,- Ni pretendas...\N- Está bien.
+Dialogue: 0,0:40:09.96,0:40:13.38,Bot,,0000,0000,0000,,Lo que te lleve a estas tierras,\Nsea cual sea tu misión,
+Dialogue: 0,0:40:10.06,0:40:13.48,Top,,0000,0000,0000,,Lo que te lleve a estas tierras,\Nsea cual sea tu misión,
+Dialogue: 0,0:40:13.42,0:40:15.66,Bot,,0000,0000,0000,,ahora es mi búsqueda también.
+Dialogue: 0,0:40:13.52,0:40:15.76,Top,,0000,0000,0000,,ahora es mi búsqueda también.
+Dialogue: 0,0:40:15.70,0:40:17.56,Bot,,0000,0000,0000,,Voy a unirme a ti\Ny voy a dar...
+Dialogue: 0,0:40:15.80,0:40:17.66,Top,,0000,0000,0000,,Voy a unirme a ti\Ny voy a dar...
+Dialogue: 0,0:40:17.60,0:40:19.63,Bot,,0000,0000,0000,,...mi vida por ti,\Nsi es necesario.
+Dialogue: 0,0:40:17.70,0:40:19.73,Top,,0000,0000,0000,,...mi vida por ti,\Nsi es necesario.
+Dialogue: 0,0:40:21.31,0:40:22.50,Bot,,0000,0000,0000,,¿Lo harás?
+Dialogue: 0,0:40:21.41,0:40:22.60,Top,,0000,0000,0000,,¿Lo harás?
+Dialogue: 0,0:40:22.54,0:40:24.86,Bot,,0000,0000,0000,,¿Qué? ¿Crees\Nque eso sea posible?
+Dialogue: 0,0:40:22.64,0:40:24.96,Top,,0000,0000,0000,,¿Qué? ¿Crees\Nque eso sea posible?
+Dialogue: 0,0:40:24.94,0:40:27.52,Bot,,0000,0000,0000,,Es decir, yo sé cómo\Nresultan estas misiones.
+Dialogue: 0,0:40:25.04,0:40:27.62,Top,,0000,0000,0000,,Es decir, yo sé cómo\Nresultan estas misiones.
+Dialogue: 0,0:40:27.56,0:40:29.63,Bot,,0000,0000,0000,,La gente muere todo el\Ntiempo, caen como moscas.
+Dialogue: 0,0:40:27.66,0:40:29.73,Top,,0000,0000,0000,,La gente muere todo el\Ntiempo, caen como moscas.
+Dialogue: 0,0:40:30.10,0:40:32.50,Bot,,0000,0000,0000,,Eso no importa. Porque yo...
+Dialogue: 0,0:40:30.20,0:40:32.60,Top,,0000,0000,0000,,Eso no importa. Porque yo...
+Dialogue: 0,0:40:32.55,0:40:35.63,Bot,,0000,0000,0000,,...tengo una sensación de\Nque este es mi destino.
+Dialogue: 0,0:40:32.65,0:40:35.73,Top,,0000,0000,0000,,...tengo una sensación de\Nque este es mi destino.
+Dialogue: 0,0:40:35.67,0:40:39.18,Bot,,0000,0000,0000,,No, no lo es. No podemos\Nconfiar en todo lo que digas,
+Dialogue: 0,0:40:35.77,0:40:39.28,Top,,0000,0000,0000,,No, no lo es. No podemos\Nconfiar en todo lo que digas,
+Dialogue: 0,0:40:39.22,0:40:41.24,Bot,,0000,0000,0000,,porque tú no puedes confiar\Nen todo lo que digas.
+Dialogue: 0,0:40:39.32,0:40:41.35,Top,,0000,0000,0000,,porque tú no puedes confiar\Nen todo lo que digas.
+Dialogue: 0,0:40:41.62,0:40:43.52,Bot,,0000,0000,0000,,No sabemos nada de ti.
+Dialogue: 0,0:40:41.72,0:40:43.63,Top,,0000,0000,0000,,No sabemos nada de ti.
+Dialogue: 0,0:40:44.75,0:40:46.78,Bot,,0000,0000,0000,,Mono, tú misma lo has dicho.
+Dialogue: 0,0:40:44.85,0:40:46.88,Top,,0000,0000,0000,,Mono, tú misma lo has dicho.
+Dialogue: 0,0:40:46.82,0:40:49.22,Bot,,0000,0000,0000,,Nuestra búsqueda\Nes una difícil.
+Dialogue: 0,0:40:46.92,0:40:49.33,Top,,0000,0000,0000,,Nuestra búsqueda\Nes una difícil.
+Dialogue: 0,0:40:49.44,0:40:52.27,Bot,,0000,0000,0000,,Un Samurái, aunque\Nsea uno condenado,
+Dialogue: 0,0:40:49.54,0:40:52.37,Top,,0000,0000,0000,,Un Samurái, aunque\Nsea uno condenado,
+Dialogue: 0,0:40:52.31,0:40:55.90,Bot,,0000,0000,0000,,sin recuerdos, y se vea como\Nun bicho, podría ser útil.
+Dialogue: 0,0:40:52.41,0:40:56.00,Top,,0000,0000,0000,,sin recuerdos, y se vea como\Nun bicho, podría ser útil.
+Dialogue: 0,0:40:55.94,0:40:58.35,Bot,,0000,0000,0000,,Sí, estoy seguro de\Nque puedo ser útil.
+Dialogue: 0,0:40:56.04,0:40:58.45,Top,,0000,0000,0000,,Sí, estoy seguro de\Nque puedo ser útil.
+Dialogue: 0,0:40:58.72,0:41:01.47,Bot,,0000,0000,0000,,- Indispensable.\N- ¿De qué forma?
+Dialogue: 0,0:40:58.82,0:41:01.57,Top,,0000,0000,0000,,- Indispensable.\N- ¿De qué forma?
+Dialogue: 0,0:41:09.79,0:41:12.11,Bot,,0000,0000,0000,,Disparando una\Nflecha a una pared,
+Dialogue: 0,0:41:09.89,0:41:12.21,Top,,0000,0000,0000,,Disparando una\Nflecha a una pared,
+Dialogue: 0,0:41:12.15,0:41:13.34,Bot,,0000,0000,0000,,no es lo que yo\Nllamaría ser...
+Dialogue: 0,0:41:12.25,0:41:13.44,Top,,0000,0000,0000,,no es lo que yo\Nllamaría ser...
+Dialogue: 0,0:41:16.67,0:41:19.33,Bot,,0000,0000,0000,,- Impresionante.\N- Miren eso. Literalmente...
+Dialogue: 0,0:41:16.77,0:41:19.43,Top,,0000,0000,0000,,- Impresionante.\N- Miren eso. Literalmente...
+Dialogue: 0,0:41:19.37,0:41:20.51,Bot,,0000,0000,0000,,...la primera vez que\Nhe hecho algo así.
+Dialogue: 0,0:41:19.47,0:41:20.61,Top,,0000,0000,0000,,...la primera vez que\Nhe hecho algo así.
+Dialogue: 0,0:41:20.60,0:41:22.12,Bot,,0000,0000,0000,,Sólo háblame de\Nnuestra búsqueda.
+Dialogue: 0,0:41:20.70,0:41:22.22,Top,,0000,0000,0000,,Sólo háblame de\Nnuestra búsqueda.
+Dialogue: 0,0:41:22.33,0:41:24.63,Bot,,0000,0000,0000,,Y voy a demostrar\Nde forma rápida...
+Dialogue: 0,0:41:22.43,0:41:24.73,Top,,0000,0000,0000,,Y voy a demostrar\Nde forma rápida...
+Dialogue: 0,0:41:24.66,0:41:26.93,Bot,,0000,0000,0000,,...mis numerosas\N"indispensabilidades".
+Dialogue: 0,0:41:24.76,0:41:27.03,Top,,0000,0000,0000,,...mis numerosas\N"indispensabilidades".
+Dialogue: 0,0:41:27.01,0:41:29.80,Bot,,0000,0000,0000,,Bueno, eso es como\Nuna larga historia.
+Dialogue: 0,0:41:27.11,0:41:29.90,Top,,0000,0000,0000,,Bueno, eso es como\Nuna larga historia.
+Dialogue: 0,0:41:29.84,0:41:32.59,Bot,,0000,0000,0000,,Tienes mi atención. Prometo que\Nni siquiera parpadearé.
+Dialogue: 0,0:41:29.94,0:41:32.69,Top,,0000,0000,0000,,Tienes mi atención. Prometo que\Nni siquiera parpadearé.
+Dialogue: 0,0:41:32.62,0:41:34.53,Bot,,0000,0000,0000,,En realidad, no creo que\Npueda parpadear.
+Dialogue: 0,0:41:32.72,0:41:34.63,Top,,0000,0000,0000,,En realidad, no creo que\Npueda parpadear.
+Dialogue: 0,0:41:34.61,0:41:35.80,Bot,,0000,0000,0000,,¿Tengo párpados?
+Dialogue: 0,0:41:34.71,0:41:35.90,Top,,0000,0000,0000,,¿Tengo párpados?
+Dialogue: 0,0:41:35.84,0:41:38.63,Bot,,0000,0000,0000,,Perfecto. Caminando y hablando.\NHanzo ha encontrado el camino.
+Dialogue: 0,0:41:35.94,0:41:38.73,Top,,0000,0000,0000,,Perfecto. Caminando y hablando.\NHanzo ha encontrado el camino.
+Dialogue: 0,0:42:00.41,0:42:04.00,Bot,,0000,0000,0000,,Por lo que, solías ser\Nun mono de juguete.
+Dialogue: 0,0:42:00.51,0:42:04.10,Top,,0000,0000,0000,,Por lo que, solías ser\Nun mono de juguete.
+Dialogue: 0,0:42:04.04,0:42:05.78,Bot,,0000,0000,0000,,Kubo, realmente no veo\Ncómo esta...
+Dialogue: 0,0:42:04.14,0:42:05.88,Top,,0000,0000,0000,,Kubo, realmente no veo\Ncómo esta...
+Dialogue: 0,0:42:05.82,0:42:07.38,Bot,,0000,0000,0000,,...parte sea importante\Npara nuestra historia.
+Dialogue: 0,0:42:05.92,0:42:07.48,Top,,0000,0000,0000,,...parte sea importante\Npara nuestra historia.
+Dialogue: 0,0:42:07.42,0:42:11.31,Bot,,0000,0000,0000,,Lo guardaba en mi bolsillo,\Nera tan sólo así de grande.
+Dialogue: 0,0:42:07.52,0:42:11.41,Top,,0000,0000,0000,,Lo guardaba en mi bolsillo,\Nera tan sólo así de grande.
+Dialogue: 0,0:42:11.39,0:42:13.00,Bot,,0000,0000,0000,,De acuerdo, Kubo,\Nya es suficiente.
+Dialogue: 0,0:42:11.49,0:42:13.10,Top,,0000,0000,0000,,De acuerdo, Kubo,\Nya es suficiente.
+Dialogue: 0,0:42:13.04,0:42:14.56,Bot,,0000,0000,0000,,Minúsculo. Y lo\Nllamaba Sr. Mono.
+Dialogue: 0,0:42:13.14,0:42:14.66,Top,,0000,0000,0000,,Minúsculo. Y lo\Nllamaba Sr. Mono.
+Dialogue: 0,0:42:14.64,0:42:17.47,Bot,,0000,0000,0000,,Yo no era un juguete.\NEra un talismán.
+Dialogue: 0,0:42:14.74,0:42:17.57,Top,,0000,0000,0000,,Yo no era un juguete.\NEra un talismán.
+Dialogue: 0,0:42:18.15,0:42:19.50,Bot,,0000,0000,0000,,Por supuesto que lo eras.
+Dialogue: 0,0:42:18.25,0:42:19.60,Top,,0000,0000,0000,,Por supuesto que lo eras.
+Dialogue: 0,0:42:41.46,0:42:43.31,Bot,,0000,0000,0000,,Eso no se ve bien.
+Dialogue: 0,0:42:41.56,0:42:43.41,Top,,0000,0000,0000,,Eso no se ve bien.
+Dialogue: 0,0:42:45.30,0:42:46.99,Bot,,0000,0000,0000,,No toquen nada.
+Dialogue: 0,0:42:45.40,0:42:47.09,Top,,0000,0000,0000,,No toquen nada.
+Dialogue: 0,0:42:54.25,0:42:55.22,Bot,,0000,0000,0000,,Él lo hizo.
+Dialogue: 0,0:42:54.35,0:42:55.32,Top,,0000,0000,0000,,Él lo hizo.
+Dialogue: 0,0:43:15.36,0:43:16.29,Bot,,0000,0000,0000,,Está bien.
+Dialogue: 0,0:43:15.46,0:43:16.39,Top,,0000,0000,0000,,Está bien.
+Dialogue: 0,0:43:25.66,0:43:26.76,Bot,,0000,0000,0000,,No. No. No.
+Dialogue: 0,0:43:25.76,0:43:26.86,Top,,0000,0000,0000,,No. No. No.
+Dialogue: 0,0:43:31.91,0:43:32.72,Bot,,0000,0000,0000,,Sí.
+Dialogue: 0,0:43:32.01,0:43:32.82,Top,,0000,0000,0000,,Sí.
+Dialogue: 0,0:43:35.75,0:43:37.74,Bot,,0000,0000,0000,,Kubo, mira.
+Dialogue: 0,0:43:35.85,0:43:37.84,Top,,0000,0000,0000,,Kubo, mira.
+Dialogue: 0,0:43:42.85,0:43:44.45,Bot,,0000,0000,0000,,La espada irrompible.
+Dialogue: 0,0:43:42.95,0:43:44.55,Top,,0000,0000,0000,,La espada irrompible.
+Dialogue: 0,0:43:45.30,0:43:46.65,Bot,,0000,0000,0000,,Podría ser una trampa.
+Dialogue: 0,0:43:45.40,0:43:46.75,Top,,0000,0000,0000,,Podría ser una trampa.
+Dialogue: 0,0:43:47.62,0:43:48.55,Bot,,0000,0000,0000,,Permítanme.
+Dialogue: 0,0:43:47.72,0:43:48.65,Top,,0000,0000,0000,,Permítanme.
+Dialogue: 0,0:43:49.48,0:43:52.01,Bot,,0000,0000,0000,,¿Qué, no es una\Ntrampa si tú lo haces?
+Dialogue: 0,0:43:49.58,0:43:52.11,Top,,0000,0000,0000,,¿Qué, no es una\Ntrampa si tú lo haces?
+Dialogue: 0,0:43:52.05,0:43:54.21,Bot,,0000,0000,0000,,Acero es mi segundo nombre.
+Dialogue: 0,0:43:52.15,0:43:54.31,Top,,0000,0000,0000,,Acero es mi segundo nombre.
+Dialogue: 0,0:43:56.45,0:43:58.30,Bot,,0000,0000,0000,,Ni siquiera tienes\Nun nombre de pila.
+Dialogue: 0,0:43:56.55,0:43:58.40,Top,,0000,0000,0000,,Ni siquiera tienes\Nun nombre de pila.
+Dialogue: 0,0:43:58.47,0:44:00.41,Bot,,0000,0000,0000,,No te preocupes,\Nyo me encargo.
+Dialogue: 0,0:43:58.57,0:44:00.51,Top,,0000,0000,0000,,No te preocupes,\Nyo me encargo.
+Dialogue: 0,0:44:07.59,0:44:10.51,Bot,,0000,0000,0000,,¡El poderoso Escarabajo\Nsale victorioso!
+Dialogue: 0,0:44:07.69,0:44:10.61,Top,,0000,0000,0000,,¡El poderoso Escarabajo\Nsale victorioso!
+Dialogue: 0,0:44:38.71,0:44:40.19,Bot,,0000,0000,0000,,Yo... No me encargo.
+Dialogue: 0,0:44:38.81,0:44:40.29,Top,,0000,0000,0000,,Yo... No me encargo.
+Dialogue: 0,0:44:40.44,0:44:43.23,Bot,,0000,0000,0000,,- ¡No me encargo de esto!\N- ¡Por el amor de Dios!
+Dialogue: 0,0:44:40.54,0:44:43.33,Top,,0000,0000,0000,,- ¡No me encargo de esto!\N- ¡Por el amor de Dios!
+Dialogue: 0,0:44:43.44,0:44:46.14,Bot,,0000,0000,0000,,¡Invoco a la\Nespada irrompible!
+Dialogue: 0,0:44:43.54,0:44:46.24,Top,,0000,0000,0000,,¡Invoco a la\Nespada irrompible!
+Dialogue: 0,0:44:48.97,0:44:49.77,Bot,,0000,0000,0000,,Se rompió.
+Dialogue: 0,0:44:49.07,0:44:49.87,Top,,0000,0000,0000,,Se rompió.
+Dialogue: 0,0:44:49.86,0:44:52.90,Bot,,0000,0000,0000,,Por lo tanto, sólo\Nsignifica que el mango o...
+Dialogue: 0,0:44:49.96,0:44:53.00,Top,,0000,0000,0000,,Por lo tanto, sólo\Nsignifica que el mango o...
+Dialogue: 0,0:44:53.15,0:44:55.52,Bot,,0000,0000,0000,,Estoy un poco decepcionado\Ncon esta espada mágica.
+Dialogue: 0,0:44:53.25,0:44:55.62,Top,,0000,0000,0000,,Estoy un poco decepcionado\Ncon esta espada mágica.
+Dialogue: 0,0:44:55.56,0:44:58.05,Bot,,0000,0000,0000,,¡No es la espada correcta,\Nidiota!
+Dialogue: 0,0:44:55.66,0:44:58.15,Top,,0000,0000,0000,,¡No es la espada correcta,\Nidiota!
+Dialogue: 0,0:45:03.75,0:45:04.55,Bot,,0000,0000,0000,,¡Miren!
+Dialogue: 0,0:45:03.85,0:45:04.65,Top,,0000,0000,0000,,¡Miren!
+Dialogue: 0,0:45:05.52,0:45:08.01,Bot,,0000,0000,0000,,¡La espada!\N¡Está en su cabeza!
+Dialogue: 0,0:45:05.62,0:45:08.11,Top,,0000,0000,0000,,¡La espada!\N¡Está en su cabeza!
+Dialogue: 0,0:45:08.43,0:45:11.14,Bot,,0000,0000,0000,,Oye, tengo un hueso\Nque arreglarte.
+Dialogue: 0,0:45:08.53,0:45:11.24,Top,,0000,0000,0000,,Oye, tengo un hueso\Nque arreglarte.
+Dialogue: 0,0:45:11.64,0:45:14.39,Bot,,0000,0000,0000,,¿Ven? Debido a que\Nestá hecho de huesos.
+Dialogue: 0,0:45:11.74,0:45:14.49,Top,,0000,0000,0000,,¿Ven? Debido a que\Nestá hecho de huesos.
+Dialogue: 0,0:45:14.68,0:45:15.99,Bot,,0000,0000,0000,,Eres una vergüenza.
+Dialogue: 0,0:45:14.78,0:45:16.09,Top,,0000,0000,0000,,Eres una vergüenza.
+Dialogue: 0,0:45:19.37,0:45:20.60,Bot,,0000,0000,0000,,Esto es problemático.
+Dialogue: 0,0:45:19.47,0:45:20.70,Top,,0000,0000,0000,,Esto es problemático.
+Dialogue: 0,0:45:29.76,0:45:31.74,Bot,,0000,0000,0000,,¡Suficiente con las flechas!
+Dialogue: 0,0:45:29.86,0:45:31.84,Top,,0000,0000,0000,,¡Suficiente con las flechas!
+Dialogue: 0,0:46:05.14,0:46:06.32,Bot,,0000,0000,0000,,¡Pie!
+Dialogue: 0,0:46:05.24,0:46:06.43,Top,,0000,0000,0000,,¡Pie!
+Dialogue: 0,0:46:10.00,0:46:13.00,Bot,,0000,0000,0000,,- ¿Puedes volar?\N- Aparentemente. Sí.
+Dialogue: 0,0:46:10.10,0:46:13.10,Top,,0000,0000,0000,,- ¿Puedes volar?\N- Aparentemente. Sí.
+Dialogue: 0,0:46:34.11,0:46:35.08,Bot,,0000,0000,0000,,¡Vamos!
+Dialogue: 0,0:46:34.21,0:46:35.18,Top,,0000,0000,0000,,¡Vamos!
+Dialogue: 0,0:46:38.88,0:46:41.37,Bot,,0000,0000,0000,,¿Seguro que no es\Nla espada inencontrable?
+Dialogue: 0,0:46:38.98,0:46:41.47,Top,,0000,0000,0000,,¿Seguro que no es\Nla espada inencontrable?
+Dialogue: 0,0:46:46.52,0:46:47.79,Bot,,0000,0000,0000,,Creo que la he encontrado.
+Dialogue: 0,0:46:46.62,0:46:47.89,Top,,0000,0000,0000,,Creo que la he encontrado.
+Dialogue: 0,0:46:50.40,0:46:52.64,Bot,,0000,0000,0000,,¿Una mano aquí? ¿Alguien?
+Dialogue: 0,0:46:50.50,0:46:52.75,Top,,0000,0000,0000,,¿Una mano aquí? ¿Alguien?
+Dialogue: 0,0:46:54.21,0:46:55.77,Bot,,0000,0000,0000,,¿Alguien más?
+Dialogue: 0,0:46:54.31,0:46:55.87,Top,,0000,0000,0000,,¿Alguien más?
+Dialogue: 0,0:46:59.61,0:47:00.67,Bot,,0000,0000,0000,,¡Kubo!
+Dialogue: 0,0:46:59.71,0:47:00.77,Top,,0000,0000,0000,,¡Kubo!
+Dialogue: 0,0:47:15.11,0:47:16.97,Bot,,0000,0000,0000,,- ¡Kubo!\N- ¡Mono!
+Dialogue: 0,0:47:15.21,0:47:17.07,Top,,0000,0000,0000,,- ¡Kubo!\N- ¡Mono!
+Dialogue: 0,0:47:19.46,0:47:21.02,Bot,,0000,0000,0000,,- ¡No!\N- ¡Kubo!
+Dialogue: 0,0:47:19.56,0:47:21.12,Top,,0000,0000,0000,,- ¡No!\N- ¡Kubo!
+Dialogue: 0,0:47:36.73,0:47:37.57,Bot,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:47:36.83,0:47:37.67,Top,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:47:40.02,0:47:41.41,Bot,,0000,0000,0000,,Gracias a Dios\Nque ha terminado.
+Dialogue: 0,0:47:40.12,0:47:41.51,Top,,0000,0000,0000,,Gracias a Dios\Nque ha terminado.
+Dialogue: 0,0:47:57.75,0:48:01.30,Bot,,0000,0000,0000,,Todo se vuelve negro.
+Dialogue: 0,0:47:57.85,0:48:01.40,Top,,0000,0000,0000,,Todo se vuelve negro.
+Dialogue: 0,0:48:01.34,0:48:02.78,Bot,,0000,0000,0000,,Entonces, abre tus ojos.
+Dialogue: 0,0:48:01.44,0:48:02.88,Top,,0000,0000,0000,,Entonces, abre tus ojos.
+Dialogue: 0,0:48:05.78,0:48:07.72,Bot,,0000,0000,0000,,- No puedo sentir mis alas.\N- Tú ni siquiera...
+Dialogue: 0,0:48:05.88,0:48:07.82,Top,,0000,0000,0000,,- No puedo sentir mis alas.\N- Tú ni siquiera...
+Dialogue: 0,0:48:07.75,0:48:09.66,Bot,,0000,0000,0000,,...sabías que las\Ntenías hace 5 minutos.
+Dialogue: 0,0:48:07.85,0:48:09.76,Top,,0000,0000,0000,,...sabías que las\Ntenías hace 5 minutos.
+Dialogue: 0,0:48:09.70,0:48:10.67,Bot,,0000,0000,0000,,Deja de retorcerte.
+Dialogue: 0,0:48:09.80,0:48:10.77,Top,,0000,0000,0000,,Deja de retorcerte.
+Dialogue: 0,0:48:11.22,0:48:14.56,Bot,,0000,0000,0000,,- Aquí, ¿eso se siente mejor?\N- Sí. Un poco a la izquierda.
+Dialogue: 0,0:48:11.32,0:48:14.66,Top,,0000,0000,0000,,- Aquí, ¿eso se siente mejor?\N- Sí. Un poco a la izquierda.
+Dialogue: 0,0:48:15.06,0:48:19.63,Bot,,0000,0000,0000,,Abajo sólo un poco.\NAllí mismo, se siente bien.
+Dialogue: 0,0:48:15.16,0:48:19.73,Top,,0000,0000,0000,,Abajo sólo un poco.\NAllí mismo, se siente bien.
+Dialogue: 0,0:48:20.22,0:48:22.45,Bot,,0000,0000,0000,,Espera. Estás siendo\Namable conmigo.
+Dialogue: 0,0:48:20.32,0:48:22.55,Top,,0000,0000,0000,,Espera. Estás siendo\Namable conmigo.
+Dialogue: 0,0:48:22.96,0:48:25.03,Bot,,0000,0000,0000,,- No se lo digas a nadie.\N- Lo hicimos, Escarabajo.
+Dialogue: 0,0:48:23.06,0:48:25.13,Top,,0000,0000,0000,,- No se lo digas a nadie.\N- Lo hicimos, Escarabajo.
+Dialogue: 0,0:48:25.33,0:48:26.59,Bot,,0000,0000,0000,,Tenemos a la espada.
+Dialogue: 0,0:48:25.43,0:48:26.69,Top,,0000,0000,0000,,Tenemos a la espada.
+Dialogue: 0,0:48:32.33,0:48:33.98,Bot,,0000,0000,0000,,Baja eso. Es afilada.
+Dialogue: 0,0:48:32.43,0:48:34.08,Top,,0000,0000,0000,,Baja eso. Es afilada.
+Dialogue: 0,0:48:43.23,0:48:46.90,Bot,,0000,0000,0000,,Está bien. Ya hemos\Nterminado aquí. Levántate.
+Dialogue: 0,0:48:43.33,0:48:47.00,Top,,0000,0000,0000,,Está bien. Ya hemos\Nterminado aquí. Levántate.
+Dialogue: 0,0:48:47.24,0:48:48.97,Bot,,0000,0000,0000,,Tenemos un montón\Nde caminata por hacer.
+Dialogue: 0,0:48:47.34,0:48:49.07,Top,,0000,0000,0000,,Tenemos un montón\Nde caminata por hacer.
+Dialogue: 0,0:48:49.01,0:48:50.32,Bot,,0000,0000,0000,,¿No hablarás en serio?
+Dialogue: 0,0:48:49.11,0:48:50.42,Top,,0000,0000,0000,,¿No hablarás en serio?
+Dialogue: 0,0:48:50.36,0:48:51.67,Bot,,0000,0000,0000,,Siempre hablo en serio.
+Dialogue: 0,0:48:50.46,0:48:51.77,Top,,0000,0000,0000,,Siempre hablo en serio.
+Dialogue: 0,0:48:52.35,0:48:54.71,Bot,,0000,0000,0000,,¿Se van a pelear de nuevo?
+Dialogue: 0,0:48:52.45,0:48:54.81,Top,,0000,0000,0000,,¿Se van a pelear de nuevo?
+Dialogue: 0,0:48:54.75,0:48:57.50,Bot,,0000,0000,0000,,Por supuesto que no. Estamos teniendo\Nuna conversación adulta.
+Dialogue: 0,0:48:54.85,0:48:57.60,Top,,0000,0000,0000,,Por supuesto que no. Estamos teniendo\Nuna conversación adulta.
+Dialogue: 0,0:48:57.54,0:48:59.86,Bot,,0000,0000,0000,,- Se van a pelear de nuevo.\N- Kubo, sólo ve por allí.
+Dialogue: 0,0:48:57.64,0:48:59.97,Top,,0000,0000,0000,,- Se van a pelear de nuevo.\N- Kubo, sólo ve por allí.
+Dialogue: 0,0:48:59.91,0:49:01.93,Bot,,0000,0000,0000,,- Y juega con algo.\N- Eso no.
+Dialogue: 0,0:49:00.01,0:49:02.03,Top,,0000,0000,0000,,- Y juega con algo.\N- Eso no.
+Dialogue: 0,0:49:02.65,0:49:06.20,Bot,,0000,0000,0000,,Mono, este es el Lago Largo.
+Dialogue: 0,0:49:02.75,0:49:06.30,Top,,0000,0000,0000,,Mono, este es el Lago Largo.
+Dialogue: 0,0:49:06.24,0:49:08.39,Bot,,0000,0000,0000,,No podemos caminar\Nalrededor de este.
+Dialogue: 0,0:49:06.34,0:49:08.49,Top,,0000,0000,0000,,No podemos caminar\Nalrededor de este.
+Dialogue: 0,0:49:08.43,0:49:09.87,Bot,,0000,0000,0000,,Tenemos que cruzar a nado.
+Dialogue: 0,0:49:08.53,0:49:09.97,Top,,0000,0000,0000,,Tenemos que cruzar a nado.
+Dialogue: 0,0:49:10.29,0:49:12.95,Bot,,0000,0000,0000,,- Puedo llevar a Kubo.\N- ¿Llevar a Kubo?
+Dialogue: 0,0:49:10.39,0:49:13.05,Top,,0000,0000,0000,,- Puedo llevar a Kubo.\N- ¿Llevar a Kubo?
+Dialogue: 0,0:49:12.99,0:49:14.43,Bot,,0000,0000,0000,,¿Esa es tu mejor idea?
+Dialogue: 0,0:49:13.09,0:49:14.53,Top,,0000,0000,0000,,¿Esa es tu mejor idea?
+Dialogue: 0,0:49:14.47,0:49:17.30,Bot,,0000,0000,0000,,Mira, aprecio tu\Nayuda, de verdad.
+Dialogue: 0,0:49:14.57,0:49:17.40,Top,,0000,0000,0000,,Mira, aprecio tu\Nayuda, de verdad.
+Dialogue: 0,0:49:17.34,0:49:19.50,Bot,,0000,0000,0000,,Pero cuando concierne al chico,\Nyo sé lo que es mejor.
+Dialogue: 0,0:49:17.44,0:49:19.60,Top,,0000,0000,0000,,Pero cuando concierne al chico,\Nyo sé lo que es mejor.
+Dialogue: 0,0:49:19.58,0:49:21.76,Bot,,0000,0000,0000,,- ¿Es eso cierto?\N- Y lo que es mejor, no es...
+Dialogue: 0,0:49:19.68,0:49:21.86,Top,,0000,0000,0000,,- ¿Es eso cierto?\N- Y lo que es mejor, no es...
+Dialogue: 0,0:49:21.79,0:49:23.93,Bot,,0000,0000,0000,,...ideas flácidas de\Nuna cucaracha parlante.
+Dialogue: 0,0:49:21.89,0:49:24.03,Top,,0000,0000,0000,,...ideas flácidas de\Nuna cucaracha parlante.
+Dialogue: 0,0:49:23.97,0:49:25.87,Bot,,0000,0000,0000,,Esto viene de un\Nmono parlante.
+Dialogue: 0,0:49:24.07,0:49:25.98,Top,,0000,0000,0000,,Esto viene de un\Nmono parlante.
+Dialogue: 0,0:49:25.92,0:49:27.27,Bot,,0000,0000,0000,,Todavía los puedo oír, ¿saben?
+Dialogue: 0,0:49:26.02,0:49:27.37,Top,,0000,0000,0000,,Todavía los puedo oír, ¿saben?
+Dialogue: 0,0:49:27.30,0:49:29.17,Bot,,0000,0000,0000,,Entonces, toca más fuerte.
+Dialogue: 0,0:49:27.40,0:49:29.27,Top,,0000,0000,0000,,Entonces, toca más fuerte.
+Dialogue: 0,0:49:29.29,0:49:31.70,Bot,,0000,0000,0000,,Esta conversación terminó.\NLos monos no nadan.
+Dialogue: 0,0:49:29.39,0:49:31.80,Top,,0000,0000,0000,,Esta conversación terminó.\NLos monos no nadan.
+Dialogue: 0,0:49:31.74,0:49:34.23,Bot,,0000,0000,0000,,No te preocupes,\Nel mono ve, el mono hace.
+Dialogue: 0,0:49:31.84,0:49:34.34,Top,,0000,0000,0000,,No te preocupes,\Nel mono ve, el mono hace.
+Dialogue: 0,0:49:34.82,0:49:36.73,Bot,,0000,0000,0000,,¿Cuánto tiempo has estado\Nesperando para decir eso?
+Dialogue: 0,0:49:34.92,0:49:36.83,Top,,0000,0000,0000,,¿Cuánto tiempo has estado\Nesperando para decir eso?
+Dialogue: 0,0:49:36.81,0:49:38.08,Bot,,0000,0000,0000,,Desde que te conocí.
+Dialogue: 0,0:49:36.91,0:49:38.18,Top,,0000,0000,0000,,Desde que te conocí.
+Dialogue: 0,0:49:38.12,0:49:40.31,Bot,,0000,0000,0000,,¿De qué fue esta\Nconversación adulta?
+Dialogue: 0,0:49:38.22,0:49:40.42,Top,,0000,0000,0000,,¿De qué fue esta\Nconversación adulta?
+Dialogue: 0,0:49:40.69,0:49:42.38,Bot,,0000,0000,0000,,Eres ridículo. Sólo eres...
+Dialogue: 0,0:49:40.79,0:49:42.48,Top,,0000,0000,0000,,Eres ridículo. Sólo eres...
+Dialogue: 0,0:49:42.42,0:49:44.49,Bot,,0000,0000,0000,,...absolutamente\Nridículo. ¡Ridículo!
+Dialogue: 0,0:49:42.52,0:49:44.60,Top,,0000,0000,0000,,...absolutamente\Nridículo. ¡Ridículo!
+Dialogue: 0,0:49:44.54,0:49:47.58,Bot,,0000,0000,0000,,¡Cruzar el lago es\Nuna idea ridícula!
+Dialogue: 0,0:49:44.64,0:49:47.68,Top,,0000,0000,0000,,¡Cruzar el lago es\Nuna idea ridícula!
+Dialogue: 0,0:49:47.83,0:49:51.08,Bot,,0000,0000,0000,,No es tu culpa, no queda\Nsentido común en tu cabeza.
+Dialogue: 0,0:49:47.93,0:49:51.18,Top,,0000,0000,0000,,No es tu culpa, no queda\Nsentido común en tu cabeza.
+Dialogue: 0,0:49:51.12,0:49:54.33,Bot,,0000,0000,0000,,Creo que eso me molesta.\NPuede que no sepa nada.
+Dialogue: 0,0:49:51.22,0:49:54.43,Top,,0000,0000,0000,,Creo que eso me molesta.\NPuede que no sepa nada.
+Dialogue: 0,0:49:54.37,0:49:55.85,Bot,,0000,0000,0000,,- Todo.\N- Todo.
+Dialogue: 0,0:49:54.47,0:49:55.95,Top,,0000,0000,0000,,- Todo.\N- Todo.
+Dialogue: 0,0:49:55.89,0:49:59.32,Bot,,0000,0000,0000,,Pero sí sé que Kubo es más\Ncapaz de lo que cree que es.
+Dialogue: 0,0:49:55.99,0:49:59.42,Top,,0000,0000,0000,,Pero sí sé que Kubo es más\Ncapaz de lo que cree que es.
+Dialogue: 0,0:49:59.44,0:50:02.19,Bot,,0000,0000,0000,,Estás siendo un poquito\Nsobre protectora aquí.
+Dialogue: 0,0:49:59.54,0:50:02.29,Top,,0000,0000,0000,,Estás siendo un poquito\Nsobre protectora aquí.
+Dialogue: 0,0:50:02.23,0:50:03.92,Bot,,0000,0000,0000,,Estoy siendo muy\Nsobre protectora aquí.
+Dialogue: 0,0:50:02.33,0:50:04.02,Top,,0000,0000,0000,,Estoy siendo muy\Nsobre protectora aquí.
+Dialogue: 0,0:50:04.04,0:50:06.37,Bot,,0000,0000,0000,,Es mi trabajo el asegurarme\Nde que Kubo esté a salvo.
+Dialogue: 0,0:50:04.14,0:50:06.47,Top,,0000,0000,0000,,Es mi trabajo el asegurarme\Nde que Kubo esté a salvo.
+Dialogue: 0,0:50:06.41,0:50:09.96,Bot,,0000,0000,0000,,Y eso no es a salvo.\NTú, no eres a salvo.
+Dialogue: 0,0:50:06.51,0:50:10.06,Top,,0000,0000,0000,,Y eso no es a salvo.\NTú, no eres a salvo.
+Dialogue: 0,0:50:10.08,0:50:13.50,Bot,,0000,0000,0000,,- Kubo es sólo un niño.\N- Y uno increíblemente dotado.
+Dialogue: 0,0:50:10.18,0:50:13.60,Top,,0000,0000,0000,,- Kubo es sólo un niño.\N- Y uno increíblemente dotado.
+Dialogue: 0,0:50:13.63,0:50:16.67,Bot,,0000,0000,0000,,- Acaba de salvar nuestras vidas.\N- Sí, es muy poderoso,
+Dialogue: 0,0:50:13.73,0:50:16.77,Top,,0000,0000,0000,,- Acaba de salvar nuestras vidas.\N- Sí, es muy poderoso,
+Dialogue: 0,0:50:16.71,0:50:19.16,Bot,,0000,0000,0000,,pero todavía tiene\Nmucho que aprender.
+Dialogue: 0,0:50:16.81,0:50:19.26,Top,,0000,0000,0000,,pero todavía tiene\Nmucho que aprender.
+Dialogue: 0,0:50:20.13,0:50:21.10,Bot,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:50:20.23,0:50:21.20,Top,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:50:26.67,0:50:28.03,Bot,,0000,0000,0000,,Aprende rápido.
+Dialogue: 0,0:50:26.77,0:50:28.13,Top,,0000,0000,0000,,Aprende rápido.
+Dialogue: 0,0:50:32.33,0:50:33.73,Bot,,0000,0000,0000,,¿Sabías que podías hacer eso?
+Dialogue: 0,0:50:32.43,0:50:33.83,Top,,0000,0000,0000,,¿Sabías que podías hacer eso?
+Dialogue: 0,0:50:43.02,0:50:44.28,Bot,,0000,0000,0000,,Presumido.
+Dialogue: 0,0:50:43.12,0:50:44.38,Top,,0000,0000,0000,,Presumido.
+Dialogue: 0,0:51:05.18,0:51:08.01,Bot,,0000,0000,0000,,Está bien. Ahora, da\Nuna respiración profunda.
+Dialogue: 0,0:51:05.28,0:51:08.11,Top,,0000,0000,0000,,Está bien. Ahora, da\Nuna respiración profunda.
+Dialogue: 0,0:51:09.66,0:51:11.18,Bot,,0000,0000,0000,,Despeja tu mente.
+Dialogue: 0,0:51:09.76,0:51:11.28,Top,,0000,0000,0000,,Despeja tu mente.
+Dialogue: 0,0:51:12.07,0:51:13.71,Bot,,0000,0000,0000,,Supongo que tengo\Nesa parte cubierta.
+Dialogue: 0,0:51:12.17,0:51:13.81,Top,,0000,0000,0000,,Supongo que tengo\Nesa parte cubierta.
+Dialogue: 0,0:51:14.22,0:51:19.67,Bot,,0000,0000,0000,,Ahora jala lentamente.\NAsí es. Cierra un ojo.
+Dialogue: 0,0:51:14.32,0:51:19.77,Top,,0000,0000,0000,,Ahora jala lentamente.\NAsí es. Cierra un ojo.
+Dialogue: 0,0:51:19.96,0:51:21.61,Bot,,0000,0000,0000,,Supongo que tú tienes\Nesa parte cubierta.
+Dialogue: 0,0:51:20.06,0:51:21.71,Top,,0000,0000,0000,,Supongo que tú tienes\Nesa parte cubierta.
+Dialogue: 0,0:51:22.24,0:51:25.20,Bot,,0000,0000,0000,,Concéntrate en lo que está\Ndirectamente en frente...
+Dialogue: 0,0:51:22.34,0:51:25.30,Top,,0000,0000,0000,,Concéntrate en lo que está\Ndirectamente en frente...
+Dialogue: 0,0:51:25.23,0:51:28.32,Bot,,0000,0000,0000,,...de ti, que todo lo\Ndemás se aparte.
+Dialogue: 0,0:51:25.33,0:51:28.42,Top,,0000,0000,0000,,...de ti, que todo lo\Ndemás se aparte.
+Dialogue: 0,0:51:28.36,0:51:31.07,Bot,,0000,0000,0000,,Y libera.
+Dialogue: 0,0:51:28.46,0:51:31.17,Top,,0000,0000,0000,,Y libera.
+Dialogue: 0,0:51:32.46,0:51:33.35,Bot,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:51:32.56,0:51:33.45,Top,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:51:33.43,0:51:36.43,Bot,,0000,0000,0000,,Tiro perfecto. Tiro perfecto.
+Dialogue: 0,0:51:33.53,0:51:36.53,Top,,0000,0000,0000,,Tiro perfecto. Tiro perfecto.
+Dialogue: 0,0:51:36.47,0:51:38.84,Bot,,0000,0000,0000,,No está mal. ¿Y cuál es\Ntu plan para meter al...
+Dialogue: 0,0:51:36.57,0:51:38.94,Top,,0000,0000,0000,,No está mal. ¿Y cuál es\Ntu plan para meter al...
+Dialogue: 0,0:51:38.88,0:51:41.03,Bot,,0000,0000,0000,,...pescado en el barco, para que\Nde hecho podamos comerlo?
+Dialogue: 0,0:51:38.98,0:51:41.13,Top,,0000,0000,0000,,...pescado en el barco, para que\Nde hecho podamos comerlo?
+Dialogue: 0,0:51:45.89,0:51:50.15,Bot,,0000,0000,0000,,Bueno, dije que le estaba\Nenseñando a disparar, no a pescar.
+Dialogue: 0,0:51:45.99,0:51:50.25,Top,,0000,0000,0000,,Bueno, dije que le estaba\Nenseñando a disparar, no a pescar.
+Dialogue: 0,0:51:50.19,0:51:52.43,Bot,,0000,0000,0000,,La pesca es la\Nlección de mañana.
+Dialogue: 0,0:51:50.29,0:51:52.53,Top,,0000,0000,0000,,La pesca es la\Nlección de mañana.
+Dialogue: 0,0:51:52.77,0:51:53.57,Bot,,0000,0000,0000,,Dame eso.
+Dialogue: 0,0:51:52.87,0:51:53.67,Top,,0000,0000,0000,,Dame eso.
+Dialogue: 0,0:51:54.67,0:51:55.64,Bot,,0000,0000,0000,,Mono codicioso.
+Dialogue: 0,0:51:54.77,0:51:55.74,Top,,0000,0000,0000,,Mono codicioso.
+Dialogue: 0,0:51:58.47,0:51:59.65,Bot,,0000,0000,0000,,Ahora inténtalo.
+Dialogue: 0,0:51:58.57,0:51:59.75,Top,,0000,0000,0000,,Ahora inténtalo.
+Dialogue: 0,0:52:01.89,0:52:03.92,Bot,,0000,0000,0000,,Jala hacia atrás y...
+Dialogue: 0,0:52:01.99,0:52:04.02,Top,,0000,0000,0000,,Jala hacia atrás y...
+Dialogue: 0,0:52:05.06,0:52:06.11,Bot,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:52:05.16,0:52:06.21,Top,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:52:08.69,0:52:11.48,Bot,,0000,0000,0000,,Cuerda,\Nesa es muy buena idea.
+Dialogue: 0,0:52:08.79,0:52:11.58,Top,,0000,0000,0000,,Cuerda,\Nesa es muy buena idea.
+Dialogue: 0,0:52:12.11,0:52:13.88,Bot,,0000,0000,0000,,Y tú no tiras horrible.
+Dialogue: 0,0:52:12.21,0:52:13.98,Top,,0000,0000,0000,,Y tú no tiras horrible.
+Dialogue: 0,0:52:17.17,0:52:19.37,Bot,,0000,0000,0000,,Bien, ahora los\Ndos están siendo raros.
+Dialogue: 0,0:52:17.27,0:52:19.47,Top,,0000,0000,0000,,Bien, ahora los\Ndos están siendo raros.
+Dialogue: 0,0:52:22.62,0:52:25.20,Bot,,0000,0000,0000,,Vamos a necesitar algo\Npara cortar esto.
+Dialogue: 0,0:52:22.72,0:52:25.30,Top,,0000,0000,0000,,Vamos a necesitar algo\Npara cortar esto.
+Dialogue: 0,0:52:34.66,0:52:35.75,Bot,,0000,0000,0000,,La espada irrompible.
+Dialogue: 0,0:52:34.76,0:52:35.85,Top,,0000,0000,0000,,La espada irrompible.
+Dialogue: 0,0:52:55.05,0:52:57.41,Bot,,0000,0000,0000,,¿Tienes que jugar\Ncon tu comida?
+Dialogue: 0,0:52:55.15,0:52:57.52,Top,,0000,0000,0000,,¿Tienes que jugar\Ncon tu comida?
+Dialogue: 0,0:53:00.16,0:53:01.17,Bot,,0000,0000,0000,,Sí.
+Dialogue: 0,0:53:00.26,0:53:01.27,Top,,0000,0000,0000,,Sí.
+Dialogue: 0,0:53:05.39,0:53:06.70,Bot,,0000,0000,0000,,¿Qué pasa, Kubo?
+Dialogue: 0,0:53:05.49,0:53:06.80,Top,,0000,0000,0000,,¿Qué pasa, Kubo?
+Dialogue: 0,0:53:06.96,0:53:09.28,Bot,,0000,0000,0000,,Actúas como si nunca\Nhubieras tomado una comida...
+Dialogue: 0,0:53:07.06,0:53:09.38,Top,,0000,0000,0000,,Actúas como si nunca\Nhubieras tomado una comida...
+Dialogue: 0,0:53:09.32,0:53:11.73,Bot,,0000,0000,0000,,...sentado entre un mono\Ny un escarabajo antes.
+Dialogue: 0,0:53:09.42,0:53:11.83,Top,,0000,0000,0000,,...sentado entre un mono\Ny un escarabajo antes.
+Dialogue: 0,0:53:12.74,0:53:15.82,Bot,,0000,0000,0000,,Nunca he tenido una comida\Nsentado entre nadie antes.
+Dialogue: 0,0:53:12.84,0:53:15.93,Top,,0000,0000,0000,,Nunca he tenido una comida\Nsentado entre nadie antes.
+Dialogue: 0,0:53:15.95,0:53:18.44,Bot,,0000,0000,0000,,Vamos, come.\NNecesitarás energía.
+Dialogue: 0,0:53:16.05,0:53:18.54,Top,,0000,0000,0000,,Vamos, come.\NNecesitarás energía.
+Dialogue: 0,0:53:18.48,0:53:20.34,Bot,,0000,0000,0000,,Y esto es mucho mejor\Nque una sopa de ballena.
+Dialogue: 0,0:53:18.58,0:53:20.44,Top,,0000,0000,0000,,Y esto es mucho mejor\Nque una sopa de ballena.
+Dialogue: 0,0:53:20.47,0:53:22.54,Bot,,0000,0000,0000,,Kubo, una pregunta.
+Dialogue: 0,0:53:20.57,0:53:22.64,Top,,0000,0000,0000,,Kubo, una pregunta.
+Dialogue: 0,0:53:23.47,0:53:25.03,Bot,,0000,0000,0000,,Antes de que comenzarás tu...
+Dialogue: 0,0:53:23.57,0:53:25.13,Top,,0000,0000,0000,,Antes de que comenzarás tu...
+Dialogue: 0,0:53:25.07,0:53:27.98,Bot,,0000,0000,0000,,...heroica búsqueda,\N¿cómo eras?
+Dialogue: 0,0:53:25.17,0:53:28.09,Top,,0000,0000,0000,,...heroica búsqueda,\N¿cómo eras?
+Dialogue: 0,0:53:28.57,0:53:31.87,Bot,,0000,0000,0000,,Bueno, yo me ocupaba de\Nmi mamá en su mayoría.
+Dialogue: 0,0:53:28.67,0:53:31.97,Top,,0000,0000,0000,,Bueno, yo me ocupaba de\Nmi mamá en su mayoría.
+Dialogue: 0,0:53:32.29,0:53:33.77,Bot,,0000,0000,0000,,Y contaba historias.
+Dialogue: 0,0:53:32.39,0:53:33.87,Top,,0000,0000,0000,,Y contaba historias.
+Dialogue: 0,0:53:34.28,0:53:36.98,Bot,,0000,0000,0000,,Acerca de poderosos Guerreros\Nen busca de venganza,
+Dialogue: 0,0:53:34.38,0:53:37.08,Top,,0000,0000,0000,,Acerca de poderosos Guerreros\Nen busca de venganza,
+Dialogue: 0,0:53:37.02,0:53:39.43,Bot,,0000,0000,0000,,con batallas y\Nmonstruos y magia.
+Dialogue: 0,0:53:37.12,0:53:39.53,Top,,0000,0000,0000,,con batallas y\Nmonstruos y magia.
+Dialogue: 0,0:53:40.06,0:53:41.71,Bot,,0000,0000,0000,,Era bastante\Nbueno para contarlas.
+Dialogue: 0,0:53:40.16,0:53:41.81,Top,,0000,0000,0000,,Era bastante\Nbueno para contarlas.
+Dialogue: 0,0:53:43.02,0:53:44.66,Bot,,0000,0000,0000,,No tan bueno para\Nterminarlas.
+Dialogue: 0,0:53:43.12,0:53:44.76,Top,,0000,0000,0000,,No tan bueno para\Nterminarlas.
+Dialogue: 0,0:53:45.25,0:53:46.91,Bot,,0000,0000,0000,,A veces le decía\Na mi mamá...
+Dialogue: 0,0:53:45.35,0:53:47.01,Top,,0000,0000,0000,,A veces le decía\Na mi mamá...
+Dialogue: 0,0:53:46.94,0:53:48.97,Bot,,0000,0000,0000,,...historias sobre\Ncosas pequeñas,
+Dialogue: 0,0:53:47.04,0:53:49.07,Top,,0000,0000,0000,,...historias sobre\Ncosas pequeñas,
+Dialogue: 0,0:53:49.14,0:53:51.88,Bot,,0000,0000,0000,,como lanzar rocas a\Nlo largo del río, o...
+Dialogue: 0,0:53:49.24,0:53:51.98,Top,,0000,0000,0000,,como lanzar rocas a\Nlo largo del río, o...
+Dialogue: 0,0:53:52.09,0:53:55.01,Bot,,0000,0000,0000,,...atrapar luciérnagas\Nen los campos de morera.
+Dialogue: 0,0:53:52.19,0:53:55.11,Top,,0000,0000,0000,,...atrapar luciérnagas\Nen los campos de morera.
+Dialogue: 0,0:53:55.47,0:53:57.29,Bot,,0000,0000,0000,,Y cuando contaba\Nesas historias,
+Dialogue: 0,0:53:55.57,0:53:57.39,Top,,0000,0000,0000,,Y cuando contaba\Nesas historias,
+Dialogue: 0,0:53:57.37,0:53:59.61,Bot,,0000,0000,0000,,podía ver sus ojos\Ncon toda claridad.
+Dialogue: 0,0:53:57.47,0:53:59.71,Top,,0000,0000,0000,,podía ver sus ojos\Ncon toda claridad.
+Dialogue: 0,0:54:00.12,0:54:04.09,Bot,,0000,0000,0000,,Me di cuenta de que me veía.\NRealmente me veía.
+Dialogue: 0,0:54:00.22,0:54:04.19,Top,,0000,0000,0000,,Me di cuenta de que me veía.\NRealmente me veía.
+Dialogue: 0,0:54:04.97,0:54:09.45,Bot,,0000,0000,0000,,Podía verla también, su\Nverdadero yo, su espíritu...
+Dialogue: 0,0:54:05.07,0:54:09.55,Top,,0000,0000,0000,,Podía verla también, su\Nverdadero yo, su espíritu...
+Dialogue: 0,0:54:10.25,0:54:12.19,Bot,,0000,0000,0000,,...tratando de hallar\Nsu forma de salir.
+Dialogue: 0,0:54:10.35,0:54:12.29,Top,,0000,0000,0000,,...tratando de hallar\Nsu forma de salir.
+Dialogue: 0,0:54:13.50,0:54:14.85,Bot,,0000,0000,0000,,Fue hermoso.
+Dialogue: 0,0:54:13.60,0:54:14.95,Top,,0000,0000,0000,,Fue hermoso.
+Dialogue: 0,0:54:19.83,0:54:21.31,Bot,,0000,0000,0000,,¿Sabes una cosa, Kubo?
+Dialogue: 0,0:54:19.93,0:54:21.41,Top,,0000,0000,0000,,¿Sabes una cosa, Kubo?
+Dialogue: 0,0:54:21.36,0:54:23.42,Bot,,0000,0000,0000,,Antes, cuando\Ncontabas tus historias,
+Dialogue: 0,0:54:21.46,0:54:23.52,Top,,0000,0000,0000,,Antes, cuando\Ncontabas tus historias,
+Dialogue: 0,0:54:23.72,0:54:26.13,Bot,,0000,0000,0000,,antes de salir en\Nesta gran aventura,
+Dialogue: 0,0:54:23.82,0:54:26.23,Top,,0000,0000,0000,,antes de salir en\Nesta gran aventura,
+Dialogue: 0,0:54:26.25,0:54:29.08,Bot,,0000,0000,0000,,todavía eras un gran héroe.
+Dialogue: 0,0:54:26.35,0:54:29.18,Top,,0000,0000,0000,,todavía eras un gran héroe.
+Dialogue: 0,0:54:48.76,0:54:49.98,Bot,,0000,0000,0000,,Vamos a tener\Nque dirigirnos...
+Dialogue: 0,0:54:48.86,0:54:50.08,Top,,0000,0000,0000,,Vamos a tener\Nque dirigirnos...
+Dialogue: 0,0:54:50.03,0:54:52.43,Bot,,0000,0000,0000,,...a la orilla, encontrar un\Nlugar donde escondernos y...
+Dialogue: 0,0:54:50.13,0:54:52.53,Top,,0000,0000,0000,,...a la orilla, encontrar un\Nlugar donde escondernos y...
+Dialogue: 0,0:55:00.75,0:55:03.83,Bot,,0000,0000,0000,,- La segunda pieza de la armadura.\N- La coraza.
+Dialogue: 0,0:55:00.85,0:55:03.93,Top,,0000,0000,0000,,- La segunda pieza de la armadura.\N- La coraza.
+Dialogue: 0,0:55:04.63,0:55:07.17,Bot,,0000,0000,0000,,- Está ahí abajo.\N- Esta bien, yo la traigo.
+Dialogue: 0,0:55:04.73,0:55:07.27,Top,,0000,0000,0000,,- Está ahí abajo.\N- Esta bien, yo la traigo.
+Dialogue: 0,0:55:07.21,0:55:09.32,Bot,,0000,0000,0000,,- ¡Escarabajo, espera!\N- No. No te preocupes.
+Dialogue: 0,0:55:07.31,0:55:09.42,Top,,0000,0000,0000,,- ¡Escarabajo, espera!\N- No. No te preocupes.
+Dialogue: 0,0:55:09.45,0:55:10.88,Bot,,0000,0000,0000,,Los escarabajos pueden\Ncontener la respiración...
+Dialogue: 0,0:55:09.55,0:55:10.99,Top,,0000,0000,0000,,Los escarabajos pueden\Ncontener la respiración...
+Dialogue: 0,0:55:10.97,0:55:13.04,Bot,,0000,0000,0000,,...bajo el agua, durante\Nun tiempo muy largo.
+Dialogue: 0,0:55:11.07,0:55:13.14,Top,,0000,0000,0000,,...bajo el agua, durante\Nun tiempo muy largo.
+Dialogue: 0,0:55:13.08,0:55:14.52,Bot,,0000,0000,0000,,¿Qué? ¿Desde cuándo?
+Dialogue: 0,0:55:13.18,0:55:14.62,Top,,0000,0000,0000,,¿Qué? ¿Desde cuándo?
+Dialogue: 0,0:55:14.56,0:55:15.87,Bot,,0000,0000,0000,,Es un hecho bien conocido,\NMono.
+Dialogue: 0,0:55:14.66,0:55:15.97,Top,,0000,0000,0000,,Es un hecho bien conocido,\NMono.
+Dialogue: 0,0:55:15.91,0:55:17.60,Bot,,0000,0000,0000,,Así que no recuerdas\Nnada en lo absoluto,
+Dialogue: 0,0:55:16.01,0:55:17.70,Top,,0000,0000,0000,,Así que no recuerdas\Nnada en lo absoluto,
+Dialogue: 0,0:55:17.64,0:55:20.17,Bot,,0000,0000,0000,,pero el cómo nada un escarabajo,\N¿eso sí se te quedó?
+Dialogue: 0,0:55:17.74,0:55:20.27,Top,,0000,0000,0000,,pero el cómo nada un escarabajo,\N¿eso sí se te quedó?
+Dialogue: 0,0:55:20.21,0:55:22.07,Bot,,0000,0000,0000,,No, Escarabajo.\NMi mamá me contó...
+Dialogue: 0,0:55:20.31,0:55:22.17,Top,,0000,0000,0000,,No, Escarabajo.\NMi mamá me contó...
+Dialogue: 0,0:55:22.10,0:55:23.93,Bot,,0000,0000,0000,,...una historia\Nsobre el Lago Largo.
+Dialogue: 0,0:55:22.20,0:55:24.03,Top,,0000,0000,0000,,...una historia\Nsobre el Lago Largo.
+Dialogue: 0,0:55:24.10,0:55:25.96,Bot,,0000,0000,0000,,Hay algo bajo el agua.
+Dialogue: 0,0:55:24.20,0:55:26.06,Top,,0000,0000,0000,,Hay algo bajo el agua.
+Dialogue: 0,0:55:26.29,0:55:27.23,Bot,,0000,0000,0000,,¿Sí?
+Dialogue: 0,0:55:26.39,0:55:27.33,Top,,0000,0000,0000,,¿Sí?
+Dialogue: 0,0:55:28.91,0:55:30.69,Bot,,0000,0000,0000,,¿Qué clase de "algo"?
+Dialogue: 0,0:55:29.01,0:55:30.79,Top,,0000,0000,0000,,¿Qué clase de "algo"?
+Dialogue: 0,0:55:30.73,0:55:32.59,Bot,,0000,0000,0000,,Ella dijo que había\Nun Jardín de Ojos.
+Dialogue: 0,0:55:30.83,0:55:32.69,Top,,0000,0000,0000,,Ella dijo que había\Nun Jardín de Ojos.
+Dialogue: 0,0:55:33.26,0:55:36.34,Bot,,0000,0000,0000,,Ojos que te miran fijamente\Ny a tu alma.
+Dialogue: 0,0:55:33.36,0:55:36.45,Top,,0000,0000,0000,,Ojos que te miran fijamente\Ny a tu alma.
+Dialogue: 0,0:55:36.60,0:55:38.08,Bot,,0000,0000,0000,,Te muestran secretos.
+Dialogue: 0,0:55:36.70,0:55:38.18,Top,,0000,0000,0000,,Te muestran secretos.
+Dialogue: 0,0:55:38.33,0:55:42.43,Bot,,0000,0000,0000,,Cosas que te mantienen\Nallí con ellos. Por siempre.
+Dialogue: 0,0:55:38.43,0:55:42.53,Top,,0000,0000,0000,,Cosas que te mantienen\Nallí con ellos. Por siempre.
+Dialogue: 0,0:55:43.40,0:55:46.48,Bot,,0000,0000,0000,,Está bien. Bueno,\Nno voy a mirar...
+Dialogue: 0,0:55:43.50,0:55:46.58,Top,,0000,0000,0000,,Está bien. Bueno,\Nno voy a mirar...
+Dialogue: 0,0:55:46.52,0:55:47.91,Bot,,0000,0000,0000,,...directamente a\Nlos ojos de nadie.
+Dialogue: 0,0:55:46.62,0:55:48.02,Top,,0000,0000,0000,,...directamente a\Nlos ojos de nadie.
+Dialogue: 0,0:55:48.08,0:55:50.24,Bot,,0000,0000,0000,,Incluso si estoy\Nsiendo muy sincero.
+Dialogue: 0,0:55:48.18,0:55:50.34,Top,,0000,0000,0000,,Incluso si estoy\Nsiendo muy sincero.
+Dialogue: 0,0:55:52.05,0:55:53.44,Bot,,0000,0000,0000,,Me vas a extrañar, Mono.
+Dialogue: 0,0:55:52.15,0:55:53.55,Top,,0000,0000,0000,,Me vas a extrañar, Mono.
+Dialogue: 0,0:56:03.16,0:56:04.38,Bot,,0000,0000,0000,,Ten cuidado.
+Dialogue: 0,0:56:03.26,0:56:04.48,Top,,0000,0000,0000,,Ten cuidado.
+Dialogue: 0,0:56:31.28,0:56:33.52,Bot,,0000,0000,0000,,Está buscando la armadura,
+Dialogue: 0,0:56:31.38,0:56:33.62,Top,,0000,0000,0000,,Está buscando la armadura,
+Dialogue: 0,0:56:33.56,0:56:35.59,Bot,,0000,0000,0000,,al igual que su\Npapá insolente.
+Dialogue: 0,0:56:33.66,0:56:35.69,Top,,0000,0000,0000,,al igual que su\Npapá insolente.
+Dialogue: 0,0:56:35.63,0:56:37.19,Bot,,0000,0000,0000,,Sí, hermana.
+Dialogue: 0,0:56:35.73,0:56:37.29,Top,,0000,0000,0000,,Sí, hermana.
+Dialogue: 0,0:56:37.53,0:56:42.13,Bot,,0000,0000,0000,,Entonces, hay que asegurarse de\Nque no encuentre lo que queda.
+Dialogue: 0,0:56:37.63,0:56:42.23,Top,,0000,0000,0000,,Entonces, hay que asegurarse de\Nque no encuentre lo que queda.
+Dialogue: 0,0:56:53.57,0:56:55.98,Bot,,0000,0000,0000,,Mono, creo que\Nestá en problemas.
+Dialogue: 0,0:56:53.67,0:56:56.08,Top,,0000,0000,0000,,Mono, creo que\Nestá en problemas.
+Dialogue: 0,0:56:56.31,0:56:57.37,Bot,,0000,0000,0000,,¡Deberíamos de ayudarlo!
+Dialogue: 0,0:56:56.41,0:56:57.47,Top,,0000,0000,0000,,¡Deberíamos de ayudarlo!
+Dialogue: 0,0:56:57.41,0:56:59.61,Bot,,0000,0000,0000,,Kubo, tus tías todavía\Nestán ahí afuera.
+Dialogue: 0,0:56:57.51,0:56:59.71,Top,,0000,0000,0000,,Kubo, tus tías todavía\Nestán ahí afuera.
+Dialogue: 0,0:56:59.65,0:57:02.40,Bot,,0000,0000,0000,,Lo siento. Pero debemos de\Ndirigirnos a la orilla.
+Dialogue: 0,0:56:59.75,0:57:02.50,Top,,0000,0000,0000,,Lo siento. Pero debemos de\Ndirigirnos a la orilla.
+Dialogue: 0,0:57:03.83,0:57:04.80,Bot,,0000,0000,0000,,¡Kubo!
+Dialogue: 0,0:57:03.93,0:57:04.90,Top,,0000,0000,0000,,¡Kubo!
+Dialogue: 0,0:57:14.81,0:57:16.12,Bot,,0000,0000,0000,,Mira esto.
+Dialogue: 0,0:57:14.91,0:57:16.22,Top,,0000,0000,0000,,Mira esto.
+Dialogue: 0,0:57:16.50,0:57:21.27,Bot,,0000,0000,0000,,Vengo de pesca, y todo lo que\Nconsigo es a un simio apestoso.
+Dialogue: 0,0:57:16.60,0:57:21.37,Top,,0000,0000,0000,,Vengo de pesca, y todo lo que\Nconsigo es a un simio apestoso.
+Dialogue: 0,0:57:21.69,0:57:24.82,Bot,,0000,0000,0000,,Qué patético que\Nesta criatura sucia...
+Dialogue: 0,0:57:21.79,0:57:24.92,Top,,0000,0000,0000,,Qué patético que\Nesta criatura sucia...
+Dialogue: 0,0:57:24.86,0:57:27.69,Bot,,0000,0000,0000,,...es todo lo que queda de\Nla magia de mi hermana.
+Dialogue: 0,0:57:24.96,0:57:27.79,Top,,0000,0000,0000,,...es todo lo que queda de\Nla magia de mi hermana.
+Dialogue: 0,0:57:27.72,0:57:31.36,Bot,,0000,0000,0000,,Esta "criatura sucia",\N¡te hará pedazos!
+Dialogue: 0,0:57:27.82,0:57:31.46,Top,,0000,0000,0000,,Esta "criatura sucia",\N¡te hará pedazos!
+Dialogue: 0,0:58:06.07,0:58:08.73,Bot,,0000,0000,0000,,Kubo...
+Dialogue: 0,0:58:06.17,0:58:08.83,Top,,0000,0000,0000,,Kubo...
+Dialogue: 0,0:58:13.33,0:58:15.36,Bot,,0000,0000,0000,,Kubo...
+Dialogue: 0,0:58:13.43,0:58:15.46,Top,,0000,0000,0000,,Kubo...
+Dialogue: 0,0:58:23.72,0:58:24.61,Bot,,0000,0000,0000,,¡Kubo!
+Dialogue: 0,0:58:23.82,0:58:24.71,Top,,0000,0000,0000,,¡Kubo!
+Dialogue: 0,0:58:27.01,0:58:29.55,Bot,,0000,0000,0000,,He aplastado a criaturas\Nque no encajarían...
+Dialogue: 0,0:58:27.11,0:58:29.65,Top,,0000,0000,0000,,He aplastado a criaturas\Nque no encajarían...
+Dialogue: 0,0:58:29.59,0:58:31.62,Bot,,0000,0000,0000,,...en este mundo,\Ncon una uña.
+Dialogue: 0,0:58:29.69,0:58:31.72,Top,,0000,0000,0000,,...en este mundo,\Ncon una uña.
+Dialogue: 0,0:58:32.08,0:58:34.40,Bot,,0000,0000,0000,,Esta victoria no\Nme trae ningún honor.
+Dialogue: 0,0:58:32.18,0:58:34.50,Top,,0000,0000,0000,,Esta victoria no\Nme trae ningún honor.
+Dialogue: 0,0:58:37.95,0:58:41.37,Bot,,0000,0000,0000,,Imagínate cómo te\Nsentirás cuando pierdas.
+Dialogue: 0,0:58:38.05,0:58:41.47,Top,,0000,0000,0000,,Imagínate cómo te\Nsentirás cuando pierdas.
+Dialogue: 0,0:58:44.24,0:58:46.35,Bot,,0000,0000,0000,,Sólo perdí una vez.
+Dialogue: 0,0:58:44.34,0:58:46.45,Top,,0000,0000,0000,,Sólo perdí una vez.
+Dialogue: 0,0:58:47.15,0:58:50.15,Bot,,0000,0000,0000,,Hace once años\Nperdí a mi hermana.
+Dialogue: 0,0:58:47.25,0:58:50.25,Top,,0000,0000,0000,,Hace once años\Nperdí a mi hermana.
+Dialogue: 0,0:58:52.09,0:58:56.40,Bot,,0000,0000,0000,,Ella se enamoró de un tonto,\Ny traicionó a nuestro papá.
+Dialogue: 0,0:58:52.19,0:58:56.50,Top,,0000,0000,0000,,Ella se enamoró de un tonto,\Ny traicionó a nuestro papá.
+Dialogue: 0,0:58:58.43,0:59:01.26,Bot,,0000,0000,0000,,Ella fue una cobarde ingrata.
+Dialogue: 0,0:58:58.53,0:59:01.36,Top,,0000,0000,0000,,Ella fue una cobarde ingrata.
+Dialogue: 0,0:59:11.68,0:59:13.88,Bot,,0000,0000,0000,,¿Quién es la cobarde ahora?
+Dialogue: 0,0:59:11.78,0:59:13.98,Top,,0000,0000,0000,,¿Quién es la cobarde ahora?
+Dialogue: 0,0:59:26.29,0:59:28.07,Bot,,0000,0000,0000,,¡La tengo! ¡La tengo!
+Dialogue: 0,0:59:26.39,0:59:28.17,Top,,0000,0000,0000,,¡La tengo! ¡La tengo!
+Dialogue: 0,0:59:30.64,0:59:33.73,Bot,,0000,0000,0000,,Escarabajo, ¿qué pasó?\N¿Dónde está Kubo?
+Dialogue: 0,0:59:30.74,0:59:33.83,Top,,0000,0000,0000,,Escarabajo, ¿qué pasó?\N¿Dónde está Kubo?
+Dialogue: 0,0:59:53.87,0:59:56.57,Bot,,0000,0000,0000,,¡Vuelve allí abajo,\Nestá en problemas!
+Dialogue: 0,0:59:53.97,0:59:56.67,Top,,0000,0000,0000,,¡Vuelve allí abajo,\Nestá en problemas!
+Dialogue: 0,0:59:56.86,0:59:57.79,Bot,,0000,0000,0000,,Yo me encargo.
+Dialogue: 0,0:59:56.96,0:59:57.89,Top,,0000,0000,0000,,Yo me encargo.
+Dialogue: 0,1:00:11.52,1:00:13.25,Bot,,0000,0000,0000,,Mamá. Mamá.
+Dialogue: 0,1:00:11.62,1:00:13.35,Top,,0000,0000,0000,,Mamá. Mamá.
+Dialogue: 0,1:00:48.08,1:00:50.28,Bot,,0000,0000,0000,,Nunca deja de sorprenderme...
+Dialogue: 0,1:00:48.18,1:00:50.38,Top,,0000,0000,0000,,Nunca deja de sorprenderme...
+Dialogue: 0,1:00:50.32,1:00:52.05,Bot,,0000,0000,0000,,...cómo las criaturas\Naquí abajo luchan...
+Dialogue: 0,1:00:50.42,1:00:52.15,Top,,0000,0000,0000,,...cómo las criaturas\Naquí abajo luchan...
+Dialogue: 0,1:00:52.09,1:00:54.67,Bot,,0000,0000,0000,,...tan duro sólo para\Nmorir otro día.
+Dialogue: 0,1:00:52.19,1:00:54.77,Top,,0000,0000,0000,,...tan duro sólo para\Nmorir otro día.
+Dialogue: 0,1:00:54.71,1:00:57.33,Bot,,0000,0000,0000,,Aquí abajo hay días por los\Nque vale la pena luchar.
+Dialogue: 0,1:00:54.81,1:00:57.43,Top,,0000,0000,0000,,Aquí abajo hay días por los\Nque vale la pena luchar.
+Dialogue: 0,1:00:58.68,1:01:01.21,Bot,,0000,0000,0000,,No hay nada aquí\Nque valga nada.
+Dialogue: 0,1:00:58.78,1:01:01.32,Top,,0000,0000,0000,,No hay nada aquí\Nque valga nada.
+Dialogue: 0,1:01:08.39,1:01:10.88,Bot,,0000,0000,0000,,Es patético lo que\Nle pasó a mi hermana.
+Dialogue: 0,1:01:08.49,1:01:10.98,Top,,0000,0000,0000,,Es patético lo que\Nle pasó a mi hermana.
+Dialogue: 0,1:01:11.01,1:01:14.26,Bot,,0000,0000,0000,,La admiraba, era tan fuerte.
+Dialogue: 0,1:01:11.11,1:01:14.36,Top,,0000,0000,0000,,La admiraba, era tan fuerte.
+Dialogue: 0,1:01:14.85,1:01:17.85,Bot,,0000,0000,0000,,Y el amor, la hizo débil.
+Dialogue: 0,1:01:14.95,1:01:17.95,Top,,0000,0000,0000,,Y el amor, la hizo débil.
+Dialogue: 0,1:01:17.89,1:01:18.78,Bot,,0000,0000,0000,,No.
+Dialogue: 0,1:01:17.99,1:01:18.88,Top,,0000,0000,0000,,No.
+Dialogue: 0,1:01:20.04,1:01:22.11,Bot,,0000,0000,0000,,Me hizo fuerte.
+Dialogue: 0,1:01:20.14,1:01:22.22,Top,,0000,0000,0000,,Me hizo fuerte.
+Dialogue: 0,1:01:38.66,1:01:39.93,Bot,,0000,0000,0000,,Por aquí.
+Dialogue: 0,1:01:38.76,1:01:40.03,Top,,0000,0000,0000,,Por aquí.
+Dialogue: 0,1:01:41.41,1:01:44.75,Bot,,0000,0000,0000,,¡Los ojos! ¡Fueron los ojos!
+Dialogue: 0,1:01:41.51,1:01:44.85,Top,,0000,0000,0000,,¡Los ojos! ¡Fueron los ojos!
+Dialogue: 0,1:01:45.59,1:01:46.86,Bot,,0000,0000,0000,,Lo tenían en trance.
+Dialogue: 0,1:01:45.69,1:01:46.96,Top,,0000,0000,0000,,Lo tenían en trance.
+Dialogue: 0,1:01:48.08,1:01:49.94,Bot,,0000,0000,0000,,¡No! ¡No!
+Dialogue: 0,1:01:48.18,1:01:50.04,Top,,0000,0000,0000,,¡No! ¡No!
+Dialogue: 0,1:01:50.32,1:01:52.77,Bot,,0000,0000,0000,,Vamos. Vamos, Kubo.
+Dialogue: 0,1:01:50.42,1:01:52.87,Top,,0000,0000,0000,,Vamos. Vamos, Kubo.
+Dialogue: 0,1:01:53.02,1:01:56.23,Bot,,0000,0000,0000,,Despierta.\N¡Por favor, despierta!
+Dialogue: 0,1:01:53.12,1:01:56.33,Top,,0000,0000,0000,,Despierta.\N¡Por favor, despierta!
+Dialogue: 0,1:01:58.55,1:02:01.21,Bot,,0000,0000,0000,,Por favor, por favor.\NDespierta.
+Dialogue: 0,1:01:58.65,1:02:01.32,Top,,0000,0000,0000,,Por favor, por favor.\NDespierta.
+Dialogue: 0,1:02:02.23,1:02:06.11,Bot,,0000,0000,0000,,Va a estar bien.\NVa a estar bien.
+Dialogue: 0,1:02:02.33,1:02:06.21,Top,,0000,0000,0000,,Va a estar bien.\NVa a estar bien.
+Dialogue: 0,1:02:07.00,1:02:10.67,Bot,,0000,0000,0000,,Estoy aquí. Estoy aquí mismo.
+Dialogue: 0,1:02:07.10,1:02:10.77,Top,,0000,0000,0000,,Estoy aquí. Estoy aquí mismo.
+Dialogue: 0,1:02:34.23,1:02:37.36,Bot,,0000,0000,0000,,- Vi...\N- ¿Qué? ¿Qué viste?
+Dialogue: 0,1:02:34.33,1:02:37.46,Top,,0000,0000,0000,,- Vi...\N- ¿Qué? ¿Qué viste?
+Dialogue: 0,1:02:37.69,1:02:38.67,Bot,,0000,0000,0000,,Yo vi...
+Dialogue: 0,1:02:37.79,1:02:38.77,Top,,0000,0000,0000,,Yo vi...
+Dialogue: 0,1:02:41.28,1:02:42.21,Bot,,0000,0000,0000,,A mi mamá.
+Dialogue: 0,1:02:41.38,1:02:42.31,Top,,0000,0000,0000,,A mi mamá.
+Dialogue: 0,1:02:43.39,1:02:44.70,Bot,,0000,0000,0000,,Hijo mío.
+Dialogue: 0,1:02:43.49,1:02:44.80,Top,,0000,0000,0000,,Hijo mío.
+Dialogue: 0,1:02:58.17,1:03:01.17,Bot,,0000,0000,0000,,Por lo que debes de parecerte\Nmás como a tu papá que a...
+Dialogue: 0,1:02:58.27,1:03:01.27,Top,,0000,0000,0000,,Por lo que debes de parecerte\Nmás como a tu papá que a...
+Dialogue: 0,1:03:05.18,1:03:06.70,Bot,,0000,0000,0000,,Me están viendo fijamente.
+Dialogue: 0,1:03:05.28,1:03:06.80,Top,,0000,0000,0000,,Me están viendo fijamente.
+Dialogue: 0,1:03:07.76,1:03:10.42,Bot,,0000,0000,0000,,Déjame adivinar.\NTienes preguntas.
+Dialogue: 0,1:03:07.86,1:03:10.52,Top,,0000,0000,0000,,Déjame adivinar.\NTienes preguntas.
+Dialogue: 0,1:03:11.18,1:03:12.49,Bot,,0000,0000,0000,,- ¿Por qué?...\N- Yo empiezo.
+Dialogue: 0,1:03:11.28,1:03:12.59,Top,,0000,0000,0000,,- ¿Por qué?...\N- Yo empiezo.
+Dialogue: 0,1:03:12.91,1:03:16.12,Bot,,0000,0000,0000,,Primera pregunta. Si soy\NEscarabajo, y tú eres Mono,
+Dialogue: 0,1:03:13.01,1:03:16.22,Top,,0000,0000,0000,,Primera pregunta. Si soy\NEscarabajo, y tú eres Mono,
+Dialogue: 0,1:03:16.67,1:03:18.36,Bot,,0000,0000,0000,,¿por qué no se\Nllama él "Chico"?
+Dialogue: 0,1:03:16.77,1:03:18.46,Top,,0000,0000,0000,,¿por qué no se\Nllama él "Chico"?
+Dialogue: 0,1:03:20.47,1:03:21.52,Bot,,0000,0000,0000,,¡Ay, cielos!
+Dialogue: 0,1:03:20.57,1:03:21.62,Top,,0000,0000,0000,,¡Ay, cielos!
+Dialogue: 0,1:03:23.08,1:03:26.46,Bot,,0000,0000,0000,,Las preguntas pueden esperar.\NNecesitamos dormir.
+Dialogue: 0,1:03:23.18,1:03:26.56,Top,,0000,0000,0000,,Las preguntas pueden esperar.\NNecesitamos dormir.
+Dialogue: 0,1:03:26.63,1:03:29.88,Bot,,0000,0000,0000,,Cuéntanos tu historia.\NEntonces, podremos dormir.
+Dialogue: 0,1:03:26.73,1:03:29.98,Top,,0000,0000,0000,,Cuéntanos tu historia.\NEntonces, podremos dormir.
+Dialogue: 0,1:03:30.39,1:03:31.53,Bot,,0000,0000,0000,,¡Por favor!
+Dialogue: 0,1:03:30.49,1:03:31.63,Top,,0000,0000,0000,,¡Por favor!
+Dialogue: 0,1:03:32.88,1:03:36.01,Bot,,0000,0000,0000,,Está bien. Tal vez\Nme puedas ayudar.
+Dialogue: 0,1:03:32.98,1:03:36.11,Top,,0000,0000,0000,,Está bien. Tal vez\Nme puedas ayudar.
+Dialogue: 0,1:03:44.15,1:03:46.65,Bot,,0000,0000,0000,,La noche en que\Nconocí a tu papá...
+Dialogue: 0,1:03:44.25,1:03:46.75,Top,,0000,0000,0000,,La noche en que\Nconocí a tu papá...
+Dialogue: 0,1:03:50.78,1:03:51.71,Bot,,0000,0000,0000,,Mamá.
+Dialogue: 0,1:03:50.88,1:03:51.81,Top,,0000,0000,0000,,Mamá.
+Dialogue: 0,1:03:55.64,1:03:57.75,Bot,,0000,0000,0000,,Mis hermanas y\Nyo fuimos al...
+Dialogue: 0,1:03:55.74,1:03:57.85,Top,,0000,0000,0000,,Mis hermanas y\Nyo fuimos al...
+Dialogue: 0,1:03:57.79,1:04:00.92,Bot,,0000,0000,0000,,...Templo de los Huesos,\Npara matar a Hanzo.
+Dialogue: 0,1:03:57.89,1:04:01.02,Top,,0000,0000,0000,,...Templo de los Huesos,\Npara matar a Hanzo.
+Dialogue: 0,1:04:06.74,1:04:07.59,Bot,,0000,0000,0000,,Cierto.
+Dialogue: 0,1:04:06.84,1:04:07.69,Top,,0000,0000,0000,,Cierto.
+Dialogue: 0,1:04:15.19,1:04:17.13,Bot,,0000,0000,0000,,En la licitación\Ndel Rey Luna,
+Dialogue: 0,1:04:15.29,1:04:17.23,Top,,0000,0000,0000,,En la licitación\Ndel Rey Luna,
+Dialogue: 0,1:04:17.17,1:04:19.07,Bot,,0000,0000,0000,,mis hermanas y yo\Nhabíamos bajado...
+Dialogue: 0,1:04:17.27,1:04:19.17,Top,,0000,0000,0000,,mis hermanas y yo\Nhabíamos bajado...
+Dialogue: 0,1:04:19.12,1:04:22.37,Bot,,0000,0000,0000,,...del cielo nocturno, para\Nmatar a muchos nobles Guerreros.
+Dialogue: 0,1:04:19.22,1:04:22.47,Top,,0000,0000,0000,,...del cielo nocturno, para\Nmatar a muchos nobles Guerreros.
+Dialogue: 0,1:04:22.87,1:04:24.82,Bot,,0000,0000,0000,,Tu abuelo nos dijo...
+Dialogue: 0,1:04:22.97,1:04:24.92,Top,,0000,0000,0000,,Tu abuelo nos dijo...
+Dialogue: 0,1:04:25.32,1:04:27.98,Bot,,0000,0000,0000,,...que cualquier hombre que\Nencontrará la armadura mágica...
+Dialogue: 0,1:04:25.42,1:04:28.08,Top,,0000,0000,0000,,...que cualquier hombre que\Nencontrará la armadura mágica...
+Dialogue: 0,1:04:28.11,1:04:29.92,Bot,,0000,0000,0000,,...se haría demasiado\Npoderoso y...
+Dialogue: 0,1:04:28.21,1:04:30.03,Top,,0000,0000,0000,,...se haría demasiado\Npoderoso y...
+Dialogue: 0,1:04:29.96,1:04:31.74,Bot,,0000,0000,0000,,...sería una amenaza\Npara los Cielos.
+Dialogue: 0,1:04:30.06,1:04:31.84,Top,,0000,0000,0000,,...sería una amenaza\Npara los Cielos.
+Dialogue: 0,1:04:32.33,1:04:36.05,Bot,,0000,0000,0000,,Esa noche, llegué al Templo\Nantes que mis hermanas.
+Dialogue: 0,1:04:32.43,1:04:36.15,Top,,0000,0000,0000,,Esa noche, llegué al Templo\Nantes que mis hermanas.
+Dialogue: 0,1:04:37.78,1:04:41.07,Bot,,0000,0000,0000,,Y allí estaba él,\Nel poderoso Hanzo.
+Dialogue: 0,1:04:37.88,1:04:41.17,Top,,0000,0000,0000,,Y allí estaba él,\Nel poderoso Hanzo.
+Dialogue: 0,1:04:44.49,1:04:47.41,Bot,,0000,0000,0000,,"Has ofendido\Na mi papá", le dije.
+Dialogue: 0,1:04:44.59,1:04:47.51,Top,,0000,0000,0000,,"Has ofendido\Na mi papá", le dije.
+Dialogue: 0,1:04:47.62,1:04:49.31,Bot,,0000,0000,0000,,"Ahora tienes que morir".
+Dialogue: 0,1:04:47.72,1:04:49.41,Top,,0000,0000,0000,,"Ahora tienes que morir".
+Dialogue: 0,1:04:49.39,1:04:53.36,Bot,,0000,0000,0000,,- Sí, eso es muy tuyo.\N- ¡Escarabajo, shhh!
+Dialogue: 0,1:04:49.49,1:04:53.46,Top,,0000,0000,0000,,- Sí, eso es muy tuyo.\N- ¡Escarabajo, shhh!
+Dialogue: 0,1:04:54.63,1:04:55.81,Bot,,0000,0000,0000,,Peleamos...
+Dialogue: 0,1:04:54.73,1:04:55.91,Top,,0000,0000,0000,,Peleamos...
+Dialogue: 0,1:05:01.25,1:05:04.93,Bot,,0000,0000,0000,,Hanzo era fuerte.\NPero luego se detuvo.
+Dialogue: 0,1:05:01.35,1:05:05.03,Top,,0000,0000,0000,,Hanzo era fuerte.\NPero luego se detuvo.
+Dialogue: 0,1:05:05.98,1:05:09.53,Bot,,0000,0000,0000,,Me miró a los ojos y pronunció\Ncuatro palabras sencillas.
+Dialogue: 0,1:05:06.08,1:05:09.63,Top,,0000,0000,0000,,Me miró a los ojos y pronunció\Ncuatro palabras sencillas.
+Dialogue: 0,1:05:10.54,1:05:12.70,Bot,,0000,0000,0000,,Estas palabras lo\Ncambiaron todo.
+Dialogue: 0,1:05:10.64,1:05:12.80,Top,,0000,0000,0000,,Estas palabras lo\Ncambiaron todo.
+Dialogue: 0,1:05:13.46,1:05:17.13,Bot,,0000,0000,0000,,"Yo te amo"...
+Dialogue: 0,1:05:13.56,1:05:17.23,Top,,0000,0000,0000,,"Yo te amo"...
+Dialogue: 0,1:05:18.02,1:05:19.03,Bot,,0000,0000,0000,,"Mono".
+Dialogue: 0,1:05:18.12,1:05:19.13,Top,,0000,0000,0000,,"Mono".
+Dialogue: 0,1:05:21.40,1:05:24.82,Bot,,0000,0000,0000,,"Tú eres mi búsqueda",\Nsusurró.
+Dialogue: 0,1:05:21.50,1:05:24.92,Top,,0000,0000,0000,,"Tú eres mi búsqueda",\Nsusurró.
+Dialogue: 0,1:05:25.58,1:05:27.90,Bot,,0000,0000,0000,,Había visto las\Nmaravillas del Universo,
+Dialogue: 0,1:05:25.68,1:05:28.00,Top,,0000,0000,0000,,Había visto las\Nmaravillas del Universo,
+Dialogue: 0,1:05:27.94,1:05:32.21,Bot,,0000,0000,0000,,pero el calor de su mirada,\Nmientras me miraba a los ojos,
+Dialogue: 0,1:05:28.04,1:05:32.31,Top,,0000,0000,0000,,pero el calor de su mirada,\Nmientras me miraba a los ojos,
+Dialogue: 0,1:05:32.92,1:05:36.34,Bot,,0000,0000,0000,,eso...\NEso no lo había conocido.
+Dialogue: 0,1:05:33.02,1:05:36.45,Top,,0000,0000,0000,,eso...\NEso no lo había conocido.
+Dialogue: 0,1:05:36.85,1:05:39.00,Bot,,0000,0000,0000,,Fue la humanidad que vi.
+Dialogue: 0,1:05:36.95,1:05:39.10,Top,,0000,0000,0000,,Fue la humanidad que vi.
+Dialogue: 0,1:05:39.26,1:05:42.97,Bot,,0000,0000,0000,,Y eso era más poderoso que\Ncualquier cosa en mi frío Reino.
+Dialogue: 0,1:05:39.36,1:05:43.07,Top,,0000,0000,0000,,Y eso era más poderoso que\Ncualquier cosa en mi frío Reino.
+Dialogue: 0,1:05:43.86,1:05:48.42,Bot,,0000,0000,0000,,Y en reconocimiento de su\Ncompasión, reconocí la mía.
+Dialogue: 0,1:05:43.96,1:05:48.52,Top,,0000,0000,0000,,Y en reconocimiento de su\Ncompasión, reconocí la mía.
+Dialogue: 0,1:05:49.14,1:05:52.81,Bot,,0000,0000,0000,,Perdoné su vida,\Ny el perdonó la mía.
+Dialogue: 0,1:05:49.24,1:05:52.91,Top,,0000,0000,0000,,Perdoné su vida,\Ny el perdonó la mía.
+Dialogue: 0,1:05:53.99,1:05:56.74,Bot,,0000,0000,0000,,Y, luego me dio a ti.
+Dialogue: 0,1:05:54.09,1:05:56.84,Top,,0000,0000,0000,,Y, luego me dio a ti.
+Dialogue: 0,1:05:58.05,1:05:59.86,Bot,,0000,0000,0000,,Sin embargo, tu\Nabuelo nos encontró.
+Dialogue: 0,1:05:58.15,1:05:59.96,Top,,0000,0000,0000,,Sin embargo, tu\Nabuelo nos encontró.
+Dialogue: 0,1:06:00.96,1:06:04.80,Bot,,0000,0000,0000,,Su rabia y mi traición\Nsacudieron a los Cielos.
+Dialogue: 0,1:06:01.06,1:06:04.90,Top,,0000,0000,0000,,Su rabia y mi traición\Nsacudieron a los Cielos.
+Dialogue: 0,1:06:09.95,1:06:12.53,Bot,,0000,0000,0000,,Tu papá y su\Nejército dieron su vida...
+Dialogue: 0,1:06:10.05,1:06:12.63,Top,,0000,0000,0000,,Tu papá y su\Nejército dieron su vida...
+Dialogue: 0,1:06:13.46,1:06:16.37,Bot,,0000,0000,0000,,...permitiéndome escapar\Ncontigo en mis brazos.
+Dialogue: 0,1:06:13.56,1:06:16.47,Top,,0000,0000,0000,,...permitiéndome escapar\Ncontigo en mis brazos.
+Dialogue: 0,1:06:19.83,1:06:22.71,Bot,,0000,0000,0000,,¿Por qué el abuelo me odia?
+Dialogue: 0,1:06:19.93,1:06:22.81,Top,,0000,0000,0000,,¿Por qué el abuelo me odia?
+Dialogue: 0,1:06:23.38,1:06:27.73,Bot,,0000,0000,0000,,Ay Kubo, él no te odia.
+Dialogue: 0,1:06:23.48,1:06:27.83,Top,,0000,0000,0000,,Ay Kubo, él no te odia.
+Dialogue: 0,1:06:28.11,1:06:30.69,Bot,,0000,0000,0000,,Quiere hacerte\Nigual que él.
+Dialogue: 0,1:06:28.21,1:06:30.79,Top,,0000,0000,0000,,Quiere hacerte\Nigual que él.
+Dialogue: 0,1:06:31.23,1:06:35.92,Bot,,0000,0000,0000,,Ciego a la humanidad,\Ncomo yo lo fui una vez.
+Dialogue: 0,1:06:31.33,1:06:36.02,Top,,0000,0000,0000,,Ciego a la humanidad,\Ncomo yo lo fui una vez.
+Dialogue: 0,1:06:36.47,1:06:38.52,Bot,,0000,0000,0000,,Sólo entonces podrás\Ntomar tu lugar...
+Dialogue: 0,1:06:36.57,1:06:38.62,Top,,0000,0000,0000,,Sólo entonces podrás\Ntomar tu lugar...
+Dialogue: 0,1:06:38.55,1:06:40.57,Bot,,0000,0000,0000,,...a su lado, como\Nparte de su familia.
+Dialogue: 0,1:06:38.65,1:06:40.67,Top,,0000,0000,0000,,...a su lado, como\Nparte de su familia.
+Dialogue: 0,1:06:41.03,1:06:46.05,Bot,,0000,0000,0000,,Frío y duro, y perfecto.
+Dialogue: 0,1:06:41.13,1:06:46.16,Top,,0000,0000,0000,,Frío y duro, y perfecto.
+Dialogue: 0,1:06:47.24,1:06:49.94,Bot,,0000,0000,0000,,Nunca seré como él. Nunca.
+Dialogue: 0,1:06:47.34,1:06:50.04,Top,,0000,0000,0000,,Nunca seré como él. Nunca.
+Dialogue: 0,1:06:52.89,1:06:53.87,Bot,,0000,0000,0000,,Lo sé.
+Dialogue: 0,1:06:52.99,1:06:53.97,Top,,0000,0000,0000,,Lo sé.
+Dialogue: 0,1:07:05.14,1:07:06.41,Bot,,0000,0000,0000,,Está agotado.
+Dialogue: 0,1:07:05.24,1:07:06.51,Top,,0000,0000,0000,,Está agotado.
+Dialogue: 0,1:07:08.64,1:07:11.18,Bot,,0000,0000,0000,,- Yo también.\N- No voy a arroparte a ti.
+Dialogue: 0,1:07:08.74,1:07:11.28,Top,,0000,0000,0000,,- Yo también.\N- No voy a arroparte a ti.
+Dialogue: 0,1:07:16.12,1:07:17.09,Bot,,0000,0000,0000,,¿Estás herida?
+Dialogue: 0,1:07:16.22,1:07:17.19,Top,,0000,0000,0000,,¿Estás herida?
+Dialogue: 0,1:07:18.69,1:07:20.00,Bot,,0000,0000,0000,,Es sólo un rasguño.
+Dialogue: 0,1:07:18.79,1:07:20.10,Top,,0000,0000,0000,,Es sólo un rasguño.
+Dialogue: 0,1:07:22.49,1:07:28.02,Bot,,0000,0000,0000,,Mono, ¿por qué no le dijiste antes,\Nquien eras realmente?
+Dialogue: 0,1:07:22.59,1:07:28.13,Top,,0000,0000,0000,,Mono, ¿por qué no le dijiste antes,\Nquien eras realmente?
+Dialogue: 0,1:07:29.54,1:07:34.19,Bot,,0000,0000,0000,,La magia que me mantiene\Naquí, se desvanece.
+Dialogue: 0,1:07:29.64,1:07:34.29,Top,,0000,0000,0000,,La magia que me mantiene\Naquí, se desvanece.
+Dialogue: 0,1:07:35.12,1:07:40.14,Bot,,0000,0000,0000,,Pronto me habré ido, y luego\NKubo se quedará solo otra vez.
+Dialogue: 0,1:07:35.22,1:07:40.24,Top,,0000,0000,0000,,Pronto me habré ido, y luego\NKubo se quedará solo otra vez.
+Dialogue: 0,1:07:40.44,1:07:44.32,Bot,,0000,0000,0000,,No solo.\NÉl es el hijo de Hanzo.
+Dialogue: 0,1:07:40.54,1:07:44.42,Top,,0000,0000,0000,,No solo.\NÉl es el hijo de Hanzo.
+Dialogue: 0,1:07:44.36,1:07:47.83,Bot,,0000,0000,0000,,Voy a hacer todo lo posible,\Npara evitarle algún daño.
+Dialogue: 0,1:07:44.46,1:07:47.93,Top,,0000,0000,0000,,Voy a hacer todo lo posible,\Npara evitarle algún daño.
+Dialogue: 0,1:07:48.67,1:07:50.40,Bot,,0000,0000,0000,,Gracias, Escarabajo.
+Dialogue: 0,1:07:48.77,1:07:50.50,Top,,0000,0000,0000,,Gracias, Escarabajo.
+Dialogue: 0,1:07:50.78,1:07:52.68,Bot,,0000,0000,0000,,El saber que Kubo tiene a...
+Dialogue: 0,1:07:50.88,1:07:52.78,Top,,0000,0000,0000,,El saber que Kubo tiene a...
+Dialogue: 0,1:07:52.73,1:07:55.47,Bot,,0000,0000,0000,,...alguien que lo cuide,\Ncuando me haya ido,
+Dialogue: 0,1:07:52.83,1:07:55.57,Top,,0000,0000,0000,,...alguien que lo cuide,\Ncuando me haya ido,
+Dialogue: 0,1:07:57.07,1:07:59.65,Bot,,0000,0000,0000,,eso sería una buena manera\Nde terminar mi historia.
+Dialogue: 0,1:07:57.17,1:07:59.75,Top,,0000,0000,0000,,eso sería una buena manera\Nde terminar mi historia.
+Dialogue: 0,1:08:00.92,1:08:04.38,Bot,,0000,0000,0000,,Tu historia no\Ntendrá un final.
+Dialogue: 0,1:08:01.02,1:08:04.48,Top,,0000,0000,0000,,Tu historia no\Ntendrá un final.
+Dialogue: 0,1:08:04.46,1:08:07.08,Bot,,0000,0000,0000,,Será contada por él, y por...
+Dialogue: 0,1:08:04.56,1:08:07.18,Top,,0000,0000,0000,,Será contada por él, y por...
+Dialogue: 0,1:08:07.12,1:08:09.02,Bot,,0000,0000,0000,,...las personas con\Nlas que la comparta.
+Dialogue: 0,1:08:07.22,1:08:09.13,Top,,0000,0000,0000,,...las personas con\Nlas que la comparta.
+Dialogue: 0,1:08:09.11,1:08:16.29,Bot,,0000,0000,0000,,Y por las personas\Na quien compartan.
+Dialogue: 0,1:08:09.21,1:08:16.39,Top,,0000,0000,0000,,Y por las personas\Na quien compartan.
+Dialogue: 0,1:08:16.33,1:08:18.14,Bot,,0000,0000,0000,,- Y por las personas...\N- Escarabajo.
+Dialogue: 0,1:08:16.43,1:08:18.25,Top,,0000,0000,0000,,- Y por las personas...\N- Escarabajo.
+Dialogue: 0,1:08:18.40,1:08:24.90,Bot,,0000,0000,0000,,El punto es, que tu\Nhistoria vivirá en él.
+Dialogue: 0,1:08:18.50,1:08:25.00,Top,,0000,0000,0000,,El punto es, que tu\Nhistoria vivirá en él.
+Dialogue: 0,1:08:55.00,1:08:56.74,Bot,,0000,0000,0000,,Hola, mi joven amigo.
+Dialogue: 0,1:08:55.10,1:08:56.84,Top,,0000,0000,0000,,Hola, mi joven amigo.
+Dialogue: 0,1:08:57.45,1:08:59.61,Bot,,0000,0000,0000,,¿Por qué no me\Nacompañas en mi canción?
+Dialogue: 0,1:08:57.55,1:08:59.71,Top,,0000,0000,0000,,¿Por qué no me\Nacompañas en mi canción?
+Dialogue: 0,1:09:00.66,1:09:04.46,Bot,,0000,0000,0000,,- ¿Pero, cómo es que... Tú estás...\N- ¿Incluso más ciego que tú?
+Dialogue: 0,1:09:00.76,1:09:04.56,Top,,0000,0000,0000,,- ¿Pero, cómo es que... Tú estás...\N- ¿Incluso más ciego que tú?
+Dialogue: 0,1:09:05.27,1:09:07.25,Bot,,0000,0000,0000,,El doble, para ser preciso.
+Dialogue: 0,1:09:05.37,1:09:07.35,Top,,0000,0000,0000,,El doble, para ser preciso.
+Dialogue: 0,1:09:08.60,1:09:11.94,Bot,,0000,0000,0000,,Lo que significa que veo\Nel doble de la verdad.
+Dialogue: 0,1:09:08.70,1:09:12.04,Top,,0000,0000,0000,,Lo que significa que veo\Nel doble de la verdad.
+Dialogue: 0,1:09:12.49,1:09:13.96,Bot,,0000,0000,0000,,Todo esto es un sueño.
+Dialogue: 0,1:09:12.59,1:09:14.07,Top,,0000,0000,0000,,Todo esto es un sueño.
+Dialogue: 0,1:09:15.19,1:09:17.26,Bot,,0000,0000,0000,,¿Es este un buen\Nsueño o una pesadilla?
+Dialogue: 0,1:09:15.29,1:09:17.36,Top,,0000,0000,0000,,¿Es este un buen\Nsueño o una pesadilla?
+Dialogue: 0,1:09:17.59,1:09:19.33,Bot,,0000,0000,0000,,Ve por ti mismo.
+Dialogue: 0,1:09:17.69,1:09:19.43,Top,,0000,0000,0000,,Ve por ti mismo.
+Dialogue: 0,1:09:36.89,1:09:40.40,Bot,,0000,0000,0000,,- La fortaleza de mi papá.\N- Sí.
+Dialogue: 0,1:09:36.99,1:09:40.50,Top,,0000,0000,0000,,- La fortaleza de mi papá.\N- Sí.
+Dialogue: 0,1:09:47.11,1:09:49.90,Bot,,0000,0000,0000,,La última pieza de la\Narmadura. ¿Está ahí?
+Dialogue: 0,1:09:47.21,1:09:50.00,Top,,0000,0000,0000,,La última pieza de la\Narmadura. ¿Está ahí?
+Dialogue: 0,1:09:50.82,1:09:54.03,Bot,,0000,0000,0000,,Sigue el sol poniente\Ny la encontrarás.
+Dialogue: 0,1:09:50.92,1:09:54.14,Top,,0000,0000,0000,,Sigue el sol poniente\Ny la encontrarás.
+Dialogue: 0,1:09:54.24,1:09:57.24,Bot,,0000,0000,0000,,En el lugar que pudo\Nhaber sido tu hogar.
+Dialogue: 0,1:09:54.34,1:09:57.34,Top,,0000,0000,0000,,En el lugar que pudo\Nhaber sido tu hogar.
+Dialogue: 0,1:09:58.17,1:10:00.96,Bot,,0000,0000,0000,,Reclama tu derecho\Nde nacimiento, Kubo.
+Dialogue: 0,1:09:58.27,1:10:01.06,Top,,0000,0000,0000,,Reclama tu derecho\Nde nacimiento, Kubo.
+Dialogue: 0,1:10:01.97,1:10:05.56,Bot,,0000,0000,0000,,Dale a esta historia,\Nun final feliz.
+Dialogue: 0,1:10:02.07,1:10:05.66,Top,,0000,0000,0000,,Dale a esta historia,\Nun final feliz.
+Dialogue: 0,1:10:10.59,1:10:12.61,Bot,,0000,0000,0000,,Mamá, Escarabajo,\Ndespierten.
+Dialogue: 0,1:10:10.69,1:10:12.71,Top,,0000,0000,0000,,Mamá, Escarabajo,\Ndespierten.
+Dialogue: 0,1:10:12.65,1:10:15.86,Bot,,0000,0000,0000,,- Estoy levantada. Estoy levantada.\N- Estoy caído.
+Dialogue: 0,1:10:12.75,1:10:15.97,Top,,0000,0000,0000,,- Estoy levantada. Estoy levantada.\N- Estoy caído.
+Dialogue: 0,1:10:18.02,1:10:20.04,Bot,,0000,0000,0000,,Creo que he\Ndormido sobre algo.
+Dialogue: 0,1:10:18.12,1:10:20.15,Top,,0000,0000,0000,,Creo que he\Ndormido sobre algo.
+Dialogue: 0,1:10:21.65,1:10:23.51,Bot,,0000,0000,0000,,La espada incómoda.
+Dialogue: 0,1:10:21.75,1:10:23.61,Top,,0000,0000,0000,,La espada incómoda.
+Dialogue: 0,1:10:23.55,1:10:25.70,Bot,,0000,0000,0000,,El casco, sé dónde está.
+Dialogue: 0,1:10:23.65,1:10:25.80,Top,,0000,0000,0000,,El casco, sé dónde está.
+Dialogue: 0,1:10:25.74,1:10:27.35,Bot,,0000,0000,0000,,Lo vi en el sueño,\NEscarabajo.
+Dialogue: 0,1:10:25.84,1:10:27.45,Top,,0000,0000,0000,,Lo vi en el sueño,\NEscarabajo.
+Dialogue: 0,1:10:27.98,1:10:29.16,Bot,,0000,0000,0000,,Un sueño...
+Dialogue: 0,1:10:28.08,1:10:29.26,Top,,0000,0000,0000,,Un sueño...
+Dialogue: 0,1:10:29.97,1:10:32.88,Bot,,0000,0000,0000,,Eso no quiere decir\Nnada en particular.
+Dialogue: 0,1:10:30.07,1:10:32.98,Top,,0000,0000,0000,,Eso no quiere decir\Nnada en particular.
+Dialogue: 0,1:10:32.92,1:10:34.99,Bot,,0000,0000,0000,,Es decir, yo soñé que\Npelee con un gigantesco...
+Dialogue: 0,1:10:33.02,1:10:35.09,Top,,0000,0000,0000,,Es decir, yo soñé que\Npelee con un gigantesco...
+Dialogue: 0,1:10:35.03,1:10:36.77,Bot,,0000,0000,0000,,...esqueleto con\Nespadas en su cabeza.
+Dialogue: 0,1:10:35.13,1:10:36.87,Top,,0000,0000,0000,,...esqueleto con\Nespadas en su cabeza.
+Dialogue: 0,1:10:37.06,1:10:40.18,Bot,,0000,0000,0000,,- Eso realmente sucedió.\N- Cierto.
+Dialogue: 0,1:10:37.16,1:10:40.29,Top,,0000,0000,0000,,- Eso realmente sucedió.\N- Cierto.
+Dialogue: 0,1:10:40.99,1:10:44.07,Bot,,0000,0000,0000,,Escarabajo, vamos.\NPor aquí.
+Dialogue: 0,1:10:41.09,1:10:44.17,Top,,0000,0000,0000,,Escarabajo, vamos.\NPor aquí.
+Dialogue: 0,1:11:21.06,1:11:26.21,Bot,,0000,0000,0000,,Veo, veo con mi ojo algo\Nque empieza con una C.
+Dialogue: 0,1:11:21.16,1:11:26.31,Top,,0000,0000,0000,,Veo, veo con mi ojo algo\Nque empieza con una C.
+Dialogue: 0,1:11:28.91,1:11:30.43,Bot,,0000,0000,0000,,- ¿Cae nieve?\N- No.
+Dialogue: 0,1:11:29.01,1:11:30.53,Top,,0000,0000,0000,,- ¿Cae nieve?\N- No.
+Dialogue: 0,1:11:32.29,1:11:33.39,Bot,,0000,0000,0000,,¿Copo de nieve?
+Dialogue: 0,1:11:32.39,1:11:33.49,Top,,0000,0000,0000,,¿Copo de nieve?
+Dialogue: 0,1:11:33.47,1:11:35.33,Bot,,0000,0000,0000,,- No.\N- Está bien.
+Dialogue: 0,1:11:33.57,1:11:35.43,Top,,0000,0000,0000,,- No.\N- Está bien.
+Dialogue: 0,1:11:37.14,1:11:40.23,Bot,,0000,0000,0000,,- ¿Árboles cubiertos de nieve?\N- Nada que ver con la nieve.
+Dialogue: 0,1:11:37.24,1:11:40.33,Top,,0000,0000,0000,,- ¿Árboles cubiertos de nieve?\N- Nada que ver con la nieve.
+Dialogue: 0,1:11:41.03,1:11:42.97,Bot,,0000,0000,0000,,¿Qué tal algo en serio?
+Dialogue: 0,1:11:41.13,1:11:43.07,Top,,0000,0000,0000,,¿Qué tal algo en serio?
+Dialogue: 0,1:11:43.73,1:11:45.08,Bot,,0000,0000,0000,,Estúpido.
+Dialogue: 0,1:11:43.83,1:11:45.18,Top,,0000,0000,0000,,Estúpido.
+Dialogue: 0,1:11:46.18,1:11:48.71,Bot,,0000,0000,0000,,Está bien. Lo tengo. Nieve.
+Dialogue: 0,1:11:46.28,1:11:48.82,Top,,0000,0000,0000,,Está bien. Lo tengo. Nieve.
+Dialogue: 0,1:11:49.09,1:11:52.85,Bot,,0000,0000,0000,,- Dijo que no era nieve.\N- Es una canción.
+Dialogue: 0,1:11:49.19,1:11:52.95,Top,,0000,0000,0000,,- Dijo que no era nieve.\N- Es una canción.
+Dialogue: 0,1:11:53.27,1:11:56.02,Bot,,0000,0000,0000,,No es justo. ¿Cómo ves a\Nuna "canción"?
+Dialogue: 0,1:11:53.37,1:11:56.12,Top,,0000,0000,0000,,No es justo. ¿Cómo ves a\Nuna "canción"?
+Dialogue: 0,1:11:56.31,1:11:57.45,Bot,,0000,0000,0000,,La ves.
+Dialogue: 0,1:11:56.41,1:11:57.56,Top,,0000,0000,0000,,La ves.
+Dialogue: 0,1:11:59.82,1:12:01.51,Bot,,0000,0000,0000,,Garzas doradas.
+Dialogue: 0,1:11:59.92,1:12:01.61,Top,,0000,0000,0000,,Garzas doradas.
+Dialogue: 0,1:12:02.14,1:12:04.76,Bot,,0000,0000,0000,,Se cree que ellas retienen\Na las almas de los muertos,
+Dialogue: 0,1:12:02.24,1:12:04.86,Top,,0000,0000,0000,,Se cree que ellas retienen\Na las almas de los muertos,
+Dialogue: 0,1:12:05.01,1:12:07.50,Bot,,0000,0000,0000,,...llevándolas a donde\Nnecesiten ir.
+Dialogue: 0,1:12:05.11,1:12:07.60,Top,,0000,0000,0000,,...llevándolas a donde\Nnecesiten ir.
+Dialogue: 0,1:12:10.08,1:12:11.73,Bot,,0000,0000,0000,,¿Qué están cantando?
+Dialogue: 0,1:12:10.18,1:12:11.83,Top,,0000,0000,0000,,¿Qué están cantando?
+Dialogue: 0,1:12:12.95,1:12:16.20,Bot,,0000,0000,0000,,- Es hermoso.\N- Muchos dicen que las canciones...
+Dialogue: 0,1:12:13.05,1:12:16.30,Top,,0000,0000,0000,,- Es hermoso.\N- Muchos dicen que las canciones...
+Dialogue: 0,1:12:16.24,1:12:18.02,Bot,,0000,0000,0000,,...son sobre lo que pasa,\Ncuando morimos.
+Dialogue: 0,1:12:16.34,1:12:18.12,Top,,0000,0000,0000,,...son sobre lo que pasa,\Ncuando morimos.
+Dialogue: 0,1:12:18.82,1:12:22.24,Bot,,0000,0000,0000,,Cómo no simplemente\Ndesaparecemos.
+Dialogue: 0,1:12:18.92,1:12:22.34,Top,,0000,0000,0000,,Cómo no simplemente\Ndesaparecemos.
+Dialogue: 0,1:12:22.45,1:12:26.08,Bot,,0000,0000,0000,,¿No lo hacemos? ¿Por lo tanto,\Nqué nos pasa?
+Dialogue: 0,1:12:22.55,1:12:26.18,Top,,0000,0000,0000,,¿No lo hacemos? ¿Por lo tanto,\Nqué nos pasa?
+Dialogue: 0,1:12:26.12,1:12:28.53,Bot,,0000,0000,0000,,Como el papel de\NKubo, cambiamos.
+Dialogue: 0,1:12:26.22,1:12:28.63,Top,,0000,0000,0000,,Como el papel de\NKubo, cambiamos.
+Dialogue: 0,1:12:28.74,1:12:31.02,Bot,,0000,0000,0000,,Nos transformamos, para\Nque podamos seguir...
+Dialogue: 0,1:12:28.84,1:12:31.12,Top,,0000,0000,0000,,Nos transformamos, para\Nque podamos seguir...
+Dialogue: 0,1:12:31.06,1:12:32.50,Bot,,0000,0000,0000,,...nuestra historia\Nen otro lugar.
+Dialogue: 0,1:12:31.16,1:12:32.60,Top,,0000,0000,0000,,...nuestra historia\Nen otro lugar.
+Dialogue: 0,1:12:33.09,1:12:37.02,Bot,,0000,0000,0000,,El final de una historia, no es\Nmás que el comienzo de otra.
+Dialogue: 0,1:12:33.19,1:12:37.12,Top,,0000,0000,0000,,El final de una historia, no es\Nmás que el comienzo de otra.
+Dialogue: 0,1:12:59.95,1:13:01.85,Bot,,0000,0000,0000,,Recuerdo a este lugar.
+Dialogue: 0,1:13:00.05,1:13:01.95,Top,,0000,0000,0000,,Recuerdo a este lugar.
+Dialogue: 0,1:13:42.59,1:13:45.29,Bot,,0000,0000,0000,,Aquí es donde mi papá\Nse preparó para su búsqueda.
+Dialogue: 0,1:13:42.69,1:13:45.40,Top,,0000,0000,0000,,Aquí es donde mi papá\Nse preparó para su búsqueda.
+Dialogue: 0,1:14:10.54,1:14:12.27,Bot,,0000,0000,0000,,Hay algo que no entiendo.
+Dialogue: 0,1:14:10.64,1:14:12.37,Top,,0000,0000,0000,,Hay algo que no entiendo.
+Dialogue: 0,1:14:12.91,1:14:14.89,Bot,,0000,0000,0000,,¿Por qué el casco\Nestaría aquí?
+Dialogue: 0,1:14:13.01,1:14:14.99,Top,,0000,0000,0000,,¿Por qué el casco\Nestaría aquí?
+Dialogue: 0,1:14:19.66,1:14:20.85,Bot,,0000,0000,0000,,¡Kubo!
+Dialogue: 0,1:14:19.76,1:14:20.95,Top,,0000,0000,0000,,¡Kubo!
+Dialogue: 0,1:14:52.81,1:14:54.33,Bot,,0000,0000,0000,,¡Libéranos!
+Dialogue: 0,1:14:52.91,1:14:54.43,Top,,0000,0000,0000,,¡Libéranos!
+Dialogue: 0,1:14:54.71,1:14:56.53,Bot,,0000,0000,0000,,Hermana.
+Dialogue: 0,1:14:54.81,1:14:56.63,Top,,0000,0000,0000,,Hermana.
+Dialogue: 0,1:14:58.13,1:15:00.41,Bot,,0000,0000,0000,,Recuerdo cómo solíamos\Nadmirarte.
+Dialogue: 0,1:14:58.23,1:15:00.51,Top,,0000,0000,0000,,Recuerdo cómo solíamos\Nadmirarte.
+Dialogue: 0,1:15:01.47,1:15:04.04,Bot,,0000,0000,0000,,De todas nosotras,\Neras quien más brillabas.
+Dialogue: 0,1:15:01.57,1:15:04.14,Top,,0000,0000,0000,,De todas nosotras,\Neras quien más brillabas.
+Dialogue: 0,1:15:04.93,1:15:06.45,Bot,,0000,0000,0000,,Un desperdicio.
+Dialogue: 0,1:15:05.03,1:15:06.55,Top,,0000,0000,0000,,Un desperdicio.
+Dialogue: 0,1:15:07.08,1:15:08.64,Bot,,0000,0000,0000,,Todo lo que deseamos\Nsiempre, era ser una...
+Dialogue: 0,1:15:07.18,1:15:08.74,Top,,0000,0000,0000,,Todo lo que deseamos\Nsiempre, era ser una...
+Dialogue: 0,1:15:08.68,1:15:11.73,Bot,,0000,0000,0000,,...familia, en nuestro hogar\Nentre las estrellas.
+Dialogue: 0,1:15:08.78,1:15:11.83,Top,,0000,0000,0000,,...familia, en nuestro hogar\Nentre las estrellas.
+Dialogue: 0,1:15:11.77,1:15:15.23,Bot,,0000,0000,0000,,Creo que tenemos muy diferentes\Ndefiniciones de "familia".
+Dialogue: 0,1:15:11.87,1:15:15.33,Top,,0000,0000,0000,,Creo que tenemos muy diferentes\Ndefiniciones de "familia".
+Dialogue: 0,1:15:15.26,1:15:17.09,Bot,,0000,0000,0000,,¡No lo toques, bruja!
+Dialogue: 0,1:15:15.36,1:15:17.19,Top,,0000,0000,0000,,¡No lo toques, bruja!
+Dialogue: 0,1:15:17.13,1:15:19.71,Bot,,0000,0000,0000,,Y entonces estás tú,\Nel insecto...
+Dialogue: 0,1:15:17.23,1:15:19.81,Top,,0000,0000,0000,,Y entonces estás tú,\Nel insecto...
+Dialogue: 0,1:15:19.75,1:15:22.28,Bot,,0000,0000,0000,,...ladrón que se robó el\Nalma de mi hermana.
+Dialogue: 0,1:15:19.85,1:15:22.38,Top,,0000,0000,0000,,...ladrón que se robó el\Nalma de mi hermana.
+Dialogue: 0,1:15:22.32,1:15:23.13,Bot,,0000,0000,0000,,¿Qué?
+Dialogue: 0,1:15:22.42,1:15:23.23,Top,,0000,0000,0000,,¿Qué?
+Dialogue: 0,1:15:25.19,1:15:27.10,Bot,,0000,0000,0000,,Esto es muy hermoso.
+Dialogue: 0,1:15:25.29,1:15:27.20,Top,,0000,0000,0000,,Esto es muy hermoso.
+Dialogue: 0,1:15:27.22,1:15:29.21,Bot,,0000,0000,0000,,Han estado juntos\Ntodo este tiempo...
+Dialogue: 0,1:15:27.32,1:15:29.31,Top,,0000,0000,0000,,Han estado juntos\Ntodo este tiempo...
+Dialogue: 0,1:15:29.24,1:15:31.19,Bot,,0000,0000,0000,,...¿y ni siquiera\Nse han dado cuenta?
+Dialogue: 0,1:15:29.34,1:15:31.29,Top,,0000,0000,0000,,...¿y ni siquiera\Nse han dado cuenta?
+Dialogue: 0,1:15:36.09,1:15:38.43,Bot,,0000,0000,0000,,Nos la quitaste.\NEra más que...
+Dialogue: 0,1:15:36.19,1:15:38.53,Top,,0000,0000,0000,,Nos la quitaste.\NEra más que...
+Dialogue: 0,1:15:38.47,1:15:40.78,Bot,,0000,0000,0000,,...apropiado el\Nquitarte algo a ti.
+Dialogue: 0,1:15:38.57,1:15:40.88,Top,,0000,0000,0000,,...apropiado el\Nquitarte algo a ti.
+Dialogue: 0,1:15:41.32,1:15:44.53,Bot,,0000,0000,0000,,Con cuanta rapidez esos recuerdos\Nse derramaron de tu cabeza,
+Dialogue: 0,1:15:41.42,1:15:44.63,Top,,0000,0000,0000,,Con cuanta rapidez esos recuerdos\Nse derramaron de tu cabeza,
+Dialogue: 0,1:15:44.58,1:15:47.91,Bot,,0000,0000,0000,,borrando todo recuerdo de\Nsu obscena unión...
+Dialogue: 0,1:15:44.68,1:15:48.01,Top,,0000,0000,0000,,borrando todo recuerdo de\Nsu obscena unión...
+Dialogue: 0,1:15:48.67,1:15:51.46,Bot,,0000,0000,0000,,- Hanzo.\N- ¿Qué?
+Dialogue: 0,1:15:48.77,1:15:51.56,Top,,0000,0000,0000,,- Hanzo.\N- ¿Qué?
+Dialogue: 0,1:15:52.51,1:15:53.65,Bot,,0000,0000,0000,,¿Hanzo?
+Dialogue: 0,1:15:52.61,1:15:53.75,Top,,0000,0000,0000,,¿Hanzo?
+Dialogue: 0,1:15:55.38,1:15:57.54,Bot,,0000,0000,0000,,No lo sabía.
+Dialogue: 0,1:15:55.48,1:15:57.64,Top,,0000,0000,0000,,No lo sabía.
+Dialogue: 0,1:16:00.75,1:16:01.80,Bot,,0000,0000,0000,,¡No!
+Dialogue: 0,1:16:00.85,1:16:01.90,Top,,0000,0000,0000,,¡No!
+Dialogue: 0,1:16:07.42,1:16:10.84,Bot,,0000,0000,0000,,Estoy olvidando\Npor qué vine aquí.
+Dialogue: 0,1:16:07.52,1:16:10.94,Top,,0000,0000,0000,,Estoy olvidando\Npor qué vine aquí.
+Dialogue: 0,1:16:59.31,1:17:00.28,Bot,,0000,0000,0000,,¡Mamá!
+Dialogue: 0,1:16:59.41,1:17:00.38,Top,,0000,0000,0000,,¡Mamá!
+Dialogue: 0,1:17:17.89,1:17:19.66,Bot,,0000,0000,0000,,Está bien, estoy aquí.
+Dialogue: 0,1:17:17.99,1:17:19.76,Top,,0000,0000,0000,,Está bien, estoy aquí.
+Dialogue: 0,1:17:20.59,1:17:21.56,Bot,,0000,0000,0000,,Papá.
+Dialogue: 0,1:17:20.69,1:17:21.66,Top,,0000,0000,0000,,Papá.
+Dialogue: 0,1:17:22.75,1:17:23.63,Bot,,0000,0000,0000,,Hijo mío.
+Dialogue: 0,1:17:22.85,1:17:23.73,Top,,0000,0000,0000,,Hijo mío.
+Dialogue: 0,1:17:30.13,1:17:33.98,Bot,,0000,0000,0000,,- Parece que estoy casada con un bicho.\N- Sí.
+Dialogue: 0,1:17:30.23,1:17:34.08,Top,,0000,0000,0000,,- Parece que estoy casada con un bicho.\N- Sí.
+Dialogue: 0,1:17:35.33,1:17:36.76,Bot,,0000,0000,0000,,Un bicho Samurái.
+Dialogue: 0,1:17:35.43,1:17:36.87,Top,,0000,0000,0000,,Un bicho Samurái.
+Dialogue: 0,1:17:40.56,1:17:42.72,Bot,,0000,0000,0000,,Tú eres mi búsqueda.
+Dialogue: 0,1:17:40.66,1:17:42.82,Top,,0000,0000,0000,,Tú eres mi búsqueda.
+Dialogue: 0,1:17:43.81,1:17:45.51,Bot,,0000,0000,0000,,Siempre lo has sido.
+Dialogue: 0,1:17:43.91,1:17:45.61,Top,,0000,0000,0000,,Siempre lo has sido.
+Dialogue: 0,1:17:47.49,1:17:52.05,Bot,,0000,0000,0000,,Hanzo, mantenlo a salvo,\Nsin importar qué.
+Dialogue: 0,1:17:47.59,1:17:52.15,Top,,0000,0000,0000,,Hanzo, mantenlo a salvo,\Nsin importar qué.
+Dialogue: 0,1:17:54.41,1:17:55.93,Bot,,0000,0000,0000,,Prometo que lo haré.
+Dialogue: 0,1:17:54.51,1:17:56.03,Top,,0000,0000,0000,,Prometo que lo haré.
+Dialogue: 0,1:18:05.26,1:18:06.36,Bot,,0000,0000,0000,,¡No!
+Dialogue: 0,1:18:05.36,1:18:06.46,Top,,0000,0000,0000,,¡No!
+Dialogue: 0,1:18:09.32,1:18:11.64,Bot,,0000,0000,0000,,Vuela a casa, Kubo.
+Dialogue: 0,1:18:09.42,1:18:11.74,Top,,0000,0000,0000,,Vuela a casa, Kubo.
+Dialogue: 0,1:21:07.21,1:21:09.61,Bot,,0000,0000,0000,,¿Kubo, eres tú?
+Dialogue: 0,1:21:07.31,1:21:09.71,Top,,0000,0000,0000,,¿Kubo, eres tú?
+Dialogue: 0,1:21:12.06,1:21:13.92,Bot,,0000,0000,0000,,Tienen que salir\Nde este lugar.
+Dialogue: 0,1:21:12.16,1:21:14.02,Top,,0000,0000,0000,,Tienen que salir\Nde este lugar.
+Dialogue: 0,1:21:13.96,1:21:16.54,Bot,,0000,0000,0000,,El Rey Luna. Ya viene.
+Dialogue: 0,1:21:14.06,1:21:16.64,Top,,0000,0000,0000,,El Rey Luna. Ya viene.
+Dialogue: 0,1:21:30.22,1:21:34.02,Bot,,0000,0000,0000,,Abuelo, soy yo, Kubo.
+Dialogue: 0,1:21:30.32,1:21:34.12,Top,,0000,0000,0000,,Abuelo, soy yo, Kubo.
+Dialogue: 0,1:21:34.90,1:21:36.47,Bot,,0000,0000,0000,,Sé que me puedes ver.
+Dialogue: 0,1:21:35.00,1:21:36.57,Top,,0000,0000,0000,,Sé que me puedes ver.
+Dialogue: 0,1:21:39.42,1:21:41.11,Bot,,0000,0000,0000,,Hola, nieto.
+Dialogue: 0,1:21:39.52,1:21:41.21,Top,,0000,0000,0000,,Hola, nieto.
+Dialogue: 0,1:21:42.12,1:21:46.64,Bot,,0000,0000,0000,,Es bueno verte por fin.\NPor así decirlo.
+Dialogue: 0,1:21:42.22,1:21:46.74,Top,,0000,0000,0000,,Es bueno verte por fin.\NPor así decirlo.
+Dialogue: 0,1:21:48.92,1:21:52.60,Bot,,0000,0000,0000,,Y veo que has\Nencontrado la armadura.
+Dialogue: 0,1:21:49.02,1:21:52.70,Top,,0000,0000,0000,,Y veo que has\Nencontrado la armadura.
+Dialogue: 0,1:21:53.74,1:21:56.15,Bot,,0000,0000,0000,,Parece que tu mamá tenía\Nrazón en traerte...
+Dialogue: 0,1:21:53.84,1:21:56.25,Top,,0000,0000,0000,,Parece que tu mamá tenía\Nrazón en traerte...
+Dialogue: 0,1:21:56.19,1:21:58.30,Bot,,0000,0000,0000,,...a este horrible lugar,\Ndespués de todo.
+Dialogue: 0,1:21:56.29,1:21:58.40,Top,,0000,0000,0000,,...a este horrible lugar,\Ndespués de todo.
+Dialogue: 0,1:22:02.94,1:22:04.63,Bot,,0000,0000,0000,,Ya veo.
+Dialogue: 0,1:22:03.04,1:22:04.73,Top,,0000,0000,0000,,Ya veo.
+Dialogue: 0,1:22:06.36,1:22:09.82,Bot,,0000,0000,0000,,Sé que así es. Así es\Ncomo empezó todo esto.
+Dialogue: 0,1:22:06.46,1:22:09.93,Top,,0000,0000,0000,,Sé que así es. Así es\Ncomo empezó todo esto.
+Dialogue: 0,1:22:09.87,1:22:11.22,Bot,,0000,0000,0000,,Por fin me viste.
+Dialogue: 0,1:22:09.97,1:22:11.32,Top,,0000,0000,0000,,Por fin me viste.
+Dialogue: 0,1:22:11.89,1:22:15.36,Bot,,0000,0000,0000,,Fue mi culpa. Debí de haber\Nescuchado a mis papás.
+Dialogue: 0,1:22:11.99,1:22:15.46,Top,,0000,0000,0000,,Fue mi culpa. Debí de haber\Nescuchado a mis papás.
+Dialogue: 0,1:22:16.92,1:22:21.73,Bot,,0000,0000,0000,,Kubo, los dos\Nqueremos la misma cosa.
+Dialogue: 0,1:22:17.02,1:22:21.83,Top,,0000,0000,0000,,Kubo, los dos\Nqueremos la misma cosa.
+Dialogue: 0,1:22:21.77,1:22:23.34,Bot,,0000,0000,0000,,Quieres tomar mi otro ojo.
+Dialogue: 0,1:22:21.87,1:22:23.44,Top,,0000,0000,0000,,Quieres tomar mi otro ojo.
+Dialogue: 0,1:22:23.50,1:22:24.73,Bot,,0000,0000,0000,,¡Eso es lo que quieres!
+Dialogue: 0,1:22:23.60,1:22:24.83,Top,,0000,0000,0000,,¡Eso es lo que quieres!
+Dialogue: 0,1:22:26.42,1:22:30.81,Bot,,0000,0000,0000,,Sí. Pero, ¿sabes\Npor qué lo quiero?
+Dialogue: 0,1:22:26.52,1:22:30.91,Top,,0000,0000,0000,,Sí. Pero, ¿sabes\Npor qué lo quiero?
+Dialogue: 0,1:22:31.10,1:22:35.03,Bot,,0000,0000,0000,,Debido a que eres\Nviejo y malo y cruel.
+Dialogue: 0,1:22:31.20,1:22:35.13,Top,,0000,0000,0000,,Debido a que eres\Nviejo y malo y cruel.
+Dialogue: 0,1:22:35.24,1:22:37.19,Bot,,0000,0000,0000,,Vamos, eso es un poco duro.
+Dialogue: 0,1:22:35.34,1:22:37.29,Top,,0000,0000,0000,,Vamos, eso es un poco duro.
+Dialogue: 0,1:22:37.78,1:22:41.79,Bot,,0000,0000,0000,,Mientras te aferres\Na ese tonto ojo inútil...
+Dialogue: 0,1:22:37.88,1:22:41.89,Top,,0000,0000,0000,,Mientras te aferres\Na ese tonto ojo inútil...
+Dialogue: 0,1:22:42.04,1:22:47.36,Bot,,0000,0000,0000,,...no podrás venir a vivir\Nconmigo en los Cielos.
+Dialogue: 0,1:22:42.14,1:22:47.46,Top,,0000,0000,0000,,...no podrás venir a vivir\Nconmigo en los Cielos.
+Dialogue: 0,1:22:47.87,1:22:52.34,Bot,,0000,0000,0000,,Estarás atascado aquí\Nabajo en este Infierno,
+Dialogue: 0,1:22:47.97,1:22:52.44,Top,,0000,0000,0000,,Estarás atascado aquí\Nabajo en este Infierno,
+Dialogue: 0,1:22:52.51,1:22:55.93,Bot,,0000,0000,0000,,mirando fijamente\Ncon ese ojo solitario,
+Dialogue: 0,1:22:52.61,1:22:56.03,Top,,0000,0000,0000,,mirando fijamente\Ncon ese ojo solitario,
+Dialogue: 0,1:22:55.97,1:22:58.47,Bot,,0000,0000,0000,,el odio, y el dolor,
+Dialogue: 0,1:22:56.07,1:22:58.57,Top,,0000,0000,0000,,el odio, y el dolor,
+Dialogue: 0,1:22:58.51,1:23:02.10,Bot,,0000,0000,0000,,y el sufrimiento,\Ny la muerte.
+Dialogue: 0,1:22:58.61,1:23:02.20,Top,,0000,0000,0000,,y el sufrimiento,\Ny la muerte.
+Dialogue: 0,1:23:05.69,1:23:10.25,Bot,,0000,0000,0000,,Adonde quiero llevarte, no\Ntenemos ninguna de esas cosas.
+Dialogue: 0,1:23:05.79,1:23:10.35,Top,,0000,0000,0000,,Adonde quiero llevarte, no\Ntenemos ninguna de esas cosas.
+Dialogue: 0,1:23:10.54,1:23:15.78,Bot,,0000,0000,0000,,Sólo estarás tú con tu\Nfamilia, adonde perteneces.
+Dialogue: 0,1:23:10.64,1:23:15.88,Top,,0000,0000,0000,,Sólo estarás tú con tu\Nfamilia, adonde perteneces.
+Dialogue: 0,1:23:15.82,1:23:19.28,Bot,,0000,0000,0000,,Mi familia se ha ido.\NTú los mataste.
+Dialogue: 0,1:23:15.92,1:23:19.38,Top,,0000,0000,0000,,Mi familia se ha ido.\NTú los mataste.
+Dialogue: 0,1:23:19.32,1:23:23.93,Bot,,0000,0000,0000,,No. Ellos trajeron su\Ndestino sobre sí mismos.
+Dialogue: 0,1:23:19.42,1:23:24.03,Top,,0000,0000,0000,,No. Ellos trajeron su\Ndestino sobre sí mismos.
+Dialogue: 0,1:23:24.35,1:23:29.50,Bot,,0000,0000,0000,,¡Me deshonraron, y\Ntrastornaron el orden de todo!
+Dialogue: 0,1:23:24.45,1:23:29.60,Top,,0000,0000,0000,,¡Me deshonraron, y\Ntrastornaron el orden de todo!
+Dialogue: 0,1:23:29.67,1:23:31.95,Bot,,0000,0000,0000,,Así es como va tu historia.
+Dialogue: 0,1:23:29.77,1:23:32.05,Top,,0000,0000,0000,,Así es como va tu historia.
+Dialogue: 0,1:23:33.21,1:23:37.61,Bot,,0000,0000,0000,,Ay Kubo, cuando estés\Nahí arriba conmigo...
+Dialogue: 0,1:23:33.31,1:23:37.71,Top,,0000,0000,0000,,Ay Kubo, cuando estés\Nahí arriba conmigo...
+Dialogue: 0,1:23:37.65,1:23:40.14,Bot,,0000,0000,0000,,...estarás más allá\Nde las historias.
+Dialogue: 0,1:23:37.75,1:23:40.24,Top,,0000,0000,0000,,...estarás más allá\Nde las historias.
+Dialogue: 0,1:23:40.18,1:23:42.04,Bot,,0000,0000,0000,,Serás...
+Dialogue: 0,1:23:40.28,1:23:42.14,Top,,0000,0000,0000,,Serás...
+Dialogue: 0,1:23:43.05,1:23:44.45,Bot,,0000,0000,0000,,...inmortal.
+Dialogue: 0,1:23:43.15,1:23:44.55,Top,,0000,0000,0000,,...inmortal.
+Dialogue: 0,1:23:45.04,1:23:46.81,Bot,,0000,0000,0000,,Serás...
+Dialogue: 0,1:23:45.14,1:23:46.91,Top,,0000,0000,0000,,Serás...
+Dialogue: 0,1:23:49.18,1:23:50.61,Bot,,0000,0000,0000,,...infinito.
+Dialogue: 0,1:23:49.28,1:23:50.71,Top,,0000,0000,0000,,...infinito.
+Dialogue: 0,1:23:51.67,1:23:55.17,Bot,,0000,0000,0000,,No, estas equivocado.\NNo infinito.
+Dialogue: 0,1:23:51.77,1:23:55.27,Top,,0000,0000,0000,,No, estas equivocado.\NNo infinito.
+Dialogue: 0,1:23:55.34,1:23:57.50,Bot,,0000,0000,0000,,Todas las historias\Ntienen un final.
+Dialogue: 0,1:23:55.44,1:23:57.60,Top,,0000,0000,0000,,Todas las historias\Ntienen un final.
+Dialogue: 0,1:23:58.13,1:23:59.94,Bot,,0000,0000,0000,,¿Es eso cierto?
+Dialogue: 0,1:23:58.23,1:24:00.05,Top,,0000,0000,0000,,¿Es eso cierto?
+Dialogue: 0,1:24:00.87,1:24:04.25,Bot,,0000,0000,0000,,Y, ¿cómo termina\Nesta historia?
+Dialogue: 0,1:24:00.97,1:24:04.35,Top,,0000,0000,0000,,Y, ¿cómo termina\Nesta historia?
+Dialogue: 0,1:24:06.91,1:24:08.56,Bot,,0000,0000,0000,,Yo te mato.
+Dialogue: 0,1:24:07.01,1:24:08.66,Top,,0000,0000,0000,,Yo te mato.
+Dialogue: 0,1:24:09.95,1:24:13.20,Bot,,0000,0000,0000,,Muy bien. ¿Este es tu deseo?
+Dialogue: 0,1:24:10.05,1:24:13.30,Top,,0000,0000,0000,,Muy bien. ¿Este es tu deseo?
+Dialogue: 0,1:24:13.24,1:24:17.30,Bot,,0000,0000,0000,,¿Batallar con un monstruo\Nhorrible que arruinó tu vida?
+Dialogue: 0,1:24:13.34,1:24:17.40,Top,,0000,0000,0000,,¿Batallar con un monstruo\Nhorrible que arruinó tu vida?
+Dialogue: 0,1:24:17.42,1:24:22.15,Bot,,0000,0000,0000,,¿Para demostrar tu valía?\NAl igual que tu papá condenado.
+Dialogue: 0,1:24:17.52,1:24:22.25,Top,,0000,0000,0000,,¿Para demostrar tu valía?\NAl igual que tu papá condenado.
+Dialogue: 0,1:24:22.66,1:24:24.94,Bot,,0000,0000,0000,,¡Cuán mortal!
+Dialogue: 0,1:24:22.76,1:24:25.04,Top,,0000,0000,0000,,¡Cuán mortal!
+Dialogue: 0,1:25:44.11,1:25:47.28,Bot,,0000,0000,0000,,¿Quieres ser humano?
+Dialogue: 0,1:25:44.21,1:25:47.38,Top,,0000,0000,0000,,¿Quieres ser humano?
+Dialogue: 0,1:25:47.32,1:25:51.41,Bot,,0000,0000,0000,,¡Entonces,\Ncomparte su debilidad!
+Dialogue: 0,1:25:47.42,1:25:51.52,Top,,0000,0000,0000,,¡Entonces,\Ncomparte su debilidad!
+Dialogue: 0,1:25:52.34,1:25:55.97,Bot,,0000,0000,0000,,¡Sufre su humillación!
+Dialogue: 0,1:25:52.44,1:25:56.08,Top,,0000,0000,0000,,¡Sufre su humillación!
+Dialogue: 0,1:25:57.24,1:25:59.65,Bot,,0000,0000,0000,,¡Siente su dolor!
+Dialogue: 0,1:25:57.34,1:25:59.75,Top,,0000,0000,0000,,¡Siente su dolor!
+Dialogue: 0,1:26:43.22,1:26:46.94,Bot,,0000,0000,0000,,Este es el final\Nde tu historia.
+Dialogue: 0,1:26:43.32,1:26:47.04,Top,,0000,0000,0000,,Este es el final\Nde tu historia.
+Dialogue: 0,1:26:47.28,1:26:51.46,Bot,,0000,0000,0000,,Ahora, echa una última\Nmirada con ese ojo solitario.
+Dialogue: 0,1:26:47.38,1:26:51.56,Top,,0000,0000,0000,,Ahora, echa una última\Nmirada con ese ojo solitario.
+Dialogue: 0,1:26:51.96,1:26:59.14,Bot,,0000,0000,0000,,Una última mirada a este\Nhorrible lugar que llamas "hogar".
+Dialogue: 0,1:26:52.06,1:26:59.24,Top,,0000,0000,0000,,Una última mirada a este\Nhorrible lugar que llamas "hogar".
+Dialogue: 0,1:26:59.86,1:27:01.46,Bot,,0000,0000,0000,,No me iré.
+Dialogue: 0,1:26:59.96,1:27:01.56,Top,,0000,0000,0000,,No me iré.
+Dialogue: 0,1:27:02.39,1:27:04.67,Bot,,0000,0000,0000,,Por cada cosa\Nhorrible aquí abajo,
+Dialogue: 0,1:27:02.49,1:27:04.77,Top,,0000,0000,0000,,Por cada cosa\Nhorrible aquí abajo,
+Dialogue: 0,1:27:05.30,1:27:07.29,Bot,,0000,0000,0000,,hay algo mucho más hermoso.
+Dialogue: 0,1:27:05.40,1:27:07.39,Top,,0000,0000,0000,,hay algo mucho más hermoso.
+Dialogue: 0,1:27:07.80,1:27:10.96,Bot,,0000,0000,0000,,Mi mamá lo vio.\NTambién mi papá.
+Dialogue: 0,1:27:07.90,1:27:11.06,Top,,0000,0000,0000,,Mi mamá lo vio.\NTambién mi papá.
+Dialogue: 0,1:27:11.01,1:27:14.00,Bot,,0000,0000,0000,,Yo lo veo, incluso\Ncon un sólo ojo.
+Dialogue: 0,1:27:11.11,1:27:14.11,Top,,0000,0000,0000,,Yo lo veo, incluso\Ncon un sólo ojo.
+Dialogue: 0,1:27:14.17,1:27:17.63,Bot,,0000,0000,0000,,Entonces, voy\Na tener que arrancarlo...
+Dialogue: 0,1:27:14.27,1:27:17.74,Top,,0000,0000,0000,,Entonces, voy\Na tener que arrancarlo...
+Dialogue: 0,1:27:17.67,1:27:20.00,Bot,,0000,0000,0000,,...de tu cabeza de nuevo,\N¿no?
+Dialogue: 0,1:27:17.77,1:27:20.10,Top,,0000,0000,0000,,...de tu cabeza de nuevo,\N¿no?
+Dialogue: 0,1:27:22.83,1:27:25.78,Bot,,0000,0000,0000,,Si deben parpadear,\Nháganlo ahora.
+Dialogue: 0,1:27:22.93,1:27:25.89,Top,,0000,0000,0000,,Si deben parpadear,\Nháganlo ahora.
+Dialogue: 0,1:27:29.67,1:27:31.61,Bot,,0000,0000,0000,,Sé por qué quieres mi ojo.
+Dialogue: 0,1:27:29.77,1:27:31.71,Top,,0000,0000,0000,,Sé por qué quieres mi ojo.
+Dialogue: 0,1:27:32.58,1:27:35.83,Bot,,0000,0000,0000,,Porque sin este, no puedo\Nmirar a los ojos de otro...
+Dialogue: 0,1:27:32.68,1:27:35.93,Top,,0000,0000,0000,,Porque sin este, no puedo\Nmirar a los ojos de otro...
+Dialogue: 0,1:27:35.87,1:27:38.45,Bot,,0000,0000,0000,,...y ver su alma, su amor.
+Dialogue: 0,1:27:35.97,1:27:38.55,Top,,0000,0000,0000,,...y ver su alma, su amor.
+Dialogue: 0,1:27:38.49,1:27:41.15,Bot,,0000,0000,0000,,¡Todo lo que amas se ha ido!
+Dialogue: 0,1:27:38.59,1:27:41.25,Top,,0000,0000,0000,,¡Todo lo que amas se ha ido!
+Dialogue: 0,1:27:41.83,1:27:45.42,Bot,,0000,0000,0000,,Todo lo que conocías, se te\Nha arrebatado.
+Dialogue: 0,1:27:41.93,1:27:45.52,Top,,0000,0000,0000,,Todo lo que conocías, se te\Nha arrebatado.
+Dialogue: 0,1:27:45.59,1:27:48.84,Bot,,0000,0000,0000,,No, está en mis\Nrecuerdos, la más...
+Dialogue: 0,1:27:45.69,1:27:48.94,Top,,0000,0000,0000,,No, está en mis\Nrecuerdos, la más...
+Dialogue: 0,1:27:48.88,1:27:50.91,Bot,,0000,0000,0000,,...poderosa clase\Nde magia que existe.
+Dialogue: 0,1:27:48.98,1:27:51.01,Top,,0000,0000,0000,,...poderosa clase\Nde magia que existe.
+Dialogue: 0,1:28:03.66,1:28:06.61,Bot,,0000,0000,0000,,Nos hace más fuertes de\Nlo que jamás serás.
+Dialogue: 0,1:28:03.76,1:28:06.72,Top,,0000,0000,0000,,Nos hace más fuertes de\Nlo que jamás serás.
+Dialogue: 0,1:28:09.44,1:28:13.33,Bot,,0000,0000,0000,,Estos son los recuerdos de\Nlos que hemos amado y perdido.
+Dialogue: 0,1:28:09.54,1:28:13.43,Top,,0000,0000,0000,,Estos son los recuerdos de\Nlos que hemos amado y perdido.
+Dialogue: 0,1:28:13.88,1:28:17.04,Bot,,0000,0000,0000,,Y si retenemos sus historias en\Nlo profundo de nuestros corazones,
+Dialogue: 0,1:28:13.98,1:28:17.15,Top,,0000,0000,0000,,Y si retenemos sus historias en\Nlo profundo de nuestros corazones,
+Dialogue: 0,1:28:17.68,1:28:20.34,Bot,,0000,0000,0000,,entonces nunca nos las\Narrebatarás.
+Dialogue: 0,1:28:17.78,1:28:20.44,Top,,0000,0000,0000,,entonces nunca nos las\Narrebatarás.
+Dialogue: 0,1:28:33.34,1:28:35.33,Bot,,0000,0000,0000,,Eso es realmente lo de menos.
+Dialogue: 0,1:28:33.44,1:28:35.43,Top,,0000,0000,0000,,Eso es realmente lo de menos.
+Dialogue: 0,1:28:55.21,1:28:56.61,Bot,,0000,0000,0000,,¿Dónde estoy?
+Dialogue: 0,1:28:55.31,1:28:56.71,Top,,0000,0000,0000,,¿Dónde estoy?
+Dialogue: 0,1:28:56.94,1:28:58.97,Bot,,0000,0000,0000,,- Hola abuelo.\N- ¿Qué?
+Dialogue: 0,1:28:57.04,1:28:59.07,Top,,0000,0000,0000,,- Hola abuelo.\N- ¿Qué?
+Dialogue: 0,1:28:59.77,1:29:02.05,Bot,,0000,0000,0000,,Hola. ¿Qué...
+Dialogue: 0,1:28:59.87,1:29:02.16,Top,,0000,0000,0000,,Hola. ¿Qué...
+Dialogue: 0,1:29:03.11,1:29:06.70,Bot,,0000,0000,0000,,- ¿Qué te pasó en el ojo?\N- ¿No te acuerdas?
+Dialogue: 0,1:29:03.21,1:29:06.80,Top,,0000,0000,0000,,- ¿Qué te pasó en el ojo?\N- ¿No te acuerdas?
+Dialogue: 0,1:29:07.58,1:29:11.05,Bot,,0000,0000,0000,,No. Lo siento, jovencito.
+Dialogue: 0,1:29:07.68,1:29:11.15,Top,,0000,0000,0000,,No. Lo siento, jovencito.
+Dialogue: 0,1:29:11.81,1:29:14.26,Bot,,0000,0000,0000,,Parece que he\Nolvidado mi historia.
+Dialogue: 0,1:29:11.91,1:29:14.36,Top,,0000,0000,0000,,Parece que he\Nolvidado mi historia.
+Dialogue: 0,1:29:15.52,1:29:17.42,Bot,,0000,0000,0000,,¿Me puedes ayudar?
+Dialogue: 0,1:29:15.62,1:29:17.53,Top,,0000,0000,0000,,¿Me puedes ayudar?
+Dialogue: 0,1:29:19.49,1:29:22.66,Bot,,0000,0000,0000,,- Te lo diré.\N- No, todos vamos a decirle.
+Dialogue: 0,1:29:19.59,1:29:22.76,Top,,0000,0000,0000,,- Te lo diré.\N- No, todos vamos a decirle.
+Dialogue: 0,1:29:22.79,1:29:25.36,Bot,,0000,0000,0000,,Le diremos todo lo\Nque necesita saber.
+Dialogue: 0,1:29:22.89,1:29:25.46,Top,,0000,0000,0000,,Le diremos todo lo\Nque necesita saber.
+Dialogue: 0,1:29:26.33,1:29:30.26,Bot,,0000,0000,0000,,Eres el hombre\Nmás bueno, más dulce...
+Dialogue: 0,1:29:26.43,1:29:30.36,Top,,0000,0000,0000,,Eres el hombre\Nmás bueno, más dulce...
+Dialogue: 0,1:29:30.60,1:29:32.58,Bot,,0000,0000,0000,,...que jamás viviera\Nen esta aldea.
+Dialogue: 0,1:29:30.70,1:29:32.68,Top,,0000,0000,0000,,...que jamás viviera\Nen esta aldea.
+Dialogue: 0,1:29:33.09,1:29:34.61,Bot,,0000,0000,0000,,- ¿De verdad?\N- Sí.
+Dialogue: 0,1:29:33.19,1:29:34.71,Top,,0000,0000,0000,,- ¿De verdad?\N- Sí.
+Dialogue: 0,1:29:35.54,1:29:38.16,Bot,,0000,0000,0000,,Todos los días caminas por\Nlos alrededores sonriendo...
+Dialogue: 0,1:29:35.64,1:29:38.26,Top,,0000,0000,0000,,Todos los días caminas por\Nlos alrededores sonriendo...
+Dialogue: 0,1:29:38.20,1:29:39.76,Bot,,0000,0000,0000,,...y entregando\Nmonedas a los niños.
+Dialogue: 0,1:29:38.30,1:29:39.86,Top,,0000,0000,0000,,...y entregando\Nmonedas a los niños.
+Dialogue: 0,1:29:40.01,1:29:42.76,Bot,,0000,0000,0000,,- Como yo.\N- Y a las ancianas.
+Dialogue: 0,1:29:40.11,1:29:42.86,Top,,0000,0000,0000,,- Como yo.\N- Y a las ancianas.
+Dialogue: 0,1:29:43.90,1:29:47.06,Bot,,0000,0000,0000,,- Le enseñaste a mis hijos a nadar.\N- ¿Qué?
+Dialogue: 0,1:29:44.00,1:29:47.16,Top,,0000,0000,0000,,- Le enseñaste a mis hijos a nadar.\N- ¿Qué?
+Dialogue: 0,1:29:47.11,1:29:50.06,Bot,,0000,0000,0000,,Y, das mantas a los pobres.
+Dialogue: 0,1:29:47.21,1:29:50.16,Top,,0000,0000,0000,,Y, das mantas a los pobres.
+Dialogue: 0,1:29:50.10,1:29:51.08,Bot,,0000,0000,0000,,Eres un buen hombre.
+Dialogue: 0,1:29:50.20,1:29:51.18,Top,,0000,0000,0000,,Eres un buen hombre.
+Dialogue: 0,1:29:51.12,1:29:52.43,Bot,,0000,0000,0000,,Alimentas a los hambrientos.
+Dialogue: 0,1:29:51.22,1:29:52.53,Top,,0000,0000,0000,,Alimentas a los hambrientos.
+Dialogue: 0,1:29:52.46,1:29:54.07,Bot,,0000,0000,0000,,Siempre echas una mano.
+Dialogue: 0,1:29:52.56,1:29:54.17,Top,,0000,0000,0000,,Siempre echas una mano.
+Dialogue: 0,1:29:54.10,1:29:55.68,Bot,,0000,0000,0000,,Eres un gran ejemplo.
+Dialogue: 0,1:29:54.20,1:29:55.78,Top,,0000,0000,0000,,Eres un gran ejemplo.
+Dialogue: 0,1:29:55.72,1:29:57.62,Bot,,0000,0000,0000,,- Sí.\N- Por supuesto.
+Dialogue: 0,1:29:55.82,1:29:57.72,Top,,0000,0000,0000,,- Sí.\N- Por supuesto.
+Dialogue: 0,1:29:57.75,1:29:59.65,Bot,,0000,0000,0000,,Resulta que soy\Nbastante desinteresado.
+Dialogue: 0,1:29:57.85,1:29:59.75,Top,,0000,0000,0000,,Resulta que soy\Nbastante desinteresado.
+Dialogue: 0,1:29:59.69,1:30:00.96,Bot,,0000,0000,0000,,Es por eso que te queremos.
+Dialogue: 0,1:29:59.79,1:30:01.06,Top,,0000,0000,0000,,Es por eso que te queremos.
+Dialogue: 0,1:30:01.08,1:30:04.67,Bot,,0000,0000,0000,,Sabes, tenemos algo en común.
+Dialogue: 0,1:30:01.18,1:30:04.77,Top,,0000,0000,0000,,Sabes, tenemos algo en común.
+Dialogue: 0,1:30:05.05,1:30:07.71,Bot,,0000,0000,0000,,Ambos adoramos a tu nieto.
+Dialogue: 0,1:30:05.15,1:30:07.81,Top,,0000,0000,0000,,Ambos adoramos a tu nieto.
+Dialogue: 0,1:30:08.77,1:30:11.13,Bot,,0000,0000,0000,,Su nombre es Kubo.
+Dialogue: 0,1:30:08.87,1:30:11.23,Top,,0000,0000,0000,,Su nombre es Kubo.
+Dialogue: 0,1:30:13.41,1:30:14.89,Bot,,0000,0000,0000,,Kubo.
+Dialogue: 0,1:30:13.51,1:30:14.99,Top,,0000,0000,0000,,Kubo.
+Dialogue: 0,1:30:16.45,1:30:19.91,Bot,,0000,0000,0000,,Lo siento, pero...
+Dialogue: 0,1:30:16.55,1:30:20.02,Top,,0000,0000,0000,,Lo siento, pero...
+Dialogue: 0,1:30:20.42,1:30:21.90,Bot,,0000,0000,0000,,Pero no me acuerdo.
+Dialogue: 0,1:30:20.52,1:30:22.00,Top,,0000,0000,0000,,Pero no me acuerdo.
+Dialogue: 0,1:30:22.91,1:30:26.84,Bot,,0000,0000,0000,,Bueno, tu nieto es un\Ncontador de historias.
+Dialogue: 0,1:30:23.01,1:30:26.94,Top,,0000,0000,0000,,Bueno, tu nieto es un\Ncontador de historias.
+Dialogue: 0,1:30:27.68,1:30:30.94,Bot,,0000,0000,0000,,Él te contará todas las\Nhistorias que has olvidado.
+Dialogue: 0,1:30:27.78,1:30:31.04,Top,,0000,0000,0000,,Él te contará todas las\Nhistorias que has olvidado.
+Dialogue: 0,1:30:32.07,1:30:33.09,Bot,,0000,0000,0000,,¿En serio?
+Dialogue: 0,1:30:32.17,1:30:33.19,Top,,0000,0000,0000,,¿En serio?
+Dialogue: 0,1:30:36.63,1:30:37.78,Bot,,0000,0000,0000,,Por supuesto.
+Dialogue: 0,1:30:36.73,1:30:37.88,Top,,0000,0000,0000,,Por supuesto.
+Dialogue: 0,1:31:05.68,1:31:08.77,Bot,,0000,0000,0000,,Hola, mamá, papá.
+Dialogue: 0,1:31:05.78,1:31:08.87,Top,,0000,0000,0000,,Hola, mamá, papá.
+Dialogue: 0,1:31:10.12,1:31:12.36,Bot,,0000,0000,0000,,Sé que mis historias pueden\Ntender a ser un poco...
+Dialogue: 0,1:31:10.22,1:31:12.46,Top,,0000,0000,0000,,Sé que mis historias pueden\Ntender a ser un poco...
+Dialogue: 0,1:31:13.75,1:31:17.97,Bot,,0000,0000,0000,,...largas, así que voy\Na intentar ser breve.
+Dialogue: 0,1:31:13.85,1:31:18.07,Top,,0000,0000,0000,,...largas, así que voy\Na intentar ser breve.
+Dialogue: 0,1:31:18.86,1:31:20.59,Bot,,0000,0000,0000,,Estoy muy agradecido\Nde que haya tenido...
+Dialogue: 0,1:31:18.96,1:31:20.69,Top,,0000,0000,0000,,Estoy muy agradecido\Nde que haya tenido...
+Dialogue: 0,1:31:20.62,1:31:22.32,Bot,,0000,0000,0000,,...la oportunidad de\Nconocerlos a ambos.
+Dialogue: 0,1:31:20.72,1:31:22.42,Top,,0000,0000,0000,,...la oportunidad de\Nconocerlos a ambos.
+Dialogue: 0,1:31:22.79,1:31:26.21,Bot,,0000,0000,0000,,Escuchar su sabiduría,\Nsentir su bondad.
+Dialogue: 0,1:31:22.89,1:31:26.31,Top,,0000,0000,0000,,Escuchar su sabiduría,\Nsentir su bondad.
+Dialogue: 0,1:31:27.09,1:31:29.20,Bot,,0000,0000,0000,,Incluso comer una comida,\Nentre los dos.
+Dialogue: 0,1:31:27.19,1:31:29.30,Top,,0000,0000,0000,,Incluso comer una comida,\Nentre los dos.
+Dialogue: 0,1:31:30.68,1:31:32.41,Bot,,0000,0000,0000,,Esta fue una historia feliz.
+Dialogue: 0,1:31:30.78,1:31:32.51,Top,,0000,0000,0000,,Esta fue una historia feliz.
+Dialogue: 0,1:31:33.38,1:31:37.27,Bot,,0000,0000,0000,,Sin embargo, todavía\Npodría ser mucho más feliz.
+Dialogue: 0,1:31:33.48,1:31:37.37,Top,,0000,0000,0000,,Sin embargo, todavía\Npodría ser mucho más feliz.
+Dialogue: 0,1:31:39.17,1:31:42.00,Bot,,0000,0000,0000,,No sé exactamente cuales...
+Dialogue: 0,1:31:39.27,1:31:42.10,Top,,0000,0000,0000,,No sé exactamente cuales...
+Dialogue: 0,1:31:42.04,1:31:45.04,Bot,,0000,0000,0000,,...son las reglas, o\Ncómo funciona esto.
+Dialogue: 0,1:31:42.14,1:31:45.14,Top,,0000,0000,0000,,...son las reglas, o\Ncómo funciona esto.
+Dialogue: 0,1:31:45.42,1:31:49.18,Bot,,0000,0000,0000,,Pero si hubiera alguna\Nmanera de... Ya saben...
+Dialogue: 0,1:31:45.52,1:31:49.28,Top,,0000,0000,0000,,Pero si hubiera alguna\Nmanera de... Ya saben...
+Dialogue: 0,1:31:50.19,1:31:52.00,Bot,,0000,0000,0000,,Aún me hacen falta.
+Dialogue: 0,1:31:50.29,1:31:52.11,Top,,0000,0000,0000,,Aún me hacen falta.
+Dialogue: 0,1:31:52.93,1:31:55.76,Bot,,0000,0000,0000,,Así podré decir que esto\Nha sido una historia feliz.
+Dialogue: 0,1:31:53.03,1:31:55.86,Top,,0000,0000,0000,,Así podré decir que esto\Nha sido una historia feliz.
+Dialogue: 0,1:31:56.23,1:31:59.73,Bot,,0000,0000,0000,,O que pueda sentirlo,\Nque todos lo sintamos.
+Dialogue: 0,1:31:56.33,1:31:59.83,Top,,0000,0000,0000,,O que pueda sentirlo,\Nque todos lo sintamos.
+Dialogue: 0,1:32:00.83,1:32:02.81,Bot,,0000,0000,0000,,Entonces podríamos\Nterminar esta historia...
+Dialogue: 0,1:32:00.93,1:32:02.91,Top,,0000,0000,0000,,Entonces podríamos\Nterminar esta historia...
+Dialogue: 0,1:32:03.91,1:32:05.05,Bot,,0000,0000,0000,,...juntos.
+Dialogue: 0,1:32:04.01,1:32:05.15,Top,,0000,0000,0000,,...juntos.
+Dialogue: 0,1:32:48.25,1:32:49.30,Bot,,0000,0000,0000,,El fin.
+Dialogue: 0,1:32:48.35,1:32:49.40,Top,,0000,0000,0000,,El fin.
+Dialogue: 0,1:33:00.02,1:34:23.06,Bot,,0000,0000,0000,,Kubo and the Two Strings (2016)\NUna traducción de\NTaMaBin
+Dialogue: 0,1:33:00.12,1:34:23.16,Top,,0000,0000,0000,,Kubo and the Two Strings (2016)\NUna traducción de\NTaMaBin

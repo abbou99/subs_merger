@@ -6,23 +6,71 @@
 package subsmerger;
 
 import java.io.File;
+import java.io.IOException;
 import javax.swing.JFileChooser;
+import javax.swing.filechooser.FileFilter;
 
 /**
  *
  * @author marcos
  */
-public class Window extends javax.swing.JFrame {
+public class View extends javax.swing.JFrame {
 
     /**
      * Creates new form Window
      */
-    static private final String NEW_LINE = "\n";
+    static private final String EOL = "\n";
+    static private final String EXT_SRT = ".srt";
+    static private final String EXT_ASS = ".ass";
     private File srt_1;
     private File srt_2;
+    private File ass;
+    private FileFilter ffSrt;
+    private FileFilter ffAss;
 
-    public Window() {
+    public View() {
         initComponents();
+        initFileFilters();
+        jSpinner1.setValue((Integer) 16);
+        
+    }
+    
+    private void initFileFilters(){
+        //Srt file filter
+        ffSrt = new FileFilter() {
+            @Override
+            public boolean accept(File f) {
+                boolean isSRT = false;
+                if(f.getName().endsWith(EXT_SRT)|| f.isDirectory()){
+                    isSRT = true;
+                }
+                return isSRT;
+            }
+
+            @Override
+            public String getDescription() {
+                return "SRT Files";
+            }
+        };
+        jFileChooser1.addChoosableFileFilter(ffSrt);
+        
+        //Ass file filter
+        ffAss = new FileFilter() {
+            @Override
+            public boolean accept(File f) {
+                boolean isSRT = false;
+                if(f.getName().endsWith(EXT_ASS)|| f.isDirectory()){
+                    isSRT = true;
+                }
+                return isSRT;
+            }
+
+            @Override
+            public String getDescription() {
+                return "ASS Files";
+            }
+        };
+        jFileChooser1.addChoosableFileFilter(ffAss);
     }
 
     /**
@@ -107,28 +155,29 @@ public class Window extends javax.swing.JFrame {
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                        .addComponent(jLabel1)
-                        .addComponent(jLabel2))
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 5, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(jLabel4, javax.swing.GroupLayout.Alignment.TRAILING)
-                            .addComponent(jLabel5, javax.swing.GroupLayout.Alignment.TRAILING))))
-                .addGap(18, 18, 18)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                        .addComponent(jButton2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                        .addComponent(jButton1, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addComponent(jSpinner1)
-                        .addComponent(jComboBox1, 0, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                        .addComponent(jButton4, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE))
-                    .addComponent(jButton5, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jButton3))
-                .addGap(18, 18, 18)
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 210, Short.MAX_VALUE)
-                .addContainerGap())
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
+                    .addComponent(jScrollPane1)
+                    .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
+                        .addComponent(jButton3, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addGroup(layout.createSequentialGroup()
+                            .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                                    .addComponent(jLabel1)
+                                    .addComponent(jLabel2))
+                                .addComponent(jLabel4))
+                            .addGap(18, 18, 18)
+                            .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                                .addComponent(jButton2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                                .addComponent(jButton1, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(jSpinner1))
+                            .addGap(18, 18, 18)
+                            .addComponent(jLabel5)
+                            .addGap(18, 18, 18)
+                            .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                .addComponent(jButton5, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(jButton4, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(jComboBox1, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -144,22 +193,22 @@ public class Window extends javax.swing.JFrame {
                             .addComponent(jButton2)
                             .addComponent(jLabel2))
                         .addGap(18, 18, 18)
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                            .addComponent(jLabel4)
-                            .addComponent(jSpinner1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                        .addGap(18, 18, 18)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(jSpinner1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jLabel4)))
+                    .addGroup(layout.createSequentialGroup()
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                             .addComponent(jComboBox1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                             .addComponent(jLabel5))
                         .addGap(18, 18, 18)
                         .addComponent(jButton4)
                         .addGap(18, 18, 18)
-                        .addComponent(jButton5)
-                        .addGap(18, 18, 18)
-                        .addComponent(jButton3)
-                        .addGap(0, 0, Short.MAX_VALUE))
-                    .addComponent(jScrollPane1))
-                .addContainerGap())
+                        .addComponent(jButton5)))
+                .addGap(18, 18, 18)
+                .addComponent(jButton3)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         pack();
@@ -167,32 +216,51 @@ public class Window extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         if (evt.getSource() == jButton1) {
-            int returnVal = jFileChooser1.showOpenDialog(Window.this);
-
+            jFileChooser1.setFileFilter(ffSrt);
+            int returnVal = jFileChooser1.showOpenDialog(View.this);
             if (returnVal == JFileChooser.APPROVE_OPTION) {
                 srt_1 = jFileChooser1.getSelectedFile();
-                jTextArea1.append("Getting: " + srt_1.getName() + "." + NEW_LINE);
+                jTextArea1.append("Getting: " + srt_1.getName() + "." + EOL);
             } else {
-                jTextArea1.append("Open command cancelled by user." + NEW_LINE);
+                jTextArea1.append("Open command cancelled by user." + EOL);
             }
         }
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-        if (evt.getSource() == jButton1) {
-            int returnVal = jFileChooser1.showOpenDialog(Window.this);
-
+        if (evt.getSource() == jButton2) {
+            jFileChooser1.setFileFilter(ffSrt);
+            int returnVal = jFileChooser1.showOpenDialog(View.this);
             if (returnVal == JFileChooser.APPROVE_OPTION) {
-                srt_1 = jFileChooser1.getSelectedFile();
-                jTextArea1.append("Getting: " + srt_1.getName() + "." + NEW_LINE);
+                srt_2 = jFileChooser1.getSelectedFile();
+                jTextArea1.append("Getting: " + srt_2.getName() + "." + EOL);
             } else {
-                jTextArea1.append("Open command cancelled by user." + NEW_LINE);
+                jTextArea1.append("Open command cancelled by user." + EOL);
             }
         }
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
-        
+        String fileName = srt_1.getName().replace(EXT_SRT, "");
+        fileName = fileName + EXT_ASS;
+        jFileChooser1.setSelectedFile(new File(fileName));
+        if (evt.getSource() == jButton3) {
+            jFileChooser1.setFileFilter(ffAss);
+            int returnVal = jFileChooser1.showSaveDialog(View.this);
+            if (returnVal == JFileChooser.APPROVE_OPTION) {
+                ass = jFileChooser1.getSelectedFile();
+                int sizeFont = (Integer) jSpinner1.getValue();
+                String font = jComboBox1.getSelectedItem().toString();
+                try {
+                    SubsMergerModel.fillMergedFile(srt_1, srt_2, font, sizeFont , ass);
+                    jTextArea1.append("Generate: " + ass.getName() + "." + EOL);
+                } catch (IOException ex) {
+                    jTextArea1.append("Error: " + ass.getName() + " can't be generated" + EOL);
+                }
+            } else {
+                jTextArea1.append("Save command cancelled by user." + EOL);
+            }
+        }
     }//GEN-LAST:event_jButton3ActionPerformed
 
     private void jComboBox1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jComboBox1ActionPerformed
@@ -207,33 +275,34 @@ public class Window extends javax.swing.JFrame {
      * @param args the command line arguments
      */
     public static void main(String args[]) {
-        /* Set the Nimbus look and feel */
+        /* Set the Windows look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
-        /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
+        /* If Windows (introduced in Java SE 6) is not available, stay with the default look and feel.
          * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html
          */
         try {
             for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
-                if ("Nimbus".equals(info.getName())) {
+                if ("Windows".equals(info.getName())) {
                     javax.swing.UIManager.setLookAndFeel(info.getClassName());
                     break;
                 }
             }
         } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(Window.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(View.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (InstantiationException ex) {
-            java.util.logging.Logger.getLogger(Window.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(View.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (IllegalAccessException ex) {
-            java.util.logging.Logger.getLogger(Window.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(View.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(Window.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(View.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
+        //</editor-fold>
         //</editor-fold>
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new Window().setVisible(true);
+                new View().setVisible(true);
             }
         });
     }
