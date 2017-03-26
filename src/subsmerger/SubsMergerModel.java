@@ -5,6 +5,7 @@
  */
 package subsmerger;
 
+import java.awt.Color;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
@@ -35,20 +36,41 @@ public class SubsMergerModel {
         return ret;
     }
     
-    private static String getStyles(String font, int sizeFont){
+    private static String getStyles(String font, int sizeFont, Color cTop, Color cBot){
+        //Get hex value of colour
+        String hexTop = getHexBGR(cTop);
+        String hexBot = getHexBGR(cBot);
+        
         String ret = "Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding" + EOL;
         ret = ret + "Style: Default," + font + "," + sizeFont + ",&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,0" + EOL;
-        ret = ret + "Style: Top," + font + "," + sizeFont + ",&H00F9FFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,0" + EOL;
+        ret = ret + "Style: Top," + font + "," + sizeFont + ",&H00"+hexTop+",&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,0" + EOL;
         ret = ret + "Style: Mid," + font + "," + sizeFont + ",&H0000FFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,10,10,10,0" + EOL;
-        ret = ret + "Style: Bot," + font + "," + sizeFont + ",&H00F9FFF9,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,0";
+        ret = ret + "Style: Bot," + font + "," + sizeFont + ",&H00"+hexBot+",&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,0";
+        
         return ret;
     }
     
-    private static String getAllContent(File fTop, File fBot, String font, int sizeFont) throws IOException{
+    public static String getHexBGR(Color c){
+        String blue = Integer.toHexString(c.getBlue()).toString();
+        String green = Integer.toHexString(c.getGreen()).toString();
+        String red = Integer.toHexString(c.getRed()).toString();
+        if(blue.length() == 1){
+            blue = "0" + blue;
+        }
+        if(green.length() == 1){
+            green = "0" + green;
+        }
+        if(red.length() == 1){
+            red = "0" + red;
+        }
+        return blue + green + red;
+    }
+    
+    private static String getAllContent(File fTop, File fBot, String font, int sizeFont, Color cTop, Color cBot) throws IOException{
         String ret = "[Script Info]" + EOL;
         ret = ret + getScriptInfo() + EOL + EOL;
         ret = ret + "[V4+ Styles]" + EOL;
-        ret = ret + getStyles(font, sizeFont) + EOL + EOL;
+        ret = ret + getStyles(font, sizeFont, cTop, cBot) + EOL + EOL;
         
         ret = ret + "[Events]" + EOL;
         ret = ret + "Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text" + EOL;
@@ -60,12 +82,12 @@ public class SubsMergerModel {
         return ret;
     }
     
-    public static void fillMergedFile(File fTop, File fBot, String font, int sizeFont, File fDest) throws IOException{
+    public static void fillMergedFile(File fTop, File fBot, String font, int sizeFont, Color cTop, Color cBot,File fDest) throws IOException{
         fDest.delete();
         fDest.createNewFile();
         OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream(fDest, true), CODIFICATION);
         
-        String content = getAllContent(fTop, fBot, font, sizeFont);
+        String content = getAllContent(fTop, fBot, font, sizeFont, cTop, cBot);
         writer.append(content);
         writer.close();
     }

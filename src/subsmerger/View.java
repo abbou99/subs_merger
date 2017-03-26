@@ -5,6 +5,7 @@
  */
 package subsmerger;
 
+import java.awt.Color;
 import java.io.File;
 import java.io.IOException;
 import javax.swing.JFileChooser;
@@ -27,11 +28,15 @@ public class View extends javax.swing.JFrame {
     private File ass;
     private FileFilter ffSrt;
     private FileFilter ffAss;
+    private Color cTop;
+    private Color cBot; 
 
     public View() {
         initComponents();
         initFileFilters();
         jSpinner1.setValue((Integer) 16);
+        cTop = Color.yellow;
+        cBot = Color.white;
         
     }
     
@@ -136,6 +141,11 @@ public class View extends javax.swing.JFrame {
         });
 
         jButton5.setText("Bot color");
+        jButton5.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton5ActionPerformed(evt);
+            }
+        });
 
         jLabel1.setText("Top subtitle");
 
@@ -157,26 +167,25 @@ public class View extends javax.swing.JFrame {
                 .addContainerGap()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
                     .addComponent(jScrollPane1)
-                    .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
-                        .addComponent(jButton3, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                        .addGroup(layout.createSequentialGroup()
-                            .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                                    .addComponent(jLabel1)
-                                    .addComponent(jLabel2))
-                                .addComponent(jLabel4))
-                            .addGap(18, 18, 18)
-                            .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                                .addComponent(jButton2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                                .addComponent(jButton1, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addComponent(jSpinner1))
-                            .addGap(18, 18, 18)
-                            .addComponent(jLabel5)
-                            .addGap(18, 18, 18)
-                            .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                .addComponent(jButton5, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addComponent(jButton4, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addComponent(jComboBox1, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                    .addComponent(jButton3, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addGroup(layout.createSequentialGroup()
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                                .addComponent(jLabel1)
+                                .addComponent(jLabel2))
+                            .addComponent(jLabel4))
+                        .addGap(18, 18, 18)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                            .addComponent(jButton2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jButton1, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jSpinner1))
+                        .addGap(18, 18, 18)
+                        .addComponent(jLabel5)
+                        .addGap(18, 18, 18)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(jButton5, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jButton4, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jComboBox1, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE))))
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
@@ -252,8 +261,8 @@ public class View extends javax.swing.JFrame {
                 int sizeFont = (Integer) jSpinner1.getValue();
                 String font = jComboBox1.getSelectedItem().toString();
                 try {
-                    SubsMergerModel.fillMergedFile(srt_1, srt_2, font, sizeFont , ass);
-                    jTextArea1.append("Generate: " + ass.getName() + "." + EOL);
+                    SubsMergerModel.fillMergedFile(srt_1, srt_2, font, sizeFont, cTop, cBot, ass);
+                    jTextArea1.append("Generated: " + ass.getName() + "." + EOL);
                 } catch (IOException ex) {
                     jTextArea1.append("Error: " + ass.getName() + " can't be generated" + EOL);
                 }
@@ -268,8 +277,30 @@ public class View extends javax.swing.JFrame {
     }//GEN-LAST:event_jComboBox1ActionPerformed
 
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
-        
+        if (evt.getSource() == jButton4) {
+            jColorChooser1.setColor(cTop);
+            Color aux = jColorChooser1.showDialog(View.this, "Select top color", Color.yellow);
+            if(aux == null){
+                jTextArea1.append("Select top color canceled by user." + EOL);
+            }else{
+                cTop = aux;
+                jTextArea1.append("Top color selected: " + cTop.getRGB() + EOL);
+            }
+        }
     }//GEN-LAST:event_jButton4ActionPerformed
+
+    private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton5ActionPerformed
+        if (evt.getSource() == jButton5) {
+            jColorChooser1.setColor(cBot);
+            Color aux = jColorChooser1.showDialog(View.this, "Select bot color", Color.white);
+            if(aux == null){
+                jTextArea1.append("Select bot color canceled by user." + EOL);
+            }else{
+                cBot = aux;
+                jTextArea1.append("Bot color selected: " + cBot.getRGB() + EOL);
+            }
+        }
+    }//GEN-LAST:event_jButton5ActionPerformed
 
     /**
      * @param args the command line arguments

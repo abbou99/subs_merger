@@ -1,5 +1,6 @@
 package subsmerger;
 
+import java.awt.Color;
 import java.io.File;
 import org.junit.After;
 import org.junit.AfterClass;
@@ -7,7 +8,6 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import subsmerger.SubsMergerModel;
 
 public class SubsMergerModelTest {
     public String SRC_SRT_1 = "resources\\kubo1.srt";
@@ -38,13 +38,21 @@ public class SubsMergerModelTest {
         System.out.println("fillMergedFile");
         File fTop = new File(SRC_SRT_1);
         File fBot = new File(SRC_SRT_2);
-        System.out.println(fTop.getAbsolutePath());
-        System.out.println(fBot.getAbsolutePath());
         String font = "Arial";
         int sizeFont = 19;
         File fDest = new File(SRC_ASS);
-        SubsMergerModel.fillMergedFile(fTop, fBot, font, sizeFont, fDest);
+        Color cTop = Color.WHITE;
+        Color cBot = Color.YELLOW;
+        SubsMergerModel.fillMergedFile(fTop, fBot, font, sizeFont, cTop, cBot, fDest);
     }
+    
+    @Test
+    public void testGetHexBGR() throws Exception {
+        System.out.println("getHexBGR");
+        Color cTop = Color.black;
+        System.out.println(SubsMergerModel.getHexBGR(cTop));
+    }
+    
     
     
 }
