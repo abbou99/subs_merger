@@ -6,4 +6,4 @@ Marcos Ruiz Garcia <sobrenombre@gmail.com>
 
 ## Downloads
 
-https://github.com/marcosruiz/subs_merger/blob/master/release/subs_merger.jar
+https://github.com/marcosruiz/subs_merger/blob/master/release/
